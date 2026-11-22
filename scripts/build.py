@@ -12,6 +12,7 @@ Each source is isolated: if one API is down, the last good data is kept.
 import datetime as dt
 import json
 import os
+import re
 import sys
 import time
 import urllib.parse
@@ -60,7 +61,8 @@ def get(url):
 
 
 def clean(s):
-    return " ".join((s or "").split()).replace("|", "\\|")
+    s = re.sub(r"<[^>]+>", "", s or "")
+    return " ".join(s.split()).replace("|", "\\|")
 
 
 def first_author(a):
@@ -77,7 +79,7 @@ def europepmc(issn, start, end, n=8):
     out = []
     for r in res:
         title = clean(r.get("title")).rstrip(".")
-        if not title or len(title) < 25:
+        if not title or len(title) < 25 or re.match(r"(?i)(retraction|correction|author correction|erratum|expression of concern|publisher correction)", title):
             continue  # skip corrections, editorials with short titles
         link = f"https://doi.org/{r['doi']}" if r.get("doi") else f"https://europepmc.org/article/{r.get('source', 'MED')}/{r.get('id')}"
         out.append({"date": r.get("firstPublicationDate", ""), "title": title, "link": link,
