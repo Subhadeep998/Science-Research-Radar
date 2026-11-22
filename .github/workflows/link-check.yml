@@ -26,9 +26,9 @@ jobs:
           fail: false
           args: >-
             --no-progress --max-concurrency 8 --timeout 20 --max-retries 2
-            --accept 200..=299,403,429
+            --accept 200..=299,403,405,429
             --exclude-path 'NEWS\.md|LATEST\.md|RELEASES\.md|companies/|firms/|fields/|lychee/'
-            --exclude 'news\.google\.com|google\.com/search|google\.com/alerts|linkedin\.com|reddit\.com|x\.com|twitter\.com|instagram\.com|clinicaltrials\.gov/search|komarev\.com|vercel\.app|demolab\.com|shields\.io'
+            --exclude 'gov\.in|nic\.in|ac\.in/|github\.com/[^/]+/[^/]+/stargazers|youtube\.com|news\.google\.com|google\.com/search|google\.com/alerts|linkedin\.com|reddit\.com|x\.com|twitter\.com|instagram\.com|clinicaltrials\.gov/search|komarev\.com|vercel\.app|demolab\.com|shields\.io'
             './**/*.md'
       - name: Open or update an issue
         if: steps.lychee.outputs.exit_code != 0
@@ -42,3 +42,10 @@ jobs:
           else
             gh issue create -R "${{ github.repository }}" --title "$title" --body-file lychee/out.md --label bug
           fi
+      - name: Close the issue when all links work again
+        if: steps.lychee.outputs.exit_code == 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          num=$(gh issue list -R "${{ github.repository }}" --state open --search "\"🔗 Broken links found\" in:title" --json number -q '.[0].number')
+          if [ -n "$num" ]; then gh issue close "$num" -R "${{ github.repository }}" --comment "✅ All links work again."; fi

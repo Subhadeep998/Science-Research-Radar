@@ -8,4 +8,4 @@ Thank you for helping make this list better!
 4. Check that the link works and is the official source, not a re-upload or mirror.
 5. No affiliate links, link shorteners or self-promotion without substance.
 
-Spotted a broken or outdated link? Please [open an issue](../../issues/new) — that helps just as much.
+Spotted a broken or outdated link? Please [open an issue](https://github.com/Subhadeep998/Science-Research-Radar/issues/new/choose) — that helps just as much.
