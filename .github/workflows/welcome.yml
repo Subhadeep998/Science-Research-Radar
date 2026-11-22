@@ -1,0 +1,26 @@
+name: Welcome first-time contributors
+
+on:
+  issues:
+    types: [opened]
+  pull_request_target:
+    types: [opened]
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      # No checkout: this job never runs code from a contributor's fork.
+      - uses: actions/first-interaction@1c4688942c71f71d4f5502a26ea67c331730fa4d # v3
+        with:
+          issue_message: |
+            👋 Thanks for opening your first issue here! I review every suggestion personally and usually reply within a few days.
+            If this repo helps you, a ⭐ helps others find it too. — Subhadeep
+          pr_message: |
+            🙌 Thanks for your first pull request! I'll review it soon. Please make sure links point to official sources.
+            — Subhadeep

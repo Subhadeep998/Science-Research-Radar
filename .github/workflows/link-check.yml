@@ -1,0 +1,44 @@
+name: Monthly link check
+
+on:
+  schedule:
+    - cron: "37 4 1 * *"   # 10:07 IST on the 1st of every month
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2
+        with:
+          fail: false
+          args: >-
+            --no-progress --max-concurrency 8 --timeout 20 --max-retries 2
+            --accept 200..=299,403,429
+            --exclude-path 'NEWS\.md|LATEST\.md|RELEASES\.md|companies/|firms/|fields/|lychee/'
+            --exclude 'news\.google\.com|google\.com/search|google\.com/alerts|linkedin\.com|reddit\.com|x\.com|twitter\.com|instagram\.com|clinicaltrials\.gov/search|komarev\.com|vercel\.app|demolab\.com|shields\.io'
+            './**/*.md'
+      - name: Open or update an issue
+        if: steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="🔗 Broken links found"
+          num=$(gh issue list -R "${{ github.repository }}" --state open --search "\"$title\" in:title" --json number -q '.[0].number')
+          if [ -n "$num" ]; then
+            gh issue comment "$num" -R "${{ github.repository }}" --body-file lychee/out.md
+          else
+            gh issue create -R "${{ github.repository }}" --title "$title" --body-file lychee/out.md --label bug
+          fi
