@@ -177,6 +177,7 @@ def main():
 
     cache["updated"] = TODAY.isoformat()
     os.makedirs(os.path.join(ROOT, "fields"), exist_ok=True)
+    os.makedirs(os.path.dirname(CACHE), exist_ok=True)
     json.dump(cache, open(CACHE, "w"), indent=1, ensure_ascii=False)
     render(cache)
 
