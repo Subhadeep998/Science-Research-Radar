@@ -20,6 +20,25 @@
   <a href="#-free-research-toolkit">🧰 Free research toolkit</a>
 </p>
 
+<p align="center"><a href="LATEST.md"><img src="assets/live-stats.svg" width="100%" alt="Live dashboard — refreshed every morning"></a></p>
+
+## 🔥 This week in the top journals
+
+<sub>One newly published research article from each flagship journal — refreshed every morning (IST).</sub>
+
+| Journal | Paper | Published |
+|:--|:--|:--|
+| **Nature** | [Calcium catalysed nucleophilic fluorination](https://doi.org/10.1038/s41586-026-11445-z) | 2026-11-19 |
+| **Science** | [A neural code for generative speech production in human Wernicke's area](https://doi.org/10.1126/science.aef8963) | 2026-11-19 |
+| **Cell** | [CD19 CAR T cell therapy alters disease-associated immune signatures in multiple sclerosis](https://doi.org/10.1016/j.cell.2026.10.044) | 2026-11-19 |
+| **The New England Journal of Medicine** | [Assessing Multiple Treatment Regimens for Tuberculosis](https://doi.org/10.1056/nejmoa2611913) | 2026-11-19 |
+| **The Lancet** | [Seasonal mass vaccination with R21/Matrix-M against malaria in The Gambia and Burkina Faso: an open-label, cluster-randomised, controlled trial](https://doi.org/10.1016/s0140-6736(26)01562-x) | 2026-11-19 |
+| **Nature Medicine** | [Expansion and cytotoxicity of mucosal CAR&lt;sup&gt;+&lt;/sup&gt; T cells in enterocolitis associated with BCMA CAR-T cell therapy](https://doi.org/10.1038/s41591-026-04731-w) | 2026-11-19 |
+| **Nature Biotechnology** | [Programmable functional RNA design with a virtual scientist](https://doi.org/10.1038/s41587-026-03362-3) | 2026-11-19 |
+| **PNAS** | [Physicochemical microenvironments within biomolecular condensates govern reaction kinetics beyond mass-action effects](https://doi.org/10.1073/pnas.2611172123) | 2026-11-19 |
+
+<p align="right"><a href="LATEST.md"><b>Full research digest →</b></a></p>
+
 ---
 
 ## 🎯 Why "research only"

@@ -11,6 +11,7 @@ Each source is isolated: if one API is down, the last good data is kept.
 """
 import datetime as dt
 import json
+import html
 import os
 import re
 import sys
@@ -18,6 +19,9 @@ import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import livecard  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, "data", "cache.json")
@@ -61,7 +65,7 @@ def get(url):
 
 
 def clean(s):
-    s = re.sub(r"<[^>]+>", "", s or "")
+    s = re.sub(r"<[^>]+>", "", html.unescape(s or ""))
     return " ".join(s.split()).replace("|", "\\|")
 
 
@@ -217,6 +221,22 @@ def render(cache):
         d += ["", f"[More {title} →](fields/{fid}.md)", ""]
     d += ["---", "<sub>Sources: Europe PMC, arXiv, bioRxiv and medRxiv public APIs. Titles and links only.</sub>", ""]
     open(os.path.join(ROOT, "LATEST.md"), "w", encoding="utf-8").write("\n".join(d))
+
+    # live stats card + README highlights
+    preprints = sum(len(v) for v in cache["fields"].values())
+    journal_n = sum(len(v) for v in cache["journals"].values())
+    livecard.render(os.path.join(ROOT, "assets", "live-stats.svg"),
+                    [(len(FIELDS), "fields covered"), (preprints, "newest preprints listed"),
+                     (journal_n, "journal papers this week"), (len(JOURNALS), "flagship journals")], "#00CCBB")
+    hl = []
+    for label, _ in JOURNALS:
+        rows = cache["journals"].get(label, [])
+        if rows:
+            r = rows[0]
+            hl.append(f"| **{label}** | [{r['title']}]({r['link']}) | {r['date']} |")
+    hl_md = ("| Journal | Paper | Published |\n|:--|:--|:--|\n" + "\n".join(hl)) if hl else "_Highlights appear after the first daily run._"
+    tpl = open(os.path.join(ROOT, "data", "README.template.md"), encoding="utf-8").read()
+    open(os.path.join(ROOT, "README.md"), "w", encoding="utf-8").write(tpl.replace("{{HIGHLIGHTS}}", hl_md))
 
 
 if __name__ == "__main__":
