@@ -27,8 +27,8 @@ jobs:
           args: >-
             --no-progress --max-concurrency 8 --timeout 20 --max-retries 2
             --accept 200..=299,403,405,429
-            --exclude-path 'NEWS\.md|LATEST\.md|RELEASES\.md|companies/|firms/|fields/|lychee/'
-            --exclude 'gov\.in|nic\.in|ac\.in/|github\.com/[^/]+/[^/]+/stargazers|youtube\.com|news\.google\.com|google\.com/search|google\.com/alerts|linkedin\.com|reddit\.com|x\.com|twitter\.com|instagram\.com|clinicaltrials\.gov/search|komarev\.com|vercel\.app|demolab\.com|shields\.io'
+            --exclude-path 'README\.template\.md|NEWS\.md|LATEST\.md|RELEASES\.md|companies/|firms/|fields/|lychee/'
+            --exclude 'gov\.in|fda\.gov|scholar\.google\.com|gemini\.google\.com|nic\.in|ac\.in/|github\.com/[^/]+/[^/]+/stargazers|youtube\.com|news\.google\.com|google\.com/search|google\.com/alerts|linkedin\.com|reddit\.com|x\.com|twitter\.com|instagram\.com|clinicaltrials\.gov/search|komarev\.com|vercel\.app|demolab\.com|shields\.io'
             './**/*.md'
       - name: Open or update an issue
         if: steps.lychee.outputs.exit_code != 0
