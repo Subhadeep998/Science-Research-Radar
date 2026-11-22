@@ -81,7 +81,7 @@ Science news often arrives late, simplified, or exaggerated. This radar links **
 | **Data & code** | [Hugging Face Papers](https://huggingface.co/papers) · [Figshare](https://figshare.com) · [Dryad](https://datadryad.org) · [Kaggle Datasets](https://www.kaggle.com/datasets) |
 | **Check quality** | [Retraction Watch Database](https://retractiondatabase.org) · [PubPeer](https://pubpeer.com) · [DOAJ journal check](https://doaj.org) · [Think. Check. Submit.](https://thinkchecksubmit.org) |
 | **Clinical & health evidence** | [ClinicalTrials.gov](https://clinicaltrials.gov) · [Cochrane Library](https://www.cochranelibrary.com) · [WHO IRIS](https://iris.who.int) |
-| **Follow by alert** | [Google Scholar Alerts](https://scholar.google.com/scholar_alerts?view_op=list_alerts) · [arXiv email lists](https://info.arxiv.org/help/subscribe.html) · [bioRxiv alerts](https://connect.biorxiv.org/alerts/) |
+| **Follow by alert** | [Google Scholar Alerts](https://scholar.google.com/scholar_alerts?view_op=list_alerts) · [arXiv email lists](https://info.arxiv.org/help/subscribe.html) · [bioRxiv alerts & RSS](https://www.biorxiv.org/alertsrss) |
 
 ### How to read a preprint critically
 1. **Who and where?** Check the authors' track record and institution.
