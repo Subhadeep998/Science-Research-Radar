@@ -7,15 +7,15 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-20 | [Budgeted Subset Selection with a Transferable Learned Value Model](https://arxiv.org/abs/2611.27751v1) | Jade Lejeune Herman et al. |
-| 2026-11-20 | [RoSci: Exploring Robustness in Science VLMs](https://arxiv.org/abs/2611.27750v1) | Junying Wang et al. |
-| 2026-11-20 | [Shared Understanding in Human-AI Teams: Coordination Continuity in Evolving Work](https://arxiv.org/abs/2611.27746v1) | Siân Lindley et al. |
-| 2026-11-20 | [Can Vision-Language Models Synthesize Executable Game-Playing Programs?](https://arxiv.org/abs/2611.27741v1) | Yao Tong et al. |
-| 2026-11-20 | [Average-Depth Variable Execution via Request-Local Token Routing](https://arxiv.org/abs/2611.27738v1) | Pengjie Zheng et al. |
-| 2026-11-20 | [AutoOntologyBench: A Task-Grounded Benchmark for Agentic Knowledge Engineering](https://arxiv.org/abs/2611.27734v1) | Minye Shao et al. |
-| 2026-11-20 | [Quantitative Measurement of Pavement Distress based on Vehicle Camera and Perspective Correction](https://arxiv.org/abs/2611.27728v1) | Sike Wang et al. |
-| 2026-11-20 | [A Switching Mechanism for Selecting Environment-Adaptive Personalized Gains in Hearing Aids](https://arxiv.org/abs/2611.27726v1) | Nafisa Zarrin Tasnim et al. |
-| 2026-11-20 | [Beyond Math, Code, and Logic: Do Reasoning Models Transfer to Scientific Argumentation?](https://arxiv.org/abs/2611.27722v1) | Buse Sibel Korkmaz et al. |
-| 2026-11-20 | [Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders](https://arxiv.org/abs/2611.27721v1) | Alessandro Piccolo et al. |
-| 2026-11-20 | [Solving the pre-image problem in kernel PCA: The reproducing property is all you need](https://arxiv.org/abs/2611.27718v1) | Joel-Pascal Ntwali N'konzi et al. |
-| 2026-11-20 | [Recoverable Symbols, Unstable Execution: Auditing Internal Pathways and Decision Identity in Visual State Tracking](https://arxiv.org/abs/2611.27715v1) | Ruiqi Liu et al. |
+| 2026-11-20 | [Optimal Linear Regression Without a Variance](https://arxiv.org/abs/2611.27983v1) | Artin Tajdini et al. |
+| 2026-11-20 | [A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning](https://arxiv.org/abs/2611.27978v1) | Hari Sitaula et al. |
+| 2026-11-20 | [MemOnce: A Scalable Memory Architecture for Large Language Models](https://arxiv.org/abs/2611.27973v1) | Chang Nie et al. |
+| 2026-11-20 | [On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals](https://arxiv.org/abs/2611.27970v1) | Javier Sanchis et al. |
+| 2026-11-20 | [Non-penetrating World Models](https://arxiv.org/abs/2611.27963v1) | Yuhang Dai et al. |
+| 2026-11-20 | [Model Carving: Training Transformers That Optimize Their Own Topology](https://arxiv.org/abs/2611.27962v1) | Kaden Zheng et al. |
+| 2026-11-20 | [Ranking-Preserving Coreset Selection for Efficient Evolutionary Hyperparameter Optimization](https://arxiv.org/abs/2611.27959v1) | Mamoona Tasadduq et al. |
+| 2026-11-20 | [Topology Hub Optimal Transport: Eliminating Long Context Dilution at Flash Speed](https://arxiv.org/abs/2611.27951v1) | Dylan Forde |
+| 2026-11-20 | [The Optimal Sample Complexity of Agnostic PAC Learning for Partial Concept Classes](https://arxiv.org/abs/2611.27946v1) | Liang-Yu Zou |
+| 2026-11-20 | [BioEmu2: Scalable Emulation of Biomolecular Dynamics](https://arxiv.org/abs/2611.27924v1) | Michael Gastegger et al. |
+| 2026-11-20 | [SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement](https://arxiv.org/abs/2611.27919v1) | Huaze Tang et al. |
+| 2026-11-20 | [StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning](https://arxiv.org/abs/2611.27915v1) | Chi Yan et al. |

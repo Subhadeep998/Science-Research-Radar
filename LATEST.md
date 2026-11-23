@@ -25,28 +25,28 @@
 
 ## 🤖 AI & Computing
 
-- 2026-11-20 · [Budgeted Subset Selection with a Transferable Learned Value Model](https://arxiv.org/abs/2611.27751v1)
-- 2026-11-20 · [RoSci: Exploring Robustness in Science VLMs](https://arxiv.org/abs/2611.27750v1)
-- 2026-11-20 · [Shared Understanding in Human-AI Teams: Coordination Continuity in Evolving Work](https://arxiv.org/abs/2611.27746v1)
-- 2026-11-20 · [Can Vision-Language Models Synthesize Executable Game-Playing Programs?](https://arxiv.org/abs/2611.27741v1)
+- 2026-11-20 · [Optimal Linear Regression Without a Variance](https://arxiv.org/abs/2611.27983v1)
+- 2026-11-20 · [A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning](https://arxiv.org/abs/2611.27978v1)
+- 2026-11-20 · [MemOnce: A Scalable Memory Architecture for Large Language Models](https://arxiv.org/abs/2611.27973v1)
+- 2026-11-20 · [On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals](https://arxiv.org/abs/2611.27970v1)
 
 [More AI & Computing →](fields/ai-computing.md)
 
 ## 🦾 Robotics
 
-- 2026-11-20 · [Embodied-Harness: Towards Recursive Self-Improvement for Robotic Manipulation](https://arxiv.org/abs/2611.27689v1)
-- 2026-11-20 · [Trust What Repeats: Capped World-Model Policy Gradients for Humanoid Motion Tracking](https://arxiv.org/abs/2611.27648v1)
-- 2026-11-20 · [SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning](https://arxiv.org/abs/2611.27639v1)
-- 2026-11-20 · [Seeing Is Not Steering: Where Verifiable Reasoning Can Enter an End-to-End Driving Planner](https://arxiv.org/abs/2611.27638v1)
+- 2026-11-20 · [Task2Hand: A Contact-Grounded Skill for Parametric Dexterous-Hand Morphology Design](https://arxiv.org/abs/2611.27967v1)
+- 2026-11-20 · [Real-time neuromorphic audio and vision perception for autonomous robotic applications: Integration and experimental evaluation on a rover platform](https://arxiv.org/abs/2611.27953v1)
+- 2026-11-20 · [What Must a Model Tell a Planner? Outcome Interfaces for Risk-Aware Planning After Robot Damage](https://arxiv.org/abs/2611.27939v1)
+- 2026-11-20 · [Interactive Semi-Parametric On-Track Learning for Vehicle Dynamics in Autonomous Racing](https://arxiv.org/abs/2611.27932v1)
 
 [More Robotics →](fields/robotics.md)
 
 ## ⚛️ Physics
 
-- 2026-11-20 · [Disrupted stars and captured compact objects: Combining observations from multiple messengers to infer the population of massive black holes](https://arxiv.org/abs/2611.27742v1)
-- 2026-11-20 · [Bulk Wilson Loops from $\mathscr{I}$](https://arxiv.org/abs/2611.27739v1)
-- 2026-11-20 · [Challenging the Körner-Pati-Woo Theorem in Charmed Baryon Decays](https://arxiv.org/abs/2611.27716v1)
-- 2026-11-20 · [Quark dipole operators in the gradient-flow scheme at NNLO QCD](https://arxiv.org/abs/2611.27708v1)
+- 2026-11-20 · [Ohmic warm inflation](https://arxiv.org/abs/2611.27986v1)
+- 2026-11-20 · [Is Neutrino Disappearance Sensitive to T-Violation for Asymmetric Matter Profiles ?](https://arxiv.org/abs/2611.27985v1)
+- 2026-11-20 · [Quantum Many-Body Scars from Operator Size](https://arxiv.org/abs/2611.27982v1)
+- 2026-11-20 · [Soft--hard Bayesian inference in heavy-ion collisions](https://arxiv.org/abs/2611.27971v1)
 
 [More Physics →](fields/physics.md)
 
@@ -136,7 +136,7 @@
 - 2026-11-22 · [Xist deletion in T cells protects against influenza-induced lung injury](https://www.biorxiv.org/content/10.64898/2026.11.20.768059v1)
 - 2026-11-22 · [Variation of anti-oomycete activity in Pseudomonas spp.: phenotypic characterization and comparative genomics](https://www.biorxiv.org/content/10.64898/2026.04.24.720349v3)
 - 2026-11-22 · [Decoding the molecular cues regulating the transition of Influenza virus polymerase from transcriptase to replicase.](https://www.biorxiv.org/content/10.64898/2026.11.05.764532v2)
-- 2026-11-21 · [IL-15 superagonist induces robust STAT5 phosphorylation to support the differentiation and survival of tumor-relevant memory precursor effector-like CD8 T cells, enhancing long-term antitumor protection](https://www.biorxiv.org/content/10.1101/2025.08.12.669959v3)
+- 2026-11-22 · [Single-nucleus proteomics reveals proteins regulating LPS-induced nucleocytoplasmic transport in macrophages](https://www.biorxiv.org/content/10.1101/2024.06.17.599449v2)
 
 [More Microbiology & Immunology →](fields/microbes-immunity.md)
 
@@ -152,9 +152,9 @@
 ## 🛠️ Synthetic Biology & Bioengineering
 
 - 2026-11-22 · [Reproducing squat kinematics after total knee replacement with bi-level inverse optimal control](https://www.biorxiv.org/content/10.64898/2026.06.11.731549v2)
+- 2026-11-22 · [Enhancing the Efficacy of Oncolytic Viruses by Engineering Virus Host Interactions Using CRISPR Cas13d](https://www.biorxiv.org/content/10.64898/2026.11.20.768134v1)
 - 2026-11-21 · [Interspecies differences in lamina cribrosa fiber composition and architecture might arise from differences in optic nerve head size and mechanical constraints](https://www.biorxiv.org/content/10.64898/2026.11.18.767671v1)
 - 2026-11-20 · [A deep-learning predictive model for Cas12a activity in wheat](https://www.biorxiv.org/content/10.64898/2026.11.18.767513v1)
-- 2026-11-20 · [Affibody-conjugated hyaluronic acid hydrogels within collagen sponges enhance dose-dependent BMP-2-mediated bone formation and repair of critically sized femoral defects](https://www.biorxiv.org/content/10.64898/2026.11.19.767909v1)
 
 [More Synthetic Biology & Bioengineering →](fields/synbio-bioeng.md)
 
@@ -162,8 +162,8 @@
 
 - 2026-11-22 · [Relationships between the isotopic signatures of dissolved inorganic carbon and environmental variability in Northern Ireland coastal waters](https://www.biorxiv.org/content/10.64898/2026.11.17.767286v2)
 - 2026-11-22 · [Genomic Epidemiology of Dengue Virus in Ivory Coast Reveals Five Decades of Viral Circulation with Repeated Introductions from Burkina Faso](https://www.biorxiv.org/content/10.64898/2026.11.18.767690v1)
-- 2026-11-21 · [Revisiting Hydractiniidae (Hydrozoa): Mitogenomic Insights into the Diversity, Systematics and Life-Cycle Evolution of North Atlantic and Arctic Species](https://www.biorxiv.org/content/10.64898/2026.10.09.757902v2)
-- 2026-11-20 · [Effects of different shading levels on growth, physiology and leaf surface micromorphology of Sorbus sibirica "Dong Hong" seedlings](https://www.biorxiv.org/content/10.64898/2026.07.25.740310v3)
+- 2026-11-22 · [Differences in nodulation among rhizobia strains can obscure plant benefits per nodule in single-strain experiments](https://www.biorxiv.org/content/10.64898/2026.11.16.767161v1)
+- 2026-11-22 · [Phenotypic, ecological and genomic divergence support independent evolutionary trajectories in the Meganesian masked owls (Tyto novaehollandiae)](https://www.biorxiv.org/content/10.64898/2026.11.20.767495v1)
 
 [More Ecology & Evolution →](fields/ecology-evolution.md)
 

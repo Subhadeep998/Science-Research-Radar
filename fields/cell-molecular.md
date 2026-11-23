@@ -14,8 +14,8 @@
 | 2026-11-22 | [Myhre syndrome variants form long-lived SMAD heterotrimers through a rewired polar interface at the variant site](https://www.biorxiv.org/content/10.64898/2026.11.20.768049v1) | Torner, C. et al. |
 | 2026-11-22 | [Inactive X chromosome DNA methylation erosion with age in human dermal fibroblasts](https://www.biorxiv.org/content/10.64898/2026.11.19.767824v2) | Ijaz, J. et al. |
 | 2026-11-22 | [Degron-Informed Design of DCAF10 Recruiter for Targeted Protein Degradation](https://www.biorxiv.org/content/10.64898/2026.11.20.767674v1) | Zhou, C. et al. |
+| 2026-11-22 | [Heat shock alters the distribution and interaction of major nuclear proteins:Lamin B with DNA topoisomerase II and chromatin.](https://www.biorxiv.org/content/10.1101/2024.02.28.582469v4) | Rowinska, M. et al. |
+| 2026-11-22 | [Persistence length of short homopolymeric single-stranded DNA sequences in polyvalent cations](https://www.biorxiv.org/content/10.64898/2026.08.02.742318v2) | Mondal, B. et al. |
+| 2026-11-22 | [Disambiguating glutamatergic and cholinergic signaling under ketamine in C. elegans](https://www.biorxiv.org/content/10.1101/2025.08.02.667727v2) | Karakullukcu, B. et al. |
 | 2026-11-21 | [Super-resolved mass photometry reveals the dissociation pathways of individual protein complexes](https://www.biorxiv.org/content/10.64898/2026.11.14.766467v2) | O'Shea, A. R. et al. |
 | 2026-11-21 | [Nuclear quantum effects on ion permeation through the open transient receptor potential melastatin 7 pore: A continuum-electrostatics estimate](https://www.biorxiv.org/content/10.64898/2026.11.18.767574v1) | Li, Y. et al. |
-| 2026-11-21 | [Beta-Myosin inhibition in skeletal muscle: Impact of Mavacamten on the diaphragm](https://www.biorxiv.org/content/10.64898/2026.11.17.767324v1) | Sarfraz, A. et al. |
-| 2026-11-21 | [Training background shapes the exercise-induced extracellular vesicle proteome to acute exercise with partial overlap with cold exposure in humans](https://www.biorxiv.org/content/10.64898/2026.11.19.767541v1) | Tischer, D. et al. |
-| 2026-11-20 | [Identification of SAMD4B as a Centrosome-Associated Regulator of the Sonic Hedgehog Signaling Pathway](https://www.biorxiv.org/content/10.64898/2026.11.19.767524v1) | Bernatik, O. et al. |

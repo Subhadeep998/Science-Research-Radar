@@ -69,8 +69,8 @@
 | 2026-11-19 | [Expansion and cytotoxicity of mucosal CAR+ T cells in enterocolitis associated with BCMA CAR-T cell therapy](https://doi.org/10.1038/s41591-026-04731-w) | Sainz TP et al. |
 | 2026-11-19 | [Multicenter characterization of enterocolitis associated with BCMA-directed CAR T cell therapy](https://doi.org/10.1038/s41591-026-04783-y) | Mikkilineni L et al. |
 | 2026-11-17 | [Generational gains in cognitive capacity and dementia incidence rates in Western countries](https://doi.org/10.1038/s41591-026-04759-y) | Fjell AM et al. |
-| 2026-11-16 | [Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure](https://doi.org/10.1038/s41591-026-04798-5) | Inker LA et al. |
 | 2026-11-16 | [An open agentic AI co-scientist for clinical and biomedical discovery](https://doi.org/10.1038/s41591-026-04808-6) | Roberts KF et al. |
+| 2026-11-16 | [Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure](https://doi.org/10.1038/s41591-026-04798-5) | Inker LA et al. |
 
 ## Nature Biotechnology
 
