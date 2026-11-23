@@ -1,21 +1,21 @@
 # ⚛️ Physics
 
-> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-22
+> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-23
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-19 | [Entropy Products and the Extremal Limit That Never Comes](https://arxiv.org/abs/2611.26628v1) | Kevin Goldstein et al. |
-| 2026-11-19 | [Little Red Dots from Primordial Vacuum Bubbles](https://arxiv.org/abs/2611.26620v1) | Miguel Barroso Varela et al. |
-| 2026-11-19 | [Field theory and the biquadratic spin-1 chain](https://arxiv.org/abs/2611.26610v1) | Luisa Eck et al. |
-| 2026-11-19 | [Equivariant iterated Eisenstein integrals for congruence subgroups of level 2](https://arxiv.org/abs/2611.26597v1) | Emiel Claasen et al. |
-| 2026-11-19 | [UV Bounds on Inflationary Parity Violation](https://arxiv.org/abs/2611.26594v1) | Alexander Cassem et al. |
-| 2026-11-19 | [Which black hole modes ring freely? Horizon regularity, the forced ringdown transient, and GW250114](https://arxiv.org/abs/2611.26591v1) | Jahed Abedi et al. |
-| 2026-11-19 | [Relativistic Kinetic Theory of Collisionless Particles with Variable Mass and Frame Transformations](https://arxiv.org/abs/2611.26585v1) | Adrián Casado-Turrión et al. |
-| 2026-11-19 | [Modeling the gravitational wave spectrum from slowly-evolving sources in the early Universe: constant-in-time and coherent-decay models](https://arxiv.org/abs/2611.26576v1) | Antonino S. Midiri et al. |
-| 2026-11-19 | [Superluminal propagation in the magnetic NED reconstruction of the extremal Dymnikova black hole](https://arxiv.org/abs/2611.26560v1) | J. M. Romero |
-| 2026-11-19 | [u3lib: An AI-Ready Computational Framework for U(3) Symmetry Algebra, Wigner Coupling, and Racah Recoupling Coefficients](https://arxiv.org/abs/2611.26558v1) | Daniel Langr et al. |
-| 2026-11-19 | [Twisting Spinning Particles with Superghost Backgrounds](https://arxiv.org/abs/2611.26554v1) | Erik Fink et al. |
-| 2026-11-19 | [Refractive Neutrino Mass: Effects of Fluctuations of the Dark Matter Field](https://arxiv.org/abs/2611.26549v1) | Soham Sahasrabuddhe et al. |
+| 2026-11-20 | [Disrupted stars and captured compact objects: Combining observations from multiple messengers to infer the population of massive black holes](https://arxiv.org/abs/2611.27742v1) | Shashwat Singh et al. |
+| 2026-11-20 | [Bulk Wilson Loops from $\mathscr{I}$](https://arxiv.org/abs/2611.27739v1) | James Drummond et al. |
+| 2026-11-20 | [Challenging the Körner-Pati-Woo Theorem in Charmed Baryon Decays](https://arxiv.org/abs/2611.27716v1) | Di Wang et al. |
+| 2026-11-20 | [Quark dipole operators in the gradient-flow scheme at NNLO QCD](https://arxiv.org/abs/2611.27708v1) | Janosch Borgulat et al. |
+| 2026-11-20 | [A pseudoscalar Higgs boson interfering with toponium: a QCD analysis of $\mathbf{gg\to A\to t\bar t}$ near threshold](https://arxiv.org/abs/2611.27704v1) | Abdelhak Djouadi et al. |
+| 2026-11-20 | [Zeroing in on BSM at Colliders](https://arxiv.org/abs/2611.27681v1) | Cari Cesarotti et al. |
+| 2026-11-20 | [Nuclear Precision and Multimessenger Constraints on Neutron-Star Structure](https://arxiv.org/abs/2611.27669v1) | Hisham Anwer et al. |
+| 2026-11-20 | [Coronagraphic time-delay interferometry: fundamental steps towards concrete applications](https://arxiv.org/abs/2611.27651v1) | Raissa Costa Barroso et al. |
+| 2026-11-20 | [Nuclear Urca cooling in magnetar crust and anomalous heating](https://arxiv.org/abs/2611.27628v1) | LInjing Qi et al. |
+| 2026-11-20 | [Analysis of the triply-charm tetraquark states via the QCD sum rules](https://arxiv.org/abs/2611.27612v1) | Zhi-Gang Wang |
+| 2026-11-20 | [Cosmological Correlators with Triple Massive Exchanges](https://arxiv.org/abs/2611.27611v1) | Shuntaro Aoki et al. |
+| 2026-11-20 | [Effective theory of quantum black holes with Kretschmann scalar](https://arxiv.org/abs/2611.27608v1) | G. I. B. Darman et al. |

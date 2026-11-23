@@ -1,21 +1,21 @@
 # ➗ Mathematics
 
-> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-22
+> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-23
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-19 | [Quasipolynomial pyjamas](https://arxiv.org/abs/2611.26622v1) | Sida Li |
-| 2026-11-19 | [Additive Fréchet Regression for Random Objects](https://arxiv.org/abs/2611.26614v1) | Changwon Choi et al. |
-| 2026-11-19 | [Equivariant iterated Eisenstein integrals for congruence subgroups of level 2](https://arxiv.org/abs/2611.26597v1) | Emiel Claasen et al. |
-| 2026-11-19 | [Existence and Uniqueness of Mild Solutions to Rough Stochastic Partial Differential Equations driven by Fractional Brownian Motion with Hurst Index $H > 1/4$](https://arxiv.org/abs/2611.26580v1) | Maksim Vaskouski et al. |
-| 2026-11-19 | [Trimmed Branching Brownian Motion with Discontinuous Drift](https://arxiv.org/abs/2611.26579v1) | Rami Atar et al. |
-| 2026-11-19 | [On Romik's rationality conjectures for critical percolation](https://arxiv.org/abs/2611.26570v1) | Melda Akyazi-Zavadski et al. |
-| 2026-11-19 | [Edge cuts of bounded degree in sparse graphs](https://arxiv.org/abs/2611.26556v1) | Anna Neopryatnaya et al. |
-| 2026-11-19 | [Multiplicative Sidon basis](https://arxiv.org/abs/2611.26555v1) | Sándor Z. Kiss et al. |
-| 2026-11-19 | [Pathwise uniqueness for the stochastic heat equation with a $3/4$-Hölder diffusion coefficient](https://arxiv.org/abs/2611.26544v1) | Pei-Sen Li et al. |
-| 2026-11-19 | [Large $k$-cross-free families](https://arxiv.org/abs/2611.26539v1) | Jack H. Koolen et al. |
-| 2026-11-19 | [Anytime-valid inference for time series via self-normalization](https://arxiv.org/abs/2611.26536v1) | Tim Kutta et al. |
-| 2026-11-19 | [Simple Private Noisy SGD is Minimax-Optimal under Population Strong Convexity](https://arxiv.org/abs/2611.26515v1) | Valentin Roth et al. |
+| 2026-11-20 | [Hölder continuity of meromorphic functions and equisingularity](https://arxiv.org/abs/2611.27974v1) | François Bernard et al. |
+| 2026-11-20 | [Convergence of a finite element Chorin projection method for the stochastic Navier--Stokes equations](https://arxiv.org/abs/2611.27969v1) | Franziska Weber |
+| 2026-11-20 | [Recognizing $k$-inducible Digraphs is NP-complete](https://arxiv.org/abs/2611.27965v1) | Felix Brandt et al. |
+| 2026-11-20 | [Differential Transmutations and First-Passage Expansions for Monomial Brownian Boundaries](https://arxiv.org/abs/2611.27958v1) | Gerardo Hernandez-del-Valle |
+| 2026-11-20 | [Minkowski Correlation Functions (MCF): Long-range, robust shape descriptors for point patterns](https://arxiv.org/abs/2611.27948v1) | Dominik Pabst et al. |
+| 2026-11-20 | [Intervals of limit points for $B_α$-spectral radii](https://arxiv.org/abs/2611.27937v1) | Francesco Belardo et al. |
+| 2026-11-20 | [Star Triangulations](https://arxiv.org/abs/2611.27936v1) | Dimitris Bogiokas et al. |
+| 2026-11-20 | [Ehrhard-Type inequalities for radial measures](https://arxiv.org/abs/2611.27935v1) | Tomasz Byczkowski et al. |
+| 2026-11-20 | [The Power of Sampling for Finding Far-Apart Bases in Matroids](https://arxiv.org/abs/2611.27934v1) | Mayank Goswami et al. |
+| 2026-11-20 | [Optimal High-Dimensional Martingale CLTs over Rectangles](https://arxiv.org/abs/2611.27929v1) | Zi-Yao Su et al. |
+| 2026-11-20 | [A quasi-tree expansion of the Homfly polynomial](https://arxiv.org/abs/2611.27926v1) | Tamás Kálmán et al. |
+| 2026-11-20 | [The moments and asymptotic spectral distribution of the Grassmannian ensemble](https://arxiv.org/abs/2611.27914v1) | Aryan Gadhave et al. |

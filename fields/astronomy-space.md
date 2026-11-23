@@ -1,21 +1,21 @@
 # 🔭 Astronomy & Space
 
-> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-22
+> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-23
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-19 | [Little Red Dots from Primordial Vacuum Bubbles](https://arxiv.org/abs/2611.26620v1) | Miguel Barroso Varela et al. |
-| 2026-11-19 | [Every galaxy is a radio source: a stellar-mass dependent minimum 150 MHz luminosity identified in the LoTSS Deep Fields](https://arxiv.org/abs/2611.26618v1) | Shravya Shenoy et al. |
-| 2026-11-19 | [UV Bounds on Inflationary Parity Violation](https://arxiv.org/abs/2611.26594v1) | Alexander Cassem et al. |
-| 2026-11-19 | [Star-forming disc galaxies align tangentially with the cosmic tidal field](https://arxiv.org/abs/2611.26593v1) | Calum Murray et al. |
-| 2026-11-19 | [Which black hole modes ring freely? Horizon regularity, the forced ringdown transient, and GW250114](https://arxiv.org/abs/2611.26591v1) | Jahed Abedi et al. |
-| 2026-11-19 | [Modeling the gravitational wave spectrum from slowly-evolving sources in the early Universe: constant-in-time and coherent-decay models](https://arxiv.org/abs/2611.26576v1) | Antonino S. Midiri et al. |
-| 2026-11-19 | [Chemical Cartography Across Time: The Age-Dependent Chemical Structure of the Milky Way with a Homogeneous Sample of 580,000 Giants from Five Surveys](https://arxiv.org/abs/2611.26550v1) | Jeff Shen et al. |
-| 2026-11-19 | [Demographic inference in exoplanet chemistry is shaped by retrieval assumptions](https://arxiv.org/abs/2611.26548v1) | Dwaipayan Dubey et al. |
-| 2026-11-19 | [Nonlinearly Causal General-Relativistic Superfluid Hydrodynamics: Simulating Vortex Dynamics in Neutron-Star Interiors](https://arxiv.org/abs/2611.26547v1) | Yuan Feng et al. |
-| 2026-11-19 | [Self-gravity depletes superradiant clouds](https://arxiv.org/abs/2611.26541v1) | Mateja Bošković et al. |
-| 2026-11-19 | [Outflow Properties from a Broad Range of GR$ν$RMHD Stellar-Mass Black Hole Accretion Disks](https://arxiv.org/abs/2611.26534v1) | Marko Ristić et al. |
-| 2026-11-19 | [Inhomogeneous Cutoff Regularization of Loops in Cosmological Correlators](https://arxiv.org/abs/2611.26495v1) | Jacopo Fumagalli et al. |
+| 2026-11-20 | [Ohmic warm inflation](https://arxiv.org/abs/2611.27986v1) | Anish Ghoshal et al. |
+| 2026-11-20 | [Nearly pristine gas and hard ionizing radiation one billion years after the Big Bang](https://arxiv.org/abs/2611.27979v1) | Takahiro Morishita et al. |
+| 2026-11-20 | [Recovering buoyancy-glitch parameters in low-luminosity red giants from global stellar properties with machine learning](https://arxiv.org/abs/2611.27954v1) | Jiang Chen |
+| 2026-11-20 | [Atmospheric parameters and chemical abundances of young stars with APOGEE -- II. Carbon, Nitrogen, Oxygen, and Sulphur abundances in Orion](https://arxiv.org/abs/2611.27952v1) | Ricardo López-Valdivia et al. |
+| 2026-11-20 | [An early interaction between the Sagittarius dwarf and the Milky Way I: Fossil signatures in the phase-space structure of the disc](https://arxiv.org/abs/2611.27898v1) | Payel Das et al. |
+| 2026-11-20 | [A TESS Search for Optical Variability in Intermediate-mass Black Hole Candidates](https://arxiv.org/abs/2611.27890v1) | Jinghuai Yao et al. |
+| 2026-11-20 | [Hotter than Little Red Dots: Two Quasars with $T\sim10^4\,\mathrm{K}$ blackbody-like continua at $z\sim4$](https://arxiv.org/abs/2611.27856v1) | Kristiphong Boonmee et al. |
+| 2026-11-20 | [Diffusing the assumptions: towards realistic LISA stochastic component separation with physics-aware simulation-based inference](https://arxiv.org/abs/2611.27848v1) | Iuliu Cuceu et al. |
+| 2026-11-20 | [Carving the Neptunian desert as a function of stellar mass and lifetime XUV irradiation](https://arxiv.org/abs/2611.27836v1) | George W. King et al. |
+| 2026-11-20 | [What determines the properties of Population III binaries?](https://arxiv.org/abs/2611.27820v1) | Neha Singh et al. |
+| 2026-11-20 | [Precise Interstellar Extinction Estimates for Nearly Ten Million Stars Based on Multiple Spectroscopic Surveys](https://arxiv.org/abs/2611.27773v1) | Bao-Kun Sun et al. |
+| 2026-11-20 | [2026 QQ8: Earth's temporary flyby of maximum lunation](https://arxiv.org/abs/2611.27770v1) | Grigori Fedorets et al. |

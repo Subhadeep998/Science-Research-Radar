@@ -1,12 +1,14 @@
 # 🌿 Ecology & Evolution
 
-> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-22
+> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-23
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
+| 2026-11-22 | [Relationships between the isotopic signatures of dissolved inorganic carbon and environmental variability in Northern Ireland coastal waters](https://www.biorxiv.org/content/10.64898/2026.11.17.767286v2) | Hunter, W. R. et al. |
+| 2026-11-22 | [Genomic Epidemiology of Dengue Virus in Ivory Coast Reveals Five Decades of Viral Circulation with Repeated Introductions from Burkina Faso](https://www.biorxiv.org/content/10.64898/2026.11.18.767690v1) | Tao, X. et al. |
 | 2026-11-21 | [Revisiting Hydractiniidae (Hydrozoa): Mitogenomic Insights into the Diversity, Systematics and Life-Cycle Evolution of North Atlantic and Arctic Species](https://www.biorxiv.org/content/10.64898/2026.10.09.757902v2) | Beckmann, L. M. et al. |
 | 2026-11-20 | [Effects of different shading levels on growth, physiology and leaf surface micromorphology of Sorbus sibirica "Dong Hong" seedlings](https://www.biorxiv.org/content/10.64898/2026.07.25.740310v3) | Huang, R. et al. |
 | 2026-11-20 | [Long-term population monitoring reveals an alarming decline in the endangered endemic Reunion Harrier Circus maillardi](https://www.biorxiv.org/content/10.1101/2025.11.07.687144v3) | Villers, A. et al. |
@@ -17,5 +19,3 @@
 | 2026-11-20 | [All the diversity we cannot see: Using single-cell population genetics to reveal the reproductive mode of the snow alga Chlainomonas sp. (Chlorophyta)](https://www.biorxiv.org/content/10.64898/2026.11.19.767852v1) | Geragotelis, A. D. et al. |
 | 2026-11-20 | [Predicting barrier architecture and the genomic landscape of differentiation under polygenic divergent selection](https://www.biorxiv.org/content/10.64898/2026.09.03.749118v2) | Zwaenepoel et al. |
 | 2026-11-20 | [Adaptive tracking contributes to the invasion success of a global pest insect](https://www.biorxiv.org/content/10.64898/2026.02.26.708249v2) | McCabe, E. et al. |
-| 2026-11-20 | [Cell-Cycle Regulation In Planta: Linking Nucleus Geometry and CYCB1;1 Marker Accumulation.](https://www.biorxiv.org/content/10.64898/2026.11.19.767918v1) | Pasternak, T. et al. |
-| 2026-11-20 | [Ultrasonic emissions of sunflower and buckwheat carry species identity in their spectrum and drought in their rate](https://www.biorxiv.org/content/10.64898/2026.11.17.767468v1) | Saha, B. et al. |

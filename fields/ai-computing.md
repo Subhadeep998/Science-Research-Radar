@@ -1,21 +1,21 @@
 # 🤖 AI & Computing
 
-> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-22
+> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-23
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-19 | [RL Post-Training in Diffusion Transformers Is Activation Steering](https://arxiv.org/abs/2611.26627v1) | Tuna Han Salih Meral et al. |
-| 2026-11-19 | [PlayCraft: Designing Engaging Games from Agent Play Experience](https://arxiv.org/abs/2611.26624v1) | Weihao Cheng |
-| 2026-11-19 | [TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming](https://arxiv.org/abs/2611.26619v1) | Jinbin Luo et al. |
-| 2026-11-19 | [One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning](https://arxiv.org/abs/2611.26617v1) | Yuxin Jiang et al. |
-| 2026-11-19 | [AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control](https://arxiv.org/abs/2611.26613v1) | Yiyang Du et al. |
-| 2026-11-19 | [Bio-PM-Guided Synthetic IMU Generation](https://arxiv.org/abs/2611.26607v1) | Deepali Singh et al. |
-| 2026-11-19 | [Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth](https://arxiv.org/abs/2611.26603v1) | Peiyun Hu et al. |
-| 2026-11-19 | [SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research](https://arxiv.org/abs/2611.26601v1) | Amine Lbath et al. |
-| 2026-11-19 | [Active Feature Acquisition by Distilling an Oracle Teacher](https://arxiv.org/abs/2611.26598v1) | Yang Meng et al. |
-| 2026-11-19 | [PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation](https://arxiv.org/abs/2611.26596v1) | Kai Lu et al. |
-| 2026-11-19 | [Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning](https://arxiv.org/abs/2611.26592v1) | Terence D. Agbeyegbe et al. |
-| 2026-11-19 | [Probing the "Conscious" Mind: Selective Access and Global Workspace in Vision-Language Models](https://arxiv.org/abs/2611.26590v1) | Jiahao Huang et al. |
+| 2026-11-20 | [Budgeted Subset Selection with a Transferable Learned Value Model](https://arxiv.org/abs/2611.27751v1) | Jade Lejeune Herman et al. |
+| 2026-11-20 | [RoSci: Exploring Robustness in Science VLMs](https://arxiv.org/abs/2611.27750v1) | Junying Wang et al. |
+| 2026-11-20 | [Shared Understanding in Human-AI Teams: Coordination Continuity in Evolving Work](https://arxiv.org/abs/2611.27746v1) | Siân Lindley et al. |
+| 2026-11-20 | [Can Vision-Language Models Synthesize Executable Game-Playing Programs?](https://arxiv.org/abs/2611.27741v1) | Yao Tong et al. |
+| 2026-11-20 | [Average-Depth Variable Execution via Request-Local Token Routing](https://arxiv.org/abs/2611.27738v1) | Pengjie Zheng et al. |
+| 2026-11-20 | [AutoOntologyBench: A Task-Grounded Benchmark for Agentic Knowledge Engineering](https://arxiv.org/abs/2611.27734v1) | Minye Shao et al. |
+| 2026-11-20 | [Quantitative Measurement of Pavement Distress based on Vehicle Camera and Perspective Correction](https://arxiv.org/abs/2611.27728v1) | Sike Wang et al. |
+| 2026-11-20 | [A Switching Mechanism for Selecting Environment-Adaptive Personalized Gains in Hearing Aids](https://arxiv.org/abs/2611.27726v1) | Nafisa Zarrin Tasnim et al. |
+| 2026-11-20 | [Beyond Math, Code, and Logic: Do Reasoning Models Transfer to Scientific Argumentation?](https://arxiv.org/abs/2611.27722v1) | Buse Sibel Korkmaz et al. |
+| 2026-11-20 | [Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders](https://arxiv.org/abs/2611.27721v1) | Alessandro Piccolo et al. |
+| 2026-11-20 | [Solving the pre-image problem in kernel PCA: The reproducing property is all you need](https://arxiv.org/abs/2611.27718v1) | Joel-Pascal Ntwali N'konzi et al. |
+| 2026-11-20 | [Recoverable Symbols, Unstable Execution: Auditing Internal Pathways and Decision Identity in Visual State Tracking](https://arxiv.org/abs/2611.27715v1) | Ruiqi Liu et al. |

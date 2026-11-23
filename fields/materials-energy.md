@@ -1,21 +1,21 @@
 # 🔋 Materials & Energy
 
-> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-22
+> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-23
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-19 | [Fractional Charge at Dislocations from Band-Inversion Cancellation](https://arxiv.org/abs/2611.26616v1) | Vladimir Juričić et al. |
-| 2026-11-19 | [Emergent Fatigue Dynamics from Foundational Interatomic Potentials](https://arxiv.org/abs/2611.26533v1) | Jingye Tan et al. |
-| 2026-11-19 | [Constitutive Kolmogorov-Arnold Networks in Finite Element Model Updating: Closed-Form Hyperelastic Strain Energies from Heterogeneous Experiments](https://arxiv.org/abs/2611.26528v1) | Kian P. Abdolazizi et al. |
-| 2026-11-19 | [Two distinct notions of speed in antiferromagnets](https://arxiv.org/abs/2611.26482v1) | Paul Herrgen et al. |
-| 2026-11-19 | [Perfumer: A Large Language Model-based Agentic Framework Accelerating Structural Relaxation and Electronic Band Prediction for First-Principle Calculation](https://arxiv.org/abs/2611.26349v1) | Zhiwei Li et al. |
-| 2026-11-19 | [Hybrid Plasmon-Phonon Eigenmodes and Vortex States in a Graphene Ring on a Silica Substrate](https://arxiv.org/abs/2611.26314v1) | Yanxu Guo et al. |
-| 2026-11-19 | [Unusual increase in electrical and thermal conductivity of severely deformed CrMnFeCoNi high-entropy alloy: Roles of disordering and nanostructuring in electron and phonon transport](https://arxiv.org/abs/2611.26213v1) | Jacqueline Hidalgo-Jiménez et al. |
-| 2026-11-19 | [Reward misalignment as an opportunity for materials discovery](https://arxiv.org/abs/2611.26186v1) | Ryotaro Okabe et al. |
-| 2026-11-19 | [Sliding-ferroelectric control of dipolar and quadrupolar excitons in R-stacked WSe$_2$](https://arxiv.org/abs/2611.26158v1) | Asmund Ottesen et al. |
-| 2026-11-19 | [Photonic processors that carry their own unclonable fingerprint](https://arxiv.org/abs/2611.26079v1) | Oxel Arnal Martínez et al. |
-| 2026-11-19 | [Topology-Enabled Self-Verification of Quantum Hall Resistance Standards](https://arxiv.org/abs/2611.26016v1) | DaVonne Henry et al. |
-| 2026-11-19 | [Lattice dynamics study of (Bi1-xSbx)2Te3 compounds: Comparative compositional study of force constants and Grüneisen parameters](https://arxiv.org/abs/2611.26010v1) | Baihong Sun et al. |
+| 2026-11-20 | [A Microwave-Photonics Formulation of the Rydberg-Atom Receiver](https://arxiv.org/abs/2611.27942v1) | David Rosser |
+| 2026-11-20 | [Linear Response Theory of Nitrogen K-Edge X-ray Absorption of TCNQ](https://arxiv.org/abs/2611.27869v1) | Alberto Boccuni et al. |
+| 2026-11-20 | [Prediction and characterisation of cation topology of pentanary high-entropy alloy (MoWNbTaV)S$_2$](https://arxiv.org/abs/2611.27842v1) | Shubham Agarwal et al. |
+| 2026-11-20 | [Voltage-Controlled Dielectric Cavity Magnonics in Epitaxial Fe Films on SrTiO3 Single Crystal Substrates](https://arxiv.org/abs/2611.27837v1) | Stijn Reniers et al. |
+| 2026-11-20 | [Heat cleaning kinetics and thermal degradation of MOCVD-grown GaAs photocathodes](https://arxiv.org/abs/2611.27833v1) | Gregory Blume et al. |
+| 2026-11-20 | [Shift current as a stacking spectroscopy of hexagonal boron nitride multilayers](https://arxiv.org/abs/2611.27785v1) | Sanber Vizcaya et al. |
+| 2026-11-20 | [General Transport Signatures of Odd-Parity Magnets: Charge--Spin Selection Rules and Temporal--Spectral Separation](https://arxiv.org/abs/2611.27763v1) | Junxi Yu et al. |
+| 2026-11-20 | [Atomistic theory of the $d$-wave phonon angular momentum splitter effect](https://arxiv.org/abs/2611.27747v1) | Daniel A. Bustamante Lopez et al. |
+| 2026-11-20 | [Silver/alumina-capped Janus particles: a dispersible hyperbolic metamaterial](https://arxiv.org/abs/2611.27736v1) | Samhita Kattekola et al. |
+| 2026-11-20 | [Atomic interferometry based on a phase-jump error signal with suppression of the lineshape-asymmetry-caused shift](https://arxiv.org/abs/2611.27592v1) | V. I. Yudin et al. |
+| 2026-11-20 | [Edge-dislocation interactions with sub 3 nm vacancy and interstitial clusters in FeCr alloys: Mechanisms, Obstacle strength and Fate](https://arxiv.org/abs/2611.27583v1) | Layatmika Sahoo et al. |
+| 2026-11-20 | [Disentangling Lengthscales in Disordered Fracture](https://arxiv.org/abs/2611.27581v1) | Matthaios Chouzouris et al. |
