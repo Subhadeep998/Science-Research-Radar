@@ -2,8 +2,14 @@ name: Daily research update
 
 on:
   schedule:
-    - cron: "41 23 * * *"   # 05:11 IST every day
+    # Two runs a day, away from GitHub's busy midnight-UTC hour: if one is delayed
+    # or dropped, the other catches up. Re-running is harmless.
+    - cron: "41 22 * * *"   # 04:11 IST
+    - cron: "17 3 * * *"    # 08:47 IST backup
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/daily.yml"]   # run once whenever this schedule file changes
 
 permissions:
   contents: write
