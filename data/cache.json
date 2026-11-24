@@ -53,18 +53,6 @@
   "Science": [
    {
     "date": "2026-11-19",
-    "title": "A neural code for generative speech production in human Wernicke's area",
-    "link": "https://doi.org/10.1126/science.aef8963",
-    "who": "Silva AB et al."
-   },
-   {
-    "date": "2026-11-19",
-    "title": "Zero-shot de novo design of a metalloenzyme",
-    "link": "https://doi.org/10.1126/science.aej3009",
-    "who": "El Nesr G et al."
-   },
-   {
-    "date": "2026-11-19",
     "title": "Interpenetrating bottlebrush elastomer for low-loss soft ultrasonic interfaces",
     "link": "https://doi.org/10.1126/science.aef9553",
     "who": "Wang S et al."
@@ -74,6 +62,18 @@
     "title": "The fate of poised pre-mRNAs shapes mitochondrial activity and cellular differentiation",
     "link": "https://doi.org/10.1126/science.aee8018",
     "who": "Rambout X et al."
+   },
+   {
+    "date": "2026-11-19",
+    "title": "A neural code for generative speech production in human Wernicke's area",
+    "link": "https://doi.org/10.1126/science.aef8963",
+    "who": "Silva AB et al."
+   },
+   {
+    "date": "2026-11-19",
+    "title": "Zero-shot de novo design of a metalloenzyme",
+    "link": "https://doi.org/10.1126/science.aej3009",
+    "who": "El Nesr G et al."
    },
    {
     "date": "2026-11-19",
@@ -233,6 +233,12 @@
   "PNAS": [
    {
     "date": "2026-11-20",
+    "title": "A genome-wide senescence synthetic lethality screen identifies PARP16 as a senolytic target",
+    "link": "https://doi.org/10.1073/pnas.2627282123",
+    "who": "Ghosh-Choudhary S et al."
+   },
+   {
+    "date": "2026-11-20",
     "title": "Windblown dunes are born in sand at the brink of transport",
     "link": "https://doi.org/10.1073/pnas.2613085123",
     "who": "Marvin MC et al."
@@ -242,12 +248,6 @@
     "title": "A zero-one law for one-shot system identification",
     "link": "https://doi.org/10.1073/pnas.2624491123",
     "who": "Boullé N et al."
-   },
-   {
-    "date": "2026-11-20",
-    "title": "A genome-wide senescence synthetic lethality screen identifies PARP16 as a senolytic target",
-    "link": "https://doi.org/10.1073/pnas.2627282123",
-    "who": "Ghosh-Choudhary S et al."
    },
    {
     "date": "2026-11-20",
@@ -1456,6 +1456,12 @@
   ],
   "medicine": [
    {
+    "date": "2026-11-24",
+    "title": "Cohort Versus Nested Case-Control Designs for Predicting Early-Onset Gastrointestinal Cancer Using Electronic Health Records",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.10.16.26365758v2",
+    "who": "Fan, R. et al."
+   },
+   {
     "date": "2026-11-23",
     "title": "Clinical translation of ultrasoft Fleuron probes for stable, high-density, and bidirectional brain interfaces",
     "link": "https://www.medrxiv.org/content/10.1101/2025.04.24.25326126v4",
@@ -1520,12 +1526,6 @@
     "title": "Haploinsufficiency, de novo and biallelic missense variants in CSMD2 are associated with neurodevelopmental disorders",
     "link": "https://www.medrxiv.org/content/10.64898/2026.09.24.26361611v3",
     "who": "Pailler-Pradeau, C. et al."
-   },
-   {
-    "date": "2026-11-23",
-    "title": "Unified Machine Learning Model for Early Detection of Mild Cognitive Impairment, Frailty, and Fall Risk Using Multimodal Motor-Function Data",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.11.19.26368462v1",
-    "who": "Akter, S. et al."
    }
   ]
  },

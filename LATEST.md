@@ -8,8 +8,8 @@
 
 - **Nature** · [Calcium catalysed nucleophilic fluorination](https://doi.org/10.1038/s41586-026-11445-z) — _Struijs JJC et al._
 - **Nature** · [A glucose-powered artificial neuroimmune axis for metabolic control](https://doi.org/10.1038/s41586-026-11251-7) — _Xiu W et al._
-- **Science** · [A neural code for generative speech production in human Wernicke's area](https://doi.org/10.1126/science.aef8963) — _Silva AB et al._
-- **Science** · [Zero-shot de novo design of a metalloenzyme](https://doi.org/10.1126/science.aej3009) — _El Nesr G et al._
+- **Science** · [Interpenetrating bottlebrush elastomer for low-loss soft ultrasonic interfaces](https://doi.org/10.1126/science.aef9553) — _Wang S et al._
+- **Science** · [The fate of poised pre-mRNAs shapes mitochondrial activity and cellular differentiation](https://doi.org/10.1126/science.aee8018) — _Rambout X et al._
 - **Cell** · [CD19 CAR T cell therapy alters disease-associated immune signatures in multiple sclerosis](https://doi.org/10.1016/j.cell.2026.10.044) — _Fischbach F et al._
 - **Cell** · [RNA folding drives species-dependent host mRNA partitioning in Ebola virus condensates](https://doi.org/10.1016/j.cell.2026.10.047) — _Fang J et al._
 - **The New England Journal of Medicine** · [Assessing Multiple Treatment Regimens for Tuberculosis](https://doi.org/10.1056/nejmoa2611913) — _Esmail H et al._
@@ -18,8 +18,8 @@
 - **Nature Medicine** · [Expansion and cytotoxicity of mucosal CAR+ T cells in enterocolitis associated with BCMA CAR-T cell therapy](https://doi.org/10.1038/s41591-026-04731-w) — _Sainz TP et al._
 - **Nature Medicine** · [Multicenter characterization of enterocolitis associated with BCMA-directed CAR T cell therapy](https://doi.org/10.1038/s41591-026-04783-y) — _Mikkilineni L et al._
 - **Nature Biotechnology** · [Programmable functional RNA design with a virtual scientist](https://doi.org/10.1038/s41587-026-03362-3) — _Huang H et al._
+- **PNAS** · [A genome-wide senescence synthetic lethality screen identifies PARP16 as a senolytic target](https://doi.org/10.1073/pnas.2627282123) — _Ghosh-Choudhary S et al._
 - **PNAS** · [Windblown dunes are born in sand at the brink of transport](https://doi.org/10.1073/pnas.2613085123) — _Marvin MC et al._
-- **PNAS** · [A zero-one law for one-shot system identification](https://doi.org/10.1073/pnas.2624491123) — _Boullé N et al._
 
 ## 🤖 AI & Computing
 
@@ -167,10 +167,10 @@
 
 ## 🩺 Medicine & Public Health
 
+- 2026-11-24 · [Cohort Versus Nested Case-Control Designs for Predicting Early-Onset Gastrointestinal Cancer Using Electronic Health Records](https://www.medrxiv.org/content/10.64898/2026.10.16.26365758v2)
 - 2026-11-23 · [Clinical translation of ultrasoft Fleuron probes for stable, high-density, and bidirectional brain interfaces](https://www.medrxiv.org/content/10.1101/2025.04.24.25326126v4)
 - 2026-11-23 · [Plasma DNA fragmentomic analysis for evaluation of patients with pancreatic cystic neoplasms](https://www.medrxiv.org/content/10.1101/2024.12.13.24318579v2)
 - 2026-11-23 · [Systematic Review and External Validation of Clinical Prediction Models for Adverse Pregnancy Outcomes Using Routinely Collected Pre-Conception and Early Pregnancy Data](https://www.medrxiv.org/content/10.64898/2026.09.21.26363564v2)
-- 2026-11-23 · [Mechanistic Assessment of Norepinephrine Therapy versus Angiotensin-II on Organ Function in Septic Shock (MANTRA): Study Protocol for a multicenter open-label randomized trial](https://www.medrxiv.org/content/10.64898/2026.09.12.26362906v2)
 
 [More Medicine & Public Health →](fields/medicine.md)
 

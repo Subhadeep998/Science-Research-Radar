@@ -21,10 +21,10 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-19 | [A neural code for generative speech production in human Wernicke's area](https://doi.org/10.1126/science.aef8963) | Silva AB et al. |
-| 2026-11-19 | [Zero-shot de novo design of a metalloenzyme](https://doi.org/10.1126/science.aej3009) | El Nesr G et al. |
 | 2026-11-19 | [Interpenetrating bottlebrush elastomer for low-loss soft ultrasonic interfaces](https://doi.org/10.1126/science.aef9553) | Wang S et al. |
 | 2026-11-19 | [The fate of poised pre-mRNAs shapes mitochondrial activity and cellular differentiation](https://doi.org/10.1126/science.aee8018) | Rambout X et al. |
+| 2026-11-19 | [A neural code for generative speech production in human Wernicke's area](https://doi.org/10.1126/science.aef8963) | Silva AB et al. |
+| 2026-11-19 | [Zero-shot de novo design of a metalloenzyme](https://doi.org/10.1126/science.aej3009) | El Nesr G et al. |
 | 2026-11-19 | [Balancing redox-mediated cytotoxicity and catalysis in natural product biosynthesis](https://doi.org/10.1126/science.aee2641) | Boesger HA et al. |
 | 2026-11-19 | [A thalamo-amygdalar circuit drives female vulnerability to chronic pain after early-life stress](https://doi.org/10.1126/science.adx5757) | Borruto AM et al. |
 | 2026-11-19 | [Atmospheric organic nitrogen is a major nutrient source to global oceans](https://doi.org/10.1126/science.aeg4265) | Yu X et al. |
@@ -79,9 +79,9 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
+| 2026-11-20 | [A genome-wide senescence synthetic lethality screen identifies PARP16 as a senolytic target](https://doi.org/10.1073/pnas.2627282123) | Ghosh-Choudhary S et al. |
 | 2026-11-20 | [Windblown dunes are born in sand at the brink of transport](https://doi.org/10.1073/pnas.2613085123) | Marvin MC et al. |
 | 2026-11-20 | [A zero-one law for one-shot system identification](https://doi.org/10.1073/pnas.2624491123) | Boullé N et al. |
-| 2026-11-20 | [A genome-wide senescence synthetic lethality screen identifies PARP16 as a senolytic target](https://doi.org/10.1073/pnas.2627282123) | Ghosh-Choudhary S et al. |
 | 2026-11-20 | [Knowledge gaps and scientific progress](https://doi.org/10.1073/pnas.2527345123) | Kedrick K et al. |
 | 2026-11-20 | [Reply to Kochiyama et al.: Extensive inferred overlap in cognitive abilities complicate evolutionary models of Neanderthal replacement](https://doi.org/10.1073/pnas.2634306123) | Schoenemann PT et al. |
 | 2026-11-20 | [Harnessing lattice distortion for point-defect self-healing in multi-principal element alloys](https://doi.org/10.1073/pnas.2526642123) | Zhang B et al. |
