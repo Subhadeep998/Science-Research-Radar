@@ -1,21 +1,21 @@
 # 🌿 Ecology & Evolution
 
-> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-23
+> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-24
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-22 | [Relationships between the isotopic signatures of dissolved inorganic carbon and environmental variability in Northern Ireland coastal waters](https://www.biorxiv.org/content/10.64898/2026.11.17.767286v2) | Hunter, W. R. et al. |
-| 2026-11-22 | [Genomic Epidemiology of Dengue Virus in Ivory Coast Reveals Five Decades of Viral Circulation with Repeated Introductions from Burkina Faso](https://www.biorxiv.org/content/10.64898/2026.11.18.767690v1) | Tao, X. et al. |
-| 2026-11-22 | [Differences in nodulation among rhizobia strains can obscure plant benefits per nodule in single-strain experiments](https://www.biorxiv.org/content/10.64898/2026.11.16.767161v1) | Denison, R. F. et al. |
-| 2026-11-22 | [Phenotypic, ecological and genomic divergence support independent evolutionary trajectories in the Meganesian masked owls (Tyto novaehollandiae)](https://www.biorxiv.org/content/10.64898/2026.11.20.767495v1) | Cumer, T. et al. |
-| 2026-11-22 | [Winter nutrients constrain spring drawdown, but only weakly predict bloom intensity in the western Irish Sea](https://www.biorxiv.org/content/10.64898/2026.10.27.762229v3) | Hunter, W. R. et al. |
-| 2026-11-22 | [Cross-species gene programs enable reference-free annotation of plant cells in single-cell and spatial transcriptomes](https://www.biorxiv.org/content/10.64898/2026.11.02.763657v2) | Yang, S. et al. |
-| 2026-11-22 | [Prioritizing Maize Metabolic Gene Regulators through Multi-Omic Network Integration](https://www.biorxiv.org/content/10.1101/2024.02.26.582075v4) | Gomez-Cano, F. A. et al. |
-| 2026-11-21 | [Revisiting Hydractiniidae (Hydrozoa): Mitogenomic Insights into the Diversity, Systematics and Life-Cycle Evolution of North Atlantic and Arctic Species](https://www.biorxiv.org/content/10.64898/2026.10.09.757902v2) | Beckmann, L. M. et al. |
-| 2026-11-20 | [Effects of different shading levels on growth, physiology and leaf surface micromorphology of Sorbus sibirica "Dong Hong" seedlings](https://www.biorxiv.org/content/10.64898/2026.07.25.740310v3) | Huang, R. et al. |
-| 2026-11-20 | [Long-term population monitoring reveals an alarming decline in the endangered endemic Reunion Harrier Circus maillardi](https://www.biorxiv.org/content/10.1101/2025.11.07.687144v3) | Villers, A. et al. |
-| 2026-11-20 | [Evaluating novel sources of resistance to Fusarium oxysporum f. sp. cubense tropical race 4 (TR4) in a global banana diversity panel](https://www.biorxiv.org/content/10.64898/2026.11.18.767592v1) | Olave-Achury, C. et al. |
-| 2026-11-20 | [LORELEI sequence variation modulates lineage-dependent pollen tube reception in Brassicaceae](https://www.biorxiv.org/content/10.64898/2026.11.18.767685v1) | Jong, E. et al. |
+| 2026-11-23 | [Arabidopsis histone demethylase RSI1/FLD self-regulates its pathogen-induced expression](https://www.biorxiv.org/content/10.64898/2026.11.19.767995v1) | Singh, U. et al. |
+| 2026-11-23 | [High-throughput phenotyping reveals natural variation in tomato pollen responses to heat stress](https://www.biorxiv.org/content/10.64898/2026.11.19.767983v1) | Warman, C. et al. |
+| 2026-11-23 | [Auxin regulates the proportions, but not the initiation, of Hibiscus trionum bullseyes](https://www.biorxiv.org/content/10.64898/2026.11.19.767829v1) | Salvi, E. et al. |
+| 2026-11-23 | [Circadian clock components CCA1 and LHY shape heat responses across regulatory layers](https://www.biorxiv.org/content/10.64898/2026.11.19.767892v1) | Strout, R. I. et al. |
+| 2026-11-23 | [Complementary roles among traits in community assembly processes of benthic foraminifera](https://www.biorxiv.org/content/10.64898/2026.11.19.767260v1) | Galli, G. et al. |
+| 2026-11-23 | [RustBEARS: Survival-Conditioned Likelihoods, Uniformization Stochastic Mapping, and Uncertainty Quantification for Historical Biogeography](https://www.biorxiv.org/content/10.64898/2026.11.20.768172v1) | He, J. et al. |
+| 2026-11-23 | [Kinetic windows for abiogenesis](https://www.biorxiv.org/content/10.64898/2026.11.20.768022v1) | Mojzsis, S. J. et al. |
+| 2026-11-23 | [Barcoding the Past: A Cost-Effective ONT-Based Workflow for COI Recovery from Century-Old Spider Museum Specimens](https://www.biorxiv.org/content/10.64898/2026.11.20.762721v1) | Trebicki, L. et al. |
+| 2026-11-23 | [Biotic interactions buffer the effects of biodiversity loss on ecosystem functioning](https://www.biorxiv.org/content/10.64898/2026.11.20.768031v1) | Vidiella, B. et al. |
+| 2026-11-23 | [Proton Translocation and Q-Cycle Efficiency at the Cytochrome b6f Stromal Qn Site Require Conserved Subunit-IV Residue Asp35 in Chlamydomonas reinhardtii](https://www.biorxiv.org/content/10.64898/2026.11.20.768064v1) | Buetfering, S. G. et al. |
+| 2026-11-23 | [Speedy but late: Clock-independent changes in phase in cultivated potato](https://www.biorxiv.org/content/10.64898/2026.11.20.767954v1) | Feke, A. et al. |
+| 2026-11-23 | [ADTSIM2.0: An updated simulation of American dog tick (Dermacentor variabilis Acari: Ixodidae) population dynamics](https://www.biorxiv.org/content/10.64898/2026.11.20.768101v1) | Sanderson, S. et al. |

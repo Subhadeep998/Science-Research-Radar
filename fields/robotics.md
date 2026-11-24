@@ -1,21 +1,21 @@
 # 🦾 Robotics
 
-> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-23
+> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-24
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-20 | [Task2Hand: A Contact-Grounded Skill for Parametric Dexterous-Hand Morphology Design](https://arxiv.org/abs/2611.27967v1) | Haoyang Wang et al. |
-| 2026-11-20 | [Real-time neuromorphic audio and vision perception for autonomous robotic applications: Integration and experimental evaluation on a rover platform](https://arxiv.org/abs/2611.27953v1) | Guillem Fustier-Castillo et al. |
-| 2026-11-20 | [What Must a Model Tell a Planner? Outcome Interfaces for Risk-Aware Planning After Robot Damage](https://arxiv.org/abs/2611.27939v1) | Hassan Iqbal et al. |
-| 2026-11-20 | [Interactive Semi-Parametric On-Track Learning for Vehicle Dynamics in Autonomous Racing](https://arxiv.org/abs/2611.27932v1) | Jungbin Kim et al. |
-| 2026-11-20 | [StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning](https://arxiv.org/abs/2611.27915v1) | Chi Yan et al. |
-| 2026-11-20 | [Humanoid robots for safety-critical electrical switching: A perception-informed runtime constraint filter](https://arxiv.org/abs/2611.27845v1) | Songyang Liu et al. |
-| 2026-11-20 | [BRINA: Bottom-Referenced Inertial Navigation with AKAZE, a Sonar SLAM for Autonomous Marine Vehicles](https://arxiv.org/abs/2611.27817v1) | Adolfo Damiano Cafaro et al. |
-| 2026-11-20 | [Generalist Action Critic: Harnessing Frontier Models in Autonomous Driving](https://arxiv.org/abs/2611.27804v1) | Yun Yan et al. |
-| 2026-11-20 | [EvoTER: Evolving Embodied Agents via Tool-Use Experience and Reflection](https://arxiv.org/abs/2611.27797v1) | Yingting Zhou et al. |
-| 2026-11-20 | [An Autonomous Adaptive Learning System for Robotic Grasping in the Circular Factory](https://arxiv.org/abs/2611.27782v1) | Yitian Shi et al. |
-| 2026-11-20 | [Embodied-Harness: Towards Recursive Self-Improvement for Robotic Manipulation](https://arxiv.org/abs/2611.27689v1) | Zhenxuan Fan et al. |
-| 2026-11-20 | [Trust What Repeats: Capped World-Model Policy Gradients for Humanoid Motion Tracking](https://arxiv.org/abs/2611.27648v1) | Xuzhe Dang et al. |
+| 2026-11-23 | [CoSel: Cooperation as Selection for End-to-End Driving](https://arxiv.org/abs/2611.30918v1) | Yiping Li et al. |
+| 2026-11-23 | [DexLatentWorld: 3D Cross-Embodiment Latent Action World Models for Zero-Shot Robotic Manipulation](https://arxiv.org/abs/2611.30907v1) | Vinay Udit Mohan et al. |
+| 2026-11-23 | [GlanceNav: Efficient Vision-and-Language Navigation with Streaming Memory and Counterfactual Rewind](https://arxiv.org/abs/2611.30900v1) | Anh Dao et al. |
+| 2026-11-23 | [World Models as Native Latent Action Models](https://arxiv.org/abs/2611.30898v1) | Qinyue Li et al. |
+| 2026-11-23 | [Tabular Foundation Models Are Surprisingly Effective In-Context Robot Learners](https://arxiv.org/abs/2611.30889v1) | Zhen Xu et al. |
+| 2026-11-23 | [Bridging Continuous-Time MAPF and Industrial AGV Fleet Coordination with Lazy Priority-Based Search](https://arxiv.org/abs/2611.30874v1) | Federico Signorile et al. |
+| 2026-11-23 | [Can Multimodal Fusion MakeSense for Embodied Vision in Degraded Sensing?](https://arxiv.org/abs/2611.30836v1) | Cheng-Ru Chou et al. |
+| 2026-11-23 | [HIVE-Bench: Evaluating Patch-Level Visual Representations for Egocentric Robot Manipulation](https://arxiv.org/abs/2611.30813v1) | Qiwei Liang et al. |
+| 2026-11-23 | [Beyond Domain Randomization: Real-World Policy Adaptation in Learned Dynamics for Legged Robots](https://arxiv.org/abs/2611.30784v1) | Rui Dai et al. |
+| 2026-11-23 | [Object Count Generalization Is an Interface Problem: Warping a Frozen Skill Instead of Retraining It](https://arxiv.org/abs/2611.30765v1) | Paul Mattes et al. |
+| 2026-11-23 | [Place-Revisit Consistency Evaluation of Reference Poses](https://arxiv.org/abs/2611.30741v1) | Jianzhu Huai et al. |
+| 2026-11-23 | [Coordinating Perception and Planning for Test-Time Adaptation in End-to-End Driving under Distribution Shifts](https://arxiv.org/abs/2611.30739v1) | Shiyu Fang et al. |

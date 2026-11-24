@@ -1,6 +1,6 @@
 # 📚 Flagship peer-reviewed journals
 
-> Research articles published in the last 7 days, via Europe PMC · last update 2026-11-23
+> Research articles published in the last 7 days, via Europe PMC · last update 2026-11-24
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md)
 
@@ -34,13 +34,13 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-19 | [Genomic surveillance reveals age-structured SARS-CoV-2 transmission across settings](https://doi.org/10.1016/j.cell.2026.10.051) | Moreno GK et al. |
 | 2026-11-19 | [CD19 CAR T cell therapy alters disease-associated immune signatures in multiple sclerosis](https://doi.org/10.1016/j.cell.2026.10.044) | Fischbach F et al. |
-| 2026-11-19 | [Genome writing reveals SVA retrotransposon consequences in X-linked dystonia-parkinsonism](https://doi.org/10.1016/j.cell.2026.07.057) | Zhang W et al. |
 | 2026-11-19 | [RNA folding drives species-dependent host mRNA partitioning in Ebola virus condensates](https://doi.org/10.1016/j.cell.2026.10.047) | Fang J et al. |
-| 2026-11-19 | [A natural mutation of timeless enhances mosquito thermal adaptation and malaria parasite transmission](https://doi.org/10.1016/j.cell.2026.10.049) | Wang G et al. |
+| 2026-11-19 | [Genomic surveillance reveals age-structured SARS-CoV-2 transmission across settings](https://doi.org/10.1016/j.cell.2026.10.051) | Moreno GK et al. |
 | 2026-11-19 | [Myelin pathology is a key feature of X-linked dystonia-parkinsonism](https://doi.org/10.1016/j.cell.2026.10.046) | Prakash P et al. |
-| 2026-11-19 | [Genome writing reveals SVA retrotransposon consequences in X-Linked Dystonia-Parkinsonism](https://europepmc.org/article/PMC/PMC13787558) | Zhang W et al. |
+| 2026-11-19 | [A natural mutation of timeless enhances mosquito thermal adaptation and malaria parasite transmission](https://doi.org/10.1016/j.cell.2026.10.049) | Wang G et al. |
+| 2026-11-19 | [Genome writing reveals SVA retrotransposon consequences in X-linked dystonia-parkinsonism](https://doi.org/10.1016/j.cell.2026.07.057) | Zhang W et al. |
+| 2026-11-17 | [Evolutionary repurposing of a pore-forming toxin drives epithelial remodeling during terrestrial adaptation](https://doi.org/10.1016/j.cell.2026.10.038) | Siciliani D et al. |
 | 2026-11-17 | [Paleogenomics illuminates mobility and changing lifeways in Chalcolithic Anatolia](https://doi.org/10.1016/j.cell.2026.10.041) | Aydoğan A et al. |
 
 ## The New England Journal of Medicine
@@ -48,7 +48,6 @@
 | Date | Paper | First author |
 |:--|:--|:--|
 | 2026-11-19 | [Assessing Multiple Treatment Regimens for Tuberculosis](https://doi.org/10.1056/nejmoa2611913) | Esmail H et al. |
-| 2026-11-16 | [Semaglutide for the Treatment of Obesity in Children 6 to <12 Years of Age](https://doi.org/10.1056/nejmoa2604058) | Jastreboff AM et al. |
 
 ## The Lancet
 
@@ -69,25 +68,22 @@
 | 2026-11-19 | [Expansion and cytotoxicity of mucosal CAR+ T cells in enterocolitis associated with BCMA CAR-T cell therapy](https://doi.org/10.1038/s41591-026-04731-w) | Sainz TP et al. |
 | 2026-11-19 | [Multicenter characterization of enterocolitis associated with BCMA-directed CAR T cell therapy](https://doi.org/10.1038/s41591-026-04783-y) | Mikkilineni L et al. |
 | 2026-11-17 | [Generational gains in cognitive capacity and dementia incidence rates in Western countries](https://doi.org/10.1038/s41591-026-04759-y) | Fjell AM et al. |
-| 2026-11-16 | [An open agentic AI co-scientist for clinical and biomedical discovery](https://doi.org/10.1038/s41591-026-04808-6) | Roberts KF et al. |
-| 2026-11-16 | [Addendum: A meta-analysis of GFR slope as a surrogate endpoint for kidney failure](https://doi.org/10.1038/s41591-026-04798-5) | Inker LA et al. |
 
 ## Nature Biotechnology
 
 | Date | Paper | First author |
 |:--|:--|:--|
 | 2026-11-19 | [Programmable functional RNA design with a virtual scientist](https://doi.org/10.1038/s41587-026-03362-3) | Huang H et al. |
-| 2026-11-16 | [A CD7-targeted AAV variant enables efficient T and NK cell engineering in vivo](https://doi.org/10.1038/s41587-026-03344-5) | Hong L et al. |
 
 ## PNAS
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-20 | [A genome-wide senescence synthetic lethality screen identifies PARP16 as a senolytic target](https://doi.org/10.1073/pnas.2627282123) | Ghosh-Choudhary S et al. |
 | 2026-11-20 | [Windblown dunes are born in sand at the brink of transport](https://doi.org/10.1073/pnas.2613085123) | Marvin MC et al. |
 | 2026-11-20 | [A zero-one law for one-shot system identification](https://doi.org/10.1073/pnas.2624491123) | Boullé N et al. |
+| 2026-11-20 | [A genome-wide senescence synthetic lethality screen identifies PARP16 as a senolytic target](https://doi.org/10.1073/pnas.2627282123) | Ghosh-Choudhary S et al. |
 | 2026-11-20 | [Knowledge gaps and scientific progress](https://doi.org/10.1073/pnas.2527345123) | Kedrick K et al. |
 | 2026-11-20 | [Reply to Kochiyama et al.: Extensive inferred overlap in cognitive abilities complicate evolutionary models of Neanderthal replacement](https://doi.org/10.1073/pnas.2634306123) | Schoenemann PT et al. |
-| 2026-11-20 | [Harness design matters for AI capabilities in mathematics](https://doi.org/10.1073/pnas.2627448123) | Abouzaid M et al. |
 | 2026-11-20 | [Harnessing lattice distortion for point-defect self-healing in multi-principal element alloys](https://doi.org/10.1073/pnas.2526642123) | Zhang B et al. |
-| 2026-11-19 | [Physicochemical microenvironments within biomolecular condensates govern reaction kinetics beyond mass-action effects](https://doi.org/10.1073/pnas.2611172123) | Bae J et al. |
+| 2026-11-20 | [Harness design matters for AI capabilities in mathematics](https://doi.org/10.1073/pnas.2627448123) | Abouzaid M et al. |
+| 2026-11-19 | [Linear plasmids mediate antimicrobial resistance gene transfer between environmental bacteria and hospital-adapted enterococci](https://doi.org/10.1073/pnas.2619331123) | Hashimoto Y et al. |

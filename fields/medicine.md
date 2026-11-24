@@ -1,21 +1,21 @@
 # 🩺 Medicine & Public Health
 
-> Newest research preprints from **medRxiv** · refreshed daily · last update 2026-11-23
+> Newest research preprints from **medRxiv** · refreshed daily · last update 2026-11-24
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-22 | [Revisiting TabGraphSyn: training boundaries and record-level conditioning in synthetic clinical data evaluation](https://www.medrxiv.org/content/10.64898/2025.12.28.25342851v2) | Wu, Z. et al. |
-| 2026-11-22 | [Renin, Major Adverse Cardiovascular Outcomes, and the Use of Mineralocorticoid Receptor Antagonists in Hypertension](https://www.medrxiv.org/content/10.64898/2026.05.11.26352940v3) | Tsai, C.-H. et al. |
-| 2026-11-22 | [HealthFound: a health world model for quantitative reasoning on longitudinal health profiles](https://www.medrxiv.org/content/10.64898/2026.10.03.26364142v2) | Guo, H. et al. |
-| 2026-11-22 | [AI chatbots abandon sleep apnoea referral when simulated patients minimise symptoms](https://www.medrxiv.org/content/10.64898/2026.10.09.26365165v2) | Ratneswaran, D. et al. |
-| 2026-11-22 | [FHIRTrustBench: An Open Benchmark for Evaluating FHIR-Integrated Clinical AI](https://www.medrxiv.org/content/10.64898/2026.07.08.26357574v2) | Hayder, N. S. et al. |
-| 2026-11-22 | [SynTrustBench: Benchmarking Synthetic Clinical Data with Calibrated False-Positive Rates and Certified Limits of Detection](https://www.medrxiv.org/content/10.64898/2026.08.05.26359803v2) | Hayder, N. S. et al. |
-| 2026-11-21 | [Short intervals of inertial measurement unit data collected during activities of daily living can provide a quantitative method to assess disease severity and functional ability in Parkinson's disease](https://www.medrxiv.org/content/10.64898/2026.10.30.26366941v2) | Vanchinathan, V. L. et al. |
-| 2026-11-21 | [Psychometric evaluation of The Index of Myalgic Encephalomyelitis Symptoms (TIMES). Part II: Criterion-related and discriminant validity, test-retest reliability and minimal detectable difference.](https://www.medrxiv.org/content/10.64898/2026.02.25.26347081v2) | Tyson, S. F. et al. |
-| 2026-11-21 | [Exon Proteogenomic Abundance Predicts Advanced Heart Failure in Titin Cardiomyopathy](https://www.medrxiv.org/content/10.1101/2025.11.02.25338804v3) | Deckerman, P. et al. |
-| 2026-11-21 | [Clonal B cell responses are a distinguishing feature of disease progression and cardiac fibrosis in human Chagas cardiomyopathy](https://www.medrxiv.org/content/10.64898/2026.10.28.26366745v2) | Duque, C. et al. |
-| 2026-11-21 | [Positive association of abdominal subcutaneous fat with cardiometabolic risk in thin, young Indians: A window on the developmental trajectory of adiposity-based chronic disease (ABCD)](https://www.medrxiv.org/content/10.64898/2026.02.01.26345312v3) | Wagh, R. S. et al. |
-| 2026-11-21 | [Risk of bias in psychotherapy trials for depression: a large-scale empirical examination using a structured assessment tool developed for psychotherapy research](https://www.medrxiv.org/content/10.1101/2025.06.26.25330349v2) | Miguel, C. et al. |
+| 2026-11-23 | [Clinical translation of ultrasoft Fleuron probes for stable, high-density, and bidirectional brain interfaces](https://www.medrxiv.org/content/10.1101/2025.04.24.25326126v4) | Lee, J. et al. |
+| 2026-11-23 | [Plasma DNA fragmentomic analysis for evaluation of patients with pancreatic cystic neoplasms](https://www.medrxiv.org/content/10.1101/2024.12.13.24318579v2) | Marcinak, C. T. et al. |
+| 2026-11-23 | [Systematic Review and External Validation of Clinical Prediction Models for Adverse Pregnancy Outcomes Using Routinely Collected Pre-Conception and Early Pregnancy Data](https://www.medrxiv.org/content/10.64898/2026.09.21.26363564v2) | Zhang, Y. et al. |
+| 2026-11-23 | [Mechanistic Assessment of Norepinephrine Therapy versus Angiotensin-II on Organ Function in Septic Shock (MANTRA): Study Protocol for a multicenter open-label randomized trial](https://www.medrxiv.org/content/10.64898/2026.09.12.26362906v2) | Filbin, M. et al. |
+| 2026-11-23 | [Genome-wide analyses identify 147 loci associated with obstructive sleep apnea](https://www.medrxiv.org/content/10.1101/2025.11.08.25339824v2) | Garcia-Marin, L. M. et al. |
+| 2026-11-23 | [Hitchhiker bias can distort inference of pathogen severity and pathogen-pathogen interactions from symptom-based surveillance: A modeling study](https://www.medrxiv.org/content/10.64898/2026.03.13.26348325v2) | Kumari, K. et al. |
+| 2026-11-23 | [Evaluation of a Brief Educational Intervention to Improve Healthcare Provider Communication About Autism Genetic Testing](https://www.medrxiv.org/content/10.64898/2026.11.19.26368524v1) | Pilson, O. G. et al. |
+| 2026-11-23 | [Quantification of Bias-Variance Tradeoffs in Genome-Wide Polygenic Indices: When 'Good' PGIs are Bad and 'Bad' PGIs are Good](https://www.medrxiv.org/content/10.64898/2026.11.18.26368405v1) | Dragostinov, Y. et al. |
+| 2026-11-23 | [Escape from X-chromosome inactivation increases disease risk and drives sex-differential genetic effects: a population-scale PheXWAS](https://www.medrxiv.org/content/10.64898/2026.11.20.26368570v1) | Perez-Elena, M. A. et al. |
+| 2026-11-23 | [Transcriptional aging across CNS tissues in the ALS-FTD spectrum reflects clock architecture and disease-associated cellular signatures](https://www.medrxiv.org/content/10.64898/2026.11.19.26368520v1) | Zhao, T. et al. |
+| 2026-11-23 | [Haploinsufficiency, de novo and biallelic missense variants in CSMD2 are associated with neurodevelopmental disorders](https://www.medrxiv.org/content/10.64898/2026.09.24.26361611v3) | Pailler-Pradeau, C. et al. |
+| 2026-11-23 | [Unified Machine Learning Model for Early Detection of Mild Cognitive Impairment, Frailty, and Fall Risk Using Multimodal Motor-Function Data](https://www.medrxiv.org/content/10.64898/2026.11.19.26368462v1) | Akter, S. et al. |

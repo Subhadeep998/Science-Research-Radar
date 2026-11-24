@@ -1,21 +1,21 @@
 # 🧠 Neuroscience
 
-> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-23
+> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-24
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-22 | [A latent tau amplifier in the neuronal proteome lowers the seeding threshold for Alzheimers disease pathology](https://www.biorxiv.org/content/10.64898/2026.11.16.766884v1) | Tsaka, G. et al. |
-| 2026-11-22 | [Bayesian nonparametric identification of spectrally distinct neural states](https://www.biorxiv.org/content/10.64898/2025.12.20.695571v4) | Yamada, S. et al. |
-| 2026-11-22 | [CortexDecoder: Efficient fMRI-to-Image Reconstruction from Cortical Flatmaps](https://www.biorxiv.org/content/10.64898/2026.10.09.757766v3) | Imoto-Tar, T. et al. |
-| 2026-11-22 | [How brain operation emerges from its nested recurrent circuitry extending into the body](https://www.biorxiv.org/content/10.64898/2026.07.31.742003v2) | Szeier, S. et al. |
-| 2026-11-22 | [The exocyst is an insulin-sensitive regulator of amyloid precursor protein trafficking and amyloid-beta generation in neurons](https://www.biorxiv.org/content/10.64898/2026.04.14.717551v2) | Balaan, C. et al. |
-| 2026-11-22 | [An atlas of the aging glycoproteome reveals how glycosylation modulates autoantibody binding in the brain](https://www.biorxiv.org/content/10.64898/2026.10.28.762617v2) | Schoof, M. et al. |
-| 2026-11-22 | [Weberian interval discrimination and temporal pattern generalization in Drosophila](https://www.biorxiv.org/content/10.64898/2026.02.04.703894v2) | Lo, T.-N. et al. |
-| 2026-11-22 | [Access and local retention control neutrophil function in retinal regeneration](https://www.biorxiv.org/content/10.64898/2026.11.16.766911v2) | Li, Y. et al. |
-| 2026-11-22 | [Ascorbic Acid (Vitamin C) Attenuates Dichlorvos-Induced Neurobehavioral and Oxido-Inflammatory Stress in Discrete Brain Regions](https://www.biorxiv.org/content/10.64898/2026.10.22.760251v2) | Ogbuokiri, D. K. et al. |
-| 2026-11-22 | [Layer-Wise Emergence of Human-Derived Object Dimensions in Deep Neural Networks](https://www.biorxiv.org/content/10.1101/2025.05.19.654977v3) | Burger, F. et al. |
-| 2026-11-21 | [Competing routes back to firing shape population hyperexcitability and its selective suppression](https://www.biorxiv.org/content/10.64898/2026.11.09.765141v2) | Kamaraj, A. K. et al. |
-| 2026-11-21 | [Detecting behavioural oscillations with increased sensitivity: A modification of Brookshire's (2022) AR-surrogate method](https://www.biorxiv.org/content/10.1101/2024.08.22.609278v3) | Harris, A. M. et al. |
+| 2026-11-23 | [Chronic evoked seizures differentially worsen cognitive function and long-term neuropsychiatric comorbidities in Alzheimer's disease-related genotypes](https://www.biorxiv.org/content/10.64898/2026.11.20.768142v1) | Knox, K. et al. |
+| 2026-11-23 | [Identification of a human Anxa1-associated dopaminergic population linked to Parkinson's disease vulnerability and sensorimotor putaminal networks](https://www.biorxiv.org/content/10.64898/2026.11.20.766782v1) | Schonfeld, E. et al. |
+| 2026-11-23 | [The language network responds stronger to connected than to unconnected sentences](https://www.biorxiv.org/content/10.64898/2026.11.20.768057v1) | Paliga, F. et al. |
+| 2026-11-23 | [Preparatory beta activity reflects the precision demands of an upcoming movement](https://www.biorxiv.org/content/10.64898/2026.11.20.765987v1) | Delisle-Godin, D. et al. |
+| 2026-11-23 | [Intranasal oxytocin increases early tactile engagement with a robotic dog: A within-session effect without consolidation](https://www.biorxiv.org/content/10.64898/2026.11.20.768097v1) | Aydin, S. et al. |
+| 2026-11-23 | [Reduced subcortical envelope phase locking in middle age without detectable changes in perceptual discrimination](https://www.biorxiv.org/content/10.64898/2026.11.20.768042v1) | Lopez-Ramos, D. et al. |
+| 2026-11-23 | [Decoding Cortical Precursors of Evoked and Spontaneous Pupil Dilation](https://www.biorxiv.org/content/10.64898/2026.05.27.726399v2) | Komori, T. et al. |
+| 2026-11-23 | [Stimulus and circuit contributions to the information geometry of neural manifolds](https://www.biorxiv.org/content/10.64898/2026.06.21.733384v2) | Goedeke, S. et al. |
+| 2026-11-23 | [Investigating Motor Skill Acquisition in Mice and Humans: Towards A Cross-Species Paradigm](https://www.biorxiv.org/content/10.64898/2026.11.20.768070v1) | Hille, M. et al. |
+| 2026-11-23 | [Perineuronal net homeostasis by the NRG1/ErbB4 signaling for cognitive function](https://www.biorxiv.org/content/10.64898/2026.11.20.768068v1) | Luo, B. et al. |
+| 2026-11-23 | [Mechanical strain and strain rate define thresholds of single-cell and ensemble calcium disruption in traumatic brain injury](https://www.biorxiv.org/content/10.64898/2026.11.20.768182v1) | Sergay, J. A. et al. |
+| 2026-11-23 | [Modulation of genetic- and toxicant-induced Parkinson's disease outcomes by SV2C in C. elegans](https://www.biorxiv.org/content/10.64898/2026.11.20.767914v1) | Knickerbocker, A. C. et al. |

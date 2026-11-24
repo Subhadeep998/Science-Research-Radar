@@ -1,21 +1,21 @@
 # 🦠 Microbiology & Immunology
 
-> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-23
+> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-24
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-22 | [Xist deletion in T cells protects against influenza-induced lung injury](https://www.biorxiv.org/content/10.64898/2026.11.20.768059v1) | Valero-Pacheco, N. et al. |
-| 2026-11-22 | [Variation of anti-oomycete activity in Pseudomonas spp.: phenotypic characterization and comparative genomics](https://www.biorxiv.org/content/10.64898/2026.04.24.720349v3) | Saric, E. et al. |
-| 2026-11-22 | [Decoding the molecular cues regulating the transition of Influenza virus polymerase from transcriptase to replicase.](https://www.biorxiv.org/content/10.64898/2026.11.05.764532v2) | De, A. et al. |
-| 2026-11-22 | [Single-nucleus proteomics reveals proteins regulating LPS-induced nucleocytoplasmic transport in macrophages](https://www.biorxiv.org/content/10.1101/2024.06.17.599449v2) | Derks, J. et al. |
-| 2026-11-22 | [Detection of bifidobacterial lipoproteins with anti-viral potential in donor human milk](https://www.biorxiv.org/content/10.64898/2026.07.21.739262v4) | AYARI, S. et al. |
-| 2026-11-21 | [IL-15 superagonist induces robust STAT5 phosphorylation to support the differentiation and survival of tumor-relevant memory precursor effector-like CD8 T cells, enhancing long-term antitumor protection](https://www.biorxiv.org/content/10.1101/2025.08.12.669959v3) | Cruz, T. D. et al. |
-| 2026-11-21 | [Homologs of the Major Vault Protein defend bacteria against ribotoxins](https://www.biorxiv.org/content/10.64898/2026.11.20.768214v1) | Bullen, N. P. et al. |
-| 2026-11-21 | [Defining the molecular interaction between influenza hemagglutinin and MHC-II](https://www.biorxiv.org/content/10.64898/2026.07.17.738765v2) | Dadonaite, B. et al. |
-| 2026-11-21 | [Distinct innate immune states associate with divergent serological outcomes after syphilis treatment](https://www.biorxiv.org/content/10.64898/2026.11.15.766608v1) | Wei, Q. et al. |
-| 2026-11-21 | [Chemolithoautotrophic acidophile phenotyping by measuring metabolic byproduct formation in microplates](https://www.biorxiv.org/content/10.64898/2026.11.20.768213v1) | Dailey, D. A. et al. |
-| 2026-11-21 | [Deciphering the role of adenosine-related genes in regulating smooth muscle cell phenotypic switch in coronary heart disease via single-cell RNA sequencing](https://www.biorxiv.org/content/10.64898/2026.11.12.766320v1) | cao, k. k. et al. |
-| 2026-11-20 | [Microbes use transporters to regulate the release of metabolites based on value](https://www.biorxiv.org/content/10.1101/2025.08.19.671024v4) | Sulheim, S. et al. |
+| 2026-11-23 | [Terminally differentiated CX3CR1+ natural killer cells drive coronary arteritis through an NFAT-T-bet axis](https://www.biorxiv.org/content/10.64898/2026.11.20.767965v1) | Fujita, M. et al. |
+| 2026-11-23 | [Dynamic T-cell receptor repertoire remodeling is associated with murine and human lung allograft dysfunction](https://www.biorxiv.org/content/10.64898/2026.11.20.768159v1) | Wang, Y. et al. |
+| 2026-11-23 | [Modular innate recognition in conventional T cells through FcRγ reconstitution](https://www.biorxiv.org/content/10.64898/2026.11.20.768012v1) | Halligan, C. et al. |
+| 2026-11-23 | [The ACDC domains of AP2-O3 and FD3 contribute to protein interactions and ookinete development](https://www.biorxiv.org/content/10.64898/2026.11.19.767835v1) | Tang, J. et al. |
+| 2026-11-23 | [Fungal abundance and community composition associations with environmental and operational factors within and between manufacturing facilities.](https://www.biorxiv.org/content/10.64898/2026.11.20.768029v1) | Anthony, N. et al. |
+| 2026-11-23 | [maoP impacts biofilm formation via csgD in Salmonella Typhimurium](https://www.biorxiv.org/content/10.64898/2026.11.20.767877v1) | Horton, J. C. I. et al. |
+| 2026-11-23 | [Identification of two novel lipoteichoic acid synthases essential for viability in Clostridioides difficile.](https://www.biorxiv.org/content/10.64898/2026.11.20.767628v1) | Zbylicki, B. R. et al. |
+| 2026-11-23 | [Viral genetic variation programs divergent neuroimmune states during rabies infection](https://www.biorxiv.org/content/10.64898/2026.11.20.768130v1) | Gassmann, S. et al. |
+| 2026-11-23 | [Hyphosphere Hunting Grounds: Fungal Hyphae Guide a Protist Predator to its Bacterial Prey](https://www.biorxiv.org/content/10.64898/2026.11.22.768452v1) | Abeysinghe, G. et al. |
+| 2026-11-23 | [Cross-species dissemination of diverse plasmid lineages and mobile resistance modules shapes carbapenemase co-production in Chilean Enterobacterales](https://www.biorxiv.org/content/10.64898/2026.11.22.768343v1) | Guerra-Leal, N. et al. |
+| 2026-11-23 | [The identification of 110 novel Mycobacterium species within 57,974 UK Health Security Agency clinical samples](https://www.biorxiv.org/content/10.64898/2026.11.19.767610v1) | Massey, R. J. et al. |
+| 2026-11-23 | [DRP1 Orchestrates RNA Virus Permissiveness Through Metabolic Reprogramming Independent of Mitochondrial Dynamics](https://www.biorxiv.org/content/10.64898/2026.11.19.767996v1) | Potharaju, P. S. et al. |

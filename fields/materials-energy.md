@@ -1,21 +1,21 @@
 # 🔋 Materials & Energy
 
-> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-23
+> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-24
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-20 | [A Microwave-Photonics Formulation of the Rydberg-Atom Receiver](https://arxiv.org/abs/2611.27942v1) | David Rosser |
-| 2026-11-20 | [Linear Response Theory of Nitrogen K-Edge X-ray Absorption of TCNQ](https://arxiv.org/abs/2611.27869v1) | Alberto Boccuni et al. |
-| 2026-11-20 | [Prediction and characterisation of cation topology of pentanary high-entropy alloy (MoWNbTaV)S$_2$](https://arxiv.org/abs/2611.27842v1) | Shubham Agarwal et al. |
-| 2026-11-20 | [Voltage-Controlled Dielectric Cavity Magnonics in Epitaxial Fe Films on SrTiO3 Single Crystal Substrates](https://arxiv.org/abs/2611.27837v1) | Stijn Reniers et al. |
-| 2026-11-20 | [Heat cleaning kinetics and thermal degradation of MOCVD-grown GaAs photocathodes](https://arxiv.org/abs/2611.27833v1) | Gregory Blume et al. |
-| 2026-11-20 | [Shift current as a stacking spectroscopy of hexagonal boron nitride multilayers](https://arxiv.org/abs/2611.27785v1) | Sanber Vizcaya et al. |
-| 2026-11-20 | [General Transport Signatures of Odd-Parity Magnets: Charge--Spin Selection Rules and Temporal--Spectral Separation](https://arxiv.org/abs/2611.27763v1) | Junxi Yu et al. |
-| 2026-11-20 | [Atomistic theory of the $d$-wave phonon angular momentum splitter effect](https://arxiv.org/abs/2611.27747v1) | Daniel A. Bustamante Lopez et al. |
-| 2026-11-20 | [Silver/alumina-capped Janus particles: a dispersible hyperbolic metamaterial](https://arxiv.org/abs/2611.27736v1) | Samhita Kattekola et al. |
-| 2026-11-20 | [Atomic interferometry based on a phase-jump error signal with suppression of the lineshape-asymmetry-caused shift](https://arxiv.org/abs/2611.27592v1) | V. I. Yudin et al. |
-| 2026-11-20 | [Edge-dislocation interactions with sub 3 nm vacancy and interstitial clusters in FeCr alloys: Mechanisms, Obstacle strength and Fate](https://arxiv.org/abs/2611.27583v1) | Layatmika Sahoo et al. |
-| 2026-11-20 | [Disentangling Lengthscales in Disordered Fracture](https://arxiv.org/abs/2611.27581v1) | Matthaios Chouzouris et al. |
+| 2026-11-23 | [Molecular Pawns on a Surface Chessboard: Computational Investigation of Nanographenes with Atomistic Methods](https://arxiv.org/abs/2611.30917v1) | Antonio Lorenzo Mariano et al. |
+| 2026-11-23 | [Altermagnetism of MnSiN2 and MnGeN2 in a wurtzite-based crystal structure](https://arxiv.org/abs/2611.30865v1) | Ilteris K. Turan et al. |
+| 2026-11-23 | [Gallium at germanium surfaces: links to superconducting films and correlated adatom lattices](https://arxiv.org/abs/2611.30809v1) | Peter Jacobson |
+| 2026-11-23 | [Janus Asymmetry Unlocks Rashba Spintronics and Chiral Phononics in Two-Dimensional Carbo-Chalcogenides](https://arxiv.org/abs/2611.30767v1) | Valentina Barreca et al. |
+| 2026-11-23 | [Two-dimensional Thyristor](https://arxiv.org/abs/2611.30748v1) | Purbasha Ray et al. |
+| 2026-11-23 | [The effect of isotopically-enriched 70Ge on the Raman scattering in Cr2Ge2Te6](https://arxiv.org/abs/2611.30688v1) | Grzegorz Krasucki et al. |
+| 2026-11-23 | [Strain-induced non-trivial band topology and large magnetoresistance in epitaxial SrTaO$_3$ thin films](https://arxiv.org/abs/2611.30681v1) | Aditya Mehta et al. |
+| 2026-11-23 | [Coupled Altermagnetic and Valley Physics in Monolayer VBiSe$_3$](https://arxiv.org/abs/2611.30649v1) | Divyanshi Tyagi et al. |
+| 2026-11-23 | [A Highly Tunable (Ti,Zr)N$_x$-Based MIM Plasmonic Sensor for Multidomain Biological, Chemical, and Physical Sensing](https://arxiv.org/abs/2611.30614v1) | Mohammad Abrar Kabir et al. |
+| 2026-11-23 | [Electric Field Assisted Charge Transfer Mediated Electronic Coupling in Ferromagnetic/Multiferroic Hetero-structure](https://arxiv.org/abs/2611.30598v1) | Subho Saha et al. |
+| 2026-11-23 | [Asymmetrical transport distribution function: skewness as a key to enhance thermoelectric performance](https://arxiv.org/abs/2611.30565v1) | Jin-Cheng Zheng |
+| 2026-11-23 | [Femtosecond laser-controlled production of functional titanium niobate layers from TiO$_{2}$/Nb$_{2}$O$_{5}$ powders](https://arxiv.org/abs/2611.30549v1) | Gonzalo Gomez-Munoz et al. |

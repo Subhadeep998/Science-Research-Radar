@@ -1,21 +1,21 @@
 # 🧪 Chemistry
 
-> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-23
+> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-24
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-20 | [Receptor Abundance Alone Underpredicts Red Blood Cell Adhesion in Gaucher Disease](https://arxiv.org/abs/2611.27960v1) | Zhaojie Chai et al. |
-| 2026-11-20 | [Molecular structure breaks universality in screening behavior of electrolyte solutions](https://arxiv.org/abs/2611.27955v1) | Anna T. Bui et al. |
-| 2026-11-20 | [Minkowski Correlation Functions (MCF): Long-range, robust shape descriptors for point patterns](https://arxiv.org/abs/2611.27948v1) | Dominik Pabst et al. |
-| 2026-11-20 | [Corrections to the Fick-Jacobs Description of Diffusion across Pickering Droplet Interfaces](https://arxiv.org/abs/2611.27818v1) | Rohit Khandoori et al. |
-| 2026-11-20 | [Silver/alumina-capped Janus particles: a dispersible hyperbolic metamaterial](https://arxiv.org/abs/2611.27736v1) | Samhita Kattekola et al. |
-| 2026-11-20 | [Beyond the Ground State: Assessing the Machine-Learned Skala Functional in ΔSCF Calculations of Molecular Excitation Energies](https://arxiv.org/abs/2611.27711v1) | Egor Trushin et al. |
-| 2026-11-20 | [Stall-Triggered Newton-Krylov-Assisted DIIS and Its Machine-Learning-Accelerated Variant for CCSD Convergence](https://arxiv.org/abs/2611.27705v1) | Shamik Chanda et al. |
-| 2026-11-20 | [Capillary partitioning of solutes on conformally coated colloidal monolayers: a universal geometric threshold](https://arxiv.org/abs/2611.27658v1) | Renaud A. L. Vallée et al. |
-| 2026-11-20 | [Cyclic perturbations encode memories in trained neural networks without loss of performance](https://arxiv.org/abs/2611.27647v1) | Max Kerr Winter et al. |
-| 2026-11-20 | [A nonlinear transient finite element analysis of coupled solvent diffusion and large deformation of magneto-elastic hydrogel balloon](https://arxiv.org/abs/2611.27644v1) | Nadeem Karim Shaikh et al. |
-| 2026-11-20 | [Disentangling Lengthscales in Disordered Fracture](https://arxiv.org/abs/2611.27581v1) | Matthaios Chouzouris et al. |
-| 2026-11-20 | [Lacrymaria-like dynamics: compression and length change in active slender bodies](https://arxiv.org/abs/2611.27577v1) | Clément Moreau et al. |
+| 2026-11-23 | [Quantifying Errors in Chemical Kinetics](https://arxiv.org/abs/2611.30921v1) | Skyla B. White et al. |
+| 2026-11-23 | [Statistical mechanics of noisy collisions in active matter: Dyson-Landau theory](https://arxiv.org/abs/2611.30910v1) | Horst-Holger Boltz et al. |
+| 2026-11-23 | [Analytic nuclear gradients for electronic resonances with the equation-of-motion coupled-cluster method and complex basis functions](https://arxiv.org/abs/2611.30830v1) | Robin E. Moorby et al. |
+| 2026-11-23 | [Real-time optimization with online learning for pressure swing adsorption](https://arxiv.org/abs/2611.30828v1) | Carine de Menezes Rebello et al. |
+| 2026-11-23 | [Nonequilibrium Dynamics of R-loop Formation in the CRISPR-Cas9 System](https://arxiv.org/abs/2611.30527v1) | Yu Liu et al. |
+| 2026-11-23 | [Impact of Topology and Sequence Length on the Pressure-Dependent Collapsibility of Proteins](https://arxiv.org/abs/2611.30336v1) | Jiayi Wang et al. |
+| 2026-11-23 | [A response-based self-energy from equation-of-motion coupled-cluster theory and its reduction to GW, GW+SOSEX, and GF2](https://arxiv.org/abs/2611.30263v1) | Ajith Perera et al. |
+| 2026-11-23 | [Growing Knot Embeddings into Spherical Graphs](https://arxiv.org/abs/2611.30245v1) | Eren Gülmez et al. |
+| 2026-11-23 | [Dynamical evolution and rheological behavior of a sheared compound vesicle with a highly viscous core: a mesoscale particle-based study](https://arxiv.org/abs/2611.30232v1) | A. Lamura |
+| 2026-11-23 | [Accelerating interatomic potential development through student-driven exploration and reliability-aware distillation](https://arxiv.org/abs/2611.30229v1) | Ruiqi Dong et al. |
+| 2026-11-23 | [What Do Co-Folding Models Learn? Insights from Enhanced Transition Path Sampling](https://arxiv.org/abs/2611.30062v1) | Muhammad R. Hasyim |
+| 2026-11-23 | [Solids activated by multi-body nonreciprocity](https://arxiv.org/abs/2611.30058v1) | Brady Wu et al. |

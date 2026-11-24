@@ -1,21 +1,21 @@
 # 🔭 Astronomy & Space
 
-> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-23
+> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-24
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-20 | [Ohmic warm inflation](https://arxiv.org/abs/2611.27986v1) | Anish Ghoshal et al. |
-| 2026-11-20 | [Nearly pristine gas and hard ionizing radiation one billion years after the Big Bang](https://arxiv.org/abs/2611.27979v1) | Takahiro Morishita et al. |
-| 2026-11-20 | [Recovering buoyancy-glitch parameters in low-luminosity red giants from global stellar properties with machine learning](https://arxiv.org/abs/2611.27954v1) | Jiang Chen |
-| 2026-11-20 | [Atmospheric parameters and chemical abundances of young stars with APOGEE -- II. Carbon, Nitrogen, Oxygen, and Sulphur abundances in Orion](https://arxiv.org/abs/2611.27952v1) | Ricardo López-Valdivia et al. |
-| 2026-11-20 | [An early interaction between the Sagittarius dwarf and the Milky Way I: Fossil signatures in the phase-space structure of the disc](https://arxiv.org/abs/2611.27898v1) | Payel Das et al. |
-| 2026-11-20 | [A TESS Search for Optical Variability in Intermediate-mass Black Hole Candidates](https://arxiv.org/abs/2611.27890v1) | Jinghuai Yao et al. |
-| 2026-11-20 | [Hotter than Little Red Dots: Two Quasars with $T\sim10^4\,\mathrm{K}$ blackbody-like continua at $z\sim4$](https://arxiv.org/abs/2611.27856v1) | Kristiphong Boonmee et al. |
-| 2026-11-20 | [Diffusing the assumptions: towards realistic LISA stochastic component separation with physics-aware simulation-based inference](https://arxiv.org/abs/2611.27848v1) | Iuliu Cuceu et al. |
-| 2026-11-20 | [Carving the Neptunian desert as a function of stellar mass and lifetime XUV irradiation](https://arxiv.org/abs/2611.27836v1) | George W. King et al. |
-| 2026-11-20 | [What determines the properties of Population III binaries?](https://arxiv.org/abs/2611.27820v1) | Neha Singh et al. |
-| 2026-11-20 | [Precise Interstellar Extinction Estimates for Nearly Ten Million Stars Based on Multiple Spectroscopic Surveys](https://arxiv.org/abs/2611.27773v1) | Bao-Kun Sun et al. |
-| 2026-11-20 | [2026 QQ8: Earth's temporary flyby of maximum lunation](https://arxiv.org/abs/2611.27770v1) | Grigori Fedorets et al. |
+| 2026-11-23 | [Joint Flow-Matching Posteriors for Overlapping LISA Galactic Binaries](https://arxiv.org/abs/2611.30872v1) | Davide Sartor et al. |
+| 2026-11-23 | [Radial mean free path bubble size distribution (RMFP-BSD) from the Epoch of Reionization](https://arxiv.org/abs/2611.30863v1) | Ivelin Georgiev et al. |
+| 2026-11-23 | [An Intergalactic medium centred parametrisation of the 21-cm power spectrum from the Epoch of Reionization](https://arxiv.org/abs/2611.30862v1) | Ivelin Georgiev et al. |
+| 2026-11-23 | [Early Realignment of Eccentric Planetary Orbits without Orbital Decay](https://arxiv.org/abs/2611.30855v1) | Diego J. Muñoz |
+| 2026-11-23 | [Geneva seven-colour synthetic photometry from Gaia DR3 spectrophotometry](https://arxiv.org/abs/2611.30853v1) | E. Paunzen |
+| 2026-11-23 | [Analytic $k$-essence Inflation](https://arxiv.org/abs/2611.30846v1) | V. K. Oikonomou |
+| 2026-11-23 | [Search for Axion-like Particles using Blazar Observations with the HAWC Observatory](https://arxiv.org/abs/2611.30818v1) | HAWC Collaboration et al. |
+| 2026-11-23 | [Constraining Gamma-Ray Emission Beyond the TOV Limit: A Targeted Fermi-GBM Search for Counterparts to 39 LVK Gravitational-Wave Candidates in GWTC-5.0](https://arxiv.org/abs/2611.30800v1) | Navya Raj |
+| 2026-11-23 | [The system initial mass function of Orion OB1b from probabilistic Gaia DR3 memberships](https://arxiv.org/abs/2611.30730v1) | Rodrigo Cabral et al. |
+| 2026-11-23 | [Exact analytic solutions for the $n=1$ chameleon field in planar systems with an arbitrary number of uniform layers](https://arxiv.org/abs/2611.30712v1) | Chad Briddon et al. |
+| 2026-11-23 | [Archival X-Ray Observations of the Eclipsing Algol-type Binary TV~Cassiopeiae](https://arxiv.org/abs/2611.30701v1) | Jun Yang |
+| 2026-11-23 | [The EX~Lupi Asymmetric Micro-jet Revealed with Spectro-astrometry](https://arxiv.org/abs/2611.30696v1) | A. Unni et al. |
