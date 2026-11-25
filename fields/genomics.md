@@ -1,21 +1,21 @@
 # 🧬 Genomics & Genetics
 
-> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-24
+> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-25
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-23 | [Non-invasive detection of tissue clonal mosaicism in chronic disease](https://www.biorxiv.org/content/10.64898/2026.11.20.767624v1) | Rajagopalan, S. et al. |
-| 2026-11-23 | [Genomics of the diversification of Heliconius cydno (Lepidoptera: Nymphalidae) in northern South America: geographic and phenotypic patterns](https://www.biorxiv.org/content/10.64898/2026.11.20.768178v1) | Arias Cardenas, A. et al. |
-| 2026-11-23 | [The Impact of Germ Layer Origin on the Ageing Transcriptome](https://www.biorxiv.org/content/10.64898/2026.11.20.768114v1) | Ederies, T. et al. |
-| 2026-11-23 | [Machine Learning-based Transcriptomic Data Analysis of Long COVID Patients: Generating Hypotheses for Molecular Signatures](https://www.biorxiv.org/content/10.64898/2026.11.20.768015v1) | George, J. P. et al. |
-| 2026-11-23 | [NanoHIV-DR: a Nextflow workflow for consensus and read level HIV-1 drug resistance profiling from Oxford Nanopore sequencing](https://www.biorxiv.org/content/10.64898/2026.11.20.768148v1) | Lule, D. et al. |
-| 2026-11-23 | [Machine learning prediction of antimicrobial resistance in respiratory metagenomes](https://www.biorxiv.org/content/10.64898/2026.11.20.768127v1) | Sy, M. A. et al. |
-| 2026-11-23 | [Predicted templates improve the prediction of antibody-antigen structures by AlphaFold 3 and Boltz-2](https://www.biorxiv.org/content/10.64898/2026.11.20.768078v1) | Ziaee, O. et al. |
-| 2026-11-23 | [Large populations from few founders: founder-aware likelihoods for inferring cell proliferation rates](https://www.biorxiv.org/content/10.64898/2026.11.20.767990v1) | Han, L. et al. |
-| 2026-11-23 | [First Broad-spectrum Sami and Norse diets in northern Norway over the last 4000 years revealed by sedaDNA](https://www.biorxiv.org/content/10.64898/2026.11.20.765463v1) | Komatsu, A. et al. |
-| 2026-11-23 | [Reproductive competition amplifies purifying selection and reduces genetic load](https://www.biorxiv.org/content/10.64898/2026.11.20.768053v1) | van Oosterhout, C. et al. |
-| 2026-11-23 | [Evolutionary constraints on mitochondrial bioenergetics are reshaped in cancer](https://www.biorxiv.org/content/10.64898/2026.11.20.768050v1) | Sung, J.-Y. et al. |
-| 2026-11-23 | [Population-level learning of non-additive effects enables accurate and efficient prediction of combinatorial perturbation responses](https://www.biorxiv.org/content/10.64898/2026.11.20.768136v1) | An, s. et al. |
+| 2026-11-24 | [Genome architecture and duplication-associated functional diversification in the carnivorous plant Sarracenia purpurea](https://www.biorxiv.org/content/10.64898/2026.11.14.766640v2) | Albert et al. |
+| 2026-11-24 | [FoXSight: Facilitating Computational Hit Identification in Crystallographic Fragment Screening Experiments](https://www.biorxiv.org/content/10.64898/2026.11.01.763443v3) | Schulze, T. et al. |
+| 2026-11-24 | [Diversity of Environmental and Genome-Associated Eukaryotic Circular Rep-Encoding Single-Stranded DNA Viruses](https://www.biorxiv.org/content/10.64898/2026.11.20.768052v1) | Bezuidt, O. K. et al. |
+| 2026-11-24 | [Pharmacogenomic diversity at tuberculosis-treatment loci across African populations: phased haplotypes, regulatory architecture and NAT2 acetylator inference](https://www.biorxiv.org/content/10.64898/2026.11.22.768388v1) | Mutagonda, R. F. et al. |
+| 2026-11-24 | [Divergent immune trajectories distinguish resistance and susceptibility to bacterial leaf streak in wheat](https://www.biorxiv.org/content/10.64898/2026.11.19.767916v1) | Singh, J. et al. |
+| 2026-11-24 | [FiberTron enables regulatory variant effect prediction and testing from multi-omic long reads of a single sample](https://www.biorxiv.org/content/10.64898/2026.11.13.762587v1) | Eftychiou, M. et al. |
+| 2026-11-24 | [A Two-Stage YOLO-Swin Transformer Pipeline for Cross-Dataset White Blood Cell Classification](https://www.biorxiv.org/content/10.64898/2026.11.23.768502v1) | Chang, C.-W. et al. |
+| 2026-11-24 | [WildTrust-UAV: uncertainty-aware wildlife detection with privacy-preserving spatial disclosure and verifiable inference provenance](https://www.biorxiv.org/content/10.64898/2026.11.12.766079v1) | Verma, P. et al. |
+| 2026-11-24 | [CheekAI: An explainable, deep learning epigenetic aging clock based on lifestyle and health epigenetic biomarker proxies](https://www.biorxiv.org/content/10.64898/2026.11.21.768329v1) | Shokhirev, M. N. et al. |
+| 2026-11-24 | [Local wavefront alignment with corrected free-end penalty](https://www.biorxiv.org/content/10.64898/2026.11.23.768503v1) | Li, J. et al. |
+| 2026-11-24 | [BiocPy: A Framework for Cross-Platform Genomic Data andMethods Interoperability](https://www.biorxiv.org/content/10.64898/2026.11.14.766721v1) | Kancherla, J. et al. |
+| 2026-11-24 | [An AI agent guides a pipeline for selective protein interaction inhibitors from discovery across targets to preclinical evaluation](https://www.biorxiv.org/content/10.64898/2026.11.23.768516v1) | Abdel-Rahman, S. et al. |

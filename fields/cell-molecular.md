@@ -1,21 +1,21 @@
 # 🔬 Cell & Molecular Biology
 
-> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-24
+> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-25
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-23 | [A Conserved Interface Between COG4 and Syntaxin 5 Is Essential for Intra-Golgi Membrane Trafficking](https://www.biorxiv.org/content/10.64898/2026.11.19.767949v1) | Neetole, S. T. et al. |
-| 2026-11-23 | [Physical constraints on the social-genetic dynamics of mtDNA inside plant mitochondria](https://www.biorxiv.org/content/10.64898/2026.11.19.767932v1) | Chustecki, J. M. et al. |
-| 2026-11-23 | [A cytochrome P450 is essential for cardenolide biosynthesis in Chrysolina beetles](https://www.biorxiv.org/content/10.64898/2026.11.19.767920v1) | Xu, H. et al. |
-| 2026-11-23 | [Paint-Lac: A photoactivatable integrator for L-lactate](https://www.biorxiv.org/content/10.64898/2026.11.19.767912v1) | Peng, J. et al. |
-| 2026-11-23 | [Biophysical Characterization of ParBS Condensates suggests a physical mechanism for segregation](https://www.biorxiv.org/content/10.64898/2026.07.09.737391v3) | Gupta, R. et al. |
-| 2026-11-23 | [Functional hot-spots and communication networks of the cellular prion protein from information-theoretical measures](https://www.biorxiv.org/content/10.64898/2026.11.20.768072v1) | Guadagnin Pattaro, A. et al. |
-| 2026-11-23 | [Saddle Buckling of a Multicellular Alga Driven by Differential Growth](https://www.biorxiv.org/content/10.64898/2026.11.20.767507v1) | Wang, Z. et al. |
-| 2026-11-23 | [Structural and Biophysical Basis of the First DNA Aptamer Targeting the Dynamic p47 Adaptor of the p97 AAA+ Machine](https://www.biorxiv.org/content/10.64898/2026.11.20.768169v1) | Kim, P. E. et al. |
-| 2026-11-23 | [On the Importance of Polarizability in Simulations of 2D IR Spectra of the Potassium Ion Channel KcsA](https://www.biorxiv.org/content/10.64898/2026.11.20.768138v1) | Ranawaka, R. L. et al. |
-| 2026-11-23 | [Structural analysis of DNA binding and flexibility of the homohexameric AAA+ helicase SaPIbov1 Rep](https://www.biorxiv.org/content/10.64898/2026.11.19.767935v1) | Shin, H. et al. |
-| 2026-11-23 | [TXNDC17 and glutathione cooperate to prevent cystine-induced cell death](https://www.biorxiv.org/content/10.64898/2026.11.19.767784v1) | Coelho de Faria, C. et al. |
-| 2026-11-23 | [Rho family GTPase crosstalk through shared positive and negative feedback mechanisms underlies cytokinetic F-actin waves](https://www.biorxiv.org/content/10.64898/2026.11.19.767933v1) | Thulluru, A. et al. |
+| 2026-11-24 | [Structural basis for alpha-actinin inhibition of cofilin binding to actin filaments](https://www.biorxiv.org/content/10.1101/2025.11.16.688667v3) | Ngo, K. X. et al. |
+| 2026-11-24 | [MicroRNA spatial profiling for assessing drug efficacy in BRCA1-related triple-negative breast tumors](https://www.biorxiv.org/content/10.64898/2026.01.12.698824v3) | Mohd, O. N. et al. |
+| 2026-11-24 | [XSSDense: X-ray Solution Scattering Density Reconstruction Using a Variational Autoencoder](https://www.biorxiv.org/content/10.64898/2026.08.07.743437v2) | Monrroy, L. et al. |
+| 2026-11-24 | [A Minimally Perturbative DARPin Probe for Quantitative Fluorescence Imaging of the Human TCR-CD3 Complex](https://www.biorxiv.org/content/10.64898/2026.09.24.754129v2) | Pons Romero, M. et al. |
+| 2026-11-24 | [Identifying a cooperative catalytic network for efficient esterase catalysis](https://www.biorxiv.org/content/10.64898/2026.05.29.728779v2) | Sarak, S. et al. |
+| 2026-11-24 | [CA19-9-associated transcriptional programs in pancreatic ductal adenocarcinoma are linked to survival and drug sensitivity](https://www.biorxiv.org/content/10.64898/2026.11.20.767879v1) | Goralski, T. M. et al. |
+| 2026-11-24 | [Effective control of treadmilling filaments by plus-end capping](https://www.biorxiv.org/content/10.64898/2026.11.22.768371v1) | Ye, X. et al. |
+| 2026-11-24 | [Albumin alleviates pressure overload-induced heart failure by improving mitochondrial homeostasis via PKA-LKB1-AMPK axis](https://www.biorxiv.org/content/10.64898/2026.11.21.768247v1) | AN, Q. et al. |
+| 2026-11-24 | [Red-light-catalyzed photolipid switching enables leaflet-selective control of membrane mechanics](https://www.biorxiv.org/content/10.64898/2026.09.14.751465v3) | Yadav, R. et al. |
+| 2026-11-24 | [EM-Claw: An Experience-Grounded Language-Model Agent for Auto Cryo-EM Single-Particle Analysis](https://www.biorxiv.org/content/10.64898/2026.11.23.768522v1) | Shan, H. et al. |
+| 2026-11-24 | [Determination of both global and local protein stability in complex environments with X-ray hydroxyl radical footprinting](https://www.biorxiv.org/content/10.64898/2026.11.21.768341v1) | Costello, S. M. et al. |
+| 2026-11-24 | [Hour-long live-cell TIRF imaging of GFP-talin at ensemble and single-molecule level with low-duty-cycle picosecond supercontinuum excitation](https://www.biorxiv.org/content/10.64898/2026.11.23.768601v1) | Margadant, F. M. et al. |

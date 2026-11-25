@@ -1,21 +1,21 @@
 # 🧠 Neuroscience
 
-> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-24
+> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-25
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-23 | [Chronic evoked seizures differentially worsen cognitive function and long-term neuropsychiatric comorbidities in Alzheimer's disease-related genotypes](https://www.biorxiv.org/content/10.64898/2026.11.20.768142v1) | Knox, K. et al. |
-| 2026-11-23 | [Identification of a human Anxa1-associated dopaminergic population linked to Parkinson's disease vulnerability and sensorimotor putaminal networks](https://www.biorxiv.org/content/10.64898/2026.11.20.766782v1) | Schonfeld, E. et al. |
-| 2026-11-23 | [The language network responds stronger to connected than to unconnected sentences](https://www.biorxiv.org/content/10.64898/2026.11.20.768057v1) | Paliga, F. et al. |
-| 2026-11-23 | [Preparatory beta activity reflects the precision demands of an upcoming movement](https://www.biorxiv.org/content/10.64898/2026.11.20.765987v1) | Delisle-Godin, D. et al. |
-| 2026-11-23 | [Intranasal oxytocin increases early tactile engagement with a robotic dog: A within-session effect without consolidation](https://www.biorxiv.org/content/10.64898/2026.11.20.768097v1) | Aydin, S. et al. |
-| 2026-11-23 | [Reduced subcortical envelope phase locking in middle age without detectable changes in perceptual discrimination](https://www.biorxiv.org/content/10.64898/2026.11.20.768042v1) | Lopez-Ramos, D. et al. |
-| 2026-11-23 | [Decoding Cortical Precursors of Evoked and Spontaneous Pupil Dilation](https://www.biorxiv.org/content/10.64898/2026.05.27.726399v2) | Komori, T. et al. |
-| 2026-11-23 | [Stimulus and circuit contributions to the information geometry of neural manifolds](https://www.biorxiv.org/content/10.64898/2026.06.21.733384v2) | Goedeke, S. et al. |
-| 2026-11-23 | [Investigating Motor Skill Acquisition in Mice and Humans: Towards A Cross-Species Paradigm](https://www.biorxiv.org/content/10.64898/2026.11.20.768070v1) | Hille, M. et al. |
-| 2026-11-23 | [Perineuronal net homeostasis by the NRG1/ErbB4 signaling for cognitive function](https://www.biorxiv.org/content/10.64898/2026.11.20.768068v1) | Luo, B. et al. |
-| 2026-11-23 | [Mechanical strain and strain rate define thresholds of single-cell and ensemble calcium disruption in traumatic brain injury](https://www.biorxiv.org/content/10.64898/2026.11.20.768182v1) | Sergay, J. A. et al. |
-| 2026-11-23 | [Modulation of genetic- and toxicant-induced Parkinson's disease outcomes by SV2C in C. elegans](https://www.biorxiv.org/content/10.64898/2026.11.20.767914v1) | Knickerbocker, A. C. et al. |
+| 2026-11-24 | [Unified CEBRA learns shared neural latents across recordings to map single-neuron contributions to population codes](https://www.biorxiv.org/content/10.64898/2026.11.18.767506v2) | Benquet, C. et al. |
+| 2026-11-24 | [Laterality of subcortical structures predicts spontaneous brain dynamics](https://www.biorxiv.org/content/10.64898/2026.07.13.738145v3) | Ghafari, T. et al. |
+| 2026-11-24 | [Individual neurons in monkey sensory and prefrontal cortices contribute to both working memory maintenance and readout](https://www.biorxiv.org/content/10.64898/2026.03.13.711560v2) | Huang, Y. et al. |
+| 2026-11-24 | [Delta rhythm and voice familiarity organize neural entrainment in the infant brain](https://www.biorxiv.org/content/10.64898/2026.09.10.750698v2) | Rambosson, I. et al. |
+| 2026-11-24 | [An information theoretic approach to evaluating social behaviour in mice using automated home-cage monitoring](https://www.biorxiv.org/content/10.64898/2026.11.23.767392v1) | Chien, T. et al. |
+| 2026-11-24 | [Correction for age-appropriate relaxation reference values alters estimates of neurometabolite concentration, but not age relationships](https://www.biorxiv.org/content/10.64898/2026.11.23.768649v1) | Song, y. et al. |
+| 2026-11-24 | [Sex differences in the effects of enhanced adult hippocampal neurogenesis on pattern discrimination and Intellicage spatial learning in Bax-knockout mice](https://www.biorxiv.org/content/10.64898/2026.11.23.768231v1) | Tunc-Ozcan, E. et al. |
+| 2026-11-24 | [Sympathetic-to-microglia readouts in human brain single-nucleus data: sparse adrenergic receptor detection and age-associated homeostatic-to-inflammatory shifts in hippocampal microglia](https://www.biorxiv.org/content/10.64898/2026.11.14.765300v1) | Liang, M. et al. |
+| 2026-11-24 | [Target- and network-specific downstream effects of personalized precision transcranial magnetic stimulation: Evidence from concurrent functional neuroimaging](https://www.biorxiv.org/content/10.64898/2026.11.10.765235v1) | Lueckel, M. et al. |
+| 2026-11-24 | [Hierarchical control of visual perceptual learning with model-synthesized stimuli](https://www.biorxiv.org/content/10.64898/2026.11.23.768712v1) | Valibeigi, Y. et al. |
+| 2026-11-24 | [The neural basis of unfamiliar face recognition in humans with fMRI frequency-tagging](https://www.biorxiv.org/content/10.64898/2026.11.12.764897v1) | Laurent, M.-A. et al. |
+| 2026-11-24 | [The Dark Side of Light: Adolescent Light Exposure at Night Disrupts Hippocampal Clocks and Plasticity-Related Signaling in a Sex-Dependent Manner.](https://www.biorxiv.org/content/10.64898/2026.11.23.768669v1) | Bhan, A. et al. |

@@ -1,21 +1,21 @@
 # 🔋 Materials & Energy
 
-> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-24
+> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-25
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-23 | [Molecular Pawns on a Surface Chessboard: Computational Investigation of Nanographenes with Atomistic Methods](https://arxiv.org/abs/2611.30917v1) | Antonio Lorenzo Mariano et al. |
-| 2026-11-23 | [Altermagnetism of MnSiN2 and MnGeN2 in a wurtzite-based crystal structure](https://arxiv.org/abs/2611.30865v1) | Ilteris K. Turan et al. |
-| 2026-11-23 | [Gallium at germanium surfaces: links to superconducting films and correlated adatom lattices](https://arxiv.org/abs/2611.30809v1) | Peter Jacobson |
-| 2026-11-23 | [Janus Asymmetry Unlocks Rashba Spintronics and Chiral Phononics in Two-Dimensional Carbo-Chalcogenides](https://arxiv.org/abs/2611.30767v1) | Valentina Barreca et al. |
-| 2026-11-23 | [Two-dimensional Thyristor](https://arxiv.org/abs/2611.30748v1) | Purbasha Ray et al. |
-| 2026-11-23 | [The effect of isotopically-enriched 70Ge on the Raman scattering in Cr2Ge2Te6](https://arxiv.org/abs/2611.30688v1) | Grzegorz Krasucki et al. |
-| 2026-11-23 | [Strain-induced non-trivial band topology and large magnetoresistance in epitaxial SrTaO$_3$ thin films](https://arxiv.org/abs/2611.30681v1) | Aditya Mehta et al. |
-| 2026-11-23 | [Coupled Altermagnetic and Valley Physics in Monolayer VBiSe$_3$](https://arxiv.org/abs/2611.30649v1) | Divyanshi Tyagi et al. |
-| 2026-11-23 | [A Highly Tunable (Ti,Zr)N$_x$-Based MIM Plasmonic Sensor for Multidomain Biological, Chemical, and Physical Sensing](https://arxiv.org/abs/2611.30614v1) | Mohammad Abrar Kabir et al. |
-| 2026-11-23 | [Electric Field Assisted Charge Transfer Mediated Electronic Coupling in Ferromagnetic/Multiferroic Hetero-structure](https://arxiv.org/abs/2611.30598v1) | Subho Saha et al. |
-| 2026-11-23 | [Asymmetrical transport distribution function: skewness as a key to enhance thermoelectric performance](https://arxiv.org/abs/2611.30565v1) | Jin-Cheng Zheng |
-| 2026-11-23 | [Femtosecond laser-controlled production of functional titanium niobate layers from TiO$_{2}$/Nb$_{2}$O$_{5}$ powders](https://arxiv.org/abs/2611.30549v1) | Gonzalo Gomez-Munoz et al. |
+| 2026-11-24 | [Antiferromagnetic phase of MnTe2: spin-order-induced renormalization of phonon Raman spectrum](https://arxiv.org/abs/2611.33156v1) | Taras Palasyuk et al. |
+| 2026-11-24 | [Topological insulators on site-eliminated, projected, and patterned fractal lattices](https://arxiv.org/abs/2611.33155v1) | Aiden Mains et al. |
+| 2026-11-24 | [Compositionally Tunable Synthesis of High-Entropy Transition Metal Dichalcogenides Exhibiting Above-Room-Temperature Magnetism](https://arxiv.org/abs/2611.33115v1) | Chen Zhang et al. |
+| 2026-11-24 | [Robust growth of $α$-tantalum on sapphire at room temperature using atomically thin titanium seed layer](https://arxiv.org/abs/2611.33112v1) | Anand Kamlapure et al. |
+| 2026-11-24 | [A model colloidal gel former for the measurement of inter-particle forces](https://arxiv.org/abs/2611.33091v1) | Rui Cheng et al. |
+| 2026-11-24 | [Anharmonic enhancement of thermal conductivity in amorphous Ge$_2$Sb$_2$Te$_5$: A consistent picture from molecular dynamics and Wigner transport](https://arxiv.org/abs/2611.33089v1) | Luiz Felipe C. Pereira et al. |
+| 2026-11-24 | [Native vacancy energetics and association in TiN and CrN: chemical potential dependence, clustering, and surface effects](https://arxiv.org/abs/2611.33060v1) | Barsha Bhattacharjee et al. |
+| 2026-11-24 | [Nanoparticles with a BANG: Detonation-Driven Synthesis of Metals and Metal Oxides](https://arxiv.org/abs/2611.32985v1) | Jan Maurycy Uszko et al. |
+| 2026-11-24 | [Quantum-Inspired Tensor Train Spectral Solver for High-Resolution PDEs with Non-Periodic Boundary Conditions](https://arxiv.org/abs/2611.32968v1) | Sascha H. Hauck et al. |
+| 2026-11-24 | [Packing the Bragg sphere: complete three-dimensional photonic band gaps at the refractive index of polymers (1.55)](https://arxiv.org/abs/2611.32789v1) | Alexander Itin |
+| 2026-11-24 | [Lattice Thermal Conductivity of MgO and the MgSiO$_3$ Polymorphs Bridgmanite and Post-Perovskite at Lower-Mantle Conditions Using Fine-Tuned MACE Potentials](https://arxiv.org/abs/2611.32761v1) | Amrendra Kumar Tiwari et al. |
+| 2026-11-24 | [Neutron Spectroscopy Transformed: Deuterated ZIF-8 and Machine-Learned Potentials Catch Nitrogen Threading Its Gates](https://arxiv.org/abs/2611.32739v1) | Jeff Armstrong et al. |

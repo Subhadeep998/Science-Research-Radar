@@ -1,4 +1,4 @@
-# 🛰️ Research digest — 24 November 2026
+# 🛰️ Research digest — 25 November 2026
 
 > The newest research across every field, in one page. Refreshed every morning (IST).
 
@@ -6,171 +6,173 @@
 
 ## 📚 Peer-reviewed highlights (last 7 days)
 
-- **Nature** · [Calcium catalysed nucleophilic fluorination](https://doi.org/10.1038/s41586-026-11445-z) — _Struijs JJC et al._
-- **Nature** · [A glucose-powered artificial neuroimmune axis for metabolic control](https://doi.org/10.1038/s41586-026-11251-7) — _Xiu W et al._
-- **Science** · [Interpenetrating bottlebrush elastomer for low-loss soft ultrasonic interfaces](https://doi.org/10.1126/science.aef9553) — _Wang S et al._
-- **Science** · [The fate of poised pre-mRNAs shapes mitochondrial activity and cellular differentiation](https://doi.org/10.1126/science.aee8018) — _Rambout X et al._
-- **Cell** · [CD19 CAR T cell therapy alters disease-associated immune signatures in multiple sclerosis](https://doi.org/10.1016/j.cell.2026.10.044) — _Fischbach F et al._
-- **Cell** · [RNA folding drives species-dependent host mRNA partitioning in Ebola virus condensates](https://doi.org/10.1016/j.cell.2026.10.047) — _Fang J et al._
-- **The New England Journal of Medicine** · [Assessing Multiple Treatment Regimens for Tuberculosis](https://doi.org/10.1056/nejmoa2611913) — _Esmail H et al._
+- **Nature** · [Continuous N-to-C Peptide Synthesis](https://doi.org/10.1038/s41586-026-11448-w) — _Yin J et al._
+- **Nature** · [Architecture of the poxvirus early-transcription machinery and portal complex](https://doi.org/10.1038/s41586-026-11458-8) — _Arragain B et al._
+- **Science** · [A neural code for generative speech production in human Wernicke's area](https://doi.org/10.1126/science.aef8963) — _Silva AB et al._
+- **Science** · [Zero-shot de novo design of a metalloenzyme](https://doi.org/10.1126/science.aej3009) — _El Nesr G et al._
+- **Cell** · [Neural correlates of facial recognition in a social wasp](https://doi.org/10.1016/j.cell.2026.10.052) — _Jernigan CM et al._
+- **Cell** · [Fate patterns self-organize through the coupling of structures across cell and supracellular levels of organization](https://doi.org/10.1016/j.cell.2026.11.003) — _Ko CS et al._
+- **The New England Journal of Medicine** · [From Cold War Politics to Hot Domestic Politics - The Epidemic Intelligence Service at 75](https://doi.org/10.1056/nejmp2606018) — _Fairchild AL et al._
+- **The New England Journal of Medicine** · [Declining Fertility Rates - The Role of Assisted Reproductive Technology](https://doi.org/10.1056/nejmp2611049) — _Dahdouh EM et al._
 - **The Lancet** · [Seasonal mass vaccination with R21/Matrix-M against malaria in The Gambia and Burkina Faso: an open-label, cluster-randomised, controlled trial](https://doi.org/10.1016/s0140-6736(26)01562-x) — _Dabira ED et al._
 - **The Lancet** · [Seasonal mass vaccination for malaria control in west Africa](https://doi.org/10.1016/s0140-6736(26)01870-2) — _Kajubi R et al._
 - **Nature Medicine** · [Expansion and cytotoxicity of mucosal CAR+ T cells in enterocolitis associated with BCMA CAR-T cell therapy](https://doi.org/10.1038/s41591-026-04731-w) — _Sainz TP et al._
 - **Nature Medicine** · [Multicenter characterization of enterocolitis associated with BCMA-directed CAR T cell therapy](https://doi.org/10.1038/s41591-026-04783-y) — _Mikkilineni L et al._
+- **Nature Biotechnology** · [A unified framework for scalable differential testing for spatial omics](https://doi.org/10.1038/s41587-026-03284-0) — _Mason K et al._
 - **Nature Biotechnology** · [Programmable functional RNA design with a virtual scientist](https://doi.org/10.1038/s41587-026-03362-3) — _Huang H et al._
-- **PNAS** · [A genome-wide senescence synthetic lethality screen identifies PARP16 as a senolytic target](https://doi.org/10.1073/pnas.2627282123) — _Ghosh-Choudhary S et al._
-- **PNAS** · [Windblown dunes are born in sand at the brink of transport](https://doi.org/10.1073/pnas.2613085123) — _Marvin MC et al._
+- **PNAS** · [A chromatin biology assessment of AlphaFold3](https://doi.org/10.1073/pnas.2621340123) — _Bhargava Y et al._
+- **PNAS** · [Failure of a tropical upwelling rapidly collapsed Panama's anchoveta fishery and its exports](https://doi.org/10.1073/pnas.2633722123) — _Sellers AJ et al._
 
 ## 🤖 AI & Computing
 
-- 2026-11-23 · [PseuDRAGON: Knowledge-Guided Local LLMs for Financial-Data Pseudonymization in Closed Networks](https://arxiv.org/abs/2611.30353v1)
-- 2026-11-23 · [AutoClip-DPZO: Practical Private Clipping Selection for Differentially Private Zeroth-Order LLM Fine-Tuning](https://arxiv.org/abs/2611.30352v1)
-- 2026-11-23 · [RepoClean: Evaluating Coding Agents on Repository-Level Obsolete Code Cleanup](https://arxiv.org/abs/2611.30350v1)
-- 2026-11-23 · [Toward a Theoretical Understanding of Transformer Attention: Bayesian Estimation and Predictive Sufficiency](https://arxiv.org/abs/2611.30349v1)
+- 2026-11-24 · [Eliciting the Recall Capacity of Linear Attention](https://arxiv.org/abs/2611.32969v1)
+- 2026-11-24 · [Benchmarking Evidence Sufficiency in Vision-Language Models for Autonomous Driving](https://arxiv.org/abs/2611.32964v1)
+- 2026-11-24 · [Polynomial-Time Learning of Random Automata from One Label per Word](https://arxiv.org/abs/2611.32959v1)
+- 2026-11-24 · [Attestation is All You Need: Toward a Zero-Trust Architecture for HPC AI Agents](https://arxiv.org/abs/2611.32958v1)
 
 [More AI & Computing →](fields/ai-computing.md)
 
 ## 🦾 Robotics
 
-- 2026-11-23 · [CoSel: Cooperation as Selection for End-to-End Driving](https://arxiv.org/abs/2611.30918v1)
-- 2026-11-23 · [DexLatentWorld: 3D Cross-Embodiment Latent Action World Models for Zero-Shot Robotic Manipulation](https://arxiv.org/abs/2611.30907v1)
-- 2026-11-23 · [GlanceNav: Efficient Vision-and-Language Navigation with Streaming Memory and Counterfactual Rewind](https://arxiv.org/abs/2611.30900v1)
-- 2026-11-23 · [World Models as Native Latent Action Models](https://arxiv.org/abs/2611.30898v1)
+- 2026-11-24 · [VidForce: Predicting Force-Aware Articulation by Observing Humans](https://arxiv.org/abs/2611.32967v1)
+- 2026-11-24 · [From Safety-Driven Redundancy to Value-Driven Architecture: An ODD-Based Rationalization Framework for Level 4 Autonomous Vehicles](https://arxiv.org/abs/2611.32960v1)
+- 2026-11-24 · [DynaMimic: A Physics-Informed World Model for Humanoid Motion Tracking](https://arxiv.org/abs/2611.32944v1)
+- 2026-11-24 · [Self-Sensing Compliant Anthropomorphic Hand for Speed-Dictated Shared Force Control in Teleoperation](https://arxiv.org/abs/2611.32937v1)
 
 [More Robotics →](fields/robotics.md)
 
 ## ⚛️ Physics
 
-- 2026-11-23 · [Probing radial flow via the differential flow coefficient $v_0(p_T)$ using CMS open data](https://arxiv.org/abs/2611.30904v1)
-- 2026-11-23 · [Unbinned Likelihoods for Probability Densities with Poles](https://arxiv.org/abs/2611.30877v1)
-- 2026-11-23 · [Analytic $k$-essence Inflation](https://arxiv.org/abs/2611.30846v1)
-- 2026-11-23 · [1+1 dimensional relativistic viscous magnetohydrodynamics with self-consistent longitudinal acceleration](https://arxiv.org/abs/2611.30831v1)
+- 2026-11-24 · [The double copy and perturbative teleparallel gravity](https://arxiv.org/abs/2611.33146v1)
+- 2026-11-24 · [$QQ\bar Q\bar Q$ Quark System and Gauge/String Duality II: String Breaking](https://arxiv.org/abs/2611.33140v1)
+- 2026-11-24 · [Prospects and limitations of adaptive variational quantum algorithms for lattice field theories: a case study in 2+1 dimensions](https://arxiv.org/abs/2611.33138v1)
+- 2026-11-24 · [Scalar perturbations in extremal Reissner-Nordström geometry: new methods at work](https://arxiv.org/abs/2611.33123v1)
 
 [More Physics →](fields/physics.md)
 
 ## 🌀 Quantum Science
 
-- 2026-11-23 · [Optimal fidelity over zero-capacity erasure channels](https://arxiv.org/abs/2611.30902v1)
-- 2026-11-23 · [Coherent Recovery of Nested Codes over the Quantum Erasure Channel Using Erasure Decoding and Quantization](https://arxiv.org/abs/2611.30884v1)
-- 2026-11-23 · [Exponential advantage in quantum observation with one extra qubit](https://arxiv.org/abs/2611.30876v1)
-- 2026-11-23 · [Programmable Broadband Polarization-Preserving Optical Delay Line with Faraday Mirrors](https://arxiv.org/abs/2611.30814v1)
+- 2026-11-24 · [Quantum-Inspired Tensor Train Spectral Solver for High-Resolution PDEs with Non-Periodic Boundary Conditions](https://arxiv.org/abs/2611.32968v1)
+- 2026-11-24 · [Anomalous front propagation in many-body quantum transport with memory-dependent resetting](https://arxiv.org/abs/2611.32961v1)
+- 2026-11-24 · [Quantum kernels on breast data: concentration, surrogates, and two ways an advantage gets manufactured](https://arxiv.org/abs/2611.32942v1)
+- 2026-11-24 · [Entanglement Asymmetry and the Quantum Mpemba Effect in Inhomogeneous Quenches](https://arxiv.org/abs/2611.32934v1)
 
 [More Quantum Science →](fields/quantum.md)
 
 ## 🔭 Astronomy & Space
 
-- 2026-11-23 · [Joint Flow-Matching Posteriors for Overlapping LISA Galactic Binaries](https://arxiv.org/abs/2611.30872v1)
-- 2026-11-23 · [Radial mean free path bubble size distribution (RMFP-BSD) from the Epoch of Reionization](https://arxiv.org/abs/2611.30863v1)
-- 2026-11-23 · [An Intergalactic medium centred parametrisation of the 21-cm power spectrum from the Epoch of Reionization](https://arxiv.org/abs/2611.30862v1)
-- 2026-11-23 · [Early Realignment of Eccentric Planetary Orbits without Orbital Decay](https://arxiv.org/abs/2611.30855v1)
+- 2026-11-24 · [VENUS: A Census of Strong Lensing in a 60-Cluster JWST Survey](https://arxiv.org/abs/2611.33142v1)
+- 2026-11-24 · [Self-arresting vortex rearrangements in pinned spinning-down superfluids](https://arxiv.org/abs/2611.33103v1)
+- 2026-11-24 · [Hesperos & Eosphoros: A Coupled Differentiable Forced-Photometry Operator and Forward Model for SPHEREx Spectrophotometry](https://arxiv.org/abs/2611.33092v1)
+- 2026-11-24 · [Initial Conditions and Wave-Phase Resolution for Scalar-Field Dark Matter Simulations](https://arxiv.org/abs/2611.33083v1)
 
 [More Astronomy & Space →](fields/astronomy-space.md)
 
 ## 🔋 Materials & Energy
 
-- 2026-11-23 · [Molecular Pawns on a Surface Chessboard: Computational Investigation of Nanographenes with Atomistic Methods](https://arxiv.org/abs/2611.30917v1)
-- 2026-11-23 · [Altermagnetism of MnSiN2 and MnGeN2 in a wurtzite-based crystal structure](https://arxiv.org/abs/2611.30865v1)
-- 2026-11-23 · [Gallium at germanium surfaces: links to superconducting films and correlated adatom lattices](https://arxiv.org/abs/2611.30809v1)
-- 2026-11-23 · [Janus Asymmetry Unlocks Rashba Spintronics and Chiral Phononics in Two-Dimensional Carbo-Chalcogenides](https://arxiv.org/abs/2611.30767v1)
+- 2026-11-24 · [Antiferromagnetic phase of MnTe2: spin-order-induced renormalization of phonon Raman spectrum](https://arxiv.org/abs/2611.33156v1)
+- 2026-11-24 · [Topological insulators on site-eliminated, projected, and patterned fractal lattices](https://arxiv.org/abs/2611.33155v1)
+- 2026-11-24 · [Compositionally Tunable Synthesis of High-Entropy Transition Metal Dichalcogenides Exhibiting Above-Room-Temperature Magnetism](https://arxiv.org/abs/2611.33115v1)
+- 2026-11-24 · [Robust growth of $α$-tantalum on sapphire at room temperature using atomically thin titanium seed layer](https://arxiv.org/abs/2611.33112v1)
 
 [More Materials & Energy →](fields/materials-energy.md)
 
 ## 🧪 Chemistry
 
-- 2026-11-23 · [Quantifying Errors in Chemical Kinetics](https://arxiv.org/abs/2611.30921v1)
-- 2026-11-23 · [Statistical mechanics of noisy collisions in active matter: Dyson-Landau theory](https://arxiv.org/abs/2611.30910v1)
-- 2026-11-23 · [Analytic nuclear gradients for electronic resonances with the equation-of-motion coupled-cluster method and complex basis functions](https://arxiv.org/abs/2611.30830v1)
-- 2026-11-23 · [Real-time optimization with online learning for pressure swing adsorption](https://arxiv.org/abs/2611.30828v1)
+- 2026-11-24 · [A model colloidal gel former for the measurement of inter-particle forces](https://arxiv.org/abs/2611.33091v1)
+- 2026-11-24 · [Polar Streams through Active Condensation in Flocks](https://arxiv.org/abs/2611.33007v1)
+- 2026-11-24 · [Energy transport from an active medium](https://arxiv.org/abs/2611.32992v1)
+- 2026-11-24 · [Confinement-induced Transitions of Chiral Active Particles and Dumbbells](https://arxiv.org/abs/2611.32972v1)
 
 [More Chemistry →](fields/chemistry.md)
 
 ## 🌍 Earth & Climate
 
-- 2026-11-23 · [MUNDO: a multiresolution generative framework for temporal downscaling](https://arxiv.org/abs/2611.30868v1)
-- 2026-11-23 · [An exact and differentiable rewrite of a coupled weather and fire model](https://arxiv.org/abs/2611.30866v1)
-- 2026-11-23 · [A Fitch-Based Wind Farm Parameterization for CM1: Implementation, Validation, and Impacts on Convection Initiation](https://arxiv.org/abs/2611.30806v1)
-- 2026-11-23 · [Non-intrusive Differentiation of High-Performance Seismic Solvers](https://arxiv.org/abs/2611.30524v1)
+- 2026-11-24 · [Effect of humidity and phase transition on turbulent diffusion of droplets and water vapour in atmospheric turbulent flows](https://arxiv.org/abs/2611.32703v1)
+- 2026-11-24 · [A consistent generalised kinetic equation for damped ocean waves](https://arxiv.org/abs/2611.32589v1)
+- 2026-11-23 · [Evaluation of Machine-Learning Weather Models in Reproducing Mesoscale Tornado-Favorable Convective Environments](https://arxiv.org/abs/2611.31564v1)
+- 2026-11-23 · [Transferable, Time-Parallel Graph Dynamics via Space-Time Factorization](https://arxiv.org/abs/2611.31479v1)
 
 [More Earth & Climate →](fields/earth-climate.md)
 
 ## ➗ Mathematics
 
-- 2026-11-23 · [Closed-Form Formula for $d_{\mathrm{critical}}(a_0)$ in Large Fully Connected Power Grids](https://arxiv.org/abs/2611.30922v1)
-- 2026-11-23 · [A Classification of Low Genus Modular Curves](https://arxiv.org/abs/2611.30908v1)
-- 2026-11-23 · [The number of non-isomorphic spanning trees in regular graphs](https://arxiv.org/abs/2611.30899v1)
-- 2026-11-23 · [The optimal exponent in the Erdős--Fuchs theorem for $k$-fold sums](https://arxiv.org/abs/2611.30890v1)
+- 2026-11-24 · [Dominoes tiling a common figure](https://arxiv.org/abs/2611.33154v1)
+- 2026-11-24 · [A canonical Euclidean Gallai theorem](https://arxiv.org/abs/2611.33136v1)
+- 2026-11-24 · [Regenerative range for planar random walks](https://arxiv.org/abs/2611.33134v1)
+- 2026-11-24 · [Winning and losing NoGo is PSPACE-complete](https://arxiv.org/abs/2611.33127v1)
 
 [More Mathematics →](fields/mathematics.md)
 
 ## 🧬 Genomics & Genetics
 
-- 2026-11-23 · [Non-invasive detection of tissue clonal mosaicism in chronic disease](https://www.biorxiv.org/content/10.64898/2026.11.20.767624v1)
-- 2026-11-23 · [Genomics of the diversification of Heliconius cydno (Lepidoptera: Nymphalidae) in northern South America: geographic and phenotypic patterns](https://www.biorxiv.org/content/10.64898/2026.11.20.768178v1)
-- 2026-11-23 · [The Impact of Germ Layer Origin on the Ageing Transcriptome](https://www.biorxiv.org/content/10.64898/2026.11.20.768114v1)
-- 2026-11-23 · [Machine Learning-based Transcriptomic Data Analysis of Long COVID Patients: Generating Hypotheses for Molecular Signatures](https://www.biorxiv.org/content/10.64898/2026.11.20.768015v1)
+- 2026-11-24 · [Genome architecture and duplication-associated functional diversification in the carnivorous plant Sarracenia purpurea](https://www.biorxiv.org/content/10.64898/2026.11.14.766640v2)
+- 2026-11-24 · [FoXSight: Facilitating Computational Hit Identification in Crystallographic Fragment Screening Experiments](https://www.biorxiv.org/content/10.64898/2026.11.01.763443v3)
+- 2026-11-24 · [Diversity of Environmental and Genome-Associated Eukaryotic Circular Rep-Encoding Single-Stranded DNA Viruses](https://www.biorxiv.org/content/10.64898/2026.11.20.768052v1)
+- 2026-11-24 · [Pharmacogenomic diversity at tuberculosis-treatment loci across African populations: phased haplotypes, regulatory architecture and NAT2 acetylator inference](https://www.biorxiv.org/content/10.64898/2026.11.22.768388v1)
 
 [More Genomics & Genetics →](fields/genomics.md)
 
 ## 🧠 Neuroscience
 
-- 2026-11-23 · [Chronic evoked seizures differentially worsen cognitive function and long-term neuropsychiatric comorbidities in Alzheimer's disease-related genotypes](https://www.biorxiv.org/content/10.64898/2026.11.20.768142v1)
-- 2026-11-23 · [Identification of a human Anxa1-associated dopaminergic population linked to Parkinson's disease vulnerability and sensorimotor putaminal networks](https://www.biorxiv.org/content/10.64898/2026.11.20.766782v1)
-- 2026-11-23 · [The language network responds stronger to connected than to unconnected sentences](https://www.biorxiv.org/content/10.64898/2026.11.20.768057v1)
-- 2026-11-23 · [Preparatory beta activity reflects the precision demands of an upcoming movement](https://www.biorxiv.org/content/10.64898/2026.11.20.765987v1)
+- 2026-11-24 · [Unified CEBRA learns shared neural latents across recordings to map single-neuron contributions to population codes](https://www.biorxiv.org/content/10.64898/2026.11.18.767506v2)
+- 2026-11-24 · [Laterality of subcortical structures predicts spontaneous brain dynamics](https://www.biorxiv.org/content/10.64898/2026.07.13.738145v3)
+- 2026-11-24 · [Individual neurons in monkey sensory and prefrontal cortices contribute to both working memory maintenance and readout](https://www.biorxiv.org/content/10.64898/2026.03.13.711560v2)
+- 2026-11-24 · [Delta rhythm and voice familiarity organize neural entrainment in the infant brain](https://www.biorxiv.org/content/10.64898/2026.09.10.750698v2)
 
 [More Neuroscience →](fields/neuroscience.md)
 
 ## 🔬 Cell & Molecular Biology
 
-- 2026-11-23 · [A Conserved Interface Between COG4 and Syntaxin 5 Is Essential for Intra-Golgi Membrane Trafficking](https://www.biorxiv.org/content/10.64898/2026.11.19.767949v1)
-- 2026-11-23 · [Physical constraints on the social-genetic dynamics of mtDNA inside plant mitochondria](https://www.biorxiv.org/content/10.64898/2026.11.19.767932v1)
-- 2026-11-23 · [A cytochrome P450 is essential for cardenolide biosynthesis in Chrysolina beetles](https://www.biorxiv.org/content/10.64898/2026.11.19.767920v1)
-- 2026-11-23 · [Paint-Lac: A photoactivatable integrator for L-lactate](https://www.biorxiv.org/content/10.64898/2026.11.19.767912v1)
+- 2026-11-24 · [Structural basis for alpha-actinin inhibition of cofilin binding to actin filaments](https://www.biorxiv.org/content/10.1101/2025.11.16.688667v3)
+- 2026-11-24 · [MicroRNA spatial profiling for assessing drug efficacy in BRCA1-related triple-negative breast tumors](https://www.biorxiv.org/content/10.64898/2026.01.12.698824v3)
+- 2026-11-24 · [XSSDense: X-ray Solution Scattering Density Reconstruction Using a Variational Autoencoder](https://www.biorxiv.org/content/10.64898/2026.08.07.743437v2)
+- 2026-11-24 · [A Minimally Perturbative DARPin Probe for Quantitative Fluorescence Imaging of the Human TCR-CD3 Complex](https://www.biorxiv.org/content/10.64898/2026.09.24.754129v2)
 
 [More Cell & Molecular Biology →](fields/cell-molecular.md)
 
 ## 🦠 Microbiology & Immunology
 
-- 2026-11-23 · [Terminally differentiated CX3CR1+ natural killer cells drive coronary arteritis through an NFAT-T-bet axis](https://www.biorxiv.org/content/10.64898/2026.11.20.767965v1)
-- 2026-11-23 · [Dynamic T-cell receptor repertoire remodeling is associated with murine and human lung allograft dysfunction](https://www.biorxiv.org/content/10.64898/2026.11.20.768159v1)
-- 2026-11-23 · [Modular innate recognition in conventional T cells through FcRγ reconstitution](https://www.biorxiv.org/content/10.64898/2026.11.20.768012v1)
-- 2026-11-23 · [The ACDC domains of AP2-O3 and FD3 contribute to protein interactions and ookinete development](https://www.biorxiv.org/content/10.64898/2026.11.19.767835v1)
+- 2026-11-24 · [Population-scale immunoglobulin genomics links inherited variation to antibody repertoire organization](https://www.biorxiv.org/content/10.64898/2026.06.05.730236v2)
+- 2026-11-24 · [Gas6 signaling via its cellular receptors is essential for homeostasis in response to endotoxemia and infection](https://www.biorxiv.org/content/10.64898/2026.11.13.766121v2)
+- 2026-11-24 · [Novel Stable 5-OP-RU Analogs Activate Human MAIT Cells and Promote Cytotoxic Antitumor Function](https://www.biorxiv.org/content/10.64898/2026.11.23.767938v1)
+- 2026-11-24 · [DNA Methyltransferase Inhibition During CAR T-cell Manufacturing Enhances Antitumor Activity in Immunocompetent Brain and Ovarian Cancer Models](https://www.biorxiv.org/content/10.64898/2026.11.23.768631v1)
 
 [More Microbiology & Immunology →](fields/microbes-immunity.md)
 
 ## 🎯 Cancer Research
 
-- 2026-11-23 · [Focused ultrasound-enhanced carboplatin delivery improves radiotherapy response and survival in a preclinical glioblastoma model](https://www.biorxiv.org/content/10.64898/2026.11.17.766937v2)
-- 2026-11-23 · [Kynurenine-AHR signaling sustains a targetable FATP2 dependency in advanced systemic mastocytosis](https://www.biorxiv.org/content/10.64898/2026.11.20.766488v1)
-- 2026-11-23 · [Lysosome Exocytosis Inhibition Impairs Triple-Negative Breast Cancer Cell Invasion](https://www.biorxiv.org/content/10.64898/2026.11.20.765315v1)
-- 2026-11-23 · [Caspase-7 cleavage repurposes AAK1 to suppress mRNA decay and promote tolerance to anti-tubulin agents](https://www.biorxiv.org/content/10.64898/2026.11.20.767991v1)
+- 2026-11-24 · [Spatial geometry of the Hypoxic niche predicts Radiotherapy failure in Colorectal Cancer: A Spatially Explicit Agent-Based Model](https://www.biorxiv.org/content/10.1101/2025.04.19.649627v2)
+- 2026-11-24 · [Connexin43 drives mitochondrial biogenesis and organelle stress in BRAF-mutant melanoma cells](https://www.biorxiv.org/content/10.64898/2026.11.18.767001v2)
+- 2026-11-24 · [CIP2A is a biomarker for progression and poor prognosis in cutaneous squamous cell carcinoma](https://www.biorxiv.org/content/10.64898/2026.11.19.767767v1)
+- 2026-11-24 · [A hidden mitotic vulnerability emerges from BCAT1 redox-motif disruption in Ewing sarcoma](https://www.biorxiv.org/content/10.64898/2026.11.20.768122v1)
 
 [More Cancer Research →](fields/cancer.md)
 
 ## 🛠️ Synthetic Biology & Bioengineering
 
-- 2026-11-23 · [Myosin II-FAK-paxillin Signaling Governs Mechanosensitive Responses of Neuronal Cells to Magnetic Stimulation](https://www.biorxiv.org/content/10.64898/2026.11.19.766553v1)
-- 2026-11-23 · [Internalizing-peptide engineering converts blocking anti-EGFR antibodies into EGFR lysosomal targeting degraders](https://www.biorxiv.org/content/10.64898/2026.11.20.768013v1)
-- 2026-11-23 · [EEG Source Localization with High-Resolution 40-Tissue Head Models: A Comparative Study with MEG during Photic Driving](https://www.biorxiv.org/content/10.64898/2026.11.20.768219v1)
-- 2026-11-23 · [Synthesis of Plasma Membrane-Enriched Nanodiscs from Giant Plasma Membrane Vesicles](https://www.biorxiv.org/content/10.64898/2026.11.20.768238v1)
+- 2026-11-24 · [Rigid granular scaffolds reveal transcriptional responses to cellular confinement](https://www.biorxiv.org/content/10.64898/2026.11.21.768028v1)
+- 2026-11-24 · [Engineering Bacteriophages to Overcome Complement-Mediated Neutralization](https://www.biorxiv.org/content/10.64898/2026.11.10.765437v1)
+- 2026-11-24 · [Biophysics-informed generative models improve activity and thermostability of designed ribozymes](https://www.biorxiv.org/content/10.64898/2026.11.21.768297v1)
+- 2026-11-24 · [Beyond screens: a gaze-driven auditory human-computer interface](https://www.biorxiv.org/content/10.64898/2026.11.11.765668v1)
 
 [More Synthetic Biology & Bioengineering →](fields/synbio-bioeng.md)
 
 ## 🌿 Ecology & Evolution
 
-- 2026-11-23 · [Arabidopsis histone demethylase RSI1/FLD self-regulates its pathogen-induced expression](https://www.biorxiv.org/content/10.64898/2026.11.19.767995v1)
-- 2026-11-23 · [High-throughput phenotyping reveals natural variation in tomato pollen responses to heat stress](https://www.biorxiv.org/content/10.64898/2026.11.19.767983v1)
-- 2026-11-23 · [Auxin regulates the proportions, but not the initiation, of Hibiscus trionum bullseyes](https://www.biorxiv.org/content/10.64898/2026.11.19.767829v1)
-- 2026-11-23 · [Circadian clock components CCA1 and LHY shape heat responses across regulatory layers](https://www.biorxiv.org/content/10.64898/2026.11.19.767892v1)
+- 2026-11-24 · [Structure determination and dual targeting of a plant TACO1 identifies its ancient role as an organelle translation regulator](https://www.biorxiv.org/content/10.64898/2026.05.28.728419v2)
+- 2026-11-24 · [Ultrasonic emissions of sunflower and buckwheat carry species identity in their spectrum and drought in their rate](https://www.biorxiv.org/content/10.64898/2026.11.17.767468v2)
+- 2026-11-24 · [Differential DNA methylation and transcriptome revealed enhanced photosynthetic recovery and ROS modulation to promote cold tolerance in Oryza sativa L. ssp. indica.](https://www.biorxiv.org/content/10.64898/2026.04.30.721858v2)
+- 2026-11-24 · [Two copy-number forms of the Kala4/OsB2 upstream duplication in purple rice revealed by a telomere-to-telomere genome of landrace ZN65](https://www.biorxiv.org/content/10.64898/2026.07.07.737121v5)
 
 [More Ecology & Evolution →](fields/ecology-evolution.md)
 
 ## 🩺 Medicine & Public Health
 
 - 2026-11-24 · [Cohort Versus Nested Case-Control Designs for Predicting Early-Onset Gastrointestinal Cancer Using Electronic Health Records](https://www.medrxiv.org/content/10.64898/2026.10.16.26365758v2)
-- 2026-11-23 · [Clinical translation of ultrasoft Fleuron probes for stable, high-density, and bidirectional brain interfaces](https://www.medrxiv.org/content/10.1101/2025.04.24.25326126v4)
-- 2026-11-23 · [Plasma DNA fragmentomic analysis for evaluation of patients with pancreatic cystic neoplasms](https://www.medrxiv.org/content/10.1101/2024.12.13.24318579v2)
-- 2026-11-23 · [Systematic Review and External Validation of Clinical Prediction Models for Adverse Pregnancy Outcomes Using Routinely Collected Pre-Conception and Early Pregnancy Data](https://www.medrxiv.org/content/10.64898/2026.09.21.26363564v2)
+- 2026-11-24 · [Human infection incidence for West Nile virus and Usutu virus in the Netherlands: evidence from a longitudinal nationwide cohort, 2020-2023](https://www.medrxiv.org/content/10.64898/2026.10.13.26365405v2)
+- 2026-11-24 · [Fine-tuned encoders, generative large language models and typed decisions for classifying findings in chest CT reports: paired English-Japanese internal testing and external testing on naturally written Japanese reports](https://www.medrxiv.org/content/10.64898/2026.11.18.26368388v2)
+- 2026-11-24 · [A proteomic signature for prognostic stratification in amyotrophic lateral sclerosis](https://www.medrxiv.org/content/10.64898/2026.07.20.26358511v2)
 
 [More Medicine & Public Health →](fields/medicine.md)
 

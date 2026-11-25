@@ -1,21 +1,21 @@
 # 🤖 AI & Computing
 
-> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-24
+> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-25
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-23 | [PseuDRAGON: Knowledge-Guided Local LLMs for Financial-Data Pseudonymization in Closed Networks](https://arxiv.org/abs/2611.30353v1) | Gwangui Hong et al. |
-| 2026-11-23 | [AutoClip-DPZO: Practical Private Clipping Selection for Differentially Private Zeroth-Order LLM Fine-Tuning](https://arxiv.org/abs/2611.30352v1) | Xinghe Chen et al. |
-| 2026-11-23 | [RepoClean: Evaluating Coding Agents on Repository-Level Obsolete Code Cleanup](https://arxiv.org/abs/2611.30350v1) | Hongyixuan Yuan et al. |
-| 2026-11-23 | [Toward a Theoretical Understanding of Transformer Attention: Bayesian Estimation and Predictive Sufficiency](https://arxiv.org/abs/2611.30349v1) | Fouad B. Chedid |
-| 2026-11-23 | [FMSNO: Scaling Surface Neural Operators by Learned Flow Matching Reparametrisation](https://arxiv.org/abs/2611.30341v1) | Vasilii Liamin et al. |
-| 2026-11-23 | [Learning Teacher Output Preferences from Final Responses for Reasoning Distillation](https://arxiv.org/abs/2611.30338v1) | Hongli Shen et al. |
-| 2026-11-23 | [MH-RAG-DIVE: Dynamic and Cost-Efficient Multi-Hop RAG Evaluation via Tree-Cached Dialogue Simulation](https://arxiv.org/abs/2611.30335v1) | Lorenz Brehme et al. |
-| 2026-11-23 | [When Does Reasoning Help Entity Disambiguation? Small LLMs In-Domain and Under Shift](https://arxiv.org/abs/2611.30334v1) | Samy Haffoudhi et al. |
-| 2026-11-23 | [Verifiable On-Policy Distillation](https://arxiv.org/abs/2611.30325v1) | Juntong Shi et al. |
-| 2026-11-23 | [Accuracy Is Not Evidence: Measuring and Training Evidence Dependence in Video Temporal Grounding](https://arxiv.org/abs/2611.30320v1) | Zijie Jin et al. |
-| 2026-11-23 | [HEART: Hierarchical Expert Adaptive Refinement Transformer for ECG Representation Learning](https://arxiv.org/abs/2611.30298v1) | Junho Song et al. |
-| 2026-11-23 | [Topology-Prior-Guided Regional Latent Dynamics for Transient Structural Response Prediction](https://arxiv.org/abs/2611.30293v1) | Yuan Zhang et al. |
+| 2026-11-24 | [Eliciting the Recall Capacity of Linear Attention](https://arxiv.org/abs/2611.32969v1) | Johan Lindqvist et al. |
+| 2026-11-24 | [Benchmarking Evidence Sufficiency in Vision-Language Models for Autonomous Driving](https://arxiv.org/abs/2611.32964v1) | Nhat Ha Nguyen et al. |
+| 2026-11-24 | [Polynomial-Time Learning of Random Automata from One Label per Word](https://arxiv.org/abs/2611.32959v1) | Yilin Cheng |
+| 2026-11-24 | [Attestation is All You Need: Toward a Zero-Trust Architecture for HPC AI Agents](https://arxiv.org/abs/2611.32958v1) | Jie Li et al. |
+| 2026-11-24 | ["I Do Intend to Deliver": Will LLMs Run a Marketplace Advance-Fee Scam?](https://arxiv.org/abs/2611.32957v1) | Megan Squire |
+| 2026-11-24 | [LoomKV: Lossless KV Cache Compression from GPU Memory to SSD for LLM Serving](https://arxiv.org/abs/2611.32954v1) | Wentao Zhu et al. |
+| 2026-11-24 | [Beyond Expected Value: PPO with Distributional Critics for Systematic Conservation Planning](https://arxiv.org/abs/2611.32948v1) | Ana Maria Quintero Ossa et al. |
+| 2026-11-24 | [Online V-Learning with Adaptive Longitudinal Data](https://arxiv.org/abs/2611.32947v1) | Aniruddhan Ganesaraman et al. |
+| 2026-11-24 | [ShellBench: What Matters More for AI Agents, Models, or Harness for Everyday Tasks](https://arxiv.org/abs/2611.32946v1) | Vincent Koc et al. |
+| 2026-11-24 | [PHM-ensemble: Scalable and Stable Probabilistic Multiresolution Clustering via Ensemble Density Estimation](https://arxiv.org/abs/2611.32945v1) | Ali Turfah et al. |
+| 2026-11-24 | [Quantum kernels on breast data: concentration, surrogates, and two ways an advantage gets manufactured](https://arxiv.org/abs/2611.32942v1) | Rana Saad et al. |
+| 2026-11-24 | [Do Vision-Language Models Know Their Own Visual Weaknesses? Probing Capability-Level Metacognition](https://arxiv.org/abs/2611.32940v1) | Dohoon Kim et al. |
