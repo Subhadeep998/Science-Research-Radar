@@ -21,10 +21,10 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-19 | [A neural code for generative speech production in human Wernicke's area](https://doi.org/10.1126/science.aef8963) | Silva AB et al. |
-| 2026-11-19 | [Zero-shot de novo design of a metalloenzyme](https://doi.org/10.1126/science.aej3009) | El Nesr G et al. |
 | 2026-11-19 | [Interpenetrating bottlebrush elastomer for low-loss soft ultrasonic interfaces](https://doi.org/10.1126/science.aef9553) | Wang S et al. |
 | 2026-11-19 | [The fate of poised pre-mRNAs shapes mitochondrial activity and cellular differentiation](https://doi.org/10.1126/science.aee8018) | Rambout X et al. |
+| 2026-11-19 | [A neural code for generative speech production in human Wernicke's area](https://doi.org/10.1126/science.aef8963) | Silva AB et al. |
+| 2026-11-19 | [Zero-shot de novo design of a metalloenzyme](https://doi.org/10.1126/science.aej3009) | El Nesr G et al. |
 | 2026-11-19 | [Balancing redox-mediated cytotoxicity and catalysis in natural product biosynthesis](https://doi.org/10.1126/science.aee2641) | Boesger HA et al. |
 | 2026-11-19 | [A thalamo-amygdalar circuit drives female vulnerability to chronic pain after early-life stress](https://doi.org/10.1126/science.adx5757) | Borruto AM et al. |
 | 2026-11-19 | [Atmospheric organic nitrogen is a major nutrient source to global oceans](https://doi.org/10.1126/science.aeg4265) | Yu X et al. |
@@ -34,14 +34,14 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-23 | [Neural correlates of facial recognition in a social wasp](https://doi.org/10.1016/j.cell.2026.10.052) | Jernigan CM et al. |
+| 2026-11-24 | [A shared interbacterial membrane underlies mycobacterial cording](https://doi.org/10.1016/j.cell.2026.11.002) | Petersen M et al. |
 | 2026-11-23 | [Fate patterns self-organize through the coupling of structures across cell and supracellular levels of organization](https://doi.org/10.1016/j.cell.2026.11.003) | Ko CS et al. |
+| 2026-11-23 | [Neural correlates of facial recognition in a social wasp](https://doi.org/10.1016/j.cell.2026.10.052) | Jernigan CM et al. |
 | 2026-11-23 | [Autoantibody origins in lupus and upon recurrence post CAR-T therapy](https://doi.org/10.1016/j.cell.2026.10.045) | Grenov A et al. |
+| 2026-11-23 | [Cardiomyocyte-derived circulating extracellular vesicles enable a non-invasive liquid biopsy of human myocardium](https://doi.org/10.1016/j.cell.2026.10.050) | Gokulnath P et al. |
 | 2026-11-19 | [RNA folding drives species-dependent host mRNA partitioning in Ebola virus condensates](https://doi.org/10.1016/j.cell.2026.10.047) | Fang J et al. |
 | 2026-11-19 | [CD19 CAR T cell therapy alters disease-associated immune signatures in multiple sclerosis](https://doi.org/10.1016/j.cell.2026.10.044) | Fischbach F et al. |
 | 2026-11-19 | [Genomic surveillance reveals age-structured SARS-CoV-2 transmission across settings](https://doi.org/10.1016/j.cell.2026.10.051) | Moreno GK et al. |
-| 2026-11-19 | [Myelin pathology is a key feature of X-linked dystonia-parkinsonism](https://doi.org/10.1016/j.cell.2026.10.046) | Prakash P et al. |
-| 2026-11-19 | [A natural mutation of timeless enhances mosquito thermal adaptation and malaria parasite transmission](https://doi.org/10.1016/j.cell.2026.10.049) | Wang G et al. |
 
 ## The New England Journal of Medicine
 
@@ -56,10 +56,14 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
+| 2026-11-24 | [Population surveys reveal generational changes in sexual and reproductive health](https://doi.org/10.1016/s0140-6736(26)02340-8) | Carter A et al. |
+| 2026-11-24 | [Sexual wellbeing in Britain: findings from the fourth National Survey of Sexual Attitudes and Lifestyles (Natsal-4)](https://doi.org/10.1016/s0140-6736(26)01713-7) | Mitchell KR et al. |
+| 2026-11-24 | [Strengthened inequality monitoring is needed to progress global health equity goals](https://doi.org/10.1016/s0140-6736(26)02259-2) | Hosseinpoor AR et al. |
+| 2026-11-24 | [Prevalence and trends in sexual behaviour in Britain from 1990 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal)](https://doi.org/10.1016/s0140-6736(26)01766-6) | Clifton S et al. |
+| 2026-11-24 | [Human papillomavirus (HPV) infection, vaccination, and cervical screening in Britain from 1999 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal)](https://doi.org/10.1016/s0140-6736(26)01554-0) | Trickett E et al. |
+| 2026-11-24 | [Sexually transmitted infections, behavioural risks, and uptake of sexual health services in Britain from 2010 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal)](https://doi.org/10.1016/s0140-6736(26)01605-3) | Knuppel A et al. |
 | 2026-11-19 | [Seasonal mass vaccination with R21/Matrix-M against malaria in The Gambia and Burkina Faso: an open-label, cluster-randomised, controlled trial](https://doi.org/10.1016/s0140-6736(26)01562-x) | Dabira ED et al. |
 | 2026-11-19 | [Seasonal mass vaccination for malaria control in west Africa](https://doi.org/10.1016/s0140-6736(26)01870-2) | Kajubi R et al. |
-| 2026-11-19 | [Spontaneous coronary artery dissection: implications for women's health, clinical care, and future research](https://doi.org/10.1016/s0140-6736(26)01485-6) | Bay B et al. |
-| 2026-11-19 | [TEMPORARILY REMOVED: Reproductive health in women in Britain from 2010 to 2024: findings from repeated, cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal)](https://doi.org/10.1016/s0140-6736(26)01551-5) | Pathak N et al. |
 
 ## Nature Medicine
 
@@ -67,12 +71,12 @@
 |:--|:--|:--|
 | 2026-11-19 | [Expansion and cytotoxicity of mucosal CAR+ T cells in enterocolitis associated with BCMA CAR-T cell therapy](https://doi.org/10.1038/s41591-026-04731-w) | Sainz TP et al. |
 | 2026-11-19 | [Multicenter characterization of enterocolitis associated with BCMA-directed CAR T cell therapy](https://doi.org/10.1038/s41591-026-04783-y) | Mikkilineni L et al. |
-| 2026-11-17 | [Generational gains in cognitive capacity and dementia incidence rates in Western countries](https://doi.org/10.1038/s41591-026-04759-y) | Fjell AM et al. |
 
 ## Nature Biotechnology
 
 | Date | Paper | First author |
 |:--|:--|:--|
+| 2026-11-24 | [Modular mRNA-encoded helper proteins enhance DNA delivery](https://doi.org/10.1038/s41587-026-03351-6) | Patel MN et al. |
 | 2026-11-23 | [A unified framework for scalable differential testing for spatial omics](https://doi.org/10.1038/s41587-026-03284-0) | Mason K et al. |
 | 2026-11-19 | [Programmable functional RNA design with a virtual scientist](https://doi.org/10.1038/s41587-026-03362-3) | Huang H et al. |
 

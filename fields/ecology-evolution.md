@@ -7,6 +7,8 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
+| 2026-11-25 | [Auxin and cytokinin antagonistically regulate Arabidopsis root distal stem cell fate through opposing pairs of HD-Zip II transcription factors](https://www.biorxiv.org/content/10.64898/2026.10.23.760923v2) | Sessa, G. et al. |
+| 2026-11-25 | [Common excluder barley has more than one mechanism to remove Cd from chloroplasts.](https://www.biorxiv.org/content/10.64898/2026.08.17.745281v2) | Lysenko, E. A. et al. |
 | 2026-11-24 | [Structure determination and dual targeting of a plant TACO1 identifies its ancient role as an organelle translation regulator](https://www.biorxiv.org/content/10.64898/2026.05.28.728419v2) | Raval, P. K. et al. |
 | 2026-11-24 | [Ultrasonic emissions of sunflower and buckwheat carry species identity in their spectrum and drought in their rate](https://www.biorxiv.org/content/10.64898/2026.11.17.767468v2) | Saha, B. et al. |
 | 2026-11-24 | [Differential DNA methylation and transcriptome revealed enhanced photosynthetic recovery and ROS modulation to promote cold tolerance in Oryza sativa L. ssp. indica.](https://www.biorxiv.org/content/10.64898/2026.04.30.721858v2) | Roy, V. et al. |
@@ -17,5 +19,3 @@
 | 2026-11-24 | [Historical overestimated abundance of a Critically Endangered species: the case of the tamaraw (Bubalus mindorensis) of Mindoro Island](https://www.biorxiv.org/content/10.64898/2026.11.13.766428v1) | Rutschmann, A. et al. |
 | 2026-11-24 | [No evidence of evolution of male fitness components in response to yeast deprivation: Putative female specific nutrient dependent reproductive adaptation](https://www.biorxiv.org/content/10.64898/2026.11.23.768529v1) | Adhikary, S. et al. |
 | 2026-11-24 | [Zeaxanthin-dependent rapid energy quenching uncovers complexity of PsbS protonation](https://www.biorxiv.org/content/10.64898/2026.11.21.768332v1) | Ponce, R. et al. |
-| 2026-11-24 | [Imaging photosynthetic pH dynamics in living plants and algae](https://www.biorxiv.org/content/10.64898/2026.11.23.768545v1) | Cislaghi, A. P. et al. |
-| 2026-11-24 | [The NAC38-NAC58-FUSCA3 module regulates outer integument differentiation in the seed coat of Arabidopsis thaliana](https://www.biorxiv.org/content/10.64898/2026.11.23.762040v1) | Wu, L. et al. |

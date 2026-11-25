@@ -7,6 +7,9 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
+| 2026-11-25 | [Single-dose neonatal gene therapy preserves motor coordination and extends survival of Polg-deficient mice](https://www.biorxiv.org/content/10.64898/2026.11.17.762423v3) | Zanin, S. et al. |
+| 2026-11-25 | [FastHer: a fast and accurate estimator of local heritability from summary statistics](https://www.biorxiv.org/content/10.64898/2025.12.24.696369v2) | Svishcheva, G. R. et al. |
+| 2026-11-25 | [Convergent Genomic Signatures of Selection in Thar: Genetic trade-offs for desert survival](https://www.biorxiv.org/content/10.64898/2026.11.17.767204v2) | Rathod, S. M. et al. |
 | 2026-11-24 | [Genome architecture and duplication-associated functional diversification in the carnivorous plant Sarracenia purpurea](https://www.biorxiv.org/content/10.64898/2026.11.14.766640v2) | Albert et al. |
 | 2026-11-24 | [FoXSight: Facilitating Computational Hit Identification in Crystallographic Fragment Screening Experiments](https://www.biorxiv.org/content/10.64898/2026.11.01.763443v3) | Schulze, T. et al. |
 | 2026-11-24 | [Diversity of Environmental and Genome-Associated Eukaryotic Circular Rep-Encoding Single-Stranded DNA Viruses](https://www.biorxiv.org/content/10.64898/2026.11.20.768052v1) | Bezuidt, O. K. et al. |
@@ -16,6 +19,3 @@
 | 2026-11-24 | [A Two-Stage YOLO-Swin Transformer Pipeline for Cross-Dataset White Blood Cell Classification](https://www.biorxiv.org/content/10.64898/2026.11.23.768502v1) | Chang, C.-W. et al. |
 | 2026-11-24 | [WildTrust-UAV: uncertainty-aware wildlife detection with privacy-preserving spatial disclosure and verifiable inference provenance](https://www.biorxiv.org/content/10.64898/2026.11.12.766079v1) | Verma, P. et al. |
 | 2026-11-24 | [CheekAI: An explainable, deep learning epigenetic aging clock based on lifestyle and health epigenetic biomarker proxies](https://www.biorxiv.org/content/10.64898/2026.11.21.768329v1) | Shokhirev, M. N. et al. |
-| 2026-11-24 | [Local wavefront alignment with corrected free-end penalty](https://www.biorxiv.org/content/10.64898/2026.11.23.768503v1) | Li, J. et al. |
-| 2026-11-24 | [BiocPy: A Framework for Cross-Platform Genomic Data andMethods Interoperability](https://www.biorxiv.org/content/10.64898/2026.11.14.766721v1) | Kancherla, J. et al. |
-| 2026-11-24 | [An AI agent guides a pipeline for selective protein interaction inhibitors from discovery across targets to preclinical evaluation](https://www.biorxiv.org/content/10.64898/2026.11.23.768516v1) | Abdel-Rahman, S. et al. |

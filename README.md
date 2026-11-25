@@ -29,12 +29,12 @@
 | Journal | Paper | Published |
 |:--|:--|:--|
 | **Nature** | [Continuous N-to-C Peptide Synthesis](https://doi.org/10.1038/s41586-026-11448-w) | 2026-11-23 |
-| **Science** | [A neural code for generative speech production in human Wernicke's area](https://doi.org/10.1126/science.aef8963) | 2026-11-19 |
-| **Cell** | [Neural correlates of facial recognition in a social wasp](https://doi.org/10.1016/j.cell.2026.10.052) | 2026-11-23 |
+| **Science** | [Interpenetrating bottlebrush elastomer for low-loss soft ultrasonic interfaces](https://doi.org/10.1126/science.aef9553) | 2026-11-19 |
+| **Cell** | [A shared interbacterial membrane underlies mycobacterial cording](https://doi.org/10.1016/j.cell.2026.11.002) | 2026-11-24 |
 | **The New England Journal of Medicine** | [From Cold War Politics to Hot Domestic Politics - The Epidemic Intelligence Service at 75](https://doi.org/10.1056/nejmp2606018) | 2026-11-21 |
-| **The Lancet** | [Seasonal mass vaccination with R21/Matrix-M against malaria in The Gambia and Burkina Faso: an open-label, cluster-randomised, controlled trial](https://doi.org/10.1016/s0140-6736(26)01562-x) | 2026-11-19 |
+| **The Lancet** | [Population surveys reveal generational changes in sexual and reproductive health](https://doi.org/10.1016/s0140-6736(26)02340-8) | 2026-11-24 |
 | **Nature Medicine** | [Expansion and cytotoxicity of mucosal CAR+ T cells in enterocolitis associated with BCMA CAR-T cell therapy](https://doi.org/10.1038/s41591-026-04731-w) | 2026-11-19 |
-| **Nature Biotechnology** | [A unified framework for scalable differential testing for spatial omics](https://doi.org/10.1038/s41587-026-03284-0) | 2026-11-23 |
+| **Nature Biotechnology** | [Modular mRNA-encoded helper proteins enhance DNA delivery](https://doi.org/10.1038/s41587-026-03351-6) | 2026-11-24 |
 | **PNAS** | [A chromatin biology assessment of AlphaFold3](https://doi.org/10.1073/pnas.2621340123) | 2026-11-23 |
 
 <p align="right"><a href="LATEST.md"><b>Full research digest →</b></a></p>

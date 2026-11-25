@@ -7,15 +7,15 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-24 | [Eliciting the Recall Capacity of Linear Attention](https://arxiv.org/abs/2611.32969v1) | Johan Lindqvist et al. |
-| 2026-11-24 | [Benchmarking Evidence Sufficiency in Vision-Language Models for Autonomous Driving](https://arxiv.org/abs/2611.32964v1) | Nhat Ha Nguyen et al. |
-| 2026-11-24 | [Polynomial-Time Learning of Random Automata from One Label per Word](https://arxiv.org/abs/2611.32959v1) | Yilin Cheng |
-| 2026-11-24 | [Attestation is All You Need: Toward a Zero-Trust Architecture for HPC AI Agents](https://arxiv.org/abs/2611.32958v1) | Jie Li et al. |
-| 2026-11-24 | ["I Do Intend to Deliver": Will LLMs Run a Marketplace Advance-Fee Scam?](https://arxiv.org/abs/2611.32957v1) | Megan Squire |
-| 2026-11-24 | [LoomKV: Lossless KV Cache Compression from GPU Memory to SSD for LLM Serving](https://arxiv.org/abs/2611.32954v1) | Wentao Zhu et al. |
-| 2026-11-24 | [Beyond Expected Value: PPO with Distributional Critics for Systematic Conservation Planning](https://arxiv.org/abs/2611.32948v1) | Ana Maria Quintero Ossa et al. |
-| 2026-11-24 | [Online V-Learning with Adaptive Longitudinal Data](https://arxiv.org/abs/2611.32947v1) | Aniruddhan Ganesaraman et al. |
-| 2026-11-24 | [ShellBench: What Matters More for AI Agents, Models, or Harness for Everyday Tasks](https://arxiv.org/abs/2611.32946v1) | Vincent Koc et al. |
-| 2026-11-24 | [PHM-ensemble: Scalable and Stable Probabilistic Multiresolution Clustering via Ensemble Density Estimation](https://arxiv.org/abs/2611.32945v1) | Ali Turfah et al. |
-| 2026-11-24 | [Quantum kernels on breast data: concentration, surrogates, and two ways an advantage gets manufactured](https://arxiv.org/abs/2611.32942v1) | Rana Saad et al. |
-| 2026-11-24 | [Do Vision-Language Models Know Their Own Visual Weaknesses? Probing Capability-Level Metacognition](https://arxiv.org/abs/2611.32940v1) | Dohoon Kim et al. |
+| 2026-11-24 | [OmniAct: One Policy, One Million Embodiments](https://arxiv.org/abs/2611.33158v1) | Xiang Fan et al. |
+| 2026-11-24 | [DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning](https://arxiv.org/abs/2611.33153v1) | Binfei Ji et al. |
+| 2026-11-24 | [BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles](https://arxiv.org/abs/2611.33151v1) | Yuwei Yang et al. |
+| 2026-11-24 | [CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies](https://arxiv.org/abs/2611.33148v1) | Dawid J. Kopiczko et al. |
+| 2026-11-24 | [iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction](https://arxiv.org/abs/2611.33141v1) | Vansh Kapoor et al. |
+| 2026-11-24 | [BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Generation](https://arxiv.org/abs/2611.33135v1) | Nadav Magar et al. |
+| 2026-11-24 | [A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit](https://arxiv.org/abs/2611.33133v1) | Hussamuddin Syed |
+| 2026-11-24 | [Exploratory Midtraining for Robot Policies](https://arxiv.org/abs/2611.33130v1) | Kshitiz et al. |
+| 2026-11-24 | [SAG-Mem-1.0 Technical Report](https://arxiv.org/abs/2611.33124v1) | Yuchao Wu et al. |
+| 2026-11-24 | [MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing](https://arxiv.org/abs/2611.33119v1) | Scott Piersall et al. |
+| 2026-11-24 | [Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions](https://arxiv.org/abs/2611.33111v1) | Yuxing Liu et al. |
+| 2026-11-24 | [Temporal Conditioning for Human Behavioral Cloning in Chess](https://arxiv.org/abs/2611.33106v1) | Victor Dziwniel et al. |

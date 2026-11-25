@@ -7,6 +7,7 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
+| 2026-11-25 | [Structured stabilization in recurrent neural circuits through inhibitory synaptic plasticity](https://www.biorxiv.org/content/10.1101/2024.10.12.618014v6) | Festa, D. et al. |
 | 2026-11-24 | [Unified CEBRA learns shared neural latents across recordings to map single-neuron contributions to population codes](https://www.biorxiv.org/content/10.64898/2026.11.18.767506v2) | Benquet, C. et al. |
 | 2026-11-24 | [Laterality of subcortical structures predicts spontaneous brain dynamics](https://www.biorxiv.org/content/10.64898/2026.07.13.738145v3) | Ghafari, T. et al. |
 | 2026-11-24 | [Individual neurons in monkey sensory and prefrontal cortices contribute to both working memory maintenance and readout](https://www.biorxiv.org/content/10.64898/2026.03.13.711560v2) | Huang, Y. et al. |
@@ -18,4 +19,3 @@
 | 2026-11-24 | [Target- and network-specific downstream effects of personalized precision transcranial magnetic stimulation: Evidence from concurrent functional neuroimaging](https://www.biorxiv.org/content/10.64898/2026.11.10.765235v1) | Lueckel, M. et al. |
 | 2026-11-24 | [Hierarchical control of visual perceptual learning with model-synthesized stimuli](https://www.biorxiv.org/content/10.64898/2026.11.23.768712v1) | Valibeigi, Y. et al. |
 | 2026-11-24 | [The neural basis of unfamiliar face recognition in humans with fMRI frequency-tagging](https://www.biorxiv.org/content/10.64898/2026.11.12.764897v1) | Laurent, M.-A. et al. |
-| 2026-11-24 | [The Dark Side of Light: Adolescent Light Exposure at Night Disrupts Hippocampal Clocks and Plasticity-Related Signaling in a Sex-Dependent Manner.](https://www.biorxiv.org/content/10.64898/2026.11.23.768669v1) | Bhan, A. et al. |

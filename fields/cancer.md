@@ -15,7 +15,7 @@
 | 2026-11-24 | [Glycogen fuels and spatially regulates nucleotide biosynthesis in cancer](https://www.biorxiv.org/content/10.64898/2026.11.21.768289v1) | Khan, T. et al. |
 | 2026-11-24 | [Low serine-glycine-one-carbon pathway activity defines purine salvage dependence in neuroblastoma](https://www.biorxiv.org/content/10.64898/2026.11.18.767701v2) | Ding, J. et al. |
 | 2026-11-24 | [HER3 mediates metabolic reprogramming in metastatic colorectal and pancreatic cancer](https://www.biorxiv.org/content/10.64898/2026.10.30.763164v2) | Rathore, M. et al. |
+| 2026-11-24 | [Pharmacodynamic encoding of tumor exposure identifies a mesenchymal state associated with antitumor sensitivity](https://www.biorxiv.org/content/10.64898/2026.11.12.760322v1) | Rodriguez-Jimenez, M. et al. |
 | 2026-11-23 | [Focused ultrasound-enhanced carboplatin delivery improves radiotherapy response and survival in a preclinical glioblastoma model](https://www.biorxiv.org/content/10.64898/2026.11.17.766937v2) | Rigollet, S. et al. |
 | 2026-11-23 | [Kynurenine-AHR signaling sustains a targetable FATP2 dependency in advanced systemic mastocytosis](https://www.biorxiv.org/content/10.64898/2026.11.20.766488v1) | Scorrano, G. et al. |
 | 2026-11-23 | [Lysosome Exocytosis Inhibition Impairs Triple-Negative Breast Cancer Cell Invasion](https://www.biorxiv.org/content/10.64898/2026.11.20.765315v1) | Rodrigues, A. R. et al. |
-| 2026-11-23 | [Caspase-7 cleavage repurposes AAK1 to suppress mRNA decay and promote tolerance to anti-tubulin agents](https://www.biorxiv.org/content/10.64898/2026.11.20.767991v1) | Jiang, Y. et al. |

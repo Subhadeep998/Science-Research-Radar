@@ -7,15 +7,15 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
+| 2026-11-24 | [Prospects and limitations of adaptive variational quantum algorithms for lattice field theories: a case study in 2+1 dimensions](https://arxiv.org/abs/2611.33138v1) | Nico Dichter et al. |
+| 2026-11-24 | [A Koashi--Imoto Criterion for Holevo-Rate Visible Compression](https://arxiv.org/abs/2611.33129v1) | Anthony M. Polloreno |
+| 2026-11-24 | [Classical algorithms for sparse random Hamiltonians via free probability](https://arxiv.org/abs/2611.33128v1) | Matthew Ding et al. |
+| 2026-11-24 | [Anomalies and the Berry Phase: From $π^0\toγγ$ to the geometry of the fermion vacuum](https://arxiv.org/abs/2611.33121v1) | Spenta R. Wadia |
+| 2026-11-24 | [Robust growth of $α$-tantalum on sapphire at room temperature using atomically thin titanium seed layer](https://arxiv.org/abs/2611.33112v1) | Anand Kamlapure et al. |
+| 2026-11-24 | [Finite-Temperature Superradiant Criticality and Thermal Emission in the Open Dicke Model](https://arxiv.org/abs/2611.33063v1) | Gabriele Orlando et al. |
+| 2026-11-24 | [Class-resolved sifting for quantum key distribution with photon pairs hyperentangled in polarization and transverse spatial variables](https://arxiv.org/abs/2611.33055v1) | Murilo H. Magiotto et al. |
+| 2026-11-24 | [Polynomial Master Equations of Open Quantum Systems and an Analysis on the Critical Solutions](https://arxiv.org/abs/2611.33027v1) | Miku Ishizaki et al. |
+| 2026-11-24 | [Iterative Petz Protocols for Quantum State Recovery](https://arxiv.org/abs/2611.32995v1) | Lea Lautenbacher et al. |
 | 2026-11-24 | [Quantum-Inspired Tensor Train Spectral Solver for High-Resolution PDEs with Non-Periodic Boundary Conditions](https://arxiv.org/abs/2611.32968v1) | Sascha H. Hauck et al. |
 | 2026-11-24 | [Anomalous front propagation in many-body quantum transport with memory-dependent resetting](https://arxiv.org/abs/2611.32961v1) | Gabriele de Mauro et al. |
 | 2026-11-24 | [Quantum kernels on breast data: concentration, surrogates, and two ways an advantage gets manufactured](https://arxiv.org/abs/2611.32942v1) | Rana Saad et al. |
-| 2026-11-24 | [Entanglement Asymmetry and the Quantum Mpemba Effect in Inhomogeneous Quenches](https://arxiv.org/abs/2611.32934v1) | Maëlle Olivier et al. |
-| 2026-11-24 | [Theory-Informed Quantum Error Mitigation for Shor Order Finding with Fourier Neural Operators](https://arxiv.org/abs/2611.32923v1) | Stefano Markidis et al. |
-| 2026-11-24 | [Dirac Propagation for Simulating Fermionic Observables under Particle-Number-Conserving Unitaries](https://arxiv.org/abs/2611.32902v1) | G Arnav Naidu et al. |
-| 2026-11-24 | [Trotterized hybrid qubit-boson simulation of the Jaynes-Cummings-Hubbard model](https://arxiv.org/abs/2611.32895v1) | Nabaraj Khatri et al. |
-| 2026-11-24 | [The Capacity of Conference Key Agreement over GHZ Networks](https://arxiv.org/abs/2611.32886v1) | Hua Sun |
-| 2026-11-24 | [Perturbative unitarity bounds from qubit entanglement in scalar scattering and QED](https://arxiv.org/abs/2611.32842v1) | Shiuli Chatterjee et al. |
-| 2026-11-24 | [Exploiting SU(2) Symmetry for Efficient Quantum State Preparation of Matrix Product States](https://arxiv.org/abs/2611.32805v1) | Etienne D'Argenlieu et al. |
-| 2026-11-24 | [Exact solution of the Bose-Fermi mixture along the unnesting line](https://arxiv.org/abs/2611.32804v1) | Soham Chandak et al. |
-| 2026-11-24 | [Large-Scale Streaming Portfolio Optimization with Pauli Correlation Encoding](https://arxiv.org/abs/2611.32769v1) | Vicente P. Soloviev et al. |
