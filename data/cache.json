@@ -24,45 +24,9 @@
     "title": "Calcium catalysed nucleophilic fluorination",
     "link": "https://doi.org/10.1038/s41586-026-11445-z",
     "who": "Struijs JJC et al."
-   },
-   {
-    "date": "2026-11-18",
-    "title": "A glucose-powered artificial neuroimmune axis for metabolic control",
-    "link": "https://doi.org/10.1038/s41586-026-11251-7",
-    "who": "Xiu W et al."
-   },
-   {
-    "date": "2026-11-18",
-    "title": "Structural and regulatory evolution across the genus Hordeum",
-    "link": "https://doi.org/10.1038/s41586-026-11332-7",
-    "who": "Feng JW et al."
-   },
-   {
-    "date": "2026-11-18",
-    "title": "Host-microbe interactions in engineered immunocompetent human gut tissues",
-    "link": "https://doi.org/10.1038/s41586-026-11292-y",
-    "who": "López-Sandoval R et al."
-   },
-   {
-    "date": "2026-11-18",
-    "title": "Global patterns and drivers of bee richness and endemism on islands",
-    "link": "https://doi.org/10.1038/s41586-026-11325-6",
-    "who": "Marshall L et al."
    }
   ],
   "Science": [
-   {
-    "date": "2026-11-19",
-    "title": "Interpenetrating bottlebrush elastomer for low-loss soft ultrasonic interfaces",
-    "link": "https://doi.org/10.1126/science.aef9553",
-    "who": "Wang S et al."
-   },
-   {
-    "date": "2026-11-19",
-    "title": "The fate of poised pre-mRNAs shapes mitochondrial activity and cellular differentiation",
-    "link": "https://doi.org/10.1126/science.aee8018",
-    "who": "Rambout X et al."
-   },
    {
     "date": "2026-11-19",
     "title": "A neural code for generative speech production in human Wernicke's area",
@@ -74,6 +38,18 @@
     "title": "Zero-shot de novo design of a metalloenzyme",
     "link": "https://doi.org/10.1126/science.aej3009",
     "who": "El Nesr G et al."
+   },
+   {
+    "date": "2026-11-19",
+    "title": "Interpenetrating bottlebrush elastomer for low-loss soft ultrasonic interfaces",
+    "link": "https://doi.org/10.1126/science.aef9553",
+    "who": "Wang S et al."
+   },
+   {
+    "date": "2026-11-19",
+    "title": "The fate of poised pre-mRNAs shapes mitochondrial activity and cellular differentiation",
+    "link": "https://doi.org/10.1126/science.aee8018",
+    "who": "Rambout X et al."
    },
    {
     "date": "2026-11-19",
@@ -109,15 +85,15 @@
    },
    {
     "date": "2026-11-23",
-    "title": "Fate patterns self-organize through the coupling of structures across cell and supracellular levels of organization",
-    "link": "https://doi.org/10.1016/j.cell.2026.11.003",
-    "who": "Ko CS et al."
+    "title": "Cardiomyocyte-derived circulating extracellular vesicles enable a non-invasive liquid biopsy of human myocardium",
+    "link": "https://doi.org/10.1016/j.cell.2026.10.050",
+    "who": "Gokulnath P et al."
    },
    {
     "date": "2026-11-23",
-    "title": "Neural correlates of facial recognition in a social wasp",
-    "link": "https://doi.org/10.1016/j.cell.2026.10.052",
-    "who": "Jernigan CM et al."
+    "title": "Fate patterns self-organize through the coupling of structures across cell and supracellular levels of organization",
+    "link": "https://doi.org/10.1016/j.cell.2026.11.003",
+    "who": "Ko CS et al."
    },
    {
     "date": "2026-11-23",
@@ -127,9 +103,9 @@
    },
    {
     "date": "2026-11-23",
-    "title": "Cardiomyocyte-derived circulating extracellular vesicles enable a non-invasive liquid biopsy of human myocardium",
-    "link": "https://doi.org/10.1016/j.cell.2026.10.050",
-    "who": "Gokulnath P et al."
+    "title": "Neural correlates of facial recognition in a social wasp",
+    "link": "https://doi.org/10.1016/j.cell.2026.10.052",
+    "who": "Jernigan CM et al."
    },
    {
     "date": "2026-11-19",
@@ -215,15 +191,15 @@
    },
    {
     "date": "2026-11-19",
-    "title": "Seasonal mass vaccination with R21/Matrix-M against malaria in The Gambia and Burkina Faso: an open-label, cluster-randomised, controlled trial",
-    "link": "https://doi.org/10.1016/s0140-6736(26)01562-x",
-    "who": "Dabira ED et al."
+    "title": "Reproductive health in women in Britain from 2010 to 2024: findings from repeated, cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal)",
+    "link": "https://doi.org/10.1016/s0140-6736(26)01551-5",
+    "who": "Pathak N et al."
    },
    {
     "date": "2026-11-19",
-    "title": "Seasonal mass vaccination for malaria control in west Africa",
-    "link": "https://doi.org/10.1016/s0140-6736(26)01870-2",
-    "who": "Kajubi R et al."
+    "title": "Seasonal mass vaccination with R21/Matrix-M against malaria in The Gambia and Burkina Faso: an open-label, cluster-randomised, controlled trial",
+    "link": "https://doi.org/10.1016/s0140-6736(26)01562-x",
+    "who": "Dabira ED et al."
    }
   ],
   "Nature Medicine": [
@@ -262,575 +238,629 @@
   ],
   "PNAS": [
    {
-    "date": "2026-11-23",
-    "title": "A chromatin biology assessment of AlphaFold3",
-    "link": "https://doi.org/10.1073/pnas.2621340123",
-    "who": "Bhargava Y et al."
+    "date": "2026-11-24",
+    "title": "Soil contamination and acidification jointly increased cereal cadmium and dietary exposure over four decades",
+    "link": "https://doi.org/10.1073/pnas.2617419123",
+    "who": "Lü QX et al."
    },
    {
-    "date": "2026-11-23",
-    "title": "Failure of a tropical upwelling rapidly collapsed Panama's anchoveta fishery and its exports",
-    "link": "https://doi.org/10.1073/pnas.2633722123",
-    "who": "Sellers AJ et al."
+    "date": "2026-11-24",
+    "title": "Universal scaling in the rheology of dense cellular systems",
+    "link": "https://doi.org/10.1073/pnas.2619734123",
+    "who": "Ansell HS et al."
    },
    {
-    "date": "2026-11-23",
-    "title": "Unsupervised Bayesian neural networks enable inference of complex epidemiological and macroevolutionary processes",
-    "link": "https://doi.org/10.1073/pnas.2603996123",
-    "who": "Marino G et al."
+    "date": "2026-11-24",
+    "title": "Structural basis of plastid Mg2+ transport by the magnesium channel MGT10 in Arabidopsis",
+    "link": "https://doi.org/10.1073/pnas.2633248123",
+    "who": "Wang C et al."
    },
    {
-    "date": "2026-11-23",
-    "title": "Phase coding supports neuronal replication and enables combinatorial problem solving",
-    "link": "https://doi.org/10.1073/pnas.2617434123",
-    "who": "Giaffar H et al."
+    "date": "2026-11-24",
+    "title": "Ctf4 chaperones parental histones to preserve epigenetic memory",
+    "link": "https://doi.org/10.1073/pnas.2634538123",
+    "who": "Gao Y et al."
    },
    {
-    "date": "2026-11-23",
-    "title": "Inactivation of the RB1 and PTPN14 tumor suppressors cooperatively enables the lifespan extension activity of the human papillomavirus E7 oncoprotein",
-    "link": "https://doi.org/10.1073/pnas.2629175123",
-    "who": "Sinduvadi Ramesh P et al."
+    "date": "2026-11-24",
+    "title": "ZCWPW1 organizes telomeric architecture to drive meiotic chromosome movements",
+    "link": "https://doi.org/10.1073/pnas.2533345123",
+    "who": "Xie W et al."
    },
    {
-    "date": "2026-11-23",
-    "title": "Conditions for runaway ruptures during reservoir operations: Magnitude-frequency distribution implications and application to Groningen",
-    "link": "https://doi.org/10.1073/pnas.2625955123",
-    "who": "Shi Q et al."
+    "date": "2026-11-24",
+    "title": "Single-cell genomics reveals genome streamlining and functional traits in dominant uncultured marine protists",
+    "link": "https://doi.org/10.1073/pnas.2621594123",
+    "who": "López-Escardó D et al."
    },
    {
-    "date": "2026-11-23",
-    "title": "Humans show limited ability to distinguish human-authored from AI-generated political content on social media",
-    "link": "https://doi.org/10.1073/pnas.2534309123",
-    "who": "Paik S et al."
+    "date": "2026-11-24",
+    "title": "Evidence for patterns of colonization risk in the nationwide hospitalized patient network in France",
+    "link": "https://doi.org/10.1073/pnas.2608506123",
+    "who": "Bhuria S et al."
    },
    {
-    "date": "2026-11-23",
-    "title": "Tumor cell-intrinsic E47 functions as a critical suppressor in antitumor immunity via the FBXL2-PD-L1 axis",
-    "link": "https://doi.org/10.1073/pnas.2622184123",
-    "who": "Guo R et al."
+    "date": "2026-11-24",
+    "title": "Cognitive diversity and majority rule",
+    "link": "https://doi.org/10.1073/pnas.2608826123",
+    "who": "Hong L et al."
    }
   ]
  },
  "fields": {
   "ai-computing": [
    {
-    "date": "2026-11-24",
-    "title": "OmniAct: One Policy, One Million Embodiments",
-    "link": "https://arxiv.org/abs/2611.33158v1",
-    "who": "Xiang Fan et al."
+    "date": "2026-11-25",
+    "title": "RAP: Radial-Angular Random Projection for Hyperbolic Representations",
+    "link": "https://arxiv.org/abs/2611.34298v1",
+    "who": "Jiahong Liu et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
-    "link": "https://arxiv.org/abs/2611.33153v1",
-    "who": "Binfei Ji et al."
+    "date": "2026-11-25",
+    "title": "LatENSO v1.0: a learned latent state of the tropical Pacific for seasonal ENSO operators and forecasting",
+    "link": "https://arxiv.org/abs/2611.34296v1",
+    "who": "Milad Panahi et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
-    "link": "https://arxiv.org/abs/2611.33151v1",
-    "who": "Yuwei Yang et al."
+    "date": "2026-11-25",
+    "title": "WebVibe: Multimodal Interactive Website Generation via Reverse Synthesis and Visual Self-Distillation",
+    "link": "https://arxiv.org/abs/2611.34292v1",
+    "who": "Tianxiang Jiang et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
-    "link": "https://arxiv.org/abs/2611.33148v1",
-    "who": "Dawid J. Kopiczko et al."
+    "date": "2026-11-25",
+    "title": "StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation",
+    "link": "https://arxiv.org/abs/2611.34290v1",
+    "who": "Modi Jin et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
-    "link": "https://arxiv.org/abs/2611.33141v1",
-    "who": "Vansh Kapoor et al."
+    "date": "2026-11-25",
+    "title": "Latent-in-the-Middle: On the Security of Cross-Model Latent Communication in Multi-Agent Systems",
+    "link": "https://arxiv.org/abs/2611.34278v1",
+    "who": "Manit Baser et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Generation",
-    "link": "https://arxiv.org/abs/2611.33135v1",
-    "who": "Nadav Magar et al."
+    "date": "2026-11-25",
+    "title": "Beat This! Live - Online Beat and Downbeat Tracking by Predicting the Future",
+    "link": "https://arxiv.org/abs/2611.34277v1",
+    "who": "Bánk Juhász et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit",
-    "link": "https://arxiv.org/abs/2611.33133v1",
-    "who": "Hussamuddin Syed"
+    "date": "2026-11-25",
+    "title": "Scaling Looped MoE Language Models under Matched Budgets: Information Flow and Parameter Allocation",
+    "link": "https://arxiv.org/abs/2611.34276v1",
+    "who": "Shipeng Bai et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Exploratory Midtraining for Robot Policies",
-    "link": "https://arxiv.org/abs/2611.33130v1",
-    "who": " Kshitiz et al."
+    "date": "2026-11-25",
+    "title": "LatentCP-DPO: Conformal Pessimism for DPO with Finite-Sample Guarantees",
+    "link": "https://arxiv.org/abs/2611.34275v1",
+    "who": "Hongwei Xu et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "SAG-Mem-1.0 Technical Report",
-    "link": "https://arxiv.org/abs/2611.33124v1",
-    "who": "Yuchao Wu et al."
+    "date": "2026-11-25",
+    "title": "Libtt: A Compiler and Runtime for Tenstorrent Processors",
+    "link": "https://arxiv.org/abs/2611.34273v1",
+    "who": "Philipp Moritz et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing",
-    "link": "https://arxiv.org/abs/2611.33119v1",
-    "who": "Scott Piersall et al."
+    "date": "2026-11-25",
+    "title": "LLM-coupled interpretable tool wear monitoring with multi-evidence reasoning in CNC machining",
+    "link": "https://arxiv.org/abs/2611.34270v1",
+    "who": "Yuntong Chen et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions",
-    "link": "https://arxiv.org/abs/2611.33111v1",
-    "who": "Yuxing Liu et al."
+    "date": "2026-11-25",
+    "title": "Train-Only-Constrained LM for Synthetic Clinical Trajectories: Leak-Safe Calibration and Auditable Dynamics",
+    "link": "https://arxiv.org/abs/2611.34258v1",
+    "who": "Yaser Kord et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Temporal Conditioning for Human Behavioral Cloning in Chess",
-    "link": "https://arxiv.org/abs/2611.33106v1",
-    "who": "Victor Dziwniel et al."
+    "date": "2026-11-25",
+    "title": "Crucible: Evaluating LLM Agents in Executable Chemistry Research Environments",
+    "link": "https://arxiv.org/abs/2611.34254v1",
+    "who": "Yinjun Liu et al."
    }
   ],
   "robotics": [
    {
-    "date": "2026-11-24",
-    "title": "OmniAct: One Policy, One Million Embodiments",
-    "link": "https://arxiv.org/abs/2611.33158v1",
-    "who": "Xiang Fan et al."
+    "date": "2026-11-25",
+    "title": "DexLink: Synthesizing Dexterous Behaviors from Chained Hand-object Poses",
+    "link": "https://arxiv.org/abs/2611.34936v1",
+    "who": "Meenal Parakh et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents",
-    "link": "https://arxiv.org/abs/2611.33144v1",
-    "who": "Feixiang Ruan et al."
+    "date": "2026-11-25",
+    "title": "MERLoc: Robust Robot Localization in Dynamic Environments with Pose-Based Retrieval over 3D Gaussian Splatting References",
+    "link": "https://arxiv.org/abs/2611.34932v1",
+    "who": "Michael Baumgartner et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification",
-    "link": "https://arxiv.org/abs/2611.33143v1",
-    "who": "Xingjian Ran et al."
+    "date": "2026-11-25",
+    "title": "One Ocean, Many Tasks: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics",
+    "link": "https://arxiv.org/abs/2611.34925v1",
+    "who": "Shuaijun Liu et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
-    "link": "https://arxiv.org/abs/2611.33141v1",
-    "who": "Vansh Kapoor et al."
+    "date": "2026-11-25",
+    "title": "Memory Is Not Ground Truth: Revising Navigation Authority under Unreliable VLM Evidence for Persistent Semantic Navigation",
+    "link": "https://arxiv.org/abs/2611.34915v1",
+    "who": "Sumukh Shrote et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Exploratory Midtraining for Robot Policies",
-    "link": "https://arxiv.org/abs/2611.33130v1",
-    "who": " Kshitiz et al."
+    "date": "2026-11-25",
+    "title": "Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs",
+    "link": "https://arxiv.org/abs/2611.34914v1",
+    "who": "Agelos Kratimenos et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Neural Implicit Representation for Bathymetry Estimation using Sidescan Sonar Imagery",
-    "link": "https://arxiv.org/abs/2611.33118v1",
-    "who": "Tianxiang Lin et al."
+    "date": "2026-11-25",
+    "title": "FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation",
+    "link": "https://arxiv.org/abs/2611.34884v1",
+    "who": "Yujia Zeng et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "EmbodiSafety: Benchmarking Risk Understanding and Response in Embodied AI",
-    "link": "https://arxiv.org/abs/2611.33054v1",
-    "who": "Erfei Cui et al."
+    "date": "2026-11-25",
+    "title": "RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies",
+    "link": "https://arxiv.org/abs/2611.34864v1",
+    "who": "Insup Lee et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "At the Limit: Autonomous Vehicle Drifting under Generative Policies",
-    "link": "https://arxiv.org/abs/2611.33040v1",
-    "who": "Jie He et al."
+    "date": "2026-11-25",
+    "title": "BOP-Refer: Benchmark for Monocular 3D and 2D Object Grounding",
+    "link": "https://arxiv.org/abs/2611.34862v1",
+    "who": "Tomas Hodan et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies",
-    "link": "https://arxiv.org/abs/2611.33010v1",
-    "who": "Xuanchen Liu et al."
+    "date": "2026-11-25",
+    "title": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer",
+    "link": "https://arxiv.org/abs/2611.34849v1",
+    "who": "Yongchang Zhang et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "CAPER: PartGround and PlanRefine for Reliable Manual-Guided Robotic Assembly Planning",
-    "link": "https://arxiv.org/abs/2611.32986v1",
-    "who": "Hanzhao Xi et al."
+    "date": "2026-11-25",
+    "title": "HOG-WAM: Improving Visual Robustness through Future Gradient Prediction",
+    "link": "https://arxiv.org/abs/2611.34811v1",
+    "who": "Boxuan Dong et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "VidForce: Predicting Force-Aware Articulation by Observing Humans",
-    "link": "https://arxiv.org/abs/2611.32967v1",
-    "who": "Rafay Mohiuddin et al."
+    "date": "2026-11-25",
+    "title": "Toward Agentic Robotics: A Large-Scale Study of Harness Design for Robot-Use Agents",
+    "link": "https://arxiv.org/abs/2611.34778v1",
+    "who": "Yuxiang Lai et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "From Safety-Driven Redundancy to Value-Driven Architecture: An ODD-Based Rationalization Framework for Level 4 Autonomous Vehicles",
-    "link": "https://arxiv.org/abs/2611.32960v1",
-    "who": "Tiago Simão Ferreira et al."
+    "date": "2026-11-25",
+    "title": "Anytime-Valid Sequential Verification for Sensing-Efficient Robot Navigation under Perception Uncertainty",
+    "link": "https://arxiv.org/abs/2611.34764v1",
+    "who": "Saad Korchi et al."
    }
   ],
   "physics": [
    {
-    "date": "2026-11-24",
-    "title": "The double copy and perturbative teleparallel gravity",
-    "link": "https://arxiv.org/abs/2611.33146v1",
-    "who": "Georg Stettinger"
+    "date": "2026-11-25",
+    "title": "KEBBABS: Kilometric Enhanced Balloon-Baseline for Axion Birefringence Search",
+    "link": "https://arxiv.org/abs/2611.34927v1",
+    "who": "Tommaso Feri et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "$QQ\\bar Q\\bar Q$ Quark System and Gauge/String Duality II: String Breaking",
-    "link": "https://arxiv.org/abs/2611.33140v1",
-    "who": "Oleg Andreev"
+    "date": "2026-11-25",
+    "title": "An algebraic quantization of gravity from the null cone",
+    "link": "https://arxiv.org/abs/2611.34924v1",
+    "who": "Venkatesa Chandrasekaran"
    },
    {
-    "date": "2026-11-24",
-    "title": "Prospects and limitations of adaptive variational quantum algorithms for lattice field theories: a case study in 2+1 dimensions",
-    "link": "https://arxiv.org/abs/2611.33138v1",
-    "who": "Nico Dichter et al."
+    "date": "2026-11-25",
+    "title": "Vacuum correlation measures as CFT partition functions",
+    "link": "https://arxiv.org/abs/2611.34922v1",
+    "who": "Hewei Frederic Jia"
    },
    {
-    "date": "2026-11-24",
-    "title": "Scalar perturbations in extremal Reissner-Nordström geometry: new methods at work",
-    "link": "https://arxiv.org/abs/2611.33123v1",
-    "who": "Giorgio Di Russo et al."
+    "date": "2026-11-25",
+    "title": "Massive Triangle in Cosmological Correlator beyond Conformal Coupling",
+    "link": "https://arxiv.org/abs/2611.34892v1",
+    "who": "Taushif Ahmed et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Anomalies and the Berry Phase: From $π^0\\toγγ$ to the geometry of the fermion vacuum",
-    "link": "https://arxiv.org/abs/2611.33121v1",
-    "who": "Spenta R. Wadia"
+    "date": "2026-11-25",
+    "title": "The Look-Elsewhere Effect in Searches for New Physics: from Classical Methods to Machine Learning",
+    "link": "https://arxiv.org/abs/2611.34888v1",
+    "who": "Gaia Grosso et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Triple-Higgs production: a window on the Higgs potential and anomalous top-Higgs couplings",
-    "link": "https://arxiv.org/abs/2611.33105v1",
-    "who": "John M. Campbell et al."
+    "date": "2026-11-25",
+    "title": "Time-weighted energy correlators are infrared unsafe in gauge theories",
+    "link": "https://arxiv.org/abs/2611.34886v1",
+    "who": "Siqing Yu"
    },
    {
-    "date": "2026-11-24",
-    "title": "CANON: Agent-Assisted Construction of Canonical Differential Equations for Feynman Integrals",
-    "link": "https://arxiv.org/abs/2611.33100v1",
-    "who": "Dong-shan Jian et al."
+    "date": "2026-11-25",
+    "title": "Probing the CKM Origin of CP Violation with Paramagnetic EDMs and Rare Kaon Decays",
+    "link": "https://arxiv.org/abs/2611.34856v1",
+    "who": "Giancarlo D'Ambrosio et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "DEC Fill-ins, the Bartnik--Bray inner mass, and positive mass theorems with untrapped boundary",
-    "link": "https://arxiv.org/abs/2611.33076v1",
-    "who": "Ahmed Ellithy et al."
+    "date": "2026-11-25",
+    "title": "Screening of New Abelian Long-Range Forces",
+    "link": "https://arxiv.org/abs/2611.34838v1",
+    "who": "Marco Costa et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Holographic ensembles and giant gravitons at the Leigh--Strassler fixed point",
-    "link": "https://arxiv.org/abs/2611.33072v1",
-    "who": "Jesse van Muiden et al."
+    "date": "2026-11-25",
+    "title": "Character expansion of the Itzykson-Zuber pair correlator",
+    "link": "https://arxiv.org/abs/2611.34829v1",
+    "who": "Alexei Morozov et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "The Sensitivity of Higgs Factories to the Minimal Supersymmetric Standard Model via Precision Measurements",
-    "link": "https://arxiv.org/abs/2611.33071v1",
-    "who": "Kamal Maayergi et al."
+    "date": "2026-11-25",
+    "title": "A Pole-Cut Formula for Holographic Extremal Correlators",
+    "link": "https://arxiv.org/abs/2611.34824v1",
+    "who": "Jyotirmoy Bhattacharya et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Boosted energy-energy correlators in the small-acoplanarity limit",
-    "link": "https://arxiv.org/abs/2611.33057v1",
-    "who": "Benjamin Jobilal et al."
+    "date": "2026-11-25",
+    "title": "Heavy-flavor transverse energy-energy correlators in the color-glass condensate",
+    "link": "https://arxiv.org/abs/2611.34815v1",
+    "who": "Zhong-Bo Kang et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "General-relativistic Vlasov disks in external magnetic fields around Kerr black holes",
-    "link": "https://arxiv.org/abs/2611.33053v1",
-    "who": "Paweł Doruchowski et al."
+    "date": "2026-11-25",
+    "title": "Probing Ultralight Dark Matter at the Electroweak Scale",
+    "link": "https://arxiv.org/abs/2611.34808v1",
+    "who": "Martin Bauer et al."
    }
   ],
   "quantum": [
    {
-    "date": "2026-11-24",
-    "title": "Prospects and limitations of adaptive variational quantum algorithms for lattice field theories: a case study in 2+1 dimensions",
-    "link": "https://arxiv.org/abs/2611.33138v1",
-    "who": "Nico Dichter et al."
+    "date": "2026-11-25",
+    "title": "Vacuum correlation measures as CFT partition functions",
+    "link": "https://arxiv.org/abs/2611.34922v1",
+    "who": "Hewei Frederic Jia"
    },
    {
-    "date": "2026-11-24",
-    "title": "A Koashi--Imoto Criterion for Holevo-Rate Visible Compression",
-    "link": "https://arxiv.org/abs/2611.33129v1",
-    "who": "Anthony M. Polloreno"
+    "date": "2026-11-25",
+    "title": "Bound Entanglement with Negative Partial Transpose Exists",
+    "link": "https://arxiv.org/abs/2611.34921v1",
+    "who": "Islam Faisal"
    },
    {
-    "date": "2026-11-24",
-    "title": "Classical algorithms for sparse random Hamiltonians via free probability",
-    "link": "https://arxiv.org/abs/2611.33128v1",
-    "who": "Matthew Ding et al."
+    "date": "2026-11-25",
+    "title": "Complementary mechanisms of critical quantum metrology",
+    "link": "https://arxiv.org/abs/2611.34916v1",
+    "who": "Nikita Leppenen et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Anomalies and the Berry Phase: From $π^0\\toγγ$ to the geometry of the fermion vacuum",
-    "link": "https://arxiv.org/abs/2611.33121v1",
-    "who": "Spenta R. Wadia"
+    "date": "2026-11-25",
+    "title": "The thermodynamic budget of objectivity",
+    "link": "https://arxiv.org/abs/2611.34909v1",
+    "who": "Wonyong Chung"
    },
    {
-    "date": "2026-11-24",
-    "title": "Robust growth of $α$-tantalum on sapphire at room temperature using atomically thin titanium seed layer",
-    "link": "https://arxiv.org/abs/2611.33112v1",
-    "who": "Anand Kamlapure et al."
+    "date": "2026-11-25",
+    "title": "Schrödinger's Legacy: The Wave Function and Quantum Reality",
+    "link": "https://arxiv.org/abs/2611.34895v1",
+    "who": "Davide Romano et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Finite-Temperature Superradiant Criticality and Thermal Emission in the Open Dicke Model",
-    "link": "https://arxiv.org/abs/2611.33063v1",
-    "who": "Gabriele Orlando et al."
+    "date": "2026-11-25",
+    "title": "Neural Network Decoders For Qubit Loss",
+    "link": "https://arxiv.org/abs/2611.34891v1",
+    "who": "J. Wilson Staples et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Class-resolved sifting for quantum key distribution with photon pairs hyperentangled in polarization and transverse spatial variables",
-    "link": "https://arxiv.org/abs/2611.33055v1",
-    "who": "Murilo H. Magiotto et al."
+    "date": "2026-11-25",
+    "title": "The Price of Quantum Advantage in Computational Chemistry",
+    "link": "https://arxiv.org/abs/2611.34889v1",
+    "who": "Haejung Koh et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Polynomial Master Equations of Open Quantum Systems and an Analysis on the Critical Solutions",
-    "link": "https://arxiv.org/abs/2611.33027v1",
-    "who": "Miku Ishizaki et al."
+    "date": "2026-11-25",
+    "title": "Transition Path Sampling for Rare Events in Non-Markovian Open Quantum Systems",
+    "link": "https://arxiv.org/abs/2611.34883v1",
+    "who": "Ritesh Pant et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Iterative Petz Protocols for Quantum State Recovery",
-    "link": "https://arxiv.org/abs/2611.32995v1",
-    "who": "Lea Lautenbacher et al."
+    "date": "2026-11-25",
+    "title": "Exact monogamy of steering and remote Wigner negativity for multimode Gaussian nodes",
+    "link": "https://arxiv.org/abs/2611.34874v1",
+    "who": "Sudip Chakrabarty"
    },
    {
-    "date": "2026-11-24",
-    "title": "Quantum-Inspired Tensor Train Spectral Solver for High-Resolution PDEs with Non-Periodic Boundary Conditions",
-    "link": "https://arxiv.org/abs/2611.32968v1",
-    "who": "Sascha H. Hauck et al."
+    "date": "2026-11-25",
+    "title": "Bound magic in multi-qubit systems",
+    "link": "https://arxiv.org/abs/2611.34872v1",
+    "who": "Jonas Kitzinger et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Anomalous front propagation in many-body quantum transport with memory-dependent resetting",
-    "link": "https://arxiv.org/abs/2611.32961v1",
-    "who": "Gabriele de Mauro et al."
+    "date": "2026-11-25",
+    "title": "Simultaneous computation of multiple excited states via double bracket flows",
+    "link": "https://arxiv.org/abs/2611.34871v1",
+    "who": "Reyhaneh Aghaei Saem et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Quantum kernels on breast data: concentration, surrogates, and two ways an advantage gets manufactured",
-    "link": "https://arxiv.org/abs/2611.32942v1",
-    "who": "Rana Saad et al."
+    "date": "2026-11-25",
+    "title": "State convertibility in quantum-state texture from a general form of free operations",
+    "link": "https://arxiv.org/abs/2611.34865v1",
+    "who": "Jose Alfredo de Leon"
    }
   ],
   "astronomy-space": [
    {
-    "date": "2026-11-24",
-    "title": "VENUS: A Census of Strong Lensing in a 60-Cluster JWST Survey",
-    "link": "https://arxiv.org/abs/2611.33142v1",
-    "who": "Joseph F. V. Allingham et al."
+    "date": "2026-11-25",
+    "title": "A comparison of two- and one-fluid dust solvers for dusty, supersonic turbulence",
+    "link": "https://arxiv.org/abs/2611.34910v1",
+    "who": "Narges Vadood et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Self-arresting vortex rearrangements in pinned spinning-down superfluids",
-    "link": "https://arxiv.org/abs/2611.33103v1",
-    "who": "Anantharaman Sekharipuram Viswanathan et al."
+    "date": "2026-11-25",
+    "title": "The Splash population confined to the Milky Way bar region",
+    "link": "https://arxiv.org/abs/2611.34890v1",
+    "who": "Aakash Pandey et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Hesperos & Eosphoros: A Coupled Differentiable Forced-Photometry Operator and Forward Model for SPHEREx Spectrophotometry",
-    "link": "https://arxiv.org/abs/2611.33092v1",
-    "who": "James Cheshire et al."
+    "date": "2026-11-25",
+    "title": "The oxygen cold trap in protoplanetary discs",
+    "link": "https://arxiv.org/abs/2611.34867v1",
+    "who": "Peter Woitke"
    },
    {
-    "date": "2026-11-24",
-    "title": "Initial Conditions and Wave-Phase Resolution for Scalar-Field Dark Matter Simulations",
-    "link": "https://arxiv.org/abs/2611.33083v1",
-    "who": "Hafiz Inam Ullah et al."
+    "date": "2026-11-25",
+    "title": "Screening of New Abelian Long-Range Forces",
+    "link": "https://arxiv.org/abs/2611.34838v1",
+    "who": "Marco Costa et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "A Study of Three Intrinsically Luminous Long Period Interacting Eclipsing Binaries in the Galaxy and the Small Magellanic Cloud",
-    "link": "https://arxiv.org/abs/2611.33002v1",
-    "who": "T. J. Davidge"
+    "date": "2026-11-25",
+    "title": "Azimuth Pointing and Momentum Management for a Lightweight High-Altitude Balloon Payload",
+    "link": "https://arxiv.org/abs/2611.34817v1",
+    "who": "Yorgo Abou Haidar et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Multi-Frequency Inversion of Meridional Flows Using Wave-Simulation-Based Sensitivity Kernels: Kernels, Method and Validation On Synthetic Data",
-    "link": "https://arxiv.org/abs/2611.32978v1",
-    "who": "Thomas Hartlep et al."
+    "date": "2026-11-25",
+    "title": "Tipping the scales in Blue Jay: Dust energy balance overpredicts IR luminosity in galaxies at $z\\sim2$",
+    "link": "https://arxiv.org/abs/2611.34802v1",
+    "who": "Benjamin P. Collins et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "From Historical Schedules to On-Sky Control: Autonomous Scheduling on the 4-m Blanco Telescope",
-    "link": "https://arxiv.org/abs/2611.32963v1",
-    "who": "Rachel Hur et al."
+    "date": "2026-11-25",
+    "title": "Measuring the flavor composition of high-energy neutrinos from the Milky Way",
+    "link": "https://arxiv.org/abs/2611.34797v1",
+    "who": "Mauricio Bustamante"
    },
    {
-    "date": "2026-11-24",
-    "title": "A comparative analysis of the presence of haze in sub-Neptunes observed with JWST",
-    "link": "https://arxiv.org/abs/2611.32950v1",
-    "who": "A. Y. Jaziri et al."
+    "date": "2026-11-25",
+    "title": "A Bayesian Approach to Prioritizing the Follow-Up of Near-Earth Objects",
+    "link": "https://arxiv.org/abs/2611.34790v1",
+    "who": "Devanshi Singh et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Multi-Component Axion Dark Matter Revisited and the Role of Ultralight ALPs",
-    "link": "https://arxiv.org/abs/2611.32925v1",
-    "who": "Hai-Jun Li"
+    "date": "2026-11-25",
+    "title": "The THESAN-ZOOM project: interpreting candidate Population III-enriched absorption line systems during reionization",
+    "link": "https://arxiv.org/abs/2611.34789v1",
+    "who": "Giulia Pruto et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "TESS discovers an eclipse of the Be star V1294 Aql (= HD 184279) by its not-so-small, low-mass companion",
-    "link": "https://arxiv.org/abs/2611.32909v1",
-    "who": "J. Labadie-Bartz et al."
+    "date": "2026-11-25",
+    "title": "Modeling time series of high-resolution spectra using the asymmetric Hilbert-Schmidt decomposition with application to radial velocity exoplanet searches",
+    "link": "https://arxiv.org/abs/2611.34786v1",
+    "who": "Kevin Tao et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Dark Matter Assisted Axion-Magnetic Resonance",
-    "link": "https://arxiv.org/abs/2611.32906v1",
-    "who": "Chen Sun et al."
+    "date": "2026-11-25",
+    "title": "State of the UNIONS: Four Milky Way companions discovered in a systematic search for northern Local Group satellites",
+    "link": "https://arxiv.org/abs/2611.34775v1",
+    "who": "Simon E. T. Smith et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "TeV Gamma-Ray Transparency Bounds on Neutrinos and Axions",
-    "link": "https://arxiv.org/abs/2611.32905v1",
-    "who": "Shengyi Liu et al."
+    "date": "2026-11-25",
+    "title": "Drilling for the Radio Neutrino Observatory in Greenland (RNO-G): field performance of BigRAID",
+    "link": "https://arxiv.org/abs/2611.34772v1",
+    "who": "Jason Chan et al."
    }
   ],
   "materials-energy": [
    {
-    "date": "2026-11-24",
-    "title": "Antiferromagnetic phase of MnTe2: spin-order-induced renormalization of phonon Raman spectrum",
-    "link": "https://arxiv.org/abs/2611.33156v1",
-    "who": "Taras Palasyuk et al."
+    "date": "2026-11-25",
+    "title": "Brightening spin- and parity-forbidden interlayer excitons through rhombohedral stacking",
+    "link": "https://arxiv.org/abs/2611.34900v1",
+    "who": "Haodong Hu et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Topological insulators on site-eliminated, projected, and patterned fractal lattices",
-    "link": "https://arxiv.org/abs/2611.33155v1",
-    "who": "Aiden Mains et al."
+    "date": "2026-11-25",
+    "title": "Measuring a buried Bi$_2$Te$_3$ epitaxial film through a protective Te cap: an exact three-layer terahertz analysis",
+    "link": "https://arxiv.org/abs/2611.34847v1",
+    "who": "Guilherme R. Russo et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Compositionally Tunable Synthesis of High-Entropy Transition Metal Dichalcogenides Exhibiting Above-Room-Temperature Magnetism",
-    "link": "https://arxiv.org/abs/2611.33115v1",
-    "who": "Chen Zhang et al."
+    "date": "2026-11-25",
+    "title": "Emergent Chern metal in strongly correlated moiré bilayers",
+    "link": "https://arxiv.org/abs/2611.34780v1",
+    "who": "Kaushal Kumar Kesharpu et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Robust growth of $α$-tantalum on sapphire at room temperature using atomically thin titanium seed layer",
-    "link": "https://arxiv.org/abs/2611.33112v1",
-    "who": "Anand Kamlapure et al."
+    "date": "2026-11-25",
+    "title": "Diagnosing internal leakage currents through magnetometry of lithium-ion cells",
+    "link": "https://arxiv.org/abs/2611.34699v1",
+    "who": "Shaurya Shukla et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "A model colloidal gel former for the measurement of inter-particle forces",
-    "link": "https://arxiv.org/abs/2611.33091v1",
-    "who": "Rui Cheng et al."
+    "date": "2026-11-25",
+    "title": "Transverse Shifts Driven by Geometric Orbital Torque in Altermagnets",
+    "link": "https://arxiv.org/abs/2611.34665v1",
+    "who": "Runze Li et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Anharmonic enhancement of thermal conductivity in amorphous Ge$_2$Sb$_2$Te$_5$: A consistent picture from molecular dynamics and Wigner transport",
-    "link": "https://arxiv.org/abs/2611.33089v1",
-    "who": "Luiz Felipe C. Pereira et al."
+    "date": "2026-11-25",
+    "title": "Frozen Phonons on Dense $\\mathbf{q}$-Grids Using Set Covers",
+    "link": "https://arxiv.org/abs/2611.34638v1",
+    "who": "Sebastian Riis Thomsen"
    },
    {
-    "date": "2026-11-24",
-    "title": "Native vacancy energetics and association in TiN and CrN: chemical potential dependence, clustering, and surface effects",
-    "link": "https://arxiv.org/abs/2611.33060v1",
-    "who": "Barsha Bhattacharjee et al."
+    "date": "2026-11-25",
+    "title": "Tunable Terahertz Bandpass Filter based on the Photonic Emulation of a 2DEG Interferometer through the Geometric Phase of Light",
+    "link": "https://arxiv.org/abs/2611.34593v1",
+    "who": "Victor I. Iwanaga et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Nanoparticles with a BANG: Detonation-Driven Synthesis of Metals and Metal Oxides",
-    "link": "https://arxiv.org/abs/2611.32985v1",
-    "who": "Jan Maurycy Uszko et al."
+    "date": "2026-11-25",
+    "title": "Origin of the anomalous shape of the $γ$-loop in paramagnetic Fe1-xCrx alloys from coupled Atomistic Spin Dynamics and ab initio Molecular Dynamics",
+    "link": "https://arxiv.org/abs/2611.34565v1",
+    "who": "Joakim Stenborg et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Quantum-Inspired Tensor Train Spectral Solver for High-Resolution PDEs with Non-Periodic Boundary Conditions",
-    "link": "https://arxiv.org/abs/2611.32968v1",
-    "who": "Sascha H. Hauck et al."
+    "date": "2026-11-25",
+    "title": "Measuring the Roughness of Quasi-Circular Interfaces at Finite Resolution",
+    "link": "https://arxiv.org/abs/2611.34556v1",
+    "who": "Ralph Bulanadi et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Packing the Bragg sphere: complete three-dimensional photonic band gaps at the refractive index of polymers (1.55)",
-    "link": "https://arxiv.org/abs/2611.32789v1",
-    "who": "Alexander Itin"
+    "date": "2026-11-25",
+    "title": "Arbitrarily Weak Losses Destroy Fractal Bandstructure in Temporal Fibonacci Quasicrystals",
+    "link": "https://arxiv.org/abs/2611.34552v1",
+    "who": "Calvin M. Hooper"
    },
    {
-    "date": "2026-11-24",
-    "title": "Lattice Thermal Conductivity of MgO and the MgSiO$_3$ Polymorphs Bridgmanite and Post-Perovskite at Lower-Mantle Conditions Using Fine-Tuned MACE Potentials",
-    "link": "https://arxiv.org/abs/2611.32761v1",
-    "who": "Amrendra Kumar Tiwari et al."
+    "date": "2026-11-25",
+    "title": "EGQCA Code: automated high-throughput thermodynamic modeling of solid solutions",
+    "link": "https://arxiv.org/abs/2611.34551v1",
+    "who": "Dominik Spath et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Neutron Spectroscopy Transformed: Deuterated ZIF-8 and Machine-Learned Potentials Catch Nitrogen Threading Its Gates",
-    "link": "https://arxiv.org/abs/2611.32739v1",
-    "who": "Jeff Armstrong et al."
+    "date": "2026-11-25",
+    "title": "High-Throughput Orientation Extraction via Symmetry-Adapted Filters",
+    "link": "https://arxiv.org/abs/2611.34541v1",
+    "who": "Caden Myers et al."
    }
   ],
   "chemistry": [
    {
-    "date": "2026-11-24",
-    "title": "A model colloidal gel former for the measurement of inter-particle forces",
-    "link": "https://arxiv.org/abs/2611.33091v1",
-    "who": "Rui Cheng et al."
+    "date": "2026-11-25",
+    "title": "Transition Path Sampling for Rare Events in Non-Markovian Open Quantum Systems",
+    "link": "https://arxiv.org/abs/2611.34883v1",
+    "who": "Ritesh Pant et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Polar Streams through Active Condensation in Flocks",
-    "link": "https://arxiv.org/abs/2611.33007v1",
-    "who": "Lauritz Hahn et al."
+    "date": "2026-11-25",
+    "title": "Discotic columnar phase in a three-dimensional monomer-tetramer model of Heilmann and Lieb with side-to-side attraction",
+    "link": "https://arxiv.org/abs/2611.34796v1",
+    "who": "Qidong He"
    },
    {
-    "date": "2026-11-24",
-    "title": "Energy transport from an active medium",
-    "link": "https://arxiv.org/abs/2611.32992v1",
-    "who": "Simon Krekels et al."
+    "date": "2026-11-25",
+    "title": "A general-purpose electron density model for molecular chemistry",
+    "link": "https://arxiv.org/abs/2611.34732v1",
+    "who": "Paolo Pegolo et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Confinement-induced Transitions of Chiral Active Particles and Dumbbells",
-    "link": "https://arxiv.org/abs/2611.32972v1",
-    "who": "Mike Brandt et al."
+    "date": "2026-11-25",
+    "title": "Automatic dual basis sets for self-consistent field calculations",
+    "link": "https://arxiv.org/abs/2611.34694v1",
+    "who": "Joonatan Huhtasalo et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Fast and Accurate Boys Function Evaluation Using Nonuniform Gridded Taylor Expansions",
-    "link": "https://arxiv.org/abs/2611.32943v1",
-    "who": "Longxiang Yan et al."
+    "date": "2026-11-25",
+    "title": "Site-Resolved Optical Spectroscopy of Thulium in Solid Argon",
+    "link": "https://arxiv.org/abs/2611.34518v1",
+    "who": "Jason Marfey et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Long-Range Hydrodynamic Communication in Active Matter",
-    "link": "https://arxiv.org/abs/2611.32867v1",
-    "who": "Abhishek Thakur et al."
+    "date": "2026-11-25",
+    "title": "A Thermodynamically Consistent Model of a Rechargeable Salt-in-Polyelectrolyte Battery",
+    "link": "https://arxiv.org/abs/2611.34415v1",
+    "who": "Charlotte Beckford et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Path-probability gradients for optimizing force fields against dynamical observables",
-    "link": "https://arxiv.org/abs/2611.32851v1",
-    "who": "Zhongyao Wang et al."
+    "date": "2026-11-25",
+    "title": "Spin-Orbit Coupling in Symmetry-Forbidden Reactions: A Selection Rule Tested on the Chalcogen Trimers",
+    "link": "https://arxiv.org/abs/2611.34375v1",
+    "who": "Shadan Ghassemi Tabrizi"
    },
    {
-    "date": "2026-11-24",
-    "title": "Geometry and topology of DNA defects",
-    "link": "https://arxiv.org/abs/2611.32850v1",
-    "who": "A. Fassino et al."
+    "date": "2026-11-25",
+    "title": "PineIR: 3D molecular structures from an infrared spectrum alone",
+    "link": "https://arxiv.org/abs/2611.34334v1",
+    "who": "Giulio Benedini et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Snap-Through Symmetry Breaking in Multicellular Aggregates",
-    "link": "https://arxiv.org/abs/2611.32832v1",
-    "who": "Martí Planasdemunt-Hospital et al."
+    "date": "2026-11-25",
+    "title": "Quantum chaotic signature in non-empirical ensemble of DNA base pairs",
+    "link": "https://arxiv.org/abs/2611.34305v1",
+    "who": "Mehdi Ameri"
    },
    {
-    "date": "2026-11-24",
-    "title": "Neutron Spectroscopy Transformed: Deuterated ZIF-8 and Machine-Learned Potentials Catch Nitrogen Threading Its Gates",
-    "link": "https://arxiv.org/abs/2611.32739v1",
-    "who": "Jeff Armstrong et al."
+    "date": "2026-11-25",
+    "title": "Collective relaxation dynamics and vitrification in hexatic smectic binary equimolar mixtures containing component with varying C$_3$F$_7$CH$_2$OC$_m$H$_{2m}$- chain length",
+    "link": "https://arxiv.org/abs/2611.34286v1",
+    "who": "Aleksandra Deptuch et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Impact of Taylor-Aris dispersion on chemical patterns in confined channel flows",
-    "link": "https://arxiv.org/abs/2611.32737v1",
-    "who": "Yanis Baouche et al."
+    "date": "2026-11-25",
+    "title": "Length-scales and fractal scaling in dairy gels: comparisons of the insights from ultra-small angle neutron scattering and rheology",
+    "link": "https://arxiv.org/abs/2611.34194v1",
+    "who": "Koduvayur A. Ramya et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Odd Viscosity-Driven Phase Separation in Chiral Active Mixtures",
-    "link": "https://arxiv.org/abs/2611.32535v1",
-    "who": "Xiaoyi Wu et al."
+    "date": "2026-11-25",
+    "title": "Bringing Singles to $GW$: A Coupled-Cluster Perspective on Orbital Relaxation",
+    "link": "https://arxiv.org/abs/2611.34160v1",
+    "who": "Marios-Petros Kitsaras et al."
    }
   ],
   "earth-climate": [
+   {
+    "date": "2026-11-25",
+    "title": "ENSO-linked redistribution of post-monsoon tropical cyclone energy between the Arabian Sea and the Bay of Bengal: 1982--2025",
+    "link": "https://arxiv.org/abs/2611.34718v1",
+    "who": "Prashant Saini et al."
+   },
+   {
+    "date": "2026-11-25",
+    "title": "CLM-JAX v3.2.46: a differentiable, GPU-accelerated land surface model numerically indistinguishable from the Community Land Model 5.0",
+    "link": "https://arxiv.org/abs/2611.34574v1",
+    "who": "Shijin Yuan et al."
+   },
+   {
+    "date": "2026-11-25",
+    "title": "Full-waveform inversion with adaptive anisotropic Gaussian primitives",
+    "link": "https://arxiv.org/abs/2611.34441v1",
+    "who": "Pu Yang et al."
+   },
+   {
+    "date": "2026-11-25",
+    "title": "LatENSO v1.0: a learned latent state of the tropical Pacific for seasonal ENSO operators and forecasting",
+    "link": "https://arxiv.org/abs/2611.34296v1",
+    "who": "Milad Panahi et al."
+   },
+   {
+    "date": "2026-11-25",
+    "title": "Ion and electron temperature recovery for Irkutsk incoherent scatter measurements",
+    "link": "https://arxiv.org/abs/2611.33902v1",
+    "who": "V. P. Tashlykov et al."
+   },
+   {
+    "date": "2026-11-25",
+    "title": "Skysail: Altitude Control of Long-Duration Weather Balloons by Extracting Work from Wind Shear",
+    "link": "https://arxiv.org/abs/2611.33882v1",
+    "who": "Michal Adamkiewicz et al."
+   },
+   {
+    "date": "2026-11-24",
+    "title": "Weak buoyancy and cold lithospheres decouple interior melting from seafloor volcanism on icy ocean worlds",
+    "link": "https://arxiv.org/abs/2611.33478v1",
+    "who": "Nahiz Hestaphin"
+   },
+   {
+    "date": "2026-11-24",
+    "title": "APEX: Agentic Platform for Ensemble eXploration",
+    "link": "https://arxiv.org/abs/2611.33450v1",
+    "who": "Xiaodong Luo"
+   },
+   {
+    "date": "2026-11-24",
+    "title": "Basin-Scale Nonlinear Dynamics of Thermohaline Ocean Circulation. Part I: Theory",
+    "link": "https://arxiv.org/abs/2611.33383v1",
+    "who": "Conner W. Lester et al."
+   },
    {
     "date": "2026-11-24",
     "title": "Effect of humidity and phase transition on turbulent diffusion of droplets and water vapour in atmospheric turbulent flows",
@@ -848,134 +878,80 @@
     "title": "Evaluation of Machine-Learning Weather Models in Reproducing Mesoscale Tornado-Favorable Convective Environments",
     "link": "https://arxiv.org/abs/2611.31564v1",
     "who": "Yiding Luo et al."
-   },
-   {
-    "date": "2026-11-23",
-    "title": "Transferable, Time-Parallel Graph Dynamics via Space-Time Factorization",
-    "link": "https://arxiv.org/abs/2611.31479v1",
-    "who": "Wencong Yang et al."
-   },
-   {
-    "date": "2026-11-23",
-    "title": "Critical ocean physics on the edge of AMOC instability",
-    "link": "https://arxiv.org/abs/2611.31448v1",
-    "who": "Reyk Börner et al."
-   },
-   {
-    "date": "2026-11-23",
-    "title": "Flood forecasting using a physics-guided conditional denoising diffusion probabilistic model",
-    "link": "https://arxiv.org/abs/2611.31212v1",
-    "who": "Omar Sallam et al."
-   },
-   {
-    "date": "2026-11-23",
-    "title": "A Comparison of Uncertainty in AI and Dynamical Climate Ensembles",
-    "link": "https://arxiv.org/abs/2611.31064v1",
-    "who": "Jacob B. Landsberg et al."
-   },
-   {
-    "date": "2026-11-23",
-    "title": "MUNDO: a multiresolution generative framework for temporal downscaling",
-    "link": "https://arxiv.org/abs/2611.30868v1",
-    "who": "Aymeric Delefosse et al."
-   },
-   {
-    "date": "2026-11-23",
-    "title": "An exact and differentiable rewrite of a coupled weather and fire model",
-    "link": "https://arxiv.org/abs/2611.30866v1",
-    "who": "John S. Schreck et al."
-   },
-   {
-    "date": "2026-11-23",
-    "title": "A Fitch-Based Wind Farm Parameterization for CM1: Implementation, Validation, and Impacts on Convection Initiation",
-    "link": "https://arxiv.org/abs/2611.30806v2",
-    "who": "Jianxiang Li et al."
-   },
-   {
-    "date": "2026-11-23",
-    "title": "Non-intrusive Differentiation of High-Performance Seismic Solvers",
-    "link": "https://arxiv.org/abs/2611.30524v1",
-    "who": "Xi Wang et al."
-   },
-   {
-    "date": "2026-11-23",
-    "title": "Conservative Rupture Force Relating Co-seismic Rupture and Afterslip Process",
-    "link": "https://arxiv.org/abs/2611.30324v1",
-    "who": "Yuxuan Hou et al."
    }
   ],
   "mathematics": [
    {
-    "date": "2026-11-24",
-    "title": "Dominoes tiling a common figure",
-    "link": "https://arxiv.org/abs/2611.33154v1",
-    "who": "Peter Keevash et al."
+    "date": "2026-11-25",
+    "title": "Invariance of log plurigenera in families of compact Kähler manifolds",
+    "link": "https://arxiv.org/abs/2611.34933v1",
+    "who": "Zhengyu Hu et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "A canonical Euclidean Gallai theorem",
-    "link": "https://arxiv.org/abs/2611.33136v1",
-    "who": "Benedict Randall Shaw"
+    "date": "2026-11-25",
+    "title": "Sums of Kloosterman fractions and applications",
+    "link": "https://arxiv.org/abs/2611.34917v1",
+    "who": "Alexandru Pascadi"
    },
    {
-    "date": "2026-11-24",
-    "title": "Regenerative range for planar random walks",
-    "link": "https://arxiv.org/abs/2611.33134v1",
-    "who": "Maxence Baccara et al."
+    "date": "2026-11-25",
+    "title": "On the Distribution of Prime Factors of $\\lfloor αn^2 \\rfloor$",
+    "link": "https://arxiv.org/abs/2611.34913v1",
+    "who": "Cati Alexandru et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Winning and losing NoGo is PSPACE-complete",
-    "link": "https://arxiv.org/abs/2611.33127v1",
-    "who": "Kyle Burke et al."
+    "date": "2026-11-25",
+    "title": "Sliding-Window Detection of Hidden Regimes under Stochastic Switching",
+    "link": "https://arxiv.org/abs/2611.34905v1",
+    "who": "Arina Pambukyan et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Efficient reconfiguration, polynomial decompositions and approximate counting",
-    "link": "https://arxiv.org/abs/2611.33120v1",
-    "who": "Peter Keevash et al."
+    "date": "2026-11-25",
+    "title": "Pairing Powers of Pythagorean Pairs II",
+    "link": "https://arxiv.org/abs/2611.34902v1",
+    "who": "Lorenz Halbeisen et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Brauer classes of representations of division algebras and their Langlands parameters",
-    "link": "https://arxiv.org/abs/2611.33116v1",
-    "who": "Ryan Xu"
+    "date": "2026-11-25",
+    "title": "Exponential integrability of SLE Minkowski content",
+    "link": "https://arxiv.org/abs/2611.34878v1",
+    "who": "Dapeng Zhan"
    },
    {
-    "date": "2026-11-24",
-    "title": "Forms and polynomial covers in many variables",
-    "link": "https://arxiv.org/abs/2611.33114v1",
-    "who": "Yijie Diao et al."
+    "date": "2026-11-25",
+    "title": "Real equiangular lines in dimensions 18-20 and sharp fixed-angle bounds",
+    "link": "https://arxiv.org/abs/2611.34855v1",
+    "who": "Valjakas Djaljapayan et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Max-degree filtration, Koszul complexes, and Multicolor Permutation Wordle",
-    "link": "https://arxiv.org/abs/2611.33113v1",
-    "who": "Lawren M. Smithline"
+    "date": "2026-11-25",
+    "title": "Quot schemes on projective space",
+    "link": "https://arxiv.org/abs/2611.34844v1",
+    "who": "Ritvik Ramkumar"
    },
    {
-    "date": "2026-11-24",
-    "title": "Large blow-ups of uniform hypergraphs",
-    "link": "https://arxiv.org/abs/2611.33108v1",
-    "who": "Dhruv Mubayi"
+    "date": "2026-11-25",
+    "title": "The Vinogradov system in finite fields and two-source extractors with arbitrarily small min-entropy rate",
+    "link": "https://arxiv.org/abs/2611.34837v1",
+    "who": "Mark Lewko"
    },
    {
-    "date": "2026-11-24",
-    "title": "The tower transition in majority bootstrap percolation",
-    "link": "https://arxiv.org/abs/2611.33087v1",
-    "who": "Vyacheslav Koval et al."
+    "date": "2026-11-25",
+    "title": "Full Structure Recovery of Linearized Reed-Solomon Codes",
+    "link": "https://arxiv.org/abs/2611.34835v1",
+    "who": "Valentina Astore et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Sharp estimates for incremental moments of inverse subordinators and approximation errors for time-changed stochastic differential equations",
-    "link": "https://arxiv.org/abs/2611.33075v1",
-    "who": "Ivan Biočić et al."
+    "date": "2026-11-25",
+    "title": "PrO Filtering via Kernel Mean Embedding Dynamics",
+    "link": "https://arxiv.org/abs/2611.34809v1",
+    "who": "Linfeng Wang et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Properties of the Sawin--Wood Model for Unramified Galois Groups of Global Fields",
-    "link": "https://arxiv.org/abs/2611.33073v1",
-    "who": "Mark Shusterman et al."
+    "date": "2026-11-25",
+    "title": "Discotic columnar phase in a three-dimensional monomer-tetramer model of Heilmann and Lieb with side-to-side attraction",
+    "link": "https://arxiv.org/abs/2611.34796v1",
+    "who": "Qidong He"
    }
   ],
   "genomics": [
@@ -998,58 +974,58 @@
     "who": "Rathod, S. M. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Genome architecture and duplication-associated functional diversification in the carnivorous plant Sarracenia purpurea",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.14.766640v2",
-    "who": "Albert et al."
+    "date": "2026-11-25",
+    "title": "Development of microsatellite markers with the SSRseq method on Glossina palpalis gambiensis, and G. p. palpalis, and analysis of corresponding field samples from three sleeping sickness foci: Boffa, Dubreka (Guinea), and Bonon (Cote d'Ivoire).",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.19.695359v4",
+    "who": "DE MEEUS, T. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "FoXSight: Facilitating Computational Hit Identification in Crystallographic Fragment Screening Experiments",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.01.763443v3",
-    "who": "Schulze, T. et al."
+    "date": "2026-11-25",
+    "title": "Transcriptomic-Methylation Integration and Machine-Learning Prioritization of Candidate Prognostic Biomarkers in Triple-Negative Breast Cancer: A Retrospective Computational Study",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.05.03.722461v4",
+    "who": "MANNEKUNTA, N. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Diversity of Environmental and Genome-Associated Eukaryotic Circular Rep-Encoding Single-Stranded DNA Viruses",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.20.768052v1",
-    "who": "Bezuidt, O. K. et al."
+    "date": "2026-11-25",
+    "title": "isoGS: A genomic method to navigate the breeder's dilemma of diversity versus eliteness",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768689v1",
+    "who": "Monyak, T. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Pharmacogenomic diversity at tuberculosis-treatment loci across African populations: phased haplotypes, regulatory architecture and NAT2 acetylator inference",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.768388v1",
-    "who": "Mutagonda, R. F. et al."
+    "date": "2026-11-25",
+    "title": "A switch in Nrg1-Rtg3 promoter recruitment coordinates mitochondrial cristae remodeling during the diauxic transition",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768758v1",
+    "who": "De La Vega-Alvarado, A. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Divergent immune trajectories distinguish resistance and susceptibility to bacterial leaf streak in wheat",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.19.767916v1",
-    "who": "Singh, J. et al."
+    "date": "2026-11-25",
+    "title": "Alignment-Aware Genomic Coordinate Encoding for Long-Range DNA Modeling",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.10.757278v2",
+    "who": "Yang, X. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "FiberTron enables regulatory variant effect prediction and testing from multi-omic long reads of a single sample",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.13.762587v1",
-    "who": "Eftychiou, M. et al."
+    "date": "2026-11-25",
+    "title": "Cell-state conditioning predicts the expression response to an unseen stimulus but not stimulus-dependent genetic effects",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.767041v3",
+    "who": "He, H. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "A Two-Stage YOLO-Swin Transformer Pipeline for Cross-Dataset White Blood Cell Classification",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768502v1",
-    "who": "Chang, C.-W. et al."
+    "date": "2026-11-25",
+    "title": "Molecular switch mediates the glucocorticoid receptor transition from tumor suppressor to oncogene in the prostate",
+    "link": "https://www.biorxiv.org/content/10.1101/2025.08.20.670078v3",
+    "who": "Hiltunen, J. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "WildTrust-UAV: uncertainty-aware wildlife detection with privacy-preserving spatial disclosure and verifiable inference provenance",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.12.766079v1",
-    "who": "Verma, P. et al."
+    "date": "2026-11-25",
+    "title": "Genomic variation of Dutch traditional cattle breeds captured in a Dutch cattle pangenome",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768688v1",
+    "who": "Hogers, R. A. H. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "CheekAI: An explainable, deep learning epigenetic aging clock based on lifestyle and health epigenetic biomarker proxies",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.21.768329v1",
-    "who": "Shokhirev, M. N. et al."
+    "date": "2026-11-25",
+    "title": "Structural and functional reference maps of transcriptional enhancers in the developing human cortex",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768903v1",
+    "who": "Karunakarun, D. et al."
    }
   ],
   "neuroscience": [
@@ -1060,70 +1036,70 @@
     "who": "Festa, D. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Unified CEBRA learns shared neural latents across recordings to map single-neuron contributions to population codes",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.18.767506v2",
-    "who": "Benquet, C. et al."
+    "date": "2026-11-25",
+    "title": "Neurofeedback enhances a neural signature of selective attention to speech in cocktail-party settings",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.05.29.728767v2",
+    "who": "Pari, R. K. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Laterality of subcortical structures predicts spontaneous brain dynamics",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.07.13.738145v3",
-    "who": "Ghafari, T. et al."
+    "date": "2026-11-25",
+    "title": "Space-based and object-based saccadic selection in visual working memory",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.05.05.723053v2",
+    "who": "Shurygina, O. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Individual neurons in monkey sensory and prefrontal cortices contribute to both working memory maintenance and readout",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.03.13.711560v2",
-    "who": "Huang, Y. et al."
+    "date": "2026-11-25",
+    "title": "Human iPSC-derived Olfactory Sensory Organoids model olfactory function and drug response",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769047v1",
+    "who": "Singh, V. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Delta rhythm and voice familiarity organize neural entrainment in the infant brain",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.09.10.750698v2",
-    "who": "Rambosson, I. et al."
+    "date": "2026-11-25",
+    "title": "A functional analysis of action potential generation in the axon initial segment in two autism mouse models with loss-of-function mutations of the Nav1.2 sodium channel",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768870v1",
+    "who": "Abbas, F. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "An information theoretic approach to evaluating social behaviour in mice using automated home-cage monitoring",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.767392v1",
-    "who": "Chien, T. et al."
+    "date": "2026-11-25",
+    "title": "Frequency-Selective Responses to Temporal Interference Stimulation in Hippocampal Neurons",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768895v1",
+    "who": "Aristides, R. d. P. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Correction for age-appropriate relaxation reference values alters estimates of neurometabolite concentration, but not age relationships",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768649v1",
-    "who": "Song, y. et al."
+    "date": "2026-11-25",
+    "title": "Developmental timeline of the lateral olfactory tract innervation of piriform cortex",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768942v1",
+    "who": "Martin-Lopez, E. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Sex differences in the effects of enhanced adult hippocampal neurogenesis on pattern discrimination and Intellicage spatial learning in Bax-knockout mice",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768231v1",
-    "who": "Tunc-Ozcan, E. et al."
+    "date": "2026-11-25",
+    "title": "Functional and Neurotransmitter Organization of Cortical Gray Matter Remodeling During Pregnancy",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768907v1",
+    "who": "Hayes, C. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Sympathetic-to-microglia readouts in human brain single-nucleus data: sparse adrenergic receptor detection and age-associated homeostatic-to-inflammatory shifts in hippocampal microglia",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.14.765300v1",
-    "who": "Liang, M. et al."
+    "date": "2026-11-25",
+    "title": "Separating robust from fragile cell-type changes in spatial transcriptomics using screening label uncertainty to identify composition effects",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768995v1",
+    "who": "Sakko, R. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Target- and network-specific downstream effects of personalized precision transcranial magnetic stimulation: Evidence from concurrent functional neuroimaging",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.10.765235v1",
-    "who": "Lueckel, M. et al."
+    "date": "2026-11-25",
+    "title": "Mapping the invisible: Incidental spatial encoding through haptic exploration",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768822v1",
+    "who": "Vlachou, M. E. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Hierarchical control of visual perceptual learning with model-synthesized stimuli",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768712v1",
-    "who": "Valibeigi, Y. et al."
+    "date": "2026-11-25",
+    "title": "Modelling mouse barrel cortex: from anatomical structure to cortical dynamics",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768894v1",
+    "who": "Teska, A. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "The neural basis of unfamiliar face recognition in humans with fMRI frequency-tagging",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.12.764897v1",
-    "who": "Laurent, M.-A. et al."
+    "date": "2026-11-25",
+    "title": "Sex differences in corticostriatal regulation of alcohol drinking following chronic intermittent alcohol exposure",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769022v1",
+    "who": "Hewitt, K. A. et al."
    }
   ],
   "cell-molecular": [
@@ -1134,70 +1110,70 @@
     "who": "zhang, x. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Structural basis for alpha-actinin inhibition of cofilin binding to actin filaments",
-    "link": "https://www.biorxiv.org/content/10.1101/2025.11.16.688667v3",
-    "who": "Ngo, K. X. et al."
+    "date": "2026-11-25",
+    "title": "Dysregulated SETX activity at R-loops links transcriptional and splicing alterations to compromised neuronal identity in ALS4",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.06.30.735532v2",
+    "who": "Giannini, M. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "MicroRNA spatial profiling for assessing drug efficacy in BRCA1-related triple-negative breast tumors",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.01.12.698824v3",
-    "who": "Mohd, O. N. et al."
+    "date": "2026-11-25",
+    "title": "AtVPS13M1 regulates subcellular lipid distribution and lipid remodeling in phosphate-deprived plants",
+    "link": "https://www.biorxiv.org/content/10.1101/2024.05.22.594332v2",
+    "who": "Leterme, S. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "XSSDense: X-ray Solution Scattering Density Reconstruction Using a Variational Autoencoder",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.08.07.743437v2",
-    "who": "Monrroy, L. et al."
+    "date": "2026-11-25",
+    "title": "SimpleP2G: Importance of Image Encoders for Gene Expression Prediction from Pathology Images",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768493v1",
+    "who": "Wang, J. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "A Minimally Perturbative DARPin Probe for Quantitative Fluorescence Imaging of the Human TCR-CD3 Complex",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.09.24.754129v2",
-    "who": "Pons Romero, M. et al."
+    "date": "2026-11-25",
+    "title": "Reference-based assignment of aerolysin nanopore signals to peptide sequences from tryptic protein digests",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.21.760613v2",
+    "who": "Hensel, C. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Identifying a cooperative catalytic network for efficient esterase catalysis",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.05.29.728779v2",
-    "who": "Sarak, S. et al."
+    "date": "2026-11-25",
+    "title": "Human De Novo Microproteins are Intrinsically Disordered and Contain Short Linear Motifs",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.768061v1",
+    "who": "Menart, I. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "CA19-9-associated transcriptional programs in pancreatic ductal adenocarcinoma are linked to survival and drug sensitivity",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.20.767879v1",
-    "who": "Goralski, T. M. et al."
+    "date": "2026-11-25",
+    "title": "Zero-Shot Generation of Protein Conformational Ensembles Through AlphaFold Latent Flooding",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.04.16.718914v3",
+    "who": "QIAN, R. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Effective control of treadmilling filaments by plus-end capping",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.768371v1",
-    "who": "Ye, X. et al."
+    "date": "2026-11-25",
+    "title": "VMDance: An Efficient and Interactive Molecular Dynamics Clustering Plugin for VMD",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769027v1",
+    "who": "Gomes, D. E. B. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Albumin alleviates pressure overload-induced heart failure by improving mitochondrial homeostasis via PKA-LKB1-AMPK axis",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.21.768247v1",
-    "who": "AN, Q. et al."
+    "date": "2026-11-25",
+    "title": "Isolating soluble, near-native, misfolded states and their functional characterization: A step towards high-resolution protein misfolding structures",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769006v1",
+    "who": "O'Brien, E. P. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Red-light-catalyzed photolipid switching enables leaflet-selective control of membrane mechanics",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.09.14.751465v3",
-    "who": "Yadav, R. et al."
+    "date": "2026-11-25",
+    "title": "Insights into Ice-Growth Inhibition and Hydration Ordering by the Ca2+-Dependent Antifreeze Protein MaIBP_RIV",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768877v1",
+    "who": "Jana, B. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "EM-Claw: An Experience-Grounded Language-Model Agent for Auto Cryo-EM Single-Particle Analysis",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768522v1",
-    "who": "Shan, H. et al."
+    "date": "2026-11-25",
+    "title": "Near-surface flight enhances thrust in an insect-inspired flapping-wing robot",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768668v1",
+    "who": "Zhang, C. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Determination of both global and local protein stability in complex environments with X-ray hydroxyl radical footprinting",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.21.768341v1",
-    "who": "Costello, S. M. et al."
+    "date": "2026-11-25",
+    "title": "Structural deformations of lipid bilayers around membrane proteins inform oligomerization type",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769041v1",
+    "who": "Diaz Vazquez, G. et al."
    }
   ],
   "microbes-immunity": [
@@ -1214,67 +1190,103 @@
     "who": "Acosta-Jurado, S. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Population-scale immunoglobulin genomics links inherited variation to antibody repertoire organization",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.06.05.730236v2",
-    "who": "Peres, A. et al."
+    "date": "2026-11-25",
+    "title": "Extracellular tumor-derived IL-33 promotes ST2-dependent tumor control",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768800v1",
+    "who": "Herbst, A. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Gas6 signaling via its cellular receptors is essential for homeostasis in response to endotoxemia and infection",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.13.766121v2",
-    "who": "Caku, S. et al."
+    "date": "2026-11-25",
+    "title": "Mitochondrial fatty acid synthesis (mtFAS) fuels iron-sulfur cluster production essential for type I immunity",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768974v1",
+    "who": "Preston, S. E. J. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Novel Stable 5-OP-RU Analogs Activate Human MAIT Cells and Promote Cytotoxic Antitumor Function",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.767938v1",
-    "who": "Korangy, F. et al."
+    "date": "2026-11-25",
+    "title": "Structural basis of human antibody recognition of linear and conformational epitopes on the peanut allergen Ara h 2",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768991v1",
+    "who": "Civljak, A. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "DNA Methyltransferase Inhibition During CAR T-cell Manufacturing Enhances Antitumor Activity in Immunocompetent Brain and Ovarian Cancer Models",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768631v1",
-    "who": "VanNoy, E. L. et al."
+    "date": "2026-11-25",
+    "title": "Recognition of β-D-glucose by surfactant protein D and structural evidence for an extended carbohydrate binding site",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768801v1",
+    "who": "Littlejohn, J. R. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Distinct monocyte replenishment kinetics of macrophages at the oral barrier restrict early-life bacterial colonisation",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.767558v1",
-    "who": "Wemyss, K. et al."
+    "date": "2026-11-25",
+    "title": "Transient fetal type 2 bovine viral diarrhea virus infection protects beef cattle from postnatal challenge with type 1b bovine viral diarrhea virus and Mannheimia haemolytica",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768602v1",
+    "who": "Van Campen, H. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "A B-cell-cardiac autoantibody-complement axis contributes to myocarditis induced by checkpoint blockade and cardiac irradiation",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.768334v1",
-    "who": "Tran, D. N. et al."
+    "date": "2026-11-25",
+    "title": "An RNase bacterial toxin family cleaves the anticodon loop across diverse tRNA isotypes",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768618v1",
+    "who": "Lin, J. E. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Intradermal and intranasal vaccination with microparticulated ASFV proteins induces distinct immune profiles in pigs",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768517v1",
-    "who": "Coatu, E. et al."
+    "date": "2026-11-25",
+    "title": "Lateral interactions between antiparallel filaments drive self-assembly of the FtsZ ring in bacterial cell division",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769015v1",
+    "who": "McAndrew, M. B. L. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Characterizing the Effects of Filtration on Microbial Diversity, Reproducibility, and Genome Recovery from Wastewater",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.17.767414v1",
-    "who": "Ruth, N. et al."
+    "date": "2026-11-25",
+    "title": "PL25_M23: Salt-enhanced antibacterial activity of a plasmid-encoded SLT-M23 hydrolase from Virgibacillus salarius against Gram-positive bacteria",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768938v1",
+    "who": "Farran, A. H. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Rapid development of E. coli resistance to Bdellovibrio predation during short-term co-culture",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768573v1",
-    "who": "Williams, L. E. et al."
+    "date": "2026-11-25",
+    "title": "Acquisition of phthiocerol dimycocerosates enabled extension of fused mycomembranes for cellular cording in Mycobacterium tuberculosis",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769003v1",
+    "who": "Jungfer, K. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "A 6-week all-liquid caloric restriction diet reduced abundance of some butyrate-producing bacteria while increasing abundance of mucin-degrading bacteria",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768597v1",
-    "who": "Dirks, B. et al."
+    "date": "2026-11-25",
+    "title": "Phage integrons are vaults of privatized counterdefense genes",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768926v1",
+    "who": "Ono, R. et al."
    }
   ],
   "cancer": [
+   {
+    "date": "2026-11-25",
+    "title": "Beyond IgG: Oral Secretory IgA as a new efficient modality for cancer immunotherapy",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768496v1",
+    "who": "Brousse, M. et al."
+   },
+   {
+    "date": "2026-11-25",
+    "title": "Ecological Feedback Dimensionality and Trade-Off Shape Govern Cancer Phenotypic Diversification",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.14.766691v1",
+    "who": "Bukkuri, A. et al."
+   },
+   {
+    "date": "2026-11-25",
+    "title": "Fishing for new immunotherapy compounds to boost innate tumor rejection",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.15.766748v1",
+    "who": "Machado, A. B. et al."
+   },
+   {
+    "date": "2026-11-25",
+    "title": "Targeting ATR-CHK1-WEE1 signaling enhances IMPDH inhibitor efficacy in mTORC1-driven tumor cells",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768592v1",
+    "who": "Akther, M. et al."
+   },
+   {
+    "date": "2026-11-25",
+    "title": "CSF Boundary Disruption and Tumor-Dependent Patterns of Medulloblastoma Metastasis",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768674v1",
+    "who": "Ryan, l. N. et al."
+   },
+   {
+    "date": "2026-11-25",
+    "title": "PTP1B supports survival and regulates CFL1 and HSP90a abundance in trastuzumab-resistant HER2-positive breast cancer.",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.23.761095v2",
+    "who": "Mandati, V. et al."
+   },
    {
     "date": "2026-11-24",
     "title": "Spatial geometry of the Hypoxic niche predicts Radiotherapy failure in Colorectal Cancer: A Spatially Explicit Agent-Based Model",
@@ -1310,116 +1322,80 @@
     "title": "Glycogen fuels and spatially regulates nucleotide biosynthesis in cancer",
     "link": "https://www.biorxiv.org/content/10.64898/2026.11.21.768289v1",
     "who": "Khan, T. et al."
-   },
-   {
-    "date": "2026-11-24",
-    "title": "Low serine-glycine-one-carbon pathway activity defines purine salvage dependence in neuroblastoma",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.18.767701v2",
-    "who": "Ding, J. et al."
-   },
-   {
-    "date": "2026-11-24",
-    "title": "HER3 mediates metabolic reprogramming in metastatic colorectal and pancreatic cancer",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.10.30.763164v2",
-    "who": "Rathore, M. et al."
-   },
-   {
-    "date": "2026-11-24",
-    "title": "Pharmacodynamic encoding of tumor exposure identifies a mesenchymal state associated with antitumor sensitivity",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.12.760322v1",
-    "who": "Rodriguez-Jimenez, M. et al."
-   },
-   {
-    "date": "2026-11-23",
-    "title": "Focused ultrasound-enhanced carboplatin delivery improves radiotherapy response and survival in a preclinical glioblastoma model",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.17.766937v2",
-    "who": "Rigollet, S. et al."
-   },
-   {
-    "date": "2026-11-23",
-    "title": "Kynurenine-AHR signaling sustains a targetable FATP2 dependency in advanced systemic mastocytosis",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.20.766488v1",
-    "who": "Scorrano, G. et al."
-   },
-   {
-    "date": "2026-11-23",
-    "title": "Lysosome Exocytosis Inhibition Impairs Triple-Negative Breast Cancer Cell Invasion",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.20.765315v1",
-    "who": "Rodrigues, A. R. et al."
    }
   ],
   "synbio-bioeng": [
    {
-    "date": "2026-11-24",
-    "title": "Rigid granular scaffolds reveal transcriptional responses to cellular confinement",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.21.768028v1",
-    "who": "Sunny, S. et al."
+    "date": "2026-11-25",
+    "title": "Suprathreshold suppression underlies spatial selectivity in temporal interference stimulation",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.768107v1",
+    "who": "Moon, J. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Engineering Bacteriophages to Overcome Complement-Mediated Neutralization",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.10.765437v1",
-    "who": "Abhyankar, M. et al."
+    "date": "2026-11-25",
+    "title": "Extracellular matrix-enriched human induced chondrocyte organoids as living building blocks for scalable cartilage tissue engineering",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768121v1",
+    "who": "Menssen, D. M. A. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Biophysics-informed generative models improve activity and thermostability of designed ribozymes",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.21.768297v1",
-    "who": "Calvanese, F. et al."
+    "date": "2026-11-25",
+    "title": "RoWS Biofabrication of Neuromuscular Tubuloids from Human Neuromesodermal Progenitors",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.768485v1",
+    "who": "Florkowska, A. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Beyond screens: a gaze-driven auditory human-computer interface",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.11.765668v1",
-    "who": "Patel, P. et al."
+    "date": "2026-11-25",
+    "title": "A One-Year In Vivo Study of a Braided Pure Molybdenum Stent: Favorable Biocompatibility and the Critical Challenge of Vascular Biomechanics",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.766907v1",
+    "who": "Zhang, F. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Correlative mapping links extracellular matrix architecture to local mechanics in cardiac aging",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.21.768346v1",
-    "who": "Ramli, M. F. H. et al."
+    "date": "2026-11-25",
+    "title": "BMP-2 Release from Biomaterial Carriers: Reporting Heterogeneity and the Limits of Cross-Study Prediction",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.13.766607v1",
+    "who": "Zhou, W. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Supramolecular hydrogel viscoelasticity regulates in situ tertiary lymphoid neogenesis",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.07.20.739456v2",
-    "who": "Hosn, R. R. et al."
+    "date": "2026-11-25",
+    "title": "Designing a Saccharomyces cerevisiae Cell Factory for the Overaccumulation of Tyrosol using Rational Design and Genome-Scale Metabolic Modeling Approaches",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768537v1",
+    "who": "Guillen Gonzalez, A. et al."
    },
    {
-    "date": "2026-11-23",
-    "title": "Myosin II-FAK-paxillin Signaling Governs Mechanosensitive Responses of Neuronal Cells to Magnetic Stimulation",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.19.766553v1",
-    "who": "Kabir, M. I. et al."
+    "date": "2026-11-25",
+    "title": "Optimisation of GMP-compliant hollow-fiber culturing and scaled-up separation of mesenchymal stem cell-derived extracellular vesicles to overcome unexpected impact of bovine serum contaminants' transfer to end products",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.15.766728v1",
+    "who": "Rivera-Tenorio, A. et al."
    },
    {
-    "date": "2026-11-23",
-    "title": "Internalizing-peptide engineering converts blocking anti-EGFR antibodies into EGFR lysosomal targeting degraders",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.20.768013v1",
-    "who": "Petrov, P. D. et al."
+    "date": "2026-11-25",
+    "title": "TEMPLE-MEASURED POSTPRANDIAL CARDIOVASCULAR RESPONSES UNDER FREE-LIVING CONDITIONS",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768469v1",
+    "who": "Liu, D. et al."
    },
    {
-    "date": "2026-11-23",
-    "title": "EEG Source Localization with High-Resolution 40-Tissue Head Models: A Comparative Study with MEG during Photic Driving",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.20.768219v1",
-    "who": "Nunez Ponasso, G. et al."
+    "date": "2026-11-25",
+    "title": "Single-cell Morphological Mechanisms-of-Action Profiling using Nanowell Imaging Plates",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768734v1",
+    "who": "Berryman, S. G. et al."
    },
    {
-    "date": "2026-11-23",
-    "title": "Synthesis of Plasma Membrane-Enriched Nanodiscs from Giant Plasma Membrane Vesicles",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.20.768238v1",
-    "who": "Jacobs, C. O. et al."
+    "date": "2026-11-25",
+    "title": "A Full-Thickness 3D Bioprinted Melanoma-on-Chip Platform for Preclinical Therapeutic Testing",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768514v1",
+    "who": "Kleiter, A. et al."
    },
    {
-    "date": "2026-11-23",
-    "title": "Reproducible and open-source statistical shape models of the pose-normalized adult lower body: development and comparative evaluation",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.21.768300v1",
-    "who": "Abdullah, M. et al."
+    "date": "2026-11-25",
+    "title": "Internet of Genetic Things (IoGT): Programmable Long-Distance Cybergenetic Logic Circuits Integrating IoT, Optogenetics, and Bacterial Gene Expression",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768527v1",
+    "who": "Paul, A. et al."
    },
    {
-    "date": "2026-11-23",
-    "title": "Multifunctional CNT-based Platform for Enhanced Dopaminergic Differentiation and Electrochemical Dopamine Sensing from Human iPSC-derived Neurons.",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.20.768200v1",
-    "who": "Pascual Frias, N. et al."
+    "date": "2026-11-25",
+    "title": "Fighting Sleep: Minute-by-Minute Driver Fatigue from a Dry-Electrode EEG Headband",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.18.767417v1",
+    "who": "Bohluli, R. S. et al."
    }
   ],
   "ecology-evolution": [
@@ -1436,140 +1412,140 @@
     "who": "Lysenko, E. A. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Structure determination and dual targeting of a plant TACO1 identifies its ancient role as an organelle translation regulator",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.05.28.728419v2",
-    "who": "Raval, P. K. et al."
+    "date": "2026-11-25",
+    "title": "Pollinator specificity among three co-flowering Mediterranean Aristolochia species pollinated by Diptera",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.05.19.726152v4",
+    "who": "Vrecko, V. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Ultrasonic emissions of sunflower and buckwheat carry species identity in their spectrum and drought in their rate",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.17.767468v2",
-    "who": "Saha, B. et al."
+    "date": "2026-11-25",
+    "title": "The compartmentalized activity of a legume subtilase SBT12a allows symbiosome stabilization",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.04.09.717438v2",
+    "who": "Zhang, G. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Differential DNA methylation and transcriptome revealed enhanced photosynthetic recovery and ROS modulation to promote cold tolerance in Oryza sativa L. ssp. indica.",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.04.30.721858v2",
-    "who": "Roy, V. et al."
+    "date": "2026-11-25",
+    "title": "Paraburkholderia endosymbionts with streamlined genomes are disadvantaged during interspecific competition",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769019v1",
+    "who": "Stephenson, C. J. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Two copy-number forms of the Kala4/OsB2 upstream duplication in purple rice revealed by a telomere-to-telomere genome of landrace ZN65",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.07.07.737121v5",
-    "who": "Zhao, F. et al."
+    "date": "2026-11-25",
+    "title": "Evolutionary dynamics of Gag-restricted prion-like domains in LTR retroelements",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769039v1",
+    "who": "DeBellefeuille, C. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "A sunflower FLS2 guides reconstruction of immune-evasive Xanthomonas flg22 recognition across divergent FLS2 backgrounds",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.10.07.757162v2",
-    "who": "Zhong, L. et al."
+    "date": "2026-11-25",
+    "title": "Puya: A new example of adaptive radiation in the Northern Andes",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768968v1",
+    "who": "Castillo-Rodriguez, N. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "The use of cultured symbionts enhances the survival of reef-deployed coral recruits",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.14.766699v1",
-    "who": "Pfeffer, E. et al."
+    "date": "2026-11-25",
+    "title": "The Tomato Isochorismate Synthase Coordinates both Salicylic Acid-Mediated Immunity and Phylloquinone-Dependent Chloroplast Function",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768541v1",
+    "who": "Perez-Perez, J. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Apple floral attractants function across the 24-hour cycle to support potential diurnal and nocturnal pollinators",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.13.766585v1",
-    "who": "Potdar, S. et al."
+    "date": "2026-11-25",
+    "title": "Functional divergence of D-, A-, and B-type cyclins in the moss Physcomitrium patens",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.768468v1",
+    "who": "Gan, Y. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Historical overestimated abundance of a Critically Endangered species: the case of the tamaraw (Bubalus mindorensis) of Mindoro Island",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.13.766428v1",
-    "who": "Rutschmann, A. et al."
+    "date": "2026-11-25",
+    "title": "O2 exchange profiling reveals physiological diversity among taxonomically characterized green microalgal strains",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768518v1",
+    "who": "Kikoine, M. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "No evidence of evolution of male fitness components in response to yeast deprivation: Putative female specific nutrient dependent reproductive adaptation",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768529v1",
-    "who": "Adhikary, S. et al."
+    "date": "2026-11-25",
+    "title": "GnotoBag: A versatile peat-based gnotobiotic system for plant microbiome research beyond model species",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.768464v1",
+    "who": "Wu, N. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Zeaxanthin-dependent rapid energy quenching uncovers complexity of PsbS protonation",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.21.768332v1",
-    "who": "Ponce, R. et al."
+    "date": "2026-11-25",
+    "title": "The selective autophagy receptor AtNBR1 associates with lipid droplets during seed germination and contributes to seed longevity",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768505v1",
+    "who": "Bouchez-Mahiout, I. et al."
    }
   ],
   "medicine": [
    {
-    "date": "2026-11-24",
-    "title": "Cohort Versus Nested Case-Control Designs for Predicting Early-Onset Gastrointestinal Cancer Using Electronic Health Records",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.10.16.26365758v2",
-    "who": "Fan, R. et al."
+    "date": "2026-11-25",
+    "title": "Validating LLM judges for automated oversight of patient communication",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.09.16.26363176v2",
+    "who": "Xu, Z. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Human infection incidence for West Nile virus and Usutu virus in the Netherlands: evidence from a longitudinal nationwide cohort, 2020-2023",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.10.13.26365405v2",
-    "who": "Grobben, M. et al."
+    "date": "2026-11-25",
+    "title": "The Role of Tumor Necrosis Factor Signaling in Atherosclerosis and Stroke",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.04.29.26352088v2",
+    "who": "Buckley, J. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Fine-tuned encoders, generative large language models and typed decisions for classifying findings in chest CT reports: paired English-Japanese internal testing and external testing on naturally written Japanese reports",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.11.18.26368388v2",
-    "who": "fukui, y. et al."
+    "date": "2026-11-25",
+    "title": "Diagnosis, triage and response quality of five large language models on emergency medicine vignettes: a blinded comparison",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366076v2",
+    "who": "Johal, G. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "A proteomic signature for prognostic stratification in amyotrophic lateral sclerosis",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.07.20.26358511v2",
-    "who": "Lester, D. G. et al."
+    "date": "2026-11-25",
+    "title": "Bridging surveillance gaps in dengue: a hierarchical model integrating mixed data sources for transmission estimation and vaccine targeting",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.07.15.26358208v2",
+    "who": "Djaafara, B. A. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Sequential rTMS-tACS Neuromodulation Is Associated with Increased Resting-State Theta Activity in Fibromyalgia: A Randomized Controlled Pilot Study",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.10.27.26364954v2",
-    "who": "Buran, O. et al."
+    "date": "2026-11-25",
+    "title": "Infectious disease outbreaks among hospitalised neonates in low- and middle-income countries: a systematic scoping review.",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.10.27.26366573v3",
+    "who": "Fortuin, C. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "A distributed, privacy-preserving platform for linkage of epidemiological data with pathogen genome sequences",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.01.18.26344367v2",
-    "who": "Langevin, J. et al."
+    "date": "2026-11-25",
+    "title": "An interpretable cell-centric representation of pancreatic ductal adenocarcinoma matches multiple-instance learning for clinical outcomes and leads to novel pathologist-driven histological biomarkers",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.10.03.26364596v2",
+    "who": "Pelloux, M. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Adjunctive Accelerated Theta-Burst Stimulation for Inpatient Treatment-Resistant Depression: A Randomized Clinical Trial",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.06.25.26356553v4",
-    "who": "Mueller, C. et al."
+    "date": "2026-11-25",
+    "title": "Single-Case Design for Network-based BCI Rehabilitation: Individual Learning Trajectories and Effects of Motor Imagery Timing in Stroke Patients",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366015v2",
+    "who": "Bousfiha, C. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Metabolome-wide analysis suggests antidepressant exposure counteracts risk of depression in fatty-acid pathways",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.11.20.26368585v2",
-    "who": "Tsai, S. et al."
+    "date": "2026-11-25",
+    "title": "Development and Validation of an Automated Image-Based Method for Prognostic Stratification in Lung Adenocarcinoma using Immunohistochemical Markers",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.10.22.26366204v2",
+    "who": "Carraro, F. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Mucin VNTR haplogroup associations with idiopathic pulmonary fibrosis are not independent of rs35705950",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.11.11.26356288v2",
-    "who": "Reynolds, C. et al."
+    "date": "2026-11-25",
+    "title": "Title: Community engagement and involvement in national perioperative quality improvement: a mixed-methods assessment of knowledge, attitudes, and practices among stakeholders in Ethiopia",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.11.24.26368817v1",
+    "who": "Belihu, K. D. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Anatomical and spectral foundation of skin pigmentation bias in optical oximetry",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.11.22.26368599v1",
-    "who": "Wachter, F. et al."
+    "date": "2026-11-25",
+    "title": "Age-Dependent Association of Tumor Mutational Burden With Overall Survival in Patients With Melanoma",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.11.24.26368882v1",
+    "who": "Lyu, Z. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Left ventricular systolic dysfunction in long-term aficamten therapy for obstructive HCM is rare, transient, and well-tolerated",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.11.23.26360829v1",
-    "who": "Massera, D. et al."
+    "date": "2026-11-25",
+    "title": "Estimating the contribution of adults living with HIV to vaccine serotype pneumococcal transmission in Malawi after longstanding infant PCV13 vaccination",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.11.23.26368808v1",
+    "who": "Thindwa, D. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Stain-robust classification of Alzheimer's disease and chronic traumatic encephalopathy",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.11.22.26368692v1",
-    "who": "Xu, L. et al."
+    "date": "2026-11-25",
+    "title": "A Double-Blind, Sham-Controlled Multi-Site Pilot Randomized Trial of Amygdalar Transcranial Focused Ultrasound in Treatment-Resistant Generalized Anxiety Disorder",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.11.24.26368811v1",
+    "who": "Spivak, N. M. et al."
    }
   ]
  },
- "updated": "2026-11-25"
+ "updated": "2026-11-26"
 }

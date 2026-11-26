@@ -1,21 +1,21 @@
 # 🧪 Chemistry
 
-> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-25
+> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-26
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-24 | [A model colloidal gel former for the measurement of inter-particle forces](https://arxiv.org/abs/2611.33091v1) | Rui Cheng et al. |
-| 2026-11-24 | [Polar Streams through Active Condensation in Flocks](https://arxiv.org/abs/2611.33007v1) | Lauritz Hahn et al. |
-| 2026-11-24 | [Energy transport from an active medium](https://arxiv.org/abs/2611.32992v1) | Simon Krekels et al. |
-| 2026-11-24 | [Confinement-induced Transitions of Chiral Active Particles and Dumbbells](https://arxiv.org/abs/2611.32972v1) | Mike Brandt et al. |
-| 2026-11-24 | [Fast and Accurate Boys Function Evaluation Using Nonuniform Gridded Taylor Expansions](https://arxiv.org/abs/2611.32943v1) | Longxiang Yan et al. |
-| 2026-11-24 | [Long-Range Hydrodynamic Communication in Active Matter](https://arxiv.org/abs/2611.32867v1) | Abhishek Thakur et al. |
-| 2026-11-24 | [Path-probability gradients for optimizing force fields against dynamical observables](https://arxiv.org/abs/2611.32851v1) | Zhongyao Wang et al. |
-| 2026-11-24 | [Geometry and topology of DNA defects](https://arxiv.org/abs/2611.32850v1) | A. Fassino et al. |
-| 2026-11-24 | [Snap-Through Symmetry Breaking in Multicellular Aggregates](https://arxiv.org/abs/2611.32832v1) | Martí Planasdemunt-Hospital et al. |
-| 2026-11-24 | [Neutron Spectroscopy Transformed: Deuterated ZIF-8 and Machine-Learned Potentials Catch Nitrogen Threading Its Gates](https://arxiv.org/abs/2611.32739v1) | Jeff Armstrong et al. |
-| 2026-11-24 | [Impact of Taylor-Aris dispersion on chemical patterns in confined channel flows](https://arxiv.org/abs/2611.32737v1) | Yanis Baouche et al. |
-| 2026-11-24 | [Odd Viscosity-Driven Phase Separation in Chiral Active Mixtures](https://arxiv.org/abs/2611.32535v1) | Xiaoyi Wu et al. |
+| 2026-11-25 | [Transition Path Sampling for Rare Events in Non-Markovian Open Quantum Systems](https://arxiv.org/abs/2611.34883v1) | Ritesh Pant et al. |
+| 2026-11-25 | [Discotic columnar phase in a three-dimensional monomer-tetramer model of Heilmann and Lieb with side-to-side attraction](https://arxiv.org/abs/2611.34796v1) | Qidong He |
+| 2026-11-25 | [A general-purpose electron density model for molecular chemistry](https://arxiv.org/abs/2611.34732v1) | Paolo Pegolo et al. |
+| 2026-11-25 | [Automatic dual basis sets for self-consistent field calculations](https://arxiv.org/abs/2611.34694v1) | Joonatan Huhtasalo et al. |
+| 2026-11-25 | [Site-Resolved Optical Spectroscopy of Thulium in Solid Argon](https://arxiv.org/abs/2611.34518v1) | Jason Marfey et al. |
+| 2026-11-25 | [A Thermodynamically Consistent Model of a Rechargeable Salt-in-Polyelectrolyte Battery](https://arxiv.org/abs/2611.34415v1) | Charlotte Beckford et al. |
+| 2026-11-25 | [Spin-Orbit Coupling in Symmetry-Forbidden Reactions: A Selection Rule Tested on the Chalcogen Trimers](https://arxiv.org/abs/2611.34375v1) | Shadan Ghassemi Tabrizi |
+| 2026-11-25 | [PineIR: 3D molecular structures from an infrared spectrum alone](https://arxiv.org/abs/2611.34334v1) | Giulio Benedini et al. |
+| 2026-11-25 | [Quantum chaotic signature in non-empirical ensemble of DNA base pairs](https://arxiv.org/abs/2611.34305v1) | Mehdi Ameri |
+| 2026-11-25 | [Collective relaxation dynamics and vitrification in hexatic smectic binary equimolar mixtures containing component with varying C$_3$F$_7$CH$_2$OC$_m$H$_{2m}$- chain length](https://arxiv.org/abs/2611.34286v1) | Aleksandra Deptuch et al. |
+| 2026-11-25 | [Length-scales and fractal scaling in dairy gels: comparisons of the insights from ultra-small angle neutron scattering and rheology](https://arxiv.org/abs/2611.34194v1) | Koduvayur A. Ramya et al. |
+| 2026-11-25 | [Bringing Singles to $GW$: A Coupled-Cluster Perspective on Orbital Relaxation](https://arxiv.org/abs/2611.34160v1) | Marios-Petros Kitsaras et al. |

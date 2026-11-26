@@ -1,6 +1,6 @@
 # 🧬 Genomics & Genetics
 
-> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-25
+> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-26
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
@@ -10,12 +10,12 @@
 | 2026-11-25 | [Single-dose neonatal gene therapy preserves motor coordination and extends survival of Polg-deficient mice](https://www.biorxiv.org/content/10.64898/2026.11.17.762423v3) | Zanin, S. et al. |
 | 2026-11-25 | [FastHer: a fast and accurate estimator of local heritability from summary statistics](https://www.biorxiv.org/content/10.64898/2025.12.24.696369v2) | Svishcheva, G. R. et al. |
 | 2026-11-25 | [Convergent Genomic Signatures of Selection in Thar: Genetic trade-offs for desert survival](https://www.biorxiv.org/content/10.64898/2026.11.17.767204v2) | Rathod, S. M. et al. |
-| 2026-11-24 | [Genome architecture and duplication-associated functional diversification in the carnivorous plant Sarracenia purpurea](https://www.biorxiv.org/content/10.64898/2026.11.14.766640v2) | Albert et al. |
-| 2026-11-24 | [FoXSight: Facilitating Computational Hit Identification in Crystallographic Fragment Screening Experiments](https://www.biorxiv.org/content/10.64898/2026.11.01.763443v3) | Schulze, T. et al. |
-| 2026-11-24 | [Diversity of Environmental and Genome-Associated Eukaryotic Circular Rep-Encoding Single-Stranded DNA Viruses](https://www.biorxiv.org/content/10.64898/2026.11.20.768052v1) | Bezuidt, O. K. et al. |
-| 2026-11-24 | [Pharmacogenomic diversity at tuberculosis-treatment loci across African populations: phased haplotypes, regulatory architecture and NAT2 acetylator inference](https://www.biorxiv.org/content/10.64898/2026.11.22.768388v1) | Mutagonda, R. F. et al. |
-| 2026-11-24 | [Divergent immune trajectories distinguish resistance and susceptibility to bacterial leaf streak in wheat](https://www.biorxiv.org/content/10.64898/2026.11.19.767916v1) | Singh, J. et al. |
-| 2026-11-24 | [FiberTron enables regulatory variant effect prediction and testing from multi-omic long reads of a single sample](https://www.biorxiv.org/content/10.64898/2026.11.13.762587v1) | Eftychiou, M. et al. |
-| 2026-11-24 | [A Two-Stage YOLO-Swin Transformer Pipeline for Cross-Dataset White Blood Cell Classification](https://www.biorxiv.org/content/10.64898/2026.11.23.768502v1) | Chang, C.-W. et al. |
-| 2026-11-24 | [WildTrust-UAV: uncertainty-aware wildlife detection with privacy-preserving spatial disclosure and verifiable inference provenance](https://www.biorxiv.org/content/10.64898/2026.11.12.766079v1) | Verma, P. et al. |
-| 2026-11-24 | [CheekAI: An explainable, deep learning epigenetic aging clock based on lifestyle and health epigenetic biomarker proxies](https://www.biorxiv.org/content/10.64898/2026.11.21.768329v1) | Shokhirev, M. N. et al. |
+| 2026-11-25 | [Development of microsatellite markers with the SSRseq method on Glossina palpalis gambiensis, and G. p. palpalis, and analysis of corresponding field samples from three sleeping sickness foci: Boffa, Dubreka (Guinea), and Bonon (Cote d'Ivoire).](https://www.biorxiv.org/content/10.64898/2025.12.19.695359v4) | DE MEEUS, T. et al. |
+| 2026-11-25 | [Transcriptomic-Methylation Integration and Machine-Learning Prioritization of Candidate Prognostic Biomarkers in Triple-Negative Breast Cancer: A Retrospective Computational Study](https://www.biorxiv.org/content/10.64898/2026.05.03.722461v4) | MANNEKUNTA, N. et al. |
+| 2026-11-25 | [isoGS: A genomic method to navigate the breeder's dilemma of diversity versus eliteness](https://www.biorxiv.org/content/10.64898/2026.11.23.768689v1) | Monyak, T. et al. |
+| 2026-11-25 | [A switch in Nrg1-Rtg3 promoter recruitment coordinates mitochondrial cristae remodeling during the diauxic transition](https://www.biorxiv.org/content/10.64898/2026.11.23.768758v1) | De La Vega-Alvarado, A. et al. |
+| 2026-11-25 | [Alignment-Aware Genomic Coordinate Encoding for Long-Range DNA Modeling](https://www.biorxiv.org/content/10.64898/2026.10.10.757278v2) | Yang, X. et al. |
+| 2026-11-25 | [Cell-state conditioning predicts the expression response to an unseen stimulus but not stimulus-dependent genetic effects](https://www.biorxiv.org/content/10.64898/2026.11.16.767041v3) | He, H. et al. |
+| 2026-11-25 | [Molecular switch mediates the glucocorticoid receptor transition from tumor suppressor to oncogene in the prostate](https://www.biorxiv.org/content/10.1101/2025.08.20.670078v3) | Hiltunen, J. et al. |
+| 2026-11-25 | [Genomic variation of Dutch traditional cattle breeds captured in a Dutch cattle pangenome](https://www.biorxiv.org/content/10.64898/2026.11.23.768688v1) | Hogers, R. A. H. et al. |
+| 2026-11-25 | [Structural and functional reference maps of transcriptional enhancers in the developing human cortex](https://www.biorxiv.org/content/10.64898/2026.11.24.768903v1) | Karunakarun, D. et al. |

@@ -1,21 +1,21 @@
 # 🦾 Robotics
 
-> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-25
+> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-26
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-24 | [OmniAct: One Policy, One Million Embodiments](https://arxiv.org/abs/2611.33158v1) | Xiang Fan et al. |
-| 2026-11-24 | [PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents](https://arxiv.org/abs/2611.33144v1) | Feixiang Ruan et al. |
-| 2026-11-24 | [ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification](https://arxiv.org/abs/2611.33143v1) | Xingjian Ran et al. |
-| 2026-11-24 | [iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction](https://arxiv.org/abs/2611.33141v1) | Vansh Kapoor et al. |
-| 2026-11-24 | [Exploratory Midtraining for Robot Policies](https://arxiv.org/abs/2611.33130v1) | Kshitiz et al. |
-| 2026-11-24 | [Neural Implicit Representation for Bathymetry Estimation using Sidescan Sonar Imagery](https://arxiv.org/abs/2611.33118v1) | Tianxiang Lin et al. |
-| 2026-11-24 | [EmbodiSafety: Benchmarking Risk Understanding and Response in Embodied AI](https://arxiv.org/abs/2611.33054v1) | Erfei Cui et al. |
-| 2026-11-24 | [At the Limit: Autonomous Vehicle Drifting under Generative Policies](https://arxiv.org/abs/2611.33040v1) | Jie He et al. |
-| 2026-11-24 | [Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies](https://arxiv.org/abs/2611.33010v1) | Xuanchen Liu et al. |
-| 2026-11-24 | [CAPER: PartGround and PlanRefine for Reliable Manual-Guided Robotic Assembly Planning](https://arxiv.org/abs/2611.32986v1) | Hanzhao Xi et al. |
-| 2026-11-24 | [VidForce: Predicting Force-Aware Articulation by Observing Humans](https://arxiv.org/abs/2611.32967v1) | Rafay Mohiuddin et al. |
-| 2026-11-24 | [From Safety-Driven Redundancy to Value-Driven Architecture: An ODD-Based Rationalization Framework for Level 4 Autonomous Vehicles](https://arxiv.org/abs/2611.32960v1) | Tiago Simão Ferreira et al. |
+| 2026-11-25 | [DexLink: Synthesizing Dexterous Behaviors from Chained Hand-object Poses](https://arxiv.org/abs/2611.34936v1) | Meenal Parakh et al. |
+| 2026-11-25 | [MERLoc: Robust Robot Localization in Dynamic Environments with Pose-Based Retrieval over 3D Gaussian Splatting References](https://arxiv.org/abs/2611.34932v1) | Michael Baumgartner et al. |
+| 2026-11-25 | [One Ocean, Many Tasks: A Data-Grounded Simulation Suite and Benchmark for Marine Robotics](https://arxiv.org/abs/2611.34925v1) | Shuaijun Liu et al. |
+| 2026-11-25 | [Memory Is Not Ground Truth: Revising Navigation Authority under Unreliable VLM Evidence for Persistent Semantic Navigation](https://arxiv.org/abs/2611.34915v1) | Sumukh Shrote et al. |
+| 2026-11-25 | [Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs](https://arxiv.org/abs/2611.34914v1) | Agelos Kratimenos et al. |
+| 2026-11-25 | [FineDex: Bridging Fine-Grained Human-Object Interaction Generation to Dexterous Humanoid Manipulation](https://arxiv.org/abs/2611.34884v1) | Yujia Zeng et al. |
+| 2026-11-25 | [RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies](https://arxiv.org/abs/2611.34864v1) | Insup Lee et al. |
+| 2026-11-25 | [BOP-Refer: Benchmark for Monocular 3D and 2D Object Grounding](https://arxiv.org/abs/2611.34862v1) | Tomas Hodan et al. |
+| 2026-11-25 | [Real2SimLab: A Unified Platform for Real-to-Simulation Transfer](https://arxiv.org/abs/2611.34849v1) | Yongchang Zhang et al. |
+| 2026-11-25 | [HOG-WAM: Improving Visual Robustness through Future Gradient Prediction](https://arxiv.org/abs/2611.34811v1) | Boxuan Dong et al. |
+| 2026-11-25 | [Toward Agentic Robotics: A Large-Scale Study of Harness Design for Robot-Use Agents](https://arxiv.org/abs/2611.34778v1) | Yuxiang Lai et al. |
+| 2026-11-25 | [Anytime-Valid Sequential Verification for Sensing-Efficient Robot Navigation under Perception Uncertainty](https://arxiv.org/abs/2611.34764v1) | Saad Korchi et al. |

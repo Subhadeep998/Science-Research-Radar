@@ -1,21 +1,21 @@
 # 🔭 Astronomy & Space
 
-> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-25
+> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-26
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-24 | [VENUS: A Census of Strong Lensing in a 60-Cluster JWST Survey](https://arxiv.org/abs/2611.33142v1) | Joseph F. V. Allingham et al. |
-| 2026-11-24 | [Self-arresting vortex rearrangements in pinned spinning-down superfluids](https://arxiv.org/abs/2611.33103v1) | Anantharaman Sekharipuram Viswanathan et al. |
-| 2026-11-24 | [Hesperos & Eosphoros: A Coupled Differentiable Forced-Photometry Operator and Forward Model for SPHEREx Spectrophotometry](https://arxiv.org/abs/2611.33092v1) | James Cheshire et al. |
-| 2026-11-24 | [Initial Conditions and Wave-Phase Resolution for Scalar-Field Dark Matter Simulations](https://arxiv.org/abs/2611.33083v1) | Hafiz Inam Ullah et al. |
-| 2026-11-24 | [A Study of Three Intrinsically Luminous Long Period Interacting Eclipsing Binaries in the Galaxy and the Small Magellanic Cloud](https://arxiv.org/abs/2611.33002v1) | T. J. Davidge |
-| 2026-11-24 | [Multi-Frequency Inversion of Meridional Flows Using Wave-Simulation-Based Sensitivity Kernels: Kernels, Method and Validation On Synthetic Data](https://arxiv.org/abs/2611.32978v1) | Thomas Hartlep et al. |
-| 2026-11-24 | [From Historical Schedules to On-Sky Control: Autonomous Scheduling on the 4-m Blanco Telescope](https://arxiv.org/abs/2611.32963v1) | Rachel Hur et al. |
-| 2026-11-24 | [A comparative analysis of the presence of haze in sub-Neptunes observed with JWST](https://arxiv.org/abs/2611.32950v1) | A. Y. Jaziri et al. |
-| 2026-11-24 | [Multi-Component Axion Dark Matter Revisited and the Role of Ultralight ALPs](https://arxiv.org/abs/2611.32925v1) | Hai-Jun Li |
-| 2026-11-24 | [TESS discovers an eclipse of the Be star V1294 Aql (= HD 184279) by its not-so-small, low-mass companion](https://arxiv.org/abs/2611.32909v1) | J. Labadie-Bartz et al. |
-| 2026-11-24 | [Dark Matter Assisted Axion-Magnetic Resonance](https://arxiv.org/abs/2611.32906v1) | Chen Sun et al. |
-| 2026-11-24 | [TeV Gamma-Ray Transparency Bounds on Neutrinos and Axions](https://arxiv.org/abs/2611.32905v1) | Shengyi Liu et al. |
+| 2026-11-25 | [A comparison of two- and one-fluid dust solvers for dusty, supersonic turbulence](https://arxiv.org/abs/2611.34910v1) | Narges Vadood et al. |
+| 2026-11-25 | [The Splash population confined to the Milky Way bar region](https://arxiv.org/abs/2611.34890v1) | Aakash Pandey et al. |
+| 2026-11-25 | [The oxygen cold trap in protoplanetary discs](https://arxiv.org/abs/2611.34867v1) | Peter Woitke |
+| 2026-11-25 | [Screening of New Abelian Long-Range Forces](https://arxiv.org/abs/2611.34838v1) | Marco Costa et al. |
+| 2026-11-25 | [Azimuth Pointing and Momentum Management for a Lightweight High-Altitude Balloon Payload](https://arxiv.org/abs/2611.34817v1) | Yorgo Abou Haidar et al. |
+| 2026-11-25 | [Tipping the scales in Blue Jay: Dust energy balance overpredicts IR luminosity in galaxies at $z\sim2$](https://arxiv.org/abs/2611.34802v1) | Benjamin P. Collins et al. |
+| 2026-11-25 | [Measuring the flavor composition of high-energy neutrinos from the Milky Way](https://arxiv.org/abs/2611.34797v1) | Mauricio Bustamante |
+| 2026-11-25 | [A Bayesian Approach to Prioritizing the Follow-Up of Near-Earth Objects](https://arxiv.org/abs/2611.34790v1) | Devanshi Singh et al. |
+| 2026-11-25 | [The THESAN-ZOOM project: interpreting candidate Population III-enriched absorption line systems during reionization](https://arxiv.org/abs/2611.34789v1) | Giulia Pruto et al. |
+| 2026-11-25 | [Modeling time series of high-resolution spectra using the asymmetric Hilbert-Schmidt decomposition with application to radial velocity exoplanet searches](https://arxiv.org/abs/2611.34786v1) | Kevin Tao et al. |
+| 2026-11-25 | [State of the UNIONS: Four Milky Way companions discovered in a systematic search for northern Local Group satellites](https://arxiv.org/abs/2611.34775v1) | Simon E. T. Smith et al. |
+| 2026-11-25 | [Drilling for the Radio Neutrino Observatory in Greenland (RNO-G): field performance of BigRAID](https://arxiv.org/abs/2611.34772v1) | Jason Chan et al. |

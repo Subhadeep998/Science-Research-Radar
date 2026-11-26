@@ -1,21 +1,21 @@
 # 🛠️ Synthetic Biology & Bioengineering
 
-> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-25
+> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-26
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-24 | [Rigid granular scaffolds reveal transcriptional responses to cellular confinement](https://www.biorxiv.org/content/10.64898/2026.11.21.768028v1) | Sunny, S. et al. |
-| 2026-11-24 | [Engineering Bacteriophages to Overcome Complement-Mediated Neutralization](https://www.biorxiv.org/content/10.64898/2026.11.10.765437v1) | Abhyankar, M. et al. |
-| 2026-11-24 | [Biophysics-informed generative models improve activity and thermostability of designed ribozymes](https://www.biorxiv.org/content/10.64898/2026.11.21.768297v1) | Calvanese, F. et al. |
-| 2026-11-24 | [Beyond screens: a gaze-driven auditory human-computer interface](https://www.biorxiv.org/content/10.64898/2026.11.11.765668v1) | Patel, P. et al. |
-| 2026-11-24 | [Correlative mapping links extracellular matrix architecture to local mechanics in cardiac aging](https://www.biorxiv.org/content/10.64898/2026.11.21.768346v1) | Ramli, M. F. H. et al. |
-| 2026-11-24 | [Supramolecular hydrogel viscoelasticity regulates in situ tertiary lymphoid neogenesis](https://www.biorxiv.org/content/10.64898/2026.07.20.739456v2) | Hosn, R. R. et al. |
-| 2026-11-23 | [Myosin II-FAK-paxillin Signaling Governs Mechanosensitive Responses of Neuronal Cells to Magnetic Stimulation](https://www.biorxiv.org/content/10.64898/2026.11.19.766553v1) | Kabir, M. I. et al. |
-| 2026-11-23 | [Internalizing-peptide engineering converts blocking anti-EGFR antibodies into EGFR lysosomal targeting degraders](https://www.biorxiv.org/content/10.64898/2026.11.20.768013v1) | Petrov, P. D. et al. |
-| 2026-11-23 | [EEG Source Localization with High-Resolution 40-Tissue Head Models: A Comparative Study with MEG during Photic Driving](https://www.biorxiv.org/content/10.64898/2026.11.20.768219v1) | Nunez Ponasso, G. et al. |
-| 2026-11-23 | [Synthesis of Plasma Membrane-Enriched Nanodiscs from Giant Plasma Membrane Vesicles](https://www.biorxiv.org/content/10.64898/2026.11.20.768238v1) | Jacobs, C. O. et al. |
-| 2026-11-23 | [Reproducible and open-source statistical shape models of the pose-normalized adult lower body: development and comparative evaluation](https://www.biorxiv.org/content/10.64898/2026.11.21.768300v1) | Abdullah, M. et al. |
-| 2026-11-23 | [Multifunctional CNT-based Platform for Enhanced Dopaminergic Differentiation and Electrochemical Dopamine Sensing from Human iPSC-derived Neurons.](https://www.biorxiv.org/content/10.64898/2026.11.20.768200v1) | Pascual Frias, N. et al. |
+| 2026-11-25 | [Suprathreshold suppression underlies spatial selectivity in temporal interference stimulation](https://www.biorxiv.org/content/10.64898/2026.11.22.768107v1) | Moon, J. et al. |
+| 2026-11-25 | [Extracellular matrix-enriched human induced chondrocyte organoids as living building blocks for scalable cartilage tissue engineering](https://www.biorxiv.org/content/10.64898/2026.11.23.768121v1) | Menssen, D. M. A. et al. |
+| 2026-11-25 | [RoWS Biofabrication of Neuromuscular Tubuloids from Human Neuromesodermal Progenitors](https://www.biorxiv.org/content/10.64898/2026.11.22.768485v1) | Florkowska, A. et al. |
+| 2026-11-25 | [A One-Year In Vivo Study of a Braided Pure Molybdenum Stent: Favorable Biocompatibility and the Critical Challenge of Vascular Biomechanics](https://www.biorxiv.org/content/10.64898/2026.11.22.766907v1) | Zhang, F. et al. |
+| 2026-11-25 | [BMP-2 Release from Biomaterial Carriers: Reporting Heterogeneity and the Limits of Cross-Study Prediction](https://www.biorxiv.org/content/10.64898/2026.11.13.766607v1) | Zhou, W. et al. |
+| 2026-11-25 | [Designing a Saccharomyces cerevisiae Cell Factory for the Overaccumulation of Tyrosol using Rational Design and Genome-Scale Metabolic Modeling Approaches](https://www.biorxiv.org/content/10.64898/2026.11.23.768537v1) | Guillen Gonzalez, A. et al. |
+| 2026-11-25 | [Optimisation of GMP-compliant hollow-fiber culturing and scaled-up separation of mesenchymal stem cell-derived extracellular vesicles to overcome unexpected impact of bovine serum contaminants' transfer to end products](https://www.biorxiv.org/content/10.64898/2026.11.15.766728v1) | Rivera-Tenorio, A. et al. |
+| 2026-11-25 | [TEMPLE-MEASURED POSTPRANDIAL CARDIOVASCULAR RESPONSES UNDER FREE-LIVING CONDITIONS](https://www.biorxiv.org/content/10.64898/2026.11.23.768469v1) | Liu, D. et al. |
+| 2026-11-25 | [Single-cell Morphological Mechanisms-of-Action Profiling using Nanowell Imaging Plates](https://www.biorxiv.org/content/10.64898/2026.11.23.768734v1) | Berryman, S. G. et al. |
+| 2026-11-25 | [A Full-Thickness 3D Bioprinted Melanoma-on-Chip Platform for Preclinical Therapeutic Testing](https://www.biorxiv.org/content/10.64898/2026.11.23.768514v1) | Kleiter, A. et al. |
+| 2026-11-25 | [Internet of Genetic Things (IoGT): Programmable Long-Distance Cybergenetic Logic Circuits Integrating IoT, Optogenetics, and Bacterial Gene Expression](https://www.biorxiv.org/content/10.64898/2026.11.23.768527v1) | Paul, A. et al. |
+| 2026-11-25 | [Fighting Sleep: Minute-by-Minute Driver Fatigue from a Dry-Electrode EEG Headband](https://www.biorxiv.org/content/10.64898/2026.11.18.767417v1) | Bohluli, R. S. et al. |

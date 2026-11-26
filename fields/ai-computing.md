@@ -1,21 +1,21 @@
 # 🤖 AI & Computing
 
-> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-25
+> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-26
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-24 | [OmniAct: One Policy, One Million Embodiments](https://arxiv.org/abs/2611.33158v1) | Xiang Fan et al. |
-| 2026-11-24 | [DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning](https://arxiv.org/abs/2611.33153v1) | Binfei Ji et al. |
-| 2026-11-24 | [BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles](https://arxiv.org/abs/2611.33151v1) | Yuwei Yang et al. |
-| 2026-11-24 | [CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies](https://arxiv.org/abs/2611.33148v1) | Dawid J. Kopiczko et al. |
-| 2026-11-24 | [iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction](https://arxiv.org/abs/2611.33141v1) | Vansh Kapoor et al. |
-| 2026-11-24 | [BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Generation](https://arxiv.org/abs/2611.33135v1) | Nadav Magar et al. |
-| 2026-11-24 | [A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit](https://arxiv.org/abs/2611.33133v1) | Hussamuddin Syed |
-| 2026-11-24 | [Exploratory Midtraining for Robot Policies](https://arxiv.org/abs/2611.33130v1) | Kshitiz et al. |
-| 2026-11-24 | [SAG-Mem-1.0 Technical Report](https://arxiv.org/abs/2611.33124v1) | Yuchao Wu et al. |
-| 2026-11-24 | [MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing](https://arxiv.org/abs/2611.33119v1) | Scott Piersall et al. |
-| 2026-11-24 | [Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions](https://arxiv.org/abs/2611.33111v1) | Yuxing Liu et al. |
-| 2026-11-24 | [Temporal Conditioning for Human Behavioral Cloning in Chess](https://arxiv.org/abs/2611.33106v1) | Victor Dziwniel et al. |
+| 2026-11-25 | [RAP: Radial-Angular Random Projection for Hyperbolic Representations](https://arxiv.org/abs/2611.34298v1) | Jiahong Liu et al. |
+| 2026-11-25 | [LatENSO v1.0: a learned latent state of the tropical Pacific for seasonal ENSO operators and forecasting](https://arxiv.org/abs/2611.34296v1) | Milad Panahi et al. |
+| 2026-11-25 | [WebVibe: Multimodal Interactive Website Generation via Reverse Synthesis and Visual Self-Distillation](https://arxiv.org/abs/2611.34292v1) | Tianxiang Jiang et al. |
+| 2026-11-25 | [StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation](https://arxiv.org/abs/2611.34290v1) | Modi Jin et al. |
+| 2026-11-25 | [Latent-in-the-Middle: On the Security of Cross-Model Latent Communication in Multi-Agent Systems](https://arxiv.org/abs/2611.34278v1) | Manit Baser et al. |
+| 2026-11-25 | [Beat This! Live - Online Beat and Downbeat Tracking by Predicting the Future](https://arxiv.org/abs/2611.34277v1) | Bánk Juhász et al. |
+| 2026-11-25 | [Scaling Looped MoE Language Models under Matched Budgets: Information Flow and Parameter Allocation](https://arxiv.org/abs/2611.34276v1) | Shipeng Bai et al. |
+| 2026-11-25 | [LatentCP-DPO: Conformal Pessimism for DPO with Finite-Sample Guarantees](https://arxiv.org/abs/2611.34275v1) | Hongwei Xu et al. |
+| 2026-11-25 | [Libtt: A Compiler and Runtime for Tenstorrent Processors](https://arxiv.org/abs/2611.34273v1) | Philipp Moritz et al. |
+| 2026-11-25 | [LLM-coupled interpretable tool wear monitoring with multi-evidence reasoning in CNC machining](https://arxiv.org/abs/2611.34270v1) | Yuntong Chen et al. |
+| 2026-11-25 | [Train-Only-Constrained LM for Synthetic Clinical Trajectories: Leak-Safe Calibration and Auditable Dynamics](https://arxiv.org/abs/2611.34258v1) | Yaser Kord et al. |
+| 2026-11-25 | [Crucible: Evaluating LLM Agents in Executable Chemistry Research Environments](https://arxiv.org/abs/2611.34254v1) | Yinjun Liu et al. |

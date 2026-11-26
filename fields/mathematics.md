@@ -1,21 +1,21 @@
 # ➗ Mathematics
 
-> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-25
+> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-26
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-24 | [Dominoes tiling a common figure](https://arxiv.org/abs/2611.33154v1) | Peter Keevash et al. |
-| 2026-11-24 | [A canonical Euclidean Gallai theorem](https://arxiv.org/abs/2611.33136v1) | Benedict Randall Shaw |
-| 2026-11-24 | [Regenerative range for planar random walks](https://arxiv.org/abs/2611.33134v1) | Maxence Baccara et al. |
-| 2026-11-24 | [Winning and losing NoGo is PSPACE-complete](https://arxiv.org/abs/2611.33127v1) | Kyle Burke et al. |
-| 2026-11-24 | [Efficient reconfiguration, polynomial decompositions and approximate counting](https://arxiv.org/abs/2611.33120v1) | Peter Keevash et al. |
-| 2026-11-24 | [Brauer classes of representations of division algebras and their Langlands parameters](https://arxiv.org/abs/2611.33116v1) | Ryan Xu |
-| 2026-11-24 | [Forms and polynomial covers in many variables](https://arxiv.org/abs/2611.33114v1) | Yijie Diao et al. |
-| 2026-11-24 | [Max-degree filtration, Koszul complexes, and Multicolor Permutation Wordle](https://arxiv.org/abs/2611.33113v1) | Lawren M. Smithline |
-| 2026-11-24 | [Large blow-ups of uniform hypergraphs](https://arxiv.org/abs/2611.33108v1) | Dhruv Mubayi |
-| 2026-11-24 | [The tower transition in majority bootstrap percolation](https://arxiv.org/abs/2611.33087v1) | Vyacheslav Koval et al. |
-| 2026-11-24 | [Sharp estimates for incremental moments of inverse subordinators and approximation errors for time-changed stochastic differential equations](https://arxiv.org/abs/2611.33075v1) | Ivan Biočić et al. |
-| 2026-11-24 | [Properties of the Sawin--Wood Model for Unramified Galois Groups of Global Fields](https://arxiv.org/abs/2611.33073v1) | Mark Shusterman et al. |
+| 2026-11-25 | [Invariance of log plurigenera in families of compact Kähler manifolds](https://arxiv.org/abs/2611.34933v1) | Zhengyu Hu et al. |
+| 2026-11-25 | [Sums of Kloosterman fractions and applications](https://arxiv.org/abs/2611.34917v1) | Alexandru Pascadi |
+| 2026-11-25 | [On the Distribution of Prime Factors of $\lfloor αn^2 \rfloor$](https://arxiv.org/abs/2611.34913v1) | Cati Alexandru et al. |
+| 2026-11-25 | [Sliding-Window Detection of Hidden Regimes under Stochastic Switching](https://arxiv.org/abs/2611.34905v1) | Arina Pambukyan et al. |
+| 2026-11-25 | [Pairing Powers of Pythagorean Pairs II](https://arxiv.org/abs/2611.34902v1) | Lorenz Halbeisen et al. |
+| 2026-11-25 | [Exponential integrability of SLE Minkowski content](https://arxiv.org/abs/2611.34878v1) | Dapeng Zhan |
+| 2026-11-25 | [Real equiangular lines in dimensions 18-20 and sharp fixed-angle bounds](https://arxiv.org/abs/2611.34855v1) | Valjakas Djaljapayan et al. |
+| 2026-11-25 | [Quot schemes on projective space](https://arxiv.org/abs/2611.34844v1) | Ritvik Ramkumar |
+| 2026-11-25 | [The Vinogradov system in finite fields and two-source extractors with arbitrarily small min-entropy rate](https://arxiv.org/abs/2611.34837v1) | Mark Lewko |
+| 2026-11-25 | [Full Structure Recovery of Linearized Reed-Solomon Codes](https://arxiv.org/abs/2611.34835v1) | Valentina Astore et al. |
+| 2026-11-25 | [PrO Filtering via Kernel Mean Embedding Dynamics](https://arxiv.org/abs/2611.34809v1) | Linfeng Wang et al. |
+| 2026-11-25 | [Discotic columnar phase in a three-dimensional monomer-tetramer model of Heilmann and Lieb with side-to-side attraction](https://arxiv.org/abs/2611.34796v1) | Qidong He |
