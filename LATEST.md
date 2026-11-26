@@ -6,18 +6,18 @@
 
 ## 📚 Peer-reviewed highlights (last 7 days)
 
-- **Nature** · [Continuous N-to-C Peptide Synthesis](https://doi.org/10.1038/s41586-026-11448-w) — _Yin J et al._
-- **Nature** · [Architecture of the poxvirus early-transcription machinery and portal complex](https://doi.org/10.1038/s41586-026-11458-8) — _Arragain B et al._
+- **Nature** · [Transcription from megabase-scale heterochromatin generates neural barcodes](https://doi.org/10.1038/s41586-026-11311-y) — _Buckley A et al._
+- **Nature** · [Licensing mechanisms during RNA-guided DNA integration by type I-F3 CAST](https://doi.org/10.1038/s41586-026-11287-9) — _Fatma S et al._
 - **Science** · [A neural code for generative speech production in human Wernicke's area](https://doi.org/10.1126/science.aef8963) — _Silva AB et al._
 - **Science** · [Zero-shot de novo design of a metalloenzyme](https://doi.org/10.1126/science.aej3009) — _El Nesr G et al._
 - **Cell** · [A shared interbacterial membrane underlies mycobacterial cording](https://doi.org/10.1016/j.cell.2026.11.002) — _Petersen M et al._
 - **Cell** · [Cardiomyocyte-derived circulating extracellular vesicles enable a non-invasive liquid biopsy of human myocardium](https://doi.org/10.1016/j.cell.2026.10.050) — _Gokulnath P et al._
 - **The New England Journal of Medicine** · [From Cold War Politics to Hot Domestic Politics - The Epidemic Intelligence Service at 75](https://doi.org/10.1056/nejmp2606018) — _Fairchild AL et al._
 - **The New England Journal of Medicine** · [Declining Fertility Rates - The Role of Assisted Reproductive Technology](https://doi.org/10.1056/nejmp2611049) — _Dahdouh EM et al._
+- **The Lancet** · [Myocardial injury with non-obstructive coronary arteries: diagnostic pathways and stratified treatment](https://doi.org/10.1016/s0140-6736(26)01640-5) — _Montone RA et al._
 - **The Lancet** · [Population surveys reveal generational changes in sexual and reproductive health](https://doi.org/10.1016/s0140-6736(26)02340-8) — _Carter A et al._
-- **The Lancet** · [Sexual wellbeing in Britain: findings from the fourth National Survey of Sexual Attitudes and Lifestyles (Natsal-4)](https://doi.org/10.1016/s0140-6736(26)01713-7) — _Mitchell KR et al._
+- **Nature Medicine** · [Later-born generations have better memory and lose it more slowly](https://doi.org/10.1038/s41591-026-04758-z) — _—_
 - **Nature Medicine** · [Expansion and cytotoxicity of mucosal CAR+ T cells in enterocolitis associated with BCMA CAR-T cell therapy](https://doi.org/10.1038/s41591-026-04731-w) — _Sainz TP et al._
-- **Nature Medicine** · [Multicenter characterization of enterocolitis associated with BCMA-directed CAR T cell therapy](https://doi.org/10.1038/s41591-026-04783-y) — _Mikkilineni L et al._
 - **Nature Biotechnology** · [Modular mRNA-encoded helper proteins enhance DNA delivery](https://doi.org/10.1038/s41587-026-03351-6) — _Patel MN et al._
 - **Nature Biotechnology** · [A unified framework for scalable differential testing for spatial omics](https://doi.org/10.1038/s41587-026-03284-0) — _Mason K et al._
 - **PNAS** · [Soil contamination and acidification jointly increased cereal cadmium and dietary exposure over four decades](https://doi.org/10.1073/pnas.2617419123) — _Lü QX et al._
@@ -25,10 +25,10 @@
 
 ## 🤖 AI & Computing
 
-- 2026-11-25 · [RAP: Radial-Angular Random Projection for Hyperbolic Representations](https://arxiv.org/abs/2611.34298v1)
-- 2026-11-25 · [LatENSO v1.0: a learned latent state of the tropical Pacific for seasonal ENSO operators and forecasting](https://arxiv.org/abs/2611.34296v1)
-- 2026-11-25 · [WebVibe: Multimodal Interactive Website Generation via Reverse Synthesis and Visual Self-Distillation](https://arxiv.org/abs/2611.34292v1)
-- 2026-11-25 · [StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation](https://arxiv.org/abs/2611.34290v1)
+- 2026-11-25 · [Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning](https://arxiv.org/abs/2611.34942v1)
+- 2026-11-25 · [Tokenisation is not in APX](https://arxiv.org/abs/2611.34938v1)
+- 2026-11-25 · [Can image generation help visual reasoning? An empirical study](https://arxiv.org/abs/2611.34935v1)
+- 2026-11-25 · [Attack Policy Selection can Mislead Monitor Evaluators](https://arxiv.org/abs/2611.34934v1)
 
 [More AI & Computing →](fields/ai-computing.md)
 
@@ -124,10 +124,10 @@
 
 ## 🔬 Cell & Molecular Biology
 
+- 2026-11-26 · [Direction of ESCRT-III-dependent membrane bending emerges from bilayer asymmetry](https://www.biorxiv.org/content/10.64898/2026.07.23.740341v2)
 - 2026-11-25 · [A hydrogenase-like activity associated with mitochondrial Complex I under hypoxia in vascular plants](https://www.biorxiv.org/content/10.64898/2026.06.02.729431v3)
 - 2026-11-25 · [Dysregulated SETX activity at R-loops links transcriptional and splicing alterations to compromised neuronal identity in ALS4](https://www.biorxiv.org/content/10.64898/2026.06.30.735532v2)
 - 2026-11-25 · [AtVPS13M1 regulates subcellular lipid distribution and lipid remodeling in phosphate-deprived plants](https://www.biorxiv.org/content/10.1101/2024.05.22.594332v2)
-- 2026-11-25 · [SimpleP2G: Importance of Image Encoders for Gene Expression Prediction from Pathology Images](https://www.biorxiv.org/content/10.64898/2026.11.23.768493v1)
 
 [More Cell & Molecular Biology →](fields/cell-molecular.md)
 

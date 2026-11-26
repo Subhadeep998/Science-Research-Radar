@@ -8,10 +8,14 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-23 | [Continuous N-to-C Peptide Synthesis](https://doi.org/10.1038/s41586-026-11448-w) | Yin J et al. |
-| 2026-11-23 | [Architecture of the poxvirus early-transcription machinery and portal complex](https://doi.org/10.1038/s41586-026-11458-8) | Arragain B et al. |
-| 2026-11-23 | [Hexa-substituted benzene synthesis with non-classical carbocations](https://doi.org/10.1038/s41586-026-11449-9) | Mollaert G et al. |
-| 2026-11-19 | [Calcium catalysed nucleophilic fluorination](https://doi.org/10.1038/s41586-026-11445-z) | Struijs JJC et al. |
+| 2026-11-25 | [Transcription from megabase-scale heterochromatin generates neural barcodes](https://doi.org/10.1038/s41586-026-11311-y) | Buckley A et al. |
+| 2026-11-25 | [Licensing mechanisms during RNA-guided DNA integration by type I-F3 CAST](https://doi.org/10.1038/s41586-026-11287-9) | Fatma S et al. |
+| 2026-11-25 | [Context-dependent response of endothelial cells to PIK3CA mutation](https://doi.org/10.1038/s41586-026-11318-5) | Sabata H et al. |
+| 2026-11-25 | [Unconventional resistivity reduction in NbP semimetal nanoribbons](https://doi.org/10.1038/s41586-026-11288-8) | Su H et al. |
+| 2026-11-25 | [A gut-brain sensory-motor circuit regulates sugar ingestion in Drosophila](https://doi.org/10.1038/s41586-026-11315-8) | Cui X et al. |
+| 2026-11-25 | [Single-cell variant-to-enhancer-to-gene map for coronary artery disease](https://doi.org/10.1038/s41586-026-11275-z) | Amrute JM et al. |
+| 2026-11-25 | [Disturbances and climate drive tree elevational shifts](https://doi.org/10.1038/s41586-026-11354-1) | Wang J et al. |
+| 2026-11-25 | [An extremophile transgene improves drought resistance and yield in cereals](https://doi.org/10.1038/s41586-026-11151-w) | Du L et al. |
 
 ## Science
 
@@ -52,6 +56,7 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
+| 2026-11-25 | [Myocardial injury with non-obstructive coronary arteries: diagnostic pathways and stratified treatment](https://doi.org/10.1016/s0140-6736(26)01640-5) | Montone RA et al. |
 | 2026-11-24 | [Population surveys reveal generational changes in sexual and reproductive health](https://doi.org/10.1016/s0140-6736(26)02340-8) | Carter A et al. |
 | 2026-11-24 | [Sexual wellbeing in Britain: findings from the fourth National Survey of Sexual Attitudes and Lifestyles (Natsal-4)](https://doi.org/10.1016/s0140-6736(26)01713-7) | Mitchell KR et al. |
 | 2026-11-24 | [Strengthened inequality monitoring is needed to progress global health equity goals](https://doi.org/10.1016/s0140-6736(26)02259-2) | Hosseinpoor AR et al. |
@@ -59,12 +64,12 @@
 | 2026-11-24 | [Human papillomavirus (HPV) infection, vaccination, and cervical screening in Britain from 1999 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal)](https://doi.org/10.1016/s0140-6736(26)01554-0) | Trickett E et al. |
 | 2026-11-24 | [Sexually transmitted infections, behavioural risks, and uptake of sexual health services in Britain from 2010 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal)](https://doi.org/10.1016/s0140-6736(26)01605-3) | Knuppel A et al. |
 | 2026-11-19 | [Reproductive health in women in Britain from 2010 to 2024: findings from repeated, cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal)](https://doi.org/10.1016/s0140-6736(26)01551-5) | Pathak N et al. |
-| 2026-11-19 | [Seasonal mass vaccination with R21/Matrix-M against malaria in The Gambia and Burkina Faso: an open-label, cluster-randomised, controlled trial](https://doi.org/10.1016/s0140-6736(26)01562-x) | Dabira ED et al. |
 
 ## Nature Medicine
 
 | Date | Paper | First author |
 |:--|:--|:--|
+| 2026-11-25 | [Later-born generations have better memory and lose it more slowly](https://doi.org/10.1038/s41591-026-04758-z) | — |
 | 2026-11-19 | [Expansion and cytotoxicity of mucosal CAR+ T cells in enterocolitis associated with BCMA CAR-T cell therapy](https://doi.org/10.1038/s41591-026-04731-w) | Sainz TP et al. |
 | 2026-11-19 | [Multicenter characterization of enterocolitis associated with BCMA-directed CAR T cell therapy](https://doi.org/10.1038/s41591-026-04783-y) | Mikkilineni L et al. |
 

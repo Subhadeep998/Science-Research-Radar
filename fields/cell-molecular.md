@@ -7,6 +7,7 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
+| 2026-11-26 | [Direction of ESCRT-III-dependent membrane bending emerges from bilayer asymmetry](https://www.biorxiv.org/content/10.64898/2026.07.23.740341v2) | Tran, J. et al. |
 | 2026-11-25 | [A hydrogenase-like activity associated with mitochondrial Complex I under hypoxia in vascular plants](https://www.biorxiv.org/content/10.64898/2026.06.02.729431v3) | zhang, x. et al. |
 | 2026-11-25 | [Dysregulated SETX activity at R-loops links transcriptional and splicing alterations to compromised neuronal identity in ALS4](https://www.biorxiv.org/content/10.64898/2026.06.30.735532v2) | Giannini, M. et al. |
 | 2026-11-25 | [AtVPS13M1 regulates subcellular lipid distribution and lipid remodeling in phosphate-deprived plants](https://www.biorxiv.org/content/10.1101/2024.05.22.594332v2) | Leterme, S. et al. |
@@ -18,4 +19,3 @@
 | 2026-11-25 | [Isolating soluble, near-native, misfolded states and their functional characterization: A step towards high-resolution protein misfolding structures](https://www.biorxiv.org/content/10.64898/2026.11.24.769006v1) | O'Brien, E. P. et al. |
 | 2026-11-25 | [Insights into Ice-Growth Inhibition and Hydration Ordering by the Ca2+-Dependent Antifreeze Protein MaIBP_RIV](https://www.biorxiv.org/content/10.64898/2026.11.24.768877v1) | Jana, B. et al. |
 | 2026-11-25 | [Near-surface flight enhances thrust in an insect-inspired flapping-wing robot](https://www.biorxiv.org/content/10.64898/2026.11.24.768668v1) | Zhang, C. et al. |
-| 2026-11-25 | [Structural deformations of lipid bilayers around membrane proteins inform oligomerization type](https://www.biorxiv.org/content/10.64898/2026.11.24.769041v1) | Diaz Vazquez, G. et al. |

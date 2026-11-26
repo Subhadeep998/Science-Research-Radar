@@ -13,9 +13,9 @@
 | 2026-11-25 | [Targeting ATR-CHK1-WEE1 signaling enhances IMPDH inhibitor efficacy in mTORC1-driven tumor cells](https://www.biorxiv.org/content/10.64898/2026.11.23.768592v1) | Akther, M. et al. |
 | 2026-11-25 | [CSF Boundary Disruption and Tumor-Dependent Patterns of Medulloblastoma Metastasis](https://www.biorxiv.org/content/10.64898/2026.11.23.768674v1) | Ryan, l. N. et al. |
 | 2026-11-25 | [PTP1B supports survival and regulates CFL1 and HSP90a abundance in trastuzumab-resistant HER2-positive breast cancer.](https://www.biorxiv.org/content/10.64898/2026.10.23.761095v2) | Mandati, V. et al. |
+| 2026-11-25 | [Comprehensive analysis of TEAD inhibition in meningioma identifies MEK and mTOR inhibition as effective combination therapies against resistant lines.](https://www.biorxiv.org/content/10.64898/2026.03.20.713271v3) | Keiser, D. J. et al. |
+| 2026-11-25 | [Beyond canonical: Hidden phosphoregulatory control in RAS signaling reveals context-dependent rewiring in Y1 tumor cells](https://www.biorxiv.org/content/10.64898/2026.11.16.760319v1) | Montoni, F. et al. |
 | 2026-11-24 | [Spatial geometry of the Hypoxic niche predicts Radiotherapy failure in Colorectal Cancer: A Spatially Explicit Agent-Based Model](https://www.biorxiv.org/content/10.1101/2025.04.19.649627v2) | Panchagnula, S. D. K. et al. |
 | 2026-11-24 | [Connexin43 drives mitochondrial biogenesis and organelle stress in BRAF-mutant melanoma cells](https://www.biorxiv.org/content/10.64898/2026.11.18.767001v2) | Guitian-Caamano, A. et al. |
 | 2026-11-24 | [CIP2A is a biomarker for progression and poor prognosis in cutaneous squamous cell carcinoma](https://www.biorxiv.org/content/10.64898/2026.11.19.767767v1) | Nissinen, L. et al. |
 | 2026-11-24 | [A hidden mitotic vulnerability emerges from BCAT1 redox-motif disruption in Ewing sarcoma](https://www.biorxiv.org/content/10.64898/2026.11.20.768122v1) | Li, J. et al. |
-| 2026-11-24 | [Androgen Receptor and ACSL4 Interplay as Therapeutic Targets in Breast Cancer](https://www.biorxiv.org/content/10.64898/2026.11.21.766272v1) | Dattilo, M. A. et al. |
-| 2026-11-24 | [Glycogen fuels and spatially regulates nucleotide biosynthesis in cancer](https://www.biorxiv.org/content/10.64898/2026.11.21.768289v1) | Khan, T. et al. |

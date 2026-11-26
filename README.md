@@ -28,12 +28,12 @@
 
 | Journal | Paper | Published |
 |:--|:--|:--|
-| **Nature** | [Continuous N-to-C Peptide Synthesis](https://doi.org/10.1038/s41586-026-11448-w) | 2026-11-23 |
+| **Nature** | [Transcription from megabase-scale heterochromatin generates neural barcodes](https://doi.org/10.1038/s41586-026-11311-y) | 2026-11-25 |
 | **Science** | [A neural code for generative speech production in human Wernicke's area](https://doi.org/10.1126/science.aef8963) | 2026-11-19 |
 | **Cell** | [A shared interbacterial membrane underlies mycobacterial cording](https://doi.org/10.1016/j.cell.2026.11.002) | 2026-11-24 |
 | **The New England Journal of Medicine** | [From Cold War Politics to Hot Domestic Politics - The Epidemic Intelligence Service at 75](https://doi.org/10.1056/nejmp2606018) | 2026-11-21 |
-| **The Lancet** | [Population surveys reveal generational changes in sexual and reproductive health](https://doi.org/10.1016/s0140-6736(26)02340-8) | 2026-11-24 |
-| **Nature Medicine** | [Expansion and cytotoxicity of mucosal CAR+ T cells in enterocolitis associated with BCMA CAR-T cell therapy](https://doi.org/10.1038/s41591-026-04731-w) | 2026-11-19 |
+| **The Lancet** | [Myocardial injury with non-obstructive coronary arteries: diagnostic pathways and stratified treatment](https://doi.org/10.1016/s0140-6736(26)01640-5) | 2026-11-25 |
+| **Nature Medicine** | [Later-born generations have better memory and lose it more slowly](https://doi.org/10.1038/s41591-026-04758-z) | 2026-11-25 |
 | **Nature Biotechnology** | [Modular mRNA-encoded helper proteins enhance DNA delivery](https://doi.org/10.1038/s41587-026-03351-6) | 2026-11-24 |
 | **PNAS** | [Soil contamination and acidification jointly increased cereal cadmium and dietary exposure over four decades](https://doi.org/10.1073/pnas.2617419123) | 2026-11-24 |
 

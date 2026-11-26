@@ -7,15 +7,15 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-25 | [RAP: Radial-Angular Random Projection for Hyperbolic Representations](https://arxiv.org/abs/2611.34298v1) | Jiahong Liu et al. |
-| 2026-11-25 | [LatENSO v1.0: a learned latent state of the tropical Pacific for seasonal ENSO operators and forecasting](https://arxiv.org/abs/2611.34296v1) | Milad Panahi et al. |
-| 2026-11-25 | [WebVibe: Multimodal Interactive Website Generation via Reverse Synthesis and Visual Self-Distillation](https://arxiv.org/abs/2611.34292v1) | Tianxiang Jiang et al. |
-| 2026-11-25 | [StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation](https://arxiv.org/abs/2611.34290v1) | Modi Jin et al. |
-| 2026-11-25 | [Latent-in-the-Middle: On the Security of Cross-Model Latent Communication in Multi-Agent Systems](https://arxiv.org/abs/2611.34278v1) | Manit Baser et al. |
-| 2026-11-25 | [Beat This! Live - Online Beat and Downbeat Tracking by Predicting the Future](https://arxiv.org/abs/2611.34277v1) | Bánk Juhász et al. |
-| 2026-11-25 | [Scaling Looped MoE Language Models under Matched Budgets: Information Flow and Parameter Allocation](https://arxiv.org/abs/2611.34276v1) | Shipeng Bai et al. |
-| 2026-11-25 | [LatentCP-DPO: Conformal Pessimism for DPO with Finite-Sample Guarantees](https://arxiv.org/abs/2611.34275v1) | Hongwei Xu et al. |
-| 2026-11-25 | [Libtt: A Compiler and Runtime for Tenstorrent Processors](https://arxiv.org/abs/2611.34273v1) | Philipp Moritz et al. |
-| 2026-11-25 | [LLM-coupled interpretable tool wear monitoring with multi-evidence reasoning in CNC machining](https://arxiv.org/abs/2611.34270v1) | Yuntong Chen et al. |
-| 2026-11-25 | [Train-Only-Constrained LM for Synthetic Clinical Trajectories: Leak-Safe Calibration and Auditable Dynamics](https://arxiv.org/abs/2611.34258v1) | Yaser Kord et al. |
-| 2026-11-25 | [Crucible: Evaluating LLM Agents in Executable Chemistry Research Environments](https://arxiv.org/abs/2611.34254v1) | Yinjun Liu et al. |
+| 2026-11-25 | [Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning](https://arxiv.org/abs/2611.34942v1) | Yalin E. Sagduyu et al. |
+| 2026-11-25 | [Tokenisation is not in APX](https://arxiv.org/abs/2611.34938v1) | Violeta Kastreva et al. |
+| 2026-11-25 | [Can image generation help visual reasoning? An empirical study](https://arxiv.org/abs/2611.34935v1) | Xueyang Yu et al. |
+| 2026-11-25 | [Attack Policy Selection can Mislead Monitor Evaluators](https://arxiv.org/abs/2611.34934v1) | Charlie Griffin et al. |
+| 2026-11-25 | [A gene informed benchmark for BioScoring of pathology foundation models](https://arxiv.org/abs/2611.34930v1) | Paul Vilars et al. |
+| 2026-11-25 | [Diverse Alternative Reasoning Traces for Hard Math Problems](https://arxiv.org/abs/2611.34928v1) | Lukas Aichberger et al. |
+| 2026-11-25 | [Mixture-of-Loops Transformer](https://arxiv.org/abs/2611.34923v1) | Lianghui Zhu et al. |
+| 2026-11-25 | [$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents](https://arxiv.org/abs/2611.34920v1) | Qihao Lin et al. |
+| 2026-11-25 | [Enhancing Maritime Domain Awareness using Latent Space Representations](https://arxiv.org/abs/2611.34899v1) | Rikard Vinge et al. |
+| 2026-11-25 | [What a Drop Reveals: Sim-to-Real Material Estimation for Deformable Objects from Video](https://arxiv.org/abs/2611.34894v1) | Ziyue Peng et al. |
+| 2026-11-25 | [Interpretable and Accurate Hybrid Decision Trees with Selective Case-Based Splits](https://arxiv.org/abs/2611.34887v1) | Cristiano Landi et al. |
+| 2026-11-25 | [Stranger Things: When Objects Appear Without Their Typical Neighbors](https://arxiv.org/abs/2611.34881v1) | Siddhartha Gairola et al. |
