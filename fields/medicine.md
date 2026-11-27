@@ -7,6 +7,9 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
+| 2026-11-27 | [Incidence and outcome of intracerebral hemorrhage in a prospective cohort and healthcare data.](https://www.medrxiv.org/content/10.64898/2026.11.24.26368917v1) | Hosking, A. et al. |
+| 2026-11-27 | [Final Days with Advanced Heart Failure: Facility Variation in Home Time and Hospice Enrollment](https://www.medrxiv.org/content/10.64898/2026.11.24.26368915v1) | Ouyang, N. et al. |
+| 2026-11-27 | [PBMC transcriptional and plasma chemokine profiles show differential associations with the presence and burden of coronary artery calcification](https://www.medrxiv.org/content/10.64898/2026.11.24.26368918v1) | Igual-Dominguez, A. et al. |
 | 2026-11-26 | [Circulating protein profiling identifies prognostic biomarkers in amyotrophic lateral Sclerosis](https://www.medrxiv.org/content/10.64898/2026.07.20.26354798v4) | Klimovski, H. et al. |
 | 2026-11-26 | [Insights from a Decade of Hereditary Cancer Genetic Testing from India: A Retrospective Study](https://www.medrxiv.org/content/10.64898/2026.07.29.26358035v3) | Menon, R. et al. |
 | 2026-11-26 | [Contextual DNA methylation QTLs link adversity responsivity to immune changes and evolutionary trade-offs](https://www.medrxiv.org/content/10.64898/2025.12.04.25341605v3) | Czamara, D. et al. |
@@ -16,6 +19,3 @@
 | 2026-11-26 | [Functional analysis of NANOS protein variants identified in men with infertility employing zebrafish embryos](https://www.medrxiv.org/content/10.64898/2026.10.20.26366003v2) | Madiwale, S. et al. |
 | 2026-11-26 | [A cerebrospinal fluid metabolic signature of recovery in normal pressure hydrocephalus](https://www.medrxiv.org/content/10.64898/2026.03.29.26349660v2) | Duan, L. et al. |
 | 2026-11-26 | [Adapting Clinical Event Annotation to Dutch Primary Care: An Event Annotation Framework for Post-Acute Infection Syndromes](https://www.medrxiv.org/content/10.64898/2026.08.19.26360841v2) | Mazzucato, S. et al. |
-| 2026-11-26 | [Neural networks for dengue forecasting: a systematic review](https://www.medrxiv.org/content/10.1101/2025.10.14.25338016v2) | Piva, L. L. d. S. et al. |
-| 2026-11-26 | [Short-Lived Hyperglycaemia Contributes to Continuous Glucose Monitoring Metrics Used for Therapeutic Decision-Making](https://www.medrxiv.org/content/10.64898/2026.10.28.26365991v2) | Deside, G. et al. |
-| 2026-11-26 | [Cardiomyocyte-Derived Cell-Free DNA in Hypertrophic Cardiomyopathy](https://www.medrxiv.org/content/10.64898/2026.10.12.26365358v2) | Kamna, D. et al. |

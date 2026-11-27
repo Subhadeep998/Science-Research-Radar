@@ -7,6 +7,7 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
+| 2026-11-27 | [A One-Year In Vivo Study of a Braided Pure Molybdenum Stent: Favorable Biocompatibility and the Critical Challenge of Vascular Biomechanics](https://www.biorxiv.org/content/10.64898/2026.11.22.766907v3) | Zhang, F. et al. |
 | 2026-11-26 | [Breed-Specific Characteristics of Beef Are Partly Retained in Cultivated Meat](https://www.biorxiv.org/content/10.1101/2025.07.24.666483v2) | Nakadozono, C. et al. |
 | 2026-11-26 | [Computational Gait Retraining from a Single Wearable Sensor: Composite Trajectory Feedback and Multiscale Lower-Limb Adaptation](https://www.biorxiv.org/content/10.64898/2026.09.01.748555v2) | Donahue, S. et al. |
 | 2026-11-26 | [Scalable and Synthesizable DNA Library Design via Reinforcement Learning](https://www.biorxiv.org/content/10.64898/2026.07.07.736931v2) | Sussex, S. et al. |
@@ -18,4 +19,3 @@
 | 2026-11-26 | [Osmium Tetroxide-Enhanced μCT Enables 3D Mapping of Intra-articular Adipose Tissue](https://www.biorxiv.org/content/10.64898/2026.11.24.768417v1) | Nguyen, D. M. et al. |
 | 2026-11-26 | [Individual gait is not the optimum of standard cost functions: a test with two predictive simulation frameworks](https://www.biorxiv.org/content/10.64898/2026.11.24.768861v1) | Ahmed, M. M. et al. |
 | 2026-11-26 | [Uncovering mechanisms of cell-free protein synthesis using tailored coarse-grained models](https://www.biorxiv.org/content/10.64898/2026.11.24.768839v1) | Wagner, C. S. et al. |
-| 2026-11-26 | [Engineering dynamic interkingdom communication between synthetic organelles and mammalian systems](https://www.biorxiv.org/content/10.64898/2026.11.25.769173v1) | Kulkarni, S. H. et al. |

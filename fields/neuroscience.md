@@ -7,15 +7,15 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-26 | [Representational geometry shapes noise-driven working memory errors](https://www.biorxiv.org/content/10.64898/2026.11.23.768703v1) | Alleman, M. et al. |
-| 2026-11-26 | [Information Content of Cortical Recordings During Deep Brain Stimulation in Obsessive-Compulsive Disorder](https://www.biorxiv.org/content/10.64898/2026.11.23.768634v1) | Kate, S. P. et al. |
-| 2026-11-26 | [Shank3 loss heightens social engagement among sibling cagemates and antagonism toward strangers](https://www.biorxiv.org/content/10.64898/2026.11.23.768613v1) | Timmermans, O. et al. |
-| 2026-11-26 | [Nanobody-guided proximity proteomics reveals conformationally encoded molecular neighborhoods of LRRK2](https://www.biorxiv.org/content/10.64898/2026.11.23.766131v1) | Riebenbauer, B. et al. |
-| 2026-11-26 | [Multimodal dynamics during naturalistic learning are associated with subsequent performance](https://www.biorxiv.org/content/10.64898/2026.11.23.768566v1) | Tian, Z. et al. |
-| 2026-11-26 | [Striatal lateral inhibition regulates abnormal movements in a mouse model of levodopa-induced dyskinesia](https://www.biorxiv.org/content/10.1101/2024.10.11.617939v4) | Twedell, E. L. et al. |
-| 2026-11-26 | [Frequency modulation of organelle calcium-dependent voltage oscillations provides an essential memory trace of operant conditioning in Aplysia](https://www.biorxiv.org/content/10.64898/2026.07.30.741715v2) | Puygrenier, L. et al. |
-| 2026-11-26 | [Gentle touch modulates late spinal and cortical somatosensory responses without detectable changes in spinal component N13 and nociceptive flexion reflex amplitude](https://www.biorxiv.org/content/10.64898/2026.11.23.767102v1) | Ribeiro-Carreira, A. et al. |
-| 2026-11-26 | [Longitudinal Increases in Ventral Attention Network Connectivity Predict Heightened Reward and Punishment Sensitivities via Self-Control Decline in Emerging Adulthood](https://www.biorxiv.org/content/10.64898/2026.11.25.769126v1) | He, J. et al. |
-| 2026-11-26 | [Developmental timing of gene expression predicts dosage dominance, which tracks neuronal-glial fate in the developing human brain](https://www.biorxiv.org/content/10.64898/2026.11.22.768478v1) | Koh, I. G. et al. |
-| 2026-11-26 | [Altered ultrasonic vocalizations in mouse models of FOXG1 syndrome](https://www.biorxiv.org/content/10.64898/2026.11.25.769311v1) | Abdavinejad, S. et al. |
-| 2026-11-26 | [Estradiol enhances sensory-evoked dilation of cortical penetrating arterioles in a mouse model of menopause despite pre-existing metabolic dysfunction](https://www.biorxiv.org/content/10.1101/2025.05.21.655189v2) | Plumley, Z. M. et al. |
+| 2026-11-27 | [Baseline Predictors of Craving Reduction Following Non-Invasive Neuromodulation: A Computational Modeling Approach](https://www.biorxiv.org/content/10.64898/2026.11.18.767490v2) | Kang, J. et al. |
+| 2026-11-27 | [Enhanced KNa1.1 Channel Underlies Cortical Hyperexcitability and Seizure Susceptibility after Traumatic Brain Injury](https://www.biorxiv.org/content/10.1101/2023.10.14.562359v2) | Liu, R. et al. |
+| 2026-11-27 | [Understanding robustness and enabling remediation of neuroimaging-based deep neural networks for digital security: Semantic segmentation of brain tumors as illustrative study](https://www.biorxiv.org/content/10.64898/2026.11.10.765546v1) | Mankar, M. et al. |
+| 2026-11-27 | [Dynamic hippocampal and cortical signatures of naturalistic event memory](https://www.biorxiv.org/content/10.64898/2026.09.06.749693v2) | Silva, M. et al. |
+| 2026-11-27 | [Sex-Related Associations Between Precuneus Volume and Subjective-Objective Memory Discrepancy in Amyloid-Positive Individuals](https://www.biorxiv.org/content/10.64898/2026.11.11.766001v1) | Akzam-Ouellette, M.-A. et al. |
+| 2026-11-27 | [Mapping the neural circuitry of cognitive restructuring in depressive and anxiety disorders](https://www.biorxiv.org/content/10.64898/2026.07.12.738091v2) | Jamieson, A. J. et al. |
+| 2026-11-27 | [Terminal Schwann Cells Are Required for Presynaptic Vesicle Homeostasis but Not for Gross Neuromuscular Junction Architecture in Mice](https://www.biorxiv.org/content/10.64898/2026.06.15.732329v2) | Kim, H. et al. |
+| 2026-11-27 | [Olfactory-Visual Integration Facilitates Scene Perception through Modulation of the Parahippocampal Place Area](https://www.biorxiv.org/content/10.64898/2026.11.23.768575v1) | Wang, Y. et al. |
+| 2026-11-27 | [A Deep Learning Model for Quantifying and Mapping Human Spiral Ganglion Neurons (SGNs): The SGN Base Model](https://www.biorxiv.org/content/10.64898/2026.11.10.765481v1) | Hall, A. K. et al. |
+| 2026-11-27 | [Global weight-Ranked cluster-grOWing (GROW): A Cluster-Growing Framework for Robust Functional Coordinate Network Mapping](https://www.biorxiv.org/content/10.64898/2026.11.09.765323v1) | Liu, Y. et al. |
+| 2026-11-27 | [Robustness of a connectome model of the fly walking rhythm generator to modelling choices](https://www.biorxiv.org/content/10.64898/2026.11.11.765831v1) | Ju, Y. et al. |
+| 2026-11-27 | [Dynamic remodeling of hybrid BBB-fenestrated capillaries in the hypothalamic arcuate nucleus](https://www.biorxiv.org/content/10.64898/2026.11.15.766735v1) | Halfon, A. et al. |

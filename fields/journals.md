@@ -71,8 +71,8 @@ _The feed fills on the next daily run._
 | 2026-11-25 | [A sweeping twist defect as a topological flagellum that enhances colloid translation](https://doi.org/10.1073/pnas.2618414123) | Zhang QX et al. |
 | 2026-11-25 | [Strategic coexistence theory for evolutionary games](https://doi.org/10.1073/pnas.2623502123) | Park SW. |
 | 2026-11-25 | [Compound heterozygosity for I692del and V726A variants in MEFV leads to severe autoinflammation and elevated interleukin-18 (CHIVE-18)](https://doi.org/10.1073/pnas.2605312123) | Stone DL et al. |
-| 2026-11-25 | [Reply to Tasistro-Hart et al.: Snowball limit cycles are common in carbon cycle models and a viable explanation for the Sturtian](https://doi.org/10.1073/pnas.2636029123) | Minsky C et al. |
-| 2026-11-25 | [Pyrethroid insecticide exposure enhances the ability of Helicoverpa armigera to counter host plant defenses through symbiotic bacteria](https://doi.org/10.1073/pnas.2634296123) | Gu M et al. |
-| 2026-11-25 | [Age-associated B cells drive lymphoproliferative and autoimmune disorder in Faslpr mice through the p38α-CXCL10 signaling axis](https://doi.org/10.1073/pnas.2616923123) | Liu W et al. |
-| 2026-11-25 | [The Yersinia pestis effector YopM binds the human pyrin death domain to inhibit inflammasome activation and effector-triggered immunity](https://doi.org/10.1073/pnas.2609106123) | Mwaura BW et al. |
 | 2026-11-25 | [Unlocking the unparalleled paleoclimate record of Antarctic blue ice areas](https://doi.org/10.1073/pnas.2603650123) | Tollenaar V et al. |
+| 2026-11-25 | [Design of ionic self-assembled monolayers suppressing proton release to mitigate proton-based degradation of perovskite solar cells](https://doi.org/10.1073/pnas.2622549123) | Tian S et al. |
+| 2026-11-25 | [Modulating chain conformations and hydrogen-bond dynamics at silica-rubber interfaces for enhanced energy dissipation in composites](https://doi.org/10.1073/pnas.2619821123) | Huang L et al. |
+| 2026-11-25 | [Temperature-dependent kinetic isotope effects in methane reactions with OH and Cl reshape atmospheric sink fractionation](https://doi.org/10.1073/pnas.2520978123) | Mikkelsen MK et al. |
+| 2026-11-25 | [Reply to Tasistro-Hart et al.: Snowball limit cycles are common in carbon cycle models and a viable explanation for the Sturtian](https://doi.org/10.1073/pnas.2636029123) | Minsky C et al. |

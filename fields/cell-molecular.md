@@ -7,6 +7,7 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
+| 2026-11-27 | [Emergent particle collection by cyanobacteria through gliding motility and filament buckling](https://www.biorxiv.org/content/10.64898/2026.04.28.721293v4) | Poon, R. et al. |
 | 2026-11-26 | [Direction of ESCRT-III-dependent membrane bending emerges from bilayer asymmetry](https://www.biorxiv.org/content/10.64898/2026.07.23.740341v2) | Tran, J. et al. |
 | 2026-11-26 | [Dynamic gene-body chromatin accessibility is associated with a stage-dependent transcriptional upregulation during germination of fission yeast spores](https://www.biorxiv.org/content/10.64898/2026.11.24.769058v1) | Shogaki, Y. et al. |
 | 2026-11-26 | [Do single-cell foundation models need 512 dimensions for one number?](https://www.biorxiv.org/content/10.64898/2026.11.24.768376v1) | Zhang, L. et al. |
@@ -18,4 +19,3 @@
 | 2026-11-26 | [Protocol for generating 3D mesenchymal stromal cell spheroids using serum-free medium and differentiating them into endothelial-like Cells](https://www.biorxiv.org/content/10.64898/2026.11.18.767559v1) | Li, S. et al. |
 | 2026-11-26 | [Pseudomonas aeruginosa lectins LecA and LecB differentially engage and activate the EphA2 receptor](https://www.biorxiv.org/content/10.64898/2026.11.24.768789v1) | Senin, C. et al. |
 | 2026-11-26 | [IMPRESS: AI-coupled HPC workflows for protein design](https://www.biorxiv.org/content/10.64898/2026.11.13.766417v2) | Khare, S. et al. |
-| 2026-11-26 | [Zeno Trap-enabled Quadrupole-Scanning Data-Independent Acquisition in nanoflow Quantitative Proteomics and Immunopeptidomics](https://www.biorxiv.org/content/10.64898/2026.11.24.769014v1) | Dorvash, M. et al. |

@@ -103,37 +103,37 @@
 
 ## 🧬 Genomics & Genetics
 
+- 2026-11-27 · [EpiState-T for representing epigenetic states across time](https://www.biorxiv.org/content/10.64898/2026.11.12.766055v1)
+- 2026-11-27 · [Genome-wide Cell-free DNA Fragmentation Profiling at Transcription Start Sites Detects Cancer Without Cancer-Type-Specific Region Selection](https://www.biorxiv.org/content/10.64898/2026.06.22.733692v2)
+- 2026-11-27 · [Nanoscale spatial-omics via contrastive embedding of single-molecule localisation data](https://www.biorxiv.org/content/10.1101/2025.10.07.679170v2)
 - 2026-11-26 · [Contrasting microhaplotype diversity responses of saproxylic beetles to forest management](https://www.biorxiv.org/content/10.64898/2026.11.25.769104v1)
-- 2026-11-26 · [Genetic Diversity and Geographic Structure of Nordic Rye Landraces and Historic Varieties: Expected Patterns and New Insights](https://www.biorxiv.org/content/10.64898/2026.11.25.769110v1)
-- 2026-11-26 · [Reproductive fitness does not predict plastic changes in recombination due to diet in Drosophila melanogaster](https://www.biorxiv.org/content/10.64898/2026.11.25.769255v1)
-- 2026-11-26 · [Chromosome-scale genome assembly of multinucleate heterokaryotic Rhizoctonia solani AG1-IB](https://www.biorxiv.org/content/10.64898/2026.11.25.769220v1)
 
 [More Genomics & Genetics →](fields/genomics.md)
 
 ## 🧠 Neuroscience
 
-- 2026-11-26 · [Representational geometry shapes noise-driven working memory errors](https://www.biorxiv.org/content/10.64898/2026.11.23.768703v1)
-- 2026-11-26 · [Information Content of Cortical Recordings During Deep Brain Stimulation in Obsessive-Compulsive Disorder](https://www.biorxiv.org/content/10.64898/2026.11.23.768634v1)
-- 2026-11-26 · [Shank3 loss heightens social engagement among sibling cagemates and antagonism toward strangers](https://www.biorxiv.org/content/10.64898/2026.11.23.768613v1)
-- 2026-11-26 · [Nanobody-guided proximity proteomics reveals conformationally encoded molecular neighborhoods of LRRK2](https://www.biorxiv.org/content/10.64898/2026.11.23.766131v1)
+- 2026-11-27 · [Baseline Predictors of Craving Reduction Following Non-Invasive Neuromodulation: A Computational Modeling Approach](https://www.biorxiv.org/content/10.64898/2026.11.18.767490v2)
+- 2026-11-27 · [Enhanced KNa1.1 Channel Underlies Cortical Hyperexcitability and Seizure Susceptibility after Traumatic Brain Injury](https://www.biorxiv.org/content/10.1101/2023.10.14.562359v2)
+- 2026-11-27 · [Understanding robustness and enabling remediation of neuroimaging-based deep neural networks for digital security: Semantic segmentation of brain tumors as illustrative study](https://www.biorxiv.org/content/10.64898/2026.11.10.765546v1)
+- 2026-11-27 · [Dynamic hippocampal and cortical signatures of naturalistic event memory](https://www.biorxiv.org/content/10.64898/2026.09.06.749693v2)
 
 [More Neuroscience →](fields/neuroscience.md)
 
 ## 🔬 Cell & Molecular Biology
 
+- 2026-11-27 · [Emergent particle collection by cyanobacteria through gliding motility and filament buckling](https://www.biorxiv.org/content/10.64898/2026.04.28.721293v4)
 - 2026-11-26 · [Direction of ESCRT-III-dependent membrane bending emerges from bilayer asymmetry](https://www.biorxiv.org/content/10.64898/2026.07.23.740341v2)
 - 2026-11-26 · [Dynamic gene-body chromatin accessibility is associated with a stage-dependent transcriptional upregulation during germination of fission yeast spores](https://www.biorxiv.org/content/10.64898/2026.11.24.769058v1)
 - 2026-11-26 · [Do single-cell foundation models need 512 dimensions for one number?](https://www.biorxiv.org/content/10.64898/2026.11.24.768376v1)
-- 2026-11-26 · [Phase-separated FRM proteins create signaling subdomains in inter-organelle junctions](https://www.biorxiv.org/content/10.64898/2026.11.24.769035v1)
 
 [More Cell & Molecular Biology →](fields/cell-molecular.md)
 
 ## 🦠 Microbiology & Immunology
 
+- 2026-11-27 · [Fecal virome-enriched fractions are associated with increased biofilm biomass and distinct bacterial responses in biofilm and planktonic communities in an in vitro colon model](https://www.biorxiv.org/content/10.64898/2026.09.20.747267v3)
+- 2026-11-27 · [Giant bacteria in gut microbiomes](https://www.biorxiv.org/content/10.64898/2026.09.30.750856v2)
 - 2026-11-26 · [Fibronectin binding and non-canonical transcription factor signature distinguishes lung and bone marrow megakaryocytes](https://www.biorxiv.org/content/10.64898/2026.11.23.767589v1)
 - 2026-11-26 · [Nsg2 deficiency attenuates intestinal inflammation and colitis-associated tumorigenesis through microbiome-dependent metabolic remodeling](https://www.biorxiv.org/content/10.64898/2026.11.23.767945v1)
-- 2026-11-26 · [Single cell mapping reveals phenotypic, immunometabolic and functional heterogeneity among age-associated B cells in systemic lupus erythematosus and aging](https://www.biorxiv.org/content/10.64898/2026.11.23.767014v1)
-- 2026-11-26 · [Cholesterol and high concentration serum cooperatively enhance canine CAR T cell transduction and expansion](https://www.biorxiv.org/content/10.64898/2026.11.25.769304v1)
 
 [More Microbiology & Immunology →](fields/microbes-immunity.md)
 
@@ -148,28 +148,28 @@
 
 ## 🛠️ Synthetic Biology & Bioengineering
 
+- 2026-11-27 · [A One-Year In Vivo Study of a Braided Pure Molybdenum Stent: Favorable Biocompatibility and the Critical Challenge of Vascular Biomechanics](https://www.biorxiv.org/content/10.64898/2026.11.22.766907v3)
 - 2026-11-26 · [Breed-Specific Characteristics of Beef Are Partly Retained in Cultivated Meat](https://www.biorxiv.org/content/10.1101/2025.07.24.666483v2)
 - 2026-11-26 · [Computational Gait Retraining from a Single Wearable Sensor: Composite Trajectory Feedback and Multiscale Lower-Limb Adaptation](https://www.biorxiv.org/content/10.64898/2026.09.01.748555v2)
 - 2026-11-26 · [Scalable and Synthesizable DNA Library Design via Reinforcement Learning](https://www.biorxiv.org/content/10.64898/2026.07.07.736931v2)
-- 2026-11-26 · [Cyst-like intraluminal hyaluronic acid accumulation inhibits breast epithelial cell invasion via pressure-driven ECM compaction](https://www.biorxiv.org/content/10.64898/2026.11.25.769205v1)
 
 [More Synthetic Biology & Bioengineering →](fields/synbio-bioeng.md)
 
 ## 🌿 Ecology & Evolution
 
+- 2026-11-27 · [Haplotype-resolved genome assemblies and population resequencing reveal no evidence for genetic sex determination in the dioecious conifer Taxus baccata](https://www.biorxiv.org/content/10.64898/2026.02.27.708407v3)
+- 2026-11-27 · [Heatwaves rescue a mosquito host from parasitism across a large geographic gradient](https://www.biorxiv.org/content/10.64898/2026.06.26.734620v2)
 - 2026-11-26 · [Nutrient and host availability drive the evolution of viral plasticity](https://www.biorxiv.org/content/10.64898/2026.11.24.768896v1)
 - 2026-11-26 · [Belowground Herbivory Shapes Carbon Release from Tree Roots and Its Retention in Soil](https://www.biorxiv.org/content/10.64898/2026.11.25.768934v1)
-- 2026-11-26 · [Sodium-enriched nectar increases seed set in low diversity prairies](https://www.biorxiv.org/content/10.64898/2026.11.25.769002v1)
-- 2026-11-26 · [Trade-off between resource excretion and reliance maintains biodiversity of a cross-feeding mutualism](https://www.biorxiv.org/content/10.64898/2026.11.24.768994v1)
 
 [More Ecology & Evolution →](fields/ecology-evolution.md)
 
 ## 🩺 Medicine & Public Health
 
+- 2026-11-27 · [Incidence and outcome of intracerebral hemorrhage in a prospective cohort and healthcare data.](https://www.medrxiv.org/content/10.64898/2026.11.24.26368917v1)
+- 2026-11-27 · [Final Days with Advanced Heart Failure: Facility Variation in Home Time and Hospice Enrollment](https://www.medrxiv.org/content/10.64898/2026.11.24.26368915v1)
+- 2026-11-27 · [PBMC transcriptional and plasma chemokine profiles show differential associations with the presence and burden of coronary artery calcification](https://www.medrxiv.org/content/10.64898/2026.11.24.26368918v1)
 - 2026-11-26 · [Circulating protein profiling identifies prognostic biomarkers in amyotrophic lateral Sclerosis](https://www.medrxiv.org/content/10.64898/2026.07.20.26354798v4)
-- 2026-11-26 · [Insights from a Decade of Hereditary Cancer Genetic Testing from India: A Retrospective Study](https://www.medrxiv.org/content/10.64898/2026.07.29.26358035v3)
-- 2026-11-26 · [Contextual DNA methylation QTLs link adversity responsivity to immune changes and evolutionary trade-offs](https://www.medrxiv.org/content/10.64898/2025.12.04.25341605v3)
-- 2026-11-26 · [Community pharmacy responses to online reviews: a national cross-sectional study](https://www.medrxiv.org/content/10.64898/2026.11.21.26368650v2)
 
 [More Medicine & Public Health →](fields/medicine.md)
 
