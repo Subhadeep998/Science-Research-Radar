@@ -1,21 +1,21 @@
 # 🧠 Neuroscience
 
-> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-26
+> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-27
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-25 | [Structured stabilization in recurrent neural circuits through inhibitory synaptic plasticity](https://www.biorxiv.org/content/10.1101/2024.10.12.618014v6) | Festa, D. et al. |
-| 2026-11-25 | [Neurofeedback enhances a neural signature of selective attention to speech in cocktail-party settings](https://www.biorxiv.org/content/10.64898/2026.05.29.728767v2) | Pari, R. K. et al. |
-| 2026-11-25 | [Space-based and object-based saccadic selection in visual working memory](https://www.biorxiv.org/content/10.64898/2026.05.05.723053v2) | Shurygina, O. et al. |
-| 2026-11-25 | [Human iPSC-derived Olfactory Sensory Organoids model olfactory function and drug response](https://www.biorxiv.org/content/10.64898/2026.11.24.769047v1) | Singh, V. et al. |
-| 2026-11-25 | [A functional analysis of action potential generation in the axon initial segment in two autism mouse models with loss-of-function mutations of the Nav1.2 sodium channel](https://www.biorxiv.org/content/10.64898/2026.11.24.768870v1) | Abbas, F. et al. |
-| 2026-11-25 | [Frequency-Selective Responses to Temporal Interference Stimulation in Hippocampal Neurons](https://www.biorxiv.org/content/10.64898/2026.11.24.768895v1) | Aristides, R. d. P. et al. |
-| 2026-11-25 | [Developmental timeline of the lateral olfactory tract innervation of piriform cortex](https://www.biorxiv.org/content/10.64898/2026.11.24.768942v1) | Martin-Lopez, E. et al. |
-| 2026-11-25 | [Functional and Neurotransmitter Organization of Cortical Gray Matter Remodeling During Pregnancy](https://www.biorxiv.org/content/10.64898/2026.11.24.768907v1) | Hayes, C. et al. |
-| 2026-11-25 | [Separating robust from fragile cell-type changes in spatial transcriptomics using screening label uncertainty to identify composition effects](https://www.biorxiv.org/content/10.64898/2026.11.24.768995v1) | Sakko, R. et al. |
-| 2026-11-25 | [Mapping the invisible: Incidental spatial encoding through haptic exploration](https://www.biorxiv.org/content/10.64898/2026.11.24.768822v1) | Vlachou, M. E. et al. |
-| 2026-11-25 | [Modelling mouse barrel cortex: from anatomical structure to cortical dynamics](https://www.biorxiv.org/content/10.64898/2026.11.24.768894v1) | Teska, A. et al. |
-| 2026-11-25 | [Sex differences in corticostriatal regulation of alcohol drinking following chronic intermittent alcohol exposure](https://www.biorxiv.org/content/10.64898/2026.11.24.769022v1) | Hewitt, K. A. et al. |
+| 2026-11-26 | [Representational geometry shapes noise-driven working memory errors](https://www.biorxiv.org/content/10.64898/2026.11.23.768703v1) | Alleman, M. et al. |
+| 2026-11-26 | [Information Content of Cortical Recordings During Deep Brain Stimulation in Obsessive-Compulsive Disorder](https://www.biorxiv.org/content/10.64898/2026.11.23.768634v1) | Kate, S. P. et al. |
+| 2026-11-26 | [Shank3 loss heightens social engagement among sibling cagemates and antagonism toward strangers](https://www.biorxiv.org/content/10.64898/2026.11.23.768613v1) | Timmermans, O. et al. |
+| 2026-11-26 | [Nanobody-guided proximity proteomics reveals conformationally encoded molecular neighborhoods of LRRK2](https://www.biorxiv.org/content/10.64898/2026.11.23.766131v1) | Riebenbauer, B. et al. |
+| 2026-11-26 | [Multimodal dynamics during naturalistic learning are associated with subsequent performance](https://www.biorxiv.org/content/10.64898/2026.11.23.768566v1) | Tian, Z. et al. |
+| 2026-11-26 | [Striatal lateral inhibition regulates abnormal movements in a mouse model of levodopa-induced dyskinesia](https://www.biorxiv.org/content/10.1101/2024.10.11.617939v4) | Twedell, E. L. et al. |
+| 2026-11-26 | [Frequency modulation of organelle calcium-dependent voltage oscillations provides an essential memory trace of operant conditioning in Aplysia](https://www.biorxiv.org/content/10.64898/2026.07.30.741715v2) | Puygrenier, L. et al. |
+| 2026-11-26 | [Gentle touch modulates late spinal and cortical somatosensory responses without detectable changes in spinal component N13 and nociceptive flexion reflex amplitude](https://www.biorxiv.org/content/10.64898/2026.11.23.767102v1) | Ribeiro-Carreira, A. et al. |
+| 2026-11-26 | [Longitudinal Increases in Ventral Attention Network Connectivity Predict Heightened Reward and Punishment Sensitivities via Self-Control Decline in Emerging Adulthood](https://www.biorxiv.org/content/10.64898/2026.11.25.769126v1) | He, J. et al. |
+| 2026-11-26 | [Developmental timing of gene expression predicts dosage dominance, which tracks neuronal-glial fate in the developing human brain](https://www.biorxiv.org/content/10.64898/2026.11.22.768478v1) | Koh, I. G. et al. |
+| 2026-11-26 | [Altered ultrasonic vocalizations in mouse models of FOXG1 syndrome](https://www.biorxiv.org/content/10.64898/2026.11.25.769311v1) | Abdavinejad, S. et al. |
+| 2026-11-26 | [Estradiol enhances sensory-evoked dilation of cortical penetrating arterioles in a mouse model of menopause despite pre-existing metabolic dysfunction](https://www.biorxiv.org/content/10.1101/2025.05.21.655189v2) | Plumley, Z. M. et al. |

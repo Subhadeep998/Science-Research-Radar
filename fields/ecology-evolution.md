@@ -1,21 +1,21 @@
 # 🌿 Ecology & Evolution
 
-> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-26
+> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-27
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-25 | [Auxin and cytokinin antagonistically regulate Arabidopsis root distal stem cell fate through opposing pairs of HD-Zip II transcription factors](https://www.biorxiv.org/content/10.64898/2026.10.23.760923v2) | Sessa, G. et al. |
-| 2026-11-25 | [Common excluder barley has more than one mechanism to remove Cd from chloroplasts.](https://www.biorxiv.org/content/10.64898/2026.08.17.745281v2) | Lysenko, E. A. et al. |
-| 2026-11-25 | [Pollinator specificity among three co-flowering Mediterranean Aristolochia species pollinated by Diptera](https://www.biorxiv.org/content/10.64898/2026.05.19.726152v4) | Vrecko, V. et al. |
-| 2026-11-25 | [The compartmentalized activity of a legume subtilase SBT12a allows symbiosome stabilization](https://www.biorxiv.org/content/10.64898/2026.04.09.717438v2) | Zhang, G. et al. |
-| 2026-11-25 | [Paraburkholderia endosymbionts with streamlined genomes are disadvantaged during interspecific competition](https://www.biorxiv.org/content/10.64898/2026.11.24.769019v1) | Stephenson, C. J. et al. |
-| 2026-11-25 | [Evolutionary dynamics of Gag-restricted prion-like domains in LTR retroelements](https://www.biorxiv.org/content/10.64898/2026.11.24.769039v1) | DeBellefeuille, C. et al. |
-| 2026-11-25 | [Puya: A new example of adaptive radiation in the Northern Andes](https://www.biorxiv.org/content/10.64898/2026.11.24.768968v1) | Castillo-Rodriguez, N. et al. |
-| 2026-11-25 | [The Tomato Isochorismate Synthase Coordinates both Salicylic Acid-Mediated Immunity and Phylloquinone-Dependent Chloroplast Function](https://www.biorxiv.org/content/10.64898/2026.11.23.768541v1) | Perez-Perez, J. et al. |
-| 2026-11-25 | [Functional divergence of D-, A-, and B-type cyclins in the moss Physcomitrium patens](https://www.biorxiv.org/content/10.64898/2026.11.22.768468v1) | Gan, Y. et al. |
-| 2026-11-25 | [O2 exchange profiling reveals physiological diversity among taxonomically characterized green microalgal strains](https://www.biorxiv.org/content/10.64898/2026.11.23.768518v1) | Kikoine, M. et al. |
-| 2026-11-25 | [GnotoBag: A versatile peat-based gnotobiotic system for plant microbiome research beyond model species](https://www.biorxiv.org/content/10.64898/2026.11.22.768464v1) | Wu, N. et al. |
-| 2026-11-25 | [The selective autophagy receptor AtNBR1 associates with lipid droplets during seed germination and contributes to seed longevity](https://www.biorxiv.org/content/10.64898/2026.11.23.768505v1) | Bouchez-Mahiout, I. et al. |
+| 2026-11-26 | [Nutrient and host availability drive the evolution of viral plasticity](https://www.biorxiv.org/content/10.64898/2026.11.24.768896v1) | Pourtois, J. D. et al. |
+| 2026-11-26 | [Belowground Herbivory Shapes Carbon Release from Tree Roots and Its Retention in Soil](https://www.biorxiv.org/content/10.64898/2026.11.25.768934v1) | Yoo, J. et al. |
+| 2026-11-26 | [Sodium-enriched nectar increases seed set in low diversity prairies](https://www.biorxiv.org/content/10.64898/2026.11.25.769002v1) | Darst, A. L. et al. |
+| 2026-11-26 | [Trade-off between resource excretion and reliance maintains biodiversity of a cross-feeding mutualism](https://www.biorxiv.org/content/10.64898/2026.11.24.768994v1) | Yu, Y. et al. |
+| 2026-11-26 | [Out of the wild: lab-reared bumble bees lack environmental bacteria and fungi](https://www.biorxiv.org/content/10.64898/2026.11.24.768966v1) | Rutkowski, D. et al. |
+| 2026-11-26 | [Spectral tuning of proton-pumping rhodopsins underscores distinct light adaptations in polar diatoms](https://www.biorxiv.org/content/10.64898/2026.11.24.768933v1) | Zepernick, B. N. et al. |
+| 2026-11-26 | [Coral monitoring with environmental DNA captures community restructuring after mass bleaching mortality](https://www.biorxiv.org/content/10.64898/2026.11.24.769030v1) | Thomas, L. et al. |
+| 2026-11-26 | [Using Mixture Density Networks to Predict Plot-level Environmental Factors from Tree Secondary Metabolites](https://www.biorxiv.org/content/10.64898/2026.11.24.768708v1) | To, K. et al. |
+| 2026-11-26 | [Reconciling multiple views of global marine plankton diversity](https://www.biorxiv.org/content/10.64898/2026.11.25.767842v1) | Schickele, A. et al. |
+| 2026-11-26 | [Niche partitioning and coexistence of sympatric macaques in a fragmented habitat of the Upper Brahmaputra Valley, northeastern India](https://www.biorxiv.org/content/10.1101/2022.12.24.521880v3) | Sharma, N. et al. |
+| 2026-11-26 | [Exploring the roles of temperature and competition in Fennoscandic Holocene plant communities using dynamic sedimentary ancient DNA models](https://www.biorxiv.org/content/10.64898/2026.01.06.697859v2) | Beaulieu, M. et al. |
+| 2026-11-26 | [Environmental drivers of abundance and later seasonal activity of a salt marsh mosquito](https://www.biorxiv.org/content/10.64898/2026.11.24.768890v1) | Wipf, N. C. et al. |

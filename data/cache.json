@@ -50,56 +50,7 @@
     "who": "Du L et al."
    }
   ],
-  "Science": [
-   {
-    "date": "2026-11-19",
-    "title": "A neural code for generative speech production in human Wernicke's area",
-    "link": "https://doi.org/10.1126/science.aef8963",
-    "who": "Silva AB et al."
-   },
-   {
-    "date": "2026-11-19",
-    "title": "Zero-shot de novo design of a metalloenzyme",
-    "link": "https://doi.org/10.1126/science.aej3009",
-    "who": "El Nesr G et al."
-   },
-   {
-    "date": "2026-11-19",
-    "title": "Interpenetrating bottlebrush elastomer for low-loss soft ultrasonic interfaces",
-    "link": "https://doi.org/10.1126/science.aef9553",
-    "who": "Wang S et al."
-   },
-   {
-    "date": "2026-11-19",
-    "title": "The fate of poised pre-mRNAs shapes mitochondrial activity and cellular differentiation",
-    "link": "https://doi.org/10.1126/science.aee8018",
-    "who": "Rambout X et al."
-   },
-   {
-    "date": "2026-11-19",
-    "title": "Balancing redox-mediated cytotoxicity and catalysis in natural product biosynthesis",
-    "link": "https://doi.org/10.1126/science.aee2641",
-    "who": "Boesger HA et al."
-   },
-   {
-    "date": "2026-11-19",
-    "title": "A thalamo-amygdalar circuit drives female vulnerability to chronic pain after early-life stress",
-    "link": "https://doi.org/10.1126/science.adx5757",
-    "who": "Borruto AM et al."
-   },
-   {
-    "date": "2026-11-19",
-    "title": "Atmospheric organic nitrogen is a major nutrient source to global oceans",
-    "link": "https://doi.org/10.1126/science.aeg4265",
-    "who": "Yu X et al."
-   },
-   {
-    "date": "2026-11-19",
-    "title": "Elastic-field reorganization stabilizes soft-lattice perovskites for durable solar cells",
-    "link": "https://doi.org/10.1126/science.aeh3114",
-    "who": "Li B et al."
-   }
-  ],
+  "Science": [],
   "Cell": [
    {
     "date": "2026-11-24",
@@ -130,24 +81,6 @@
     "title": "Neural correlates of facial recognition in a social wasp",
     "link": "https://doi.org/10.1016/j.cell.2026.10.052",
     "who": "Jernigan CM et al."
-   },
-   {
-    "date": "2026-11-19",
-    "title": "RNA folding drives species-dependent host mRNA partitioning in Ebola virus condensates",
-    "link": "https://doi.org/10.1016/j.cell.2026.10.047",
-    "who": "Fang J et al."
-   },
-   {
-    "date": "2026-11-19",
-    "title": "CD19 CAR T cell therapy alters disease-associated immune signatures in multiple sclerosis",
-    "link": "https://doi.org/10.1016/j.cell.2026.10.044",
-    "who": "Fischbach F et al."
-   },
-   {
-    "date": "2026-11-19",
-    "title": "Genomic surveillance reveals age-structured SARS-CoV-2 transmission across settings",
-    "link": "https://doi.org/10.1016/j.cell.2026.10.051",
-    "who": "Moreno GK et al."
    }
   ],
   "The New England Journal of Medicine": [
@@ -168,12 +101,6 @@
     "title": "Papulopustular Rosacea Associated with Demodex Mites",
     "link": "https://doi.org/10.1056/nejmicm2609236",
     "who": "Rivera Silva G et al."
-   },
-   {
-    "date": "2026-11-19",
-    "title": "Assessing Multiple Treatment Regimens for Tuberculosis",
-    "link": "https://doi.org/10.1056/nejmoa2611913",
-    "who": "Esmail H et al."
    }
   ],
   "The Lancet": [
@@ -218,12 +145,6 @@
     "title": "Sexually transmitted infections, behavioural risks, and uptake of sexual health services in Britain from 2010 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal)",
     "link": "https://doi.org/10.1016/s0140-6736(26)01605-3",
     "who": "Knuppel A et al."
-   },
-   {
-    "date": "2026-11-19",
-    "title": "Reproductive health in women in Britain from 2010 to 2024: findings from repeated, cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal)",
-    "link": "https://doi.org/10.1016/s0140-6736(26)01551-5",
-    "who": "Pathak N et al."
    }
   ],
   "Nature Medicine": [
@@ -232,18 +153,6 @@
     "title": "Later-born generations have better memory and lose it more slowly",
     "link": "https://doi.org/10.1038/s41591-026-04758-z",
     "who": "—"
-   },
-   {
-    "date": "2026-11-19",
-    "title": "Expansion and cytotoxicity of mucosal CAR+ T cells in enterocolitis associated with BCMA CAR-T cell therapy",
-    "link": "https://doi.org/10.1038/s41591-026-04731-w",
-    "who": "Sainz TP et al."
-   },
-   {
-    "date": "2026-11-19",
-    "title": "Multicenter characterization of enterocolitis associated with BCMA-directed CAR T cell therapy",
-    "link": "https://doi.org/10.1038/s41591-026-04783-y",
-    "who": "Mikkilineni L et al."
    }
   ],
   "Nature Biotechnology": [
@@ -258,62 +167,56 @@
     "title": "A unified framework for scalable differential testing for spatial omics",
     "link": "https://doi.org/10.1038/s41587-026-03284-0",
     "who": "Mason K et al."
-   },
-   {
-    "date": "2026-11-19",
-    "title": "Programmable functional RNA design with a virtual scientist",
-    "link": "https://doi.org/10.1038/s41587-026-03362-3",
-    "who": "Huang H et al."
    }
   ],
   "PNAS": [
    {
-    "date": "2026-11-24",
-    "title": "Soil contamination and acidification jointly increased cereal cadmium and dietary exposure over four decades",
-    "link": "https://doi.org/10.1073/pnas.2617419123",
-    "who": "Lü QX et al."
+    "date": "2026-11-25",
+    "title": "A sweeping twist defect as a topological flagellum that enhances colloid translation",
+    "link": "https://doi.org/10.1073/pnas.2618414123",
+    "who": "Zhang QX et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Universal scaling in the rheology of dense cellular systems",
-    "link": "https://doi.org/10.1073/pnas.2619734123",
-    "who": "Ansell HS et al."
+    "date": "2026-11-25",
+    "title": "Strategic coexistence theory for evolutionary games",
+    "link": "https://doi.org/10.1073/pnas.2623502123",
+    "who": "Park SW."
    },
    {
-    "date": "2026-11-24",
-    "title": "Structural basis of plastid Mg2+ transport by the magnesium channel MGT10 in Arabidopsis",
-    "link": "https://doi.org/10.1073/pnas.2633248123",
-    "who": "Wang C et al."
+    "date": "2026-11-25",
+    "title": "Compound heterozygosity for I692del and V726A variants in MEFV leads to severe autoinflammation and elevated interleukin-18 (CHIVE-18)",
+    "link": "https://doi.org/10.1073/pnas.2605312123",
+    "who": "Stone DL et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Ctf4 chaperones parental histones to preserve epigenetic memory",
-    "link": "https://doi.org/10.1073/pnas.2634538123",
-    "who": "Gao Y et al."
+    "date": "2026-11-25",
+    "title": "Reply to Tasistro-Hart et al.: Snowball limit cycles are common in carbon cycle models and a viable explanation for the Sturtian",
+    "link": "https://doi.org/10.1073/pnas.2636029123",
+    "who": "Minsky C et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "ZCWPW1 organizes telomeric architecture to drive meiotic chromosome movements",
-    "link": "https://doi.org/10.1073/pnas.2533345123",
-    "who": "Xie W et al."
+    "date": "2026-11-25",
+    "title": "Pyrethroid insecticide exposure enhances the ability of Helicoverpa armigera to counter host plant defenses through symbiotic bacteria",
+    "link": "https://doi.org/10.1073/pnas.2634296123",
+    "who": "Gu M et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Single-cell genomics reveals genome streamlining and functional traits in dominant uncultured marine protists",
-    "link": "https://doi.org/10.1073/pnas.2621594123",
-    "who": "López-Escardó D et al."
+    "date": "2026-11-25",
+    "title": "Age-associated B cells drive lymphoproliferative and autoimmune disorder in Faslpr mice through the p38α-CXCL10 signaling axis",
+    "link": "https://doi.org/10.1073/pnas.2616923123",
+    "who": "Liu W et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Evidence for patterns of colonization risk in the nationwide hospitalized patient network in France",
-    "link": "https://doi.org/10.1073/pnas.2608506123",
-    "who": "Bhuria S et al."
+    "date": "2026-11-25",
+    "title": "The Yersinia pestis effector YopM binds the human pyrin death domain to inhibit inflammasome activation and effector-triggered immunity",
+    "link": "https://doi.org/10.1073/pnas.2609106123",
+    "who": "Mwaura BW et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Cognitive diversity and majority rule",
-    "link": "https://doi.org/10.1073/pnas.2608826123",
-    "who": "Hong L et al."
+    "date": "2026-11-25",
+    "title": "Unlocking the unparalleled paleoclimate record of Antarctic blue ice areas",
+    "link": "https://doi.org/10.1073/pnas.2603650123",
+    "who": "Tollenaar V et al."
    }
   ]
  },
@@ -986,150 +889,150 @@
   ],
   "genomics": [
    {
-    "date": "2026-11-25",
-    "title": "Single-dose neonatal gene therapy preserves motor coordination and extends survival of Polg-deficient mice",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.17.762423v3",
-    "who": "Zanin, S. et al."
+    "date": "2026-11-26",
+    "title": "Contrasting microhaplotype diversity responses of saproxylic beetles to forest management",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769104v1",
+    "who": "Amer, N. R. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "FastHer: a fast and accurate estimator of local heritability from summary statistics",
-    "link": "https://www.biorxiv.org/content/10.64898/2025.12.24.696369v2",
-    "who": "Svishcheva, G. R. et al."
+    "date": "2026-11-26",
+    "title": "Genetic Diversity and Geographic Structure of Nordic Rye Landraces and Historic Varieties: Expected Patterns and New Insights",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769110v1",
+    "who": "Tenhola-Roininen, T. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Convergent Genomic Signatures of Selection in Thar: Genetic trade-offs for desert survival",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.17.767204v2",
-    "who": "Rathod, S. M. et al."
+    "date": "2026-11-26",
+    "title": "Reproductive fitness does not predict plastic changes in recombination due to diet in Drosophila melanogaster",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769255v1",
+    "who": "Shiran, M. G. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Development of microsatellite markers with the SSRseq method on Glossina palpalis gambiensis, and G. p. palpalis, and analysis of corresponding field samples from three sleeping sickness foci: Boffa, Dubreka (Guinea), and Bonon (Cote d'Ivoire).",
-    "link": "https://www.biorxiv.org/content/10.64898/2025.12.19.695359v4",
-    "who": "DE MEEUS, T. et al."
+    "date": "2026-11-26",
+    "title": "Chromosome-scale genome assembly of multinucleate heterokaryotic Rhizoctonia solani AG1-IB",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769220v1",
+    "who": "Cooper, J. B. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Transcriptomic-Methylation Integration and Machine-Learning Prioritization of Candidate Prognostic Biomarkers in Triple-Negative Breast Cancer: A Retrospective Computational Study",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.05.03.722461v4",
-    "who": "MANNEKUNTA, N. et al."
+    "date": "2026-11-26",
+    "title": "Alpha-Interferons and CD40: complementary pathways revealed by mGEDO in distinct transcripto-methylomic profiles of patients with Sjögren's disease",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.768874v2",
+    "who": "Bezier, C. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "isoGS: A genomic method to navigate the breeder's dilemma of diversity versus eliteness",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768689v1",
-    "who": "Monyak, T. et al."
+    "date": "2026-11-26",
+    "title": "Where single-cell foundation models help: a public-data benchmark of annotation, in silico perturbation and gene regulatory inference",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.03.763968v4",
+    "who": "Cupaioli, F. A. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "A switch in Nrg1-Rtg3 promoter recruitment coordinates mitochondrial cristae remodeling during the diauxic transition",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768758v1",
-    "who": "De La Vega-Alvarado, A. et al."
+    "date": "2026-11-26",
+    "title": "RNAhub2: prefiltering and compression enable scalable structure-based RNA discovery",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768864v2",
+    "who": "Kilar, A. M. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Alignment-Aware Genomic Coordinate Encoding for Long-Range DNA Modeling",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.10.10.757278v2",
-    "who": "Yang, X. et al."
+    "date": "2026-11-26",
+    "title": "LUCID: joint cell typing and neighbour-aware decontamination of segmented spatial transcriptomics",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.07.765042v3",
+    "who": "Cupaioli, F. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Cell-state conditioning predicts the expression response to an unseen stimulus but not stimulus-dependent genetic effects",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.767041v3",
-    "who": "He, H. et al."
+    "date": "2026-11-26",
+    "title": "A Single-Cell Transcriptomic Atlas of Human Heart Organoids across Differentiation Protocols",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769101v1",
+    "who": "Ouologuem, S. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Molecular switch mediates the glucocorticoid receptor transition from tumor suppressor to oncogene in the prostate",
-    "link": "https://www.biorxiv.org/content/10.1101/2025.08.20.670078v3",
-    "who": "Hiltunen, J. et al."
+    "date": "2026-11-26",
+    "title": "GlycoBind: a general toolkit for protein-glycan binding prediction",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769100v1",
+    "who": "Huang, X. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Genomic variation of Dutch traditional cattle breeds captured in a Dutch cattle pangenome",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768688v1",
-    "who": "Hogers, R. A. H. et al."
+    "date": "2026-11-26",
+    "title": "scRefine: hierarchical and contrastive learning for biologically faithful single-cell atlas integration and annotation",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769099v1",
+    "who": "Hauns, S. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Structural and functional reference maps of transcriptional enhancers in the developing human cortex",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768903v1",
-    "who": "Karunakarun, D. et al."
+    "date": "2026-11-26",
+    "title": "GeneScribe - a tool for fact extraction and gene summarization using Large Language Models (LLMs)",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769256v1",
+    "who": "Kishore, R. et al."
    }
   ],
   "neuroscience": [
    {
-    "date": "2026-11-25",
-    "title": "Structured stabilization in recurrent neural circuits through inhibitory synaptic plasticity",
-    "link": "https://www.biorxiv.org/content/10.1101/2024.10.12.618014v6",
-    "who": "Festa, D. et al."
+    "date": "2026-11-26",
+    "title": "Representational geometry shapes noise-driven working memory errors",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768703v1",
+    "who": "Alleman, M. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Neurofeedback enhances a neural signature of selective attention to speech in cocktail-party settings",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.05.29.728767v2",
-    "who": "Pari, R. K. et al."
+    "date": "2026-11-26",
+    "title": "Information Content of Cortical Recordings During Deep Brain Stimulation in Obsessive-Compulsive Disorder",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768634v1",
+    "who": "Kate, S. P. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Space-based and object-based saccadic selection in visual working memory",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.05.05.723053v2",
-    "who": "Shurygina, O. et al."
+    "date": "2026-11-26",
+    "title": "Shank3 loss heightens social engagement among sibling cagemates and antagonism toward strangers",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768613v1",
+    "who": "Timmermans, O. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Human iPSC-derived Olfactory Sensory Organoids model olfactory function and drug response",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769047v1",
-    "who": "Singh, V. et al."
+    "date": "2026-11-26",
+    "title": "Nanobody-guided proximity proteomics reveals conformationally encoded molecular neighborhoods of LRRK2",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.766131v1",
+    "who": "Riebenbauer, B. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "A functional analysis of action potential generation in the axon initial segment in two autism mouse models with loss-of-function mutations of the Nav1.2 sodium channel",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768870v1",
-    "who": "Abbas, F. et al."
+    "date": "2026-11-26",
+    "title": "Multimodal dynamics during naturalistic learning are associated with subsequent performance",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768566v1",
+    "who": "Tian, Z. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Frequency-Selective Responses to Temporal Interference Stimulation in Hippocampal Neurons",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768895v1",
-    "who": "Aristides, R. d. P. et al."
+    "date": "2026-11-26",
+    "title": "Striatal lateral inhibition regulates abnormal movements in a mouse model of levodopa-induced dyskinesia",
+    "link": "https://www.biorxiv.org/content/10.1101/2024.10.11.617939v4",
+    "who": "Twedell, E. L. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Developmental timeline of the lateral olfactory tract innervation of piriform cortex",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768942v1",
-    "who": "Martin-Lopez, E. et al."
+    "date": "2026-11-26",
+    "title": "Frequency modulation of organelle calcium-dependent voltage oscillations provides an essential memory trace of operant conditioning in Aplysia",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.30.741715v2",
+    "who": "Puygrenier, L. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Functional and Neurotransmitter Organization of Cortical Gray Matter Remodeling During Pregnancy",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768907v1",
-    "who": "Hayes, C. et al."
+    "date": "2026-11-26",
+    "title": "Gentle touch modulates late spinal and cortical somatosensory responses without detectable changes in spinal component N13 and nociceptive flexion reflex amplitude",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.767102v1",
+    "who": "Ribeiro-Carreira, A. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Separating robust from fragile cell-type changes in spatial transcriptomics using screening label uncertainty to identify composition effects",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768995v1",
-    "who": "Sakko, R. et al."
+    "date": "2026-11-26",
+    "title": "Longitudinal Increases in Ventral Attention Network Connectivity Predict Heightened Reward and Punishment Sensitivities via Self-Control Decline in Emerging Adulthood",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769126v1",
+    "who": "He, J. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Mapping the invisible: Incidental spatial encoding through haptic exploration",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768822v1",
-    "who": "Vlachou, M. E. et al."
+    "date": "2026-11-26",
+    "title": "Developmental timing of gene expression predicts dosage dominance, which tracks neuronal-glial fate in the developing human brain",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.768478v1",
+    "who": "Koh, I. G. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Modelling mouse barrel cortex: from anatomical structure to cortical dynamics",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768894v1",
-    "who": "Teska, A. et al."
+    "date": "2026-11-26",
+    "title": "Altered ultrasonic vocalizations in mouse models of FOXG1 syndrome",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769311v1",
+    "who": "Abdavinejad, S. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Sex differences in corticostriatal regulation of alcohol drinking following chronic intermittent alcohol exposure",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769022v1",
-    "who": "Hewitt, K. A. et al."
+    "date": "2026-11-26",
+    "title": "Estradiol enhances sensory-evoked dilation of cortical penetrating arterioles in a mouse model of menopause despite pre-existing metabolic dysfunction",
+    "link": "https://www.biorxiv.org/content/10.1101/2025.05.21.655189v2",
+    "who": "Plumley, Z. M. et al."
    }
   ],
   "cell-molecular": [
@@ -1140,442 +1043,442 @@
     "who": "Tran, J. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "A hydrogenase-like activity associated with mitochondrial Complex I under hypoxia in vascular plants",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.06.02.729431v3",
-    "who": "zhang, x. et al."
+    "date": "2026-11-26",
+    "title": "Dynamic gene-body chromatin accessibility is associated with a stage-dependent transcriptional upregulation during germination of fission yeast spores",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769058v1",
+    "who": "Shogaki, Y. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Dysregulated SETX activity at R-loops links transcriptional and splicing alterations to compromised neuronal identity in ALS4",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.06.30.735532v2",
-    "who": "Giannini, M. et al."
+    "date": "2026-11-26",
+    "title": "Do single-cell foundation models need 512 dimensions for one number?",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768376v1",
+    "who": "Zhang, L. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "AtVPS13M1 regulates subcellular lipid distribution and lipid remodeling in phosphate-deprived plants",
-    "link": "https://www.biorxiv.org/content/10.1101/2024.05.22.594332v2",
-    "who": "Leterme, S. et al."
+    "date": "2026-11-26",
+    "title": "Phase-separated FRM proteins create signaling subdomains in inter-organelle junctions",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769035v1",
+    "who": "Deng, H. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "SimpleP2G: Importance of Image Encoders for Gene Expression Prediction from Pathology Images",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768493v1",
-    "who": "Wang, J. et al."
+    "date": "2026-11-26",
+    "title": "A dynamic proteomic HECT E3 ligase screen reveals substrate exclusivity and redundancies.",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768805v1",
+    "who": "Parmar, B. S. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Reference-based assignment of aerolysin nanopore signals to peptide sequences from tryptic protein digests",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.10.21.760613v2",
-    "who": "Hensel, C. et al."
+    "date": "2026-11-26",
+    "title": "Evaluation of the Biological Effects and Specificity of the Novel Dihydroceramide Desaturase 1 inhibitor PR280 and its analogues",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.768879v1",
+    "who": "Peperno, D. M. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Human De Novo Microproteins are Intrinsically Disordered and Contain Short Linear Motifs",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.768061v1",
-    "who": "Menart, I. et al."
+    "date": "2026-11-26",
+    "title": "Nanoscale architecture of malaria sporozoite formation",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768957v1",
+    "who": "Du, E. W. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Zero-Shot Generation of Protein Conformational Ensembles Through AlphaFold Latent Flooding",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.04.16.718914v3",
-    "who": "QIAN, R. et al."
+    "date": "2026-11-26",
+    "title": "Synaptojanin 2 is required for neuronal mRNA localization, mitochondrial structure and function, and synaptic metabolism",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768930v1",
+    "who": "Gibbs, W. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "VMDance: An Efficient and Interactive Molecular Dynamics Clustering Plugin for VMD",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769027v1",
-    "who": "Gomes, D. E. B. et al."
+    "date": "2026-11-26",
+    "title": "Protocol for generating 3D mesenchymal stromal cell spheroids using serum-free medium and differentiating them into endothelial-like Cells",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.18.767559v1",
+    "who": "Li, S. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Isolating soluble, near-native, misfolded states and their functional characterization: A step towards high-resolution protein misfolding structures",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769006v1",
-    "who": "O'Brien, E. P. et al."
+    "date": "2026-11-26",
+    "title": "Pseudomonas aeruginosa lectins LecA and LecB differentially engage and activate the EphA2 receptor",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768789v1",
+    "who": "Senin, C. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Insights into Ice-Growth Inhibition and Hydration Ordering by the Ca2+-Dependent Antifreeze Protein MaIBP_RIV",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768877v1",
-    "who": "Jana, B. et al."
+    "date": "2026-11-26",
+    "title": "IMPRESS: AI-coupled HPC workflows for protein design",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.13.766417v2",
+    "who": "Khare, S. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Near-surface flight enhances thrust in an insect-inspired flapping-wing robot",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768668v1",
-    "who": "Zhang, C. et al."
+    "date": "2026-11-26",
+    "title": "Zeno Trap-enabled Quadrupole-Scanning Data-Independent Acquisition in nanoflow Quantitative Proteomics and Immunopeptidomics",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769014v1",
+    "who": "Dorvash, M. et al."
    }
   ],
   "microbes-immunity": [
    {
-    "date": "2026-11-25",
-    "title": "EveD, a vesicle-associated rhizobial protein shaping nodulation competitiveness and host genotype responses",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.12.766089v2",
-    "who": "Garcia-Rodriguez, D. et al."
+    "date": "2026-11-26",
+    "title": "Fibronectin binding and non-canonical transcription factor signature distinguishes lung and bone marrow megakaryocytes",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.767589v1",
+    "who": "Leung, G. A. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Strain-specific early, host-shaped late: the rhizobial transcriptome across symbiosis",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.11.765592v2",
-    "who": "Acosta-Jurado, S. et al."
+    "date": "2026-11-26",
+    "title": "Nsg2 deficiency attenuates intestinal inflammation and colitis-associated tumorigenesis through microbiome-dependent metabolic remodeling",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.767945v1",
+    "who": "Kim, G. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Extracellular tumor-derived IL-33 promotes ST2-dependent tumor control",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768800v1",
-    "who": "Herbst, A. et al."
+    "date": "2026-11-26",
+    "title": "Single cell mapping reveals phenotypic, immunometabolic and functional heterogeneity among age-associated B cells in systemic lupus erythematosus and aging",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.767014v1",
+    "who": "Stylianakis, E. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Mitochondrial fatty acid synthesis (mtFAS) fuels iron-sulfur cluster production essential for type I immunity",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768974v1",
-    "who": "Preston, S. E. J. et al."
+    "date": "2026-11-26",
+    "title": "Cholesterol and high concentration serum cooperatively enhance canine CAR T cell transduction and expansion",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769304v1",
+    "who": "Davis, T. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Structural basis of human antibody recognition of linear and conformational epitopes on the peanut allergen Ara h 2",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768991v1",
-    "who": "Civljak, A. et al."
+    "date": "2026-11-26",
+    "title": "The immunogenic 33-mer gliadin peptide attenuates flagellin-induced TLR5/NF-kB signaling",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.10.758210v2",
+    "who": "Lammers, K. M. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Recognition of β-D-glucose by surfactant protein D and structural evidence for an extended carbohydrate binding site",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768801v1",
-    "who": "Littlejohn, J. R. et al."
+    "date": "2026-11-26",
+    "title": "Intravenous BCG Elicits a Sustained Myeloid IFNG Response Signature Associated with Early TB Control",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.768954v1",
+    "who": "Dahlvang, J. D. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Transient fetal type 2 bovine viral diarrhea virus infection protects beef cattle from postnatal challenge with type 1b bovine viral diarrhea virus and Mannheimia haemolytica",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768602v1",
-    "who": "Van Campen, H. et al."
+    "date": "2026-11-26",
+    "title": "Alternative splicing links sex to neutrophil inflammatory vulnerability",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769038v1",
+    "who": "Mori, M. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "An RNase bacterial toxin family cleaves the anticodon loop across diverse tRNA isotypes",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768618v1",
-    "who": "Lin, J. E. et al."
+    "date": "2026-11-26",
+    "title": "Elucidating and Overcoming Lignin-Mediated Growth Suppression in Anaerobic Fungi",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.26.769390v1",
+    "who": "Jin, S. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Lateral interactions between antiparallel filaments drive self-assembly of the FtsZ ring in bacterial cell division",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769015v1",
-    "who": "McAndrew, M. B. L. et al."
+    "date": "2026-11-26",
+    "title": "A tricomponent mRNA pertussis vaccine elicits superior protective immunity over licensed acellular pertussis vaccine against emerging antibiotic-resistant variants",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.26.769370v1",
+    "who": "Zhang, W. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "PL25_M23: Salt-enhanced antibacterial activity of a plasmid-encoded SLT-M23 hydrolase from Virgibacillus salarius against Gram-positive bacteria",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768938v1",
-    "who": "Farran, A. H. et al."
+    "date": "2026-11-26",
+    "title": "Global evolutionary and spatiotemporal transmission dynamics of human respiroviruses and orthorubulaviruses",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.26.769081v1",
+    "who": "Smith, G. J. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Acquisition of phthiocerol dimycocerosates enabled extension of fused mycomembranes for cellular cording in Mycobacterium tuberculosis",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769003v1",
-    "who": "Jungfer, K. et al."
+    "date": "2026-11-26",
+    "title": "A hydrolysis operon in Lachnospiraceae provides a genetic basis to understand castalagin metabolism by the human microbiome in a clinical study.",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.10.05.756759v2",
+    "who": "Giurleo, A. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Phage integrons are vaults of privatized counterdefense genes",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768926v1",
-    "who": "Ono, R. et al."
+    "date": "2026-11-26",
+    "title": "Calcium Signaling and Glycerol-3-Phosphate Metabolism Coordinate Extracellular Vesicle Biogenesis in Cryptococcus neoformans",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769125v1",
+    "who": "Piffer, A. C. et al."
    }
   ],
   "cancer": [
    {
-    "date": "2026-11-25",
-    "title": "Beyond IgG: Oral Secretory IgA as a new efficient modality for cancer immunotherapy",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768496v1",
-    "who": "Brousse, M. et al."
+    "date": "2026-11-26",
+    "title": "Dissecting the Tumor Microenvironment at Single-Cell Resolution to Prioritize Candidate Tumor Antigens Across Multiple Cancer Types",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768856v1",
+    "who": "Tavares, T. V. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Ecological Feedback Dimensionality and Trade-Off Shape Govern Cancer Phenotypic Diversification",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.14.766691v1",
-    "who": "Bukkuri, A. et al."
+    "date": "2026-11-26",
+    "title": "The antitumor peptide CIGB-552 is active in B-cell lymphomas and enhances BTK-targeted therapies",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769102v1",
+    "who": "Carpio Alvarez, M. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Fishing for new immunotherapy compounds to boost innate tumor rejection",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.15.766748v1",
-    "who": "Machado, A. B. et al."
+    "date": "2026-11-26",
+    "title": "Combined BRAF and RAS inhibition overcomes acquired resistance in BRAF-mutated colorectal cancer",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768533v1",
+    "who": "Kryeziu, K. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Targeting ATR-CHK1-WEE1 signaling enhances IMPDH inhibitor efficacy in mTORC1-driven tumor cells",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768592v1",
-    "who": "Akther, M. et al."
+    "date": "2026-11-26",
+    "title": "Tumour-Associated Extracellular Vesicles Carry Extrachromosomal DNA and Influence Recipient Cell Phenotypes",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769016v1",
+    "who": "Poursani, E. M. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "CSF Boundary Disruption and Tumor-Dependent Patterns of Medulloblastoma Metastasis",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768674v1",
-    "who": "Ryan, l. N. et al."
+    "date": "2026-11-26",
+    "title": "DERM-Array: An Open-Source Platform for Spatially Resolved Tumor Immunology",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769288v1",
+    "who": "Meyer, M. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "PTP1B supports survival and regulates CFL1 and HSP90a abundance in trastuzumab-resistant HER2-positive breast cancer.",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.10.23.761095v2",
-    "who": "Mandati, V. et al."
+    "date": "2026-11-26",
+    "title": "Context-dependent regulation of MGMT expression by IRE1 signaling and its relationship to etoposide-associated DNA damage in MDA-MB-231 cells",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768915v1",
+    "who": "Chen, K. Y. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Comprehensive analysis of TEAD inhibition in meningioma identifies MEK and mTOR inhibition as effective combination therapies against resistant lines.",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.03.20.713271v3",
-    "who": "Keiser, D. J. et al."
+    "date": "2026-11-26",
+    "title": "Generation of tumor organoids and cancer-associated fibroblasts from minimal pancreatic cancer biopsies enables investigation of tumor-stroma interactions",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769316v1",
+    "who": "Jaune-Pons, E. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Beyond canonical: Hidden phosphoregulatory control in RAS signaling reveals context-dependent rewiring in Y1 tumor cells",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.16.760319v1",
-    "who": "Montoni, F. et al."
+    "date": "2026-11-26",
+    "title": "Dynamic Transcription Factor Coupling Shapes Adaptive Enhancer Programs Driving Tumour Cell Heterogeneity and Growth",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769040v1",
+    "who": "Sharma, S. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Spatial geometry of the Hypoxic niche predicts Radiotherapy failure in Colorectal Cancer: A Spatially Explicit Agent-Based Model",
-    "link": "https://www.biorxiv.org/content/10.1101/2025.04.19.649627v2",
-    "who": "Panchagnula, S. D. K. et al."
+    "date": "2026-11-26",
+    "title": "PI3Kβ inhibition creates a ferroptosis vulnerability in PTEN-deficient cancers",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768953v1",
+    "who": "Nan, Y. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "Connexin43 drives mitochondrial biogenesis and organelle stress in BRAF-mutant melanoma cells",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.18.767001v2",
-    "who": "Guitian-Caamano, A. et al."
+    "date": "2026-11-26",
+    "title": "Bacteroides ovatus administration enhanced α-mPD-1 immunotherapy in a mouse colorectal cancer model",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769059v1",
+    "who": "Zhang, H. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "CIP2A is a biomarker for progression and poor prognosis in cutaneous squamous cell carcinoma",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.19.767767v1",
-    "who": "Nissinen, L. et al."
+    "date": "2026-11-26",
+    "title": "EPHX1 Methylation, Tobacco Exposure, and Survival in Head and Neck Squamous Cell Carcinoma.",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769160v1",
+    "who": "Perez, C. L. et al."
    },
    {
-    "date": "2026-11-24",
-    "title": "A hidden mitotic vulnerability emerges from BCAT1 redox-motif disruption in Ewing sarcoma",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.20.768122v1",
-    "who": "Li, J. et al."
+    "date": "2026-11-26",
+    "title": "Application of a high molecular weight topical hyaluronan formulation blocks keratinocyte tumor initiation downstream of UVB-induced oncogenic mutations.",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768908v1",
+    "who": "Tolg, C. et al."
    }
   ],
   "synbio-bioeng": [
    {
-    "date": "2026-11-25",
-    "title": "Suprathreshold suppression underlies spatial selectivity in temporal interference stimulation",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.768107v1",
-    "who": "Moon, J. et al."
+    "date": "2026-11-26",
+    "title": "Breed-Specific Characteristics of Beef Are Partly Retained in Cultivated Meat",
+    "link": "https://www.biorxiv.org/content/10.1101/2025.07.24.666483v2",
+    "who": "Nakadozono, C. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Extracellular matrix-enriched human induced chondrocyte organoids as living building blocks for scalable cartilage tissue engineering",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768121v1",
-    "who": "Menssen, D. M. A. et al."
+    "date": "2026-11-26",
+    "title": "Computational Gait Retraining from a Single Wearable Sensor: Composite Trajectory Feedback and Multiscale Lower-Limb Adaptation",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.09.01.748555v2",
+    "who": "Donahue, S. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "RoWS Biofabrication of Neuromuscular Tubuloids from Human Neuromesodermal Progenitors",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.768485v1",
-    "who": "Florkowska, A. et al."
+    "date": "2026-11-26",
+    "title": "Scalable and Synthesizable DNA Library Design via Reinforcement Learning",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.07.07.736931v2",
+    "who": "Sussex, S. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "A One-Year In Vivo Study of a Braided Pure Molybdenum Stent: Favorable Biocompatibility and the Critical Challenge of Vascular Biomechanics",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.766907v1",
-    "who": "Zhang, F. et al."
+    "date": "2026-11-26",
+    "title": "Cyst-like intraluminal hyaluronic acid accumulation inhibits breast epithelial cell invasion via pressure-driven ECM compaction",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769205v1",
+    "who": "Schutrum, B. E. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "BMP-2 Release from Biomaterial Carriers: Reporting Heterogeneity and the Limits of Cross-Study Prediction",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.13.766607v1",
-    "who": "Zhou, W. et al."
+    "date": "2026-11-26",
+    "title": "Structural Metrics from Predicted Protein-Ligand Complexes Enable OATP Inhibitor Classification",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768978v1",
+    "who": "Garland, L. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Designing a Saccharomyces cerevisiae Cell Factory for the Overaccumulation of Tyrosol using Rational Design and Genome-Scale Metabolic Modeling Approaches",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768537v1",
-    "who": "Guillen Gonzalez, A. et al."
+    "date": "2026-11-26",
+    "title": "Shear stress magnitude affects bacterial extracellular vesicle stimulation of endothelial cells",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768965v1",
+    "who": "Torabian, P. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Optimisation of GMP-compliant hollow-fiber culturing and scaled-up separation of mesenchymal stem cell-derived extracellular vesicles to overcome unexpected impact of bovine serum contaminants' transfer to end products",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.15.766728v1",
-    "who": "Rivera-Tenorio, A. et al."
+    "date": "2026-11-26",
+    "title": "Towards a Physiologically Rigorous Heartbeat Dynamics Foundation Model",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768987v1",
+    "who": "Sunil, G. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "TEMPLE-MEASURED POSTPRANDIAL CARDIOVASCULAR RESPONSES UNDER FREE-LIVING CONDITIONS",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768469v1",
-    "who": "Liu, D. et al."
+    "date": "2026-11-26",
+    "title": "A one-pot workflow for spatial proteomicsaided by ShapeX",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768900v1",
+    "who": "Daucke, R. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Single-cell Morphological Mechanisms-of-Action Profiling using Nanowell Imaging Plates",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768734v1",
-    "who": "Berryman, S. G. et al."
+    "date": "2026-11-26",
+    "title": "Osmium Tetroxide-Enhanced μCT Enables 3D Mapping of Intra-articular Adipose Tissue",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768417v1",
+    "who": "Nguyen, D. M. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "A Full-Thickness 3D Bioprinted Melanoma-on-Chip Platform for Preclinical Therapeutic Testing",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768514v1",
-    "who": "Kleiter, A. et al."
+    "date": "2026-11-26",
+    "title": "Individual gait is not the optimum of standard cost functions: a test with two predictive simulation frameworks",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768861v1",
+    "who": "Ahmed, M. M. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Internet of Genetic Things (IoGT): Programmable Long-Distance Cybergenetic Logic Circuits Integrating IoT, Optogenetics, and Bacterial Gene Expression",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768527v1",
-    "who": "Paul, A. et al."
+    "date": "2026-11-26",
+    "title": "Uncovering mechanisms of cell-free protein synthesis using tailored coarse-grained models",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768839v1",
+    "who": "Wagner, C. S. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Fighting Sleep: Minute-by-Minute Driver Fatigue from a Dry-Electrode EEG Headband",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.18.767417v1",
-    "who": "Bohluli, R. S. et al."
+    "date": "2026-11-26",
+    "title": "Engineering dynamic interkingdom communication between synthetic organelles and mammalian systems",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769173v1",
+    "who": "Kulkarni, S. H. et al."
    }
   ],
   "ecology-evolution": [
    {
-    "date": "2026-11-25",
-    "title": "Auxin and cytokinin antagonistically regulate Arabidopsis root distal stem cell fate through opposing pairs of HD-Zip II transcription factors",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.10.23.760923v2",
-    "who": "Sessa, G. et al."
+    "date": "2026-11-26",
+    "title": "Nutrient and host availability drive the evolution of viral plasticity",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768896v1",
+    "who": "Pourtois, J. D. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Common excluder barley has more than one mechanism to remove Cd from chloroplasts.",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.08.17.745281v2",
-    "who": "Lysenko, E. A. et al."
+    "date": "2026-11-26",
+    "title": "Belowground Herbivory Shapes Carbon Release from Tree Roots and Its Retention in Soil",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.768934v1",
+    "who": "Yoo, J. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Pollinator specificity among three co-flowering Mediterranean Aristolochia species pollinated by Diptera",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.05.19.726152v4",
-    "who": "Vrecko, V. et al."
+    "date": "2026-11-26",
+    "title": "Sodium-enriched nectar increases seed set in low diversity prairies",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.769002v1",
+    "who": "Darst, A. L. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "The compartmentalized activity of a legume subtilase SBT12a allows symbiosome stabilization",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.04.09.717438v2",
-    "who": "Zhang, G. et al."
+    "date": "2026-11-26",
+    "title": "Trade-off between resource excretion and reliance maintains biodiversity of a cross-feeding mutualism",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768994v1",
+    "who": "Yu, Y. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Paraburkholderia endosymbionts with streamlined genomes are disadvantaged during interspecific competition",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769019v1",
-    "who": "Stephenson, C. J. et al."
+    "date": "2026-11-26",
+    "title": "Out of the wild: lab-reared bumble bees lack environmental bacteria and fungi",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768966v1",
+    "who": "Rutkowski, D. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Evolutionary dynamics of Gag-restricted prion-like domains in LTR retroelements",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769039v1",
-    "who": "DeBellefeuille, C. et al."
+    "date": "2026-11-26",
+    "title": "Spectral tuning of proton-pumping rhodopsins underscores distinct light adaptations in polar diatoms",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768933v1",
+    "who": "Zepernick, B. N. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Puya: A new example of adaptive radiation in the Northern Andes",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768968v1",
-    "who": "Castillo-Rodriguez, N. et al."
+    "date": "2026-11-26",
+    "title": "Coral monitoring with environmental DNA captures community restructuring after mass bleaching mortality",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.769030v1",
+    "who": "Thomas, L. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "The Tomato Isochorismate Synthase Coordinates both Salicylic Acid-Mediated Immunity and Phylloquinone-Dependent Chloroplast Function",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768541v1",
-    "who": "Perez-Perez, J. et al."
+    "date": "2026-11-26",
+    "title": "Using Mixture Density Networks to Predict Plot-level Environmental Factors from Tree Secondary Metabolites",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768708v1",
+    "who": "To, K. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Functional divergence of D-, A-, and B-type cyclins in the moss Physcomitrium patens",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.768468v1",
-    "who": "Gan, Y. et al."
+    "date": "2026-11-26",
+    "title": "Reconciling multiple views of global marine plankton diversity",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.25.767842v1",
+    "who": "Schickele, A. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "O2 exchange profiling reveals physiological diversity among taxonomically characterized green microalgal strains",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768518v1",
-    "who": "Kikoine, M. et al."
+    "date": "2026-11-26",
+    "title": "Niche partitioning and coexistence of sympatric macaques in a fragmented habitat of the Upper Brahmaputra Valley, northeastern India",
+    "link": "https://www.biorxiv.org/content/10.1101/2022.12.24.521880v3",
+    "who": "Sharma, N. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "GnotoBag: A versatile peat-based gnotobiotic system for plant microbiome research beyond model species",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.22.768464v1",
-    "who": "Wu, N. et al."
+    "date": "2026-11-26",
+    "title": "Exploring the roles of temperature and competition in Fennoscandic Holocene plant communities using dynamic sedimentary ancient DNA models",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.01.06.697859v2",
+    "who": "Beaulieu, M. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "The selective autophagy receptor AtNBR1 associates with lipid droplets during seed germination and contributes to seed longevity",
-    "link": "https://www.biorxiv.org/content/10.64898/2026.11.23.768505v1",
-    "who": "Bouchez-Mahiout, I. et al."
+    "date": "2026-11-26",
+    "title": "Environmental drivers of abundance and later seasonal activity of a salt marsh mosquito",
+    "link": "https://www.biorxiv.org/content/10.64898/2026.11.24.768890v1",
+    "who": "Wipf, N. C. et al."
    }
   ],
   "medicine": [
    {
-    "date": "2026-11-25",
-    "title": "Validating LLM judges for automated oversight of patient communication",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.09.16.26363176v2",
-    "who": "Xu, Z. et al."
+    "date": "2026-11-26",
+    "title": "Circulating protein profiling identifies prognostic biomarkers in amyotrophic lateral Sclerosis",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.07.20.26354798v4",
+    "who": "Klimovski, H. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "The Role of Tumor Necrosis Factor Signaling in Atherosclerosis and Stroke",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.04.29.26352088v2",
-    "who": "Buckley, J. et al."
+    "date": "2026-11-26",
+    "title": "Insights from a Decade of Hereditary Cancer Genetic Testing from India: A Retrospective Study",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.07.29.26358035v3",
+    "who": "Menon, R. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Diagnosis, triage and response quality of five large language models on emergency medicine vignettes: a blinded comparison",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366076v2",
-    "who": "Johal, G. et al."
+    "date": "2026-11-26",
+    "title": "Contextual DNA methylation QTLs link adversity responsivity to immune changes and evolutionary trade-offs",
+    "link": "https://www.medrxiv.org/content/10.64898/2025.12.04.25341605v3",
+    "who": "Czamara, D. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Bridging surveillance gaps in dengue: a hierarchical model integrating mixed data sources for transmission estimation and vaccine targeting",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.07.15.26358208v2",
-    "who": "Djaafara, B. A. et al."
+    "date": "2026-11-26",
+    "title": "Community pharmacy responses to online reviews: a national cross-sectional study",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.11.21.26368650v2",
+    "who": "Sambore, D. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Infectious disease outbreaks among hospitalised neonates in low- and middle-income countries: a systematic scoping review.",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.10.27.26366573v3",
-    "who": "Fortuin, C. et al."
+    "date": "2026-11-26",
+    "title": "Plausibly Causal Plasma Proteins in Psychiatric Disorders: A Proteogenomic Appraisal",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.07.10.26357744v2",
+    "who": "Margelyte, R. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "An interpretable cell-centric representation of pancreatic ductal adenocarcinoma matches multiple-instance learning for clinical outcomes and leads to novel pathologist-driven histological biomarkers",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.10.03.26364596v2",
-    "who": "Pelloux, M. et al."
+    "date": "2026-11-26",
+    "title": "DNA capture and amplicon enrichment approaches for next-generation sequencing of Mycoplasma genitalium directly from clinical samples",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.04.29.26351683v2",
+    "who": "Guiraud, J. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Single-Case Design for Network-based BCI Rehabilitation: Individual Learning Trajectories and Effects of Motor Imagery Timing in Stroke Patients",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366015v2",
-    "who": "Bousfiha, C. et al."
+    "date": "2026-11-26",
+    "title": "Functional analysis of NANOS protein variants identified in men with infertility employing zebrafish embryos",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.10.20.26366003v2",
+    "who": "Madiwale, S. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Development and Validation of an Automated Image-Based Method for Prognostic Stratification in Lung Adenocarcinoma using Immunohistochemical Markers",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.10.22.26366204v2",
-    "who": "Carraro, F. et al."
+    "date": "2026-11-26",
+    "title": "A cerebrospinal fluid metabolic signature of recovery in normal pressure hydrocephalus",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.03.29.26349660v2",
+    "who": "Duan, L. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Title: Community engagement and involvement in national perioperative quality improvement: a mixed-methods assessment of knowledge, attitudes, and practices among stakeholders in Ethiopia",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.11.24.26368817v1",
-    "who": "Belihu, K. D. et al."
+    "date": "2026-11-26",
+    "title": "Adapting Clinical Event Annotation to Dutch Primary Care: An Event Annotation Framework for Post-Acute Infection Syndromes",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.08.19.26360841v2",
+    "who": "Mazzucato, S. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Age-Dependent Association of Tumor Mutational Burden With Overall Survival in Patients With Melanoma",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.11.24.26368882v1",
-    "who": "Lyu, Z. et al."
+    "date": "2026-11-26",
+    "title": "Neural networks for dengue forecasting: a systematic review",
+    "link": "https://www.medrxiv.org/content/10.1101/2025.10.14.25338016v2",
+    "who": "Piva, L. L. d. S. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "Estimating the contribution of adults living with HIV to vaccine serotype pneumococcal transmission in Malawi after longstanding infant PCV13 vaccination",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.11.23.26368808v1",
-    "who": "Thindwa, D. et al."
+    "date": "2026-11-26",
+    "title": "Short-Lived Hyperglycaemia Contributes to Continuous Glucose Monitoring Metrics Used for Therapeutic Decision-Making",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.10.28.26365991v2",
+    "who": "Deside, G. et al."
    },
    {
-    "date": "2026-11-25",
-    "title": "A Double-Blind, Sham-Controlled Multi-Site Pilot Randomized Trial of Amygdalar Transcranial Focused Ultrasound in Treatment-Resistant Generalized Anxiety Disorder",
-    "link": "https://www.medrxiv.org/content/10.64898/2026.11.24.26368811v1",
-    "who": "Spivak, N. M. et al."
+    "date": "2026-11-26",
+    "title": "Cardiomyocyte-Derived Cell-Free DNA in Hypertrophic Cardiomyopathy",
+    "link": "https://www.medrxiv.org/content/10.64898/2026.10.12.26365358v2",
+    "who": "Kamna, D. et al."
    }
   ]
  },
- "updated": "2026-11-26"
+ "updated": "2026-11-27"
 }

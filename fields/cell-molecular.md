@@ -1,6 +1,6 @@
 # 🔬 Cell & Molecular Biology
 
-> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-26
+> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-27
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
@@ -8,14 +8,14 @@
 | Date | Paper | First author |
 |:--|:--|:--|
 | 2026-11-26 | [Direction of ESCRT-III-dependent membrane bending emerges from bilayer asymmetry](https://www.biorxiv.org/content/10.64898/2026.07.23.740341v2) | Tran, J. et al. |
-| 2026-11-25 | [A hydrogenase-like activity associated with mitochondrial Complex I under hypoxia in vascular plants](https://www.biorxiv.org/content/10.64898/2026.06.02.729431v3) | zhang, x. et al. |
-| 2026-11-25 | [Dysregulated SETX activity at R-loops links transcriptional and splicing alterations to compromised neuronal identity in ALS4](https://www.biorxiv.org/content/10.64898/2026.06.30.735532v2) | Giannini, M. et al. |
-| 2026-11-25 | [AtVPS13M1 regulates subcellular lipid distribution and lipid remodeling in phosphate-deprived plants](https://www.biorxiv.org/content/10.1101/2024.05.22.594332v2) | Leterme, S. et al. |
-| 2026-11-25 | [SimpleP2G: Importance of Image Encoders for Gene Expression Prediction from Pathology Images](https://www.biorxiv.org/content/10.64898/2026.11.23.768493v1) | Wang, J. et al. |
-| 2026-11-25 | [Reference-based assignment of aerolysin nanopore signals to peptide sequences from tryptic protein digests](https://www.biorxiv.org/content/10.64898/2026.10.21.760613v2) | Hensel, C. et al. |
-| 2026-11-25 | [Human De Novo Microproteins are Intrinsically Disordered and Contain Short Linear Motifs](https://www.biorxiv.org/content/10.64898/2026.11.22.768061v1) | Menart, I. et al. |
-| 2026-11-25 | [Zero-Shot Generation of Protein Conformational Ensembles Through AlphaFold Latent Flooding](https://www.biorxiv.org/content/10.64898/2026.04.16.718914v3) | QIAN, R. et al. |
-| 2026-11-25 | [VMDance: An Efficient and Interactive Molecular Dynamics Clustering Plugin for VMD](https://www.biorxiv.org/content/10.64898/2026.11.24.769027v1) | Gomes, D. E. B. et al. |
-| 2026-11-25 | [Isolating soluble, near-native, misfolded states and their functional characterization: A step towards high-resolution protein misfolding structures](https://www.biorxiv.org/content/10.64898/2026.11.24.769006v1) | O'Brien, E. P. et al. |
-| 2026-11-25 | [Insights into Ice-Growth Inhibition and Hydration Ordering by the Ca2+-Dependent Antifreeze Protein MaIBP_RIV](https://www.biorxiv.org/content/10.64898/2026.11.24.768877v1) | Jana, B. et al. |
-| 2026-11-25 | [Near-surface flight enhances thrust in an insect-inspired flapping-wing robot](https://www.biorxiv.org/content/10.64898/2026.11.24.768668v1) | Zhang, C. et al. |
+| 2026-11-26 | [Dynamic gene-body chromatin accessibility is associated with a stage-dependent transcriptional upregulation during germination of fission yeast spores](https://www.biorxiv.org/content/10.64898/2026.11.24.769058v1) | Shogaki, Y. et al. |
+| 2026-11-26 | [Do single-cell foundation models need 512 dimensions for one number?](https://www.biorxiv.org/content/10.64898/2026.11.24.768376v1) | Zhang, L. et al. |
+| 2026-11-26 | [Phase-separated FRM proteins create signaling subdomains in inter-organelle junctions](https://www.biorxiv.org/content/10.64898/2026.11.24.769035v1) | Deng, H. et al. |
+| 2026-11-26 | [A dynamic proteomic HECT E3 ligase screen reveals substrate exclusivity and redundancies.](https://www.biorxiv.org/content/10.64898/2026.11.24.768805v1) | Parmar, B. S. et al. |
+| 2026-11-26 | [Evaluation of the Biological Effects and Specificity of the Novel Dihydroceramide Desaturase 1 inhibitor PR280 and its analogues](https://www.biorxiv.org/content/10.64898/2026.11.25.768879v1) | Peperno, D. M. et al. |
+| 2026-11-26 | [Nanoscale architecture of malaria sporozoite formation](https://www.biorxiv.org/content/10.64898/2026.11.24.768957v1) | Du, E. W. et al. |
+| 2026-11-26 | [Synaptojanin 2 is required for neuronal mRNA localization, mitochondrial structure and function, and synaptic metabolism](https://www.biorxiv.org/content/10.64898/2026.11.24.768930v1) | Gibbs, W. et al. |
+| 2026-11-26 | [Protocol for generating 3D mesenchymal stromal cell spheroids using serum-free medium and differentiating them into endothelial-like Cells](https://www.biorxiv.org/content/10.64898/2026.11.18.767559v1) | Li, S. et al. |
+| 2026-11-26 | [Pseudomonas aeruginosa lectins LecA and LecB differentially engage and activate the EphA2 receptor](https://www.biorxiv.org/content/10.64898/2026.11.24.768789v1) | Senin, C. et al. |
+| 2026-11-26 | [IMPRESS: AI-coupled HPC workflows for protein design](https://www.biorxiv.org/content/10.64898/2026.11.13.766417v2) | Khare, S. et al. |
+| 2026-11-26 | [Zeno Trap-enabled Quadrupole-Scanning Data-Independent Acquisition in nanoflow Quantitative Proteomics and Immunopeptidomics](https://www.biorxiv.org/content/10.64898/2026.11.24.769014v1) | Dorvash, M. et al. |

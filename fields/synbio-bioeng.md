@@ -1,21 +1,21 @@
 # 🛠️ Synthetic Biology & Bioengineering
 
-> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-26
+> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-27
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-25 | [Suprathreshold suppression underlies spatial selectivity in temporal interference stimulation](https://www.biorxiv.org/content/10.64898/2026.11.22.768107v1) | Moon, J. et al. |
-| 2026-11-25 | [Extracellular matrix-enriched human induced chondrocyte organoids as living building blocks for scalable cartilage tissue engineering](https://www.biorxiv.org/content/10.64898/2026.11.23.768121v1) | Menssen, D. M. A. et al. |
-| 2026-11-25 | [RoWS Biofabrication of Neuromuscular Tubuloids from Human Neuromesodermal Progenitors](https://www.biorxiv.org/content/10.64898/2026.11.22.768485v1) | Florkowska, A. et al. |
-| 2026-11-25 | [A One-Year In Vivo Study of a Braided Pure Molybdenum Stent: Favorable Biocompatibility and the Critical Challenge of Vascular Biomechanics](https://www.biorxiv.org/content/10.64898/2026.11.22.766907v1) | Zhang, F. et al. |
-| 2026-11-25 | [BMP-2 Release from Biomaterial Carriers: Reporting Heterogeneity and the Limits of Cross-Study Prediction](https://www.biorxiv.org/content/10.64898/2026.11.13.766607v1) | Zhou, W. et al. |
-| 2026-11-25 | [Designing a Saccharomyces cerevisiae Cell Factory for the Overaccumulation of Tyrosol using Rational Design and Genome-Scale Metabolic Modeling Approaches](https://www.biorxiv.org/content/10.64898/2026.11.23.768537v1) | Guillen Gonzalez, A. et al. |
-| 2026-11-25 | [Optimisation of GMP-compliant hollow-fiber culturing and scaled-up separation of mesenchymal stem cell-derived extracellular vesicles to overcome unexpected impact of bovine serum contaminants' transfer to end products](https://www.biorxiv.org/content/10.64898/2026.11.15.766728v1) | Rivera-Tenorio, A. et al. |
-| 2026-11-25 | [TEMPLE-MEASURED POSTPRANDIAL CARDIOVASCULAR RESPONSES UNDER FREE-LIVING CONDITIONS](https://www.biorxiv.org/content/10.64898/2026.11.23.768469v1) | Liu, D. et al. |
-| 2026-11-25 | [Single-cell Morphological Mechanisms-of-Action Profiling using Nanowell Imaging Plates](https://www.biorxiv.org/content/10.64898/2026.11.23.768734v1) | Berryman, S. G. et al. |
-| 2026-11-25 | [A Full-Thickness 3D Bioprinted Melanoma-on-Chip Platform for Preclinical Therapeutic Testing](https://www.biorxiv.org/content/10.64898/2026.11.23.768514v1) | Kleiter, A. et al. |
-| 2026-11-25 | [Internet of Genetic Things (IoGT): Programmable Long-Distance Cybergenetic Logic Circuits Integrating IoT, Optogenetics, and Bacterial Gene Expression](https://www.biorxiv.org/content/10.64898/2026.11.23.768527v1) | Paul, A. et al. |
-| 2026-11-25 | [Fighting Sleep: Minute-by-Minute Driver Fatigue from a Dry-Electrode EEG Headband](https://www.biorxiv.org/content/10.64898/2026.11.18.767417v1) | Bohluli, R. S. et al. |
+| 2026-11-26 | [Breed-Specific Characteristics of Beef Are Partly Retained in Cultivated Meat](https://www.biorxiv.org/content/10.1101/2025.07.24.666483v2) | Nakadozono, C. et al. |
+| 2026-11-26 | [Computational Gait Retraining from a Single Wearable Sensor: Composite Trajectory Feedback and Multiscale Lower-Limb Adaptation](https://www.biorxiv.org/content/10.64898/2026.09.01.748555v2) | Donahue, S. et al. |
+| 2026-11-26 | [Scalable and Synthesizable DNA Library Design via Reinforcement Learning](https://www.biorxiv.org/content/10.64898/2026.07.07.736931v2) | Sussex, S. et al. |
+| 2026-11-26 | [Cyst-like intraluminal hyaluronic acid accumulation inhibits breast epithelial cell invasion via pressure-driven ECM compaction](https://www.biorxiv.org/content/10.64898/2026.11.25.769205v1) | Schutrum, B. E. et al. |
+| 2026-11-26 | [Structural Metrics from Predicted Protein-Ligand Complexes Enable OATP Inhibitor Classification](https://www.biorxiv.org/content/10.64898/2026.11.24.768978v1) | Garland, L. et al. |
+| 2026-11-26 | [Shear stress magnitude affects bacterial extracellular vesicle stimulation of endothelial cells](https://www.biorxiv.org/content/10.64898/2026.11.24.768965v1) | Torabian, P. et al. |
+| 2026-11-26 | [Towards a Physiologically Rigorous Heartbeat Dynamics Foundation Model](https://www.biorxiv.org/content/10.64898/2026.11.24.768987v1) | Sunil, G. et al. |
+| 2026-11-26 | [A one-pot workflow for spatial proteomicsaided by ShapeX](https://www.biorxiv.org/content/10.64898/2026.11.24.768900v1) | Daucke, R. et al. |
+| 2026-11-26 | [Osmium Tetroxide-Enhanced μCT Enables 3D Mapping of Intra-articular Adipose Tissue](https://www.biorxiv.org/content/10.64898/2026.11.24.768417v1) | Nguyen, D. M. et al. |
+| 2026-11-26 | [Individual gait is not the optimum of standard cost functions: a test with two predictive simulation frameworks](https://www.biorxiv.org/content/10.64898/2026.11.24.768861v1) | Ahmed, M. M. et al. |
+| 2026-11-26 | [Uncovering mechanisms of cell-free protein synthesis using tailored coarse-grained models](https://www.biorxiv.org/content/10.64898/2026.11.24.768839v1) | Wagner, C. S. et al. |
+| 2026-11-26 | [Engineering dynamic interkingdom communication between synthetic organelles and mammalian systems](https://www.biorxiv.org/content/10.64898/2026.11.25.769173v1) | Kulkarni, S. H. et al. |

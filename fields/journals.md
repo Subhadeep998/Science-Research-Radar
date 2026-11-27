@@ -1,6 +1,6 @@
 # 📚 Flagship peer-reviewed journals
 
-> Research articles published in the last 7 days, via Europe PMC · last update 2026-11-26
+> Research articles published in the last 7 days, via Europe PMC · last update 2026-11-27
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md)
 
@@ -19,16 +19,7 @@
 
 ## Science
 
-| Date | Paper | First author |
-|:--|:--|:--|
-| 2026-11-19 | [A neural code for generative speech production in human Wernicke's area](https://doi.org/10.1126/science.aef8963) | Silva AB et al. |
-| 2026-11-19 | [Zero-shot de novo design of a metalloenzyme](https://doi.org/10.1126/science.aej3009) | El Nesr G et al. |
-| 2026-11-19 | [Interpenetrating bottlebrush elastomer for low-loss soft ultrasonic interfaces](https://doi.org/10.1126/science.aef9553) | Wang S et al. |
-| 2026-11-19 | [The fate of poised pre-mRNAs shapes mitochondrial activity and cellular differentiation](https://doi.org/10.1126/science.aee8018) | Rambout X et al. |
-| 2026-11-19 | [Balancing redox-mediated cytotoxicity and catalysis in natural product biosynthesis](https://doi.org/10.1126/science.aee2641) | Boesger HA et al. |
-| 2026-11-19 | [A thalamo-amygdalar circuit drives female vulnerability to chronic pain after early-life stress](https://doi.org/10.1126/science.adx5757) | Borruto AM et al. |
-| 2026-11-19 | [Atmospheric organic nitrogen is a major nutrient source to global oceans](https://doi.org/10.1126/science.aeg4265) | Yu X et al. |
-| 2026-11-19 | [Elastic-field reorganization stabilizes soft-lattice perovskites for durable solar cells](https://doi.org/10.1126/science.aeh3114) | Li B et al. |
+_The feed fills on the next daily run._
 
 ## Cell
 
@@ -39,9 +30,6 @@
 | 2026-11-23 | [Fate patterns self-organize through the coupling of structures across cell and supracellular levels of organization](https://doi.org/10.1016/j.cell.2026.11.003) | Ko CS et al. |
 | 2026-11-23 | [Autoantibody origins in lupus and upon recurrence post CAR-T therapy](https://doi.org/10.1016/j.cell.2026.10.045) | Grenov A et al. |
 | 2026-11-23 | [Neural correlates of facial recognition in a social wasp](https://doi.org/10.1016/j.cell.2026.10.052) | Jernigan CM et al. |
-| 2026-11-19 | [RNA folding drives species-dependent host mRNA partitioning in Ebola virus condensates](https://doi.org/10.1016/j.cell.2026.10.047) | Fang J et al. |
-| 2026-11-19 | [CD19 CAR T cell therapy alters disease-associated immune signatures in multiple sclerosis](https://doi.org/10.1016/j.cell.2026.10.044) | Fischbach F et al. |
-| 2026-11-19 | [Genomic surveillance reveals age-structured SARS-CoV-2 transmission across settings](https://doi.org/10.1016/j.cell.2026.10.051) | Moreno GK et al. |
 
 ## The New England Journal of Medicine
 
@@ -50,7 +38,6 @@
 | 2026-11-21 | [From Cold War Politics to Hot Domestic Politics - The Epidemic Intelligence Service at 75](https://doi.org/10.1056/nejmp2606018) | Fairchild AL et al. |
 | 2026-11-21 | [Declining Fertility Rates - The Role of Assisted Reproductive Technology](https://doi.org/10.1056/nejmp2611049) | Dahdouh EM et al. |
 | 2026-11-21 | [Papulopustular Rosacea Associated with Demodex Mites](https://doi.org/10.1056/nejmicm2609236) | Rivera Silva G et al. |
-| 2026-11-19 | [Assessing Multiple Treatment Regimens for Tuberculosis](https://doi.org/10.1056/nejmoa2611913) | Esmail H et al. |
 
 ## The Lancet
 
@@ -63,15 +50,12 @@
 | 2026-11-24 | [Prevalence and trends in sexual behaviour in Britain from 1990 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal)](https://doi.org/10.1016/s0140-6736(26)01766-6) | Clifton S et al. |
 | 2026-11-24 | [Human papillomavirus (HPV) infection, vaccination, and cervical screening in Britain from 1999 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal)](https://doi.org/10.1016/s0140-6736(26)01554-0) | Trickett E et al. |
 | 2026-11-24 | [Sexually transmitted infections, behavioural risks, and uptake of sexual health services in Britain from 2010 to 2024: findings from the repeated cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal)](https://doi.org/10.1016/s0140-6736(26)01605-3) | Knuppel A et al. |
-| 2026-11-19 | [Reproductive health in women in Britain from 2010 to 2024: findings from repeated, cross-sectional National Surveys of Sexual Attitudes and Lifestyles (Natsal)](https://doi.org/10.1016/s0140-6736(26)01551-5) | Pathak N et al. |
 
 ## Nature Medicine
 
 | Date | Paper | First author |
 |:--|:--|:--|
 | 2026-11-25 | [Later-born generations have better memory and lose it more slowly](https://doi.org/10.1038/s41591-026-04758-z) | — |
-| 2026-11-19 | [Expansion and cytotoxicity of mucosal CAR+ T cells in enterocolitis associated with BCMA CAR-T cell therapy](https://doi.org/10.1038/s41591-026-04731-w) | Sainz TP et al. |
-| 2026-11-19 | [Multicenter characterization of enterocolitis associated with BCMA-directed CAR T cell therapy](https://doi.org/10.1038/s41591-026-04783-y) | Mikkilineni L et al. |
 
 ## Nature Biotechnology
 
@@ -79,17 +63,16 @@
 |:--|:--|:--|
 | 2026-11-24 | [Modular mRNA-encoded helper proteins enhance DNA delivery](https://doi.org/10.1038/s41587-026-03351-6) | Patel MN et al. |
 | 2026-11-23 | [A unified framework for scalable differential testing for spatial omics](https://doi.org/10.1038/s41587-026-03284-0) | Mason K et al. |
-| 2026-11-19 | [Programmable functional RNA design with a virtual scientist](https://doi.org/10.1038/s41587-026-03362-3) | Huang H et al. |
 
 ## PNAS
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-24 | [Soil contamination and acidification jointly increased cereal cadmium and dietary exposure over four decades](https://doi.org/10.1073/pnas.2617419123) | Lü QX et al. |
-| 2026-11-24 | [Universal scaling in the rheology of dense cellular systems](https://doi.org/10.1073/pnas.2619734123) | Ansell HS et al. |
-| 2026-11-24 | [Structural basis of plastid Mg2+ transport by the magnesium channel MGT10 in Arabidopsis](https://doi.org/10.1073/pnas.2633248123) | Wang C et al. |
-| 2026-11-24 | [Ctf4 chaperones parental histones to preserve epigenetic memory](https://doi.org/10.1073/pnas.2634538123) | Gao Y et al. |
-| 2026-11-24 | [ZCWPW1 organizes telomeric architecture to drive meiotic chromosome movements](https://doi.org/10.1073/pnas.2533345123) | Xie W et al. |
-| 2026-11-24 | [Single-cell genomics reveals genome streamlining and functional traits in dominant uncultured marine protists](https://doi.org/10.1073/pnas.2621594123) | López-Escardó D et al. |
-| 2026-11-24 | [Evidence for patterns of colonization risk in the nationwide hospitalized patient network in France](https://doi.org/10.1073/pnas.2608506123) | Bhuria S et al. |
-| 2026-11-24 | [Cognitive diversity and majority rule](https://doi.org/10.1073/pnas.2608826123) | Hong L et al. |
+| 2026-11-25 | [A sweeping twist defect as a topological flagellum that enhances colloid translation](https://doi.org/10.1073/pnas.2618414123) | Zhang QX et al. |
+| 2026-11-25 | [Strategic coexistence theory for evolutionary games](https://doi.org/10.1073/pnas.2623502123) | Park SW. |
+| 2026-11-25 | [Compound heterozygosity for I692del and V726A variants in MEFV leads to severe autoinflammation and elevated interleukin-18 (CHIVE-18)](https://doi.org/10.1073/pnas.2605312123) | Stone DL et al. |
+| 2026-11-25 | [Reply to Tasistro-Hart et al.: Snowball limit cycles are common in carbon cycle models and a viable explanation for the Sturtian](https://doi.org/10.1073/pnas.2636029123) | Minsky C et al. |
+| 2026-11-25 | [Pyrethroid insecticide exposure enhances the ability of Helicoverpa armigera to counter host plant defenses through symbiotic bacteria](https://doi.org/10.1073/pnas.2634296123) | Gu M et al. |
+| 2026-11-25 | [Age-associated B cells drive lymphoproliferative and autoimmune disorder in Faslpr mice through the p38α-CXCL10 signaling axis](https://doi.org/10.1073/pnas.2616923123) | Liu W et al. |
+| 2026-11-25 | [The Yersinia pestis effector YopM binds the human pyrin death domain to inhibit inflammasome activation and effector-triggered immunity](https://doi.org/10.1073/pnas.2609106123) | Mwaura BW et al. |
+| 2026-11-25 | [Unlocking the unparalleled paleoclimate record of Antarctic blue ice areas](https://doi.org/10.1073/pnas.2603650123) | Tollenaar V et al. |

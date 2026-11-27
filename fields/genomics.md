@@ -1,21 +1,21 @@
 # 🧬 Genomics & Genetics
 
-> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-26
+> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-27
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-25 | [Single-dose neonatal gene therapy preserves motor coordination and extends survival of Polg-deficient mice](https://www.biorxiv.org/content/10.64898/2026.11.17.762423v3) | Zanin, S. et al. |
-| 2026-11-25 | [FastHer: a fast and accurate estimator of local heritability from summary statistics](https://www.biorxiv.org/content/10.64898/2025.12.24.696369v2) | Svishcheva, G. R. et al. |
-| 2026-11-25 | [Convergent Genomic Signatures of Selection in Thar: Genetic trade-offs for desert survival](https://www.biorxiv.org/content/10.64898/2026.11.17.767204v2) | Rathod, S. M. et al. |
-| 2026-11-25 | [Development of microsatellite markers with the SSRseq method on Glossina palpalis gambiensis, and G. p. palpalis, and analysis of corresponding field samples from three sleeping sickness foci: Boffa, Dubreka (Guinea), and Bonon (Cote d'Ivoire).](https://www.biorxiv.org/content/10.64898/2025.12.19.695359v4) | DE MEEUS, T. et al. |
-| 2026-11-25 | [Transcriptomic-Methylation Integration and Machine-Learning Prioritization of Candidate Prognostic Biomarkers in Triple-Negative Breast Cancer: A Retrospective Computational Study](https://www.biorxiv.org/content/10.64898/2026.05.03.722461v4) | MANNEKUNTA, N. et al. |
-| 2026-11-25 | [isoGS: A genomic method to navigate the breeder's dilemma of diversity versus eliteness](https://www.biorxiv.org/content/10.64898/2026.11.23.768689v1) | Monyak, T. et al. |
-| 2026-11-25 | [A switch in Nrg1-Rtg3 promoter recruitment coordinates mitochondrial cristae remodeling during the diauxic transition](https://www.biorxiv.org/content/10.64898/2026.11.23.768758v1) | De La Vega-Alvarado, A. et al. |
-| 2026-11-25 | [Alignment-Aware Genomic Coordinate Encoding for Long-Range DNA Modeling](https://www.biorxiv.org/content/10.64898/2026.10.10.757278v2) | Yang, X. et al. |
-| 2026-11-25 | [Cell-state conditioning predicts the expression response to an unseen stimulus but not stimulus-dependent genetic effects](https://www.biorxiv.org/content/10.64898/2026.11.16.767041v3) | He, H. et al. |
-| 2026-11-25 | [Molecular switch mediates the glucocorticoid receptor transition from tumor suppressor to oncogene in the prostate](https://www.biorxiv.org/content/10.1101/2025.08.20.670078v3) | Hiltunen, J. et al. |
-| 2026-11-25 | [Genomic variation of Dutch traditional cattle breeds captured in a Dutch cattle pangenome](https://www.biorxiv.org/content/10.64898/2026.11.23.768688v1) | Hogers, R. A. H. et al. |
-| 2026-11-25 | [Structural and functional reference maps of transcriptional enhancers in the developing human cortex](https://www.biorxiv.org/content/10.64898/2026.11.24.768903v1) | Karunakarun, D. et al. |
+| 2026-11-26 | [Contrasting microhaplotype diversity responses of saproxylic beetles to forest management](https://www.biorxiv.org/content/10.64898/2026.11.25.769104v1) | Amer, N. R. et al. |
+| 2026-11-26 | [Genetic Diversity and Geographic Structure of Nordic Rye Landraces and Historic Varieties: Expected Patterns and New Insights](https://www.biorxiv.org/content/10.64898/2026.11.25.769110v1) | Tenhola-Roininen, T. et al. |
+| 2026-11-26 | [Reproductive fitness does not predict plastic changes in recombination due to diet in Drosophila melanogaster](https://www.biorxiv.org/content/10.64898/2026.11.25.769255v1) | Shiran, M. G. et al. |
+| 2026-11-26 | [Chromosome-scale genome assembly of multinucleate heterokaryotic Rhizoctonia solani AG1-IB](https://www.biorxiv.org/content/10.64898/2026.11.25.769220v1) | Cooper, J. B. et al. |
+| 2026-11-26 | [Alpha-Interferons and CD40: complementary pathways revealed by mGEDO in distinct transcripto-methylomic profiles of patients with Sjögren's disease](https://www.biorxiv.org/content/10.64898/2026.11.25.768874v2) | Bezier, C. et al. |
+| 2026-11-26 | [Where single-cell foundation models help: a public-data benchmark of annotation, in silico perturbation and gene regulatory inference](https://www.biorxiv.org/content/10.64898/2026.11.03.763968v4) | Cupaioli, F. A. et al. |
+| 2026-11-26 | [RNAhub2: prefiltering and compression enable scalable structure-based RNA discovery](https://www.biorxiv.org/content/10.64898/2026.11.24.768864v2) | Kilar, A. M. et al. |
+| 2026-11-26 | [LUCID: joint cell typing and neighbour-aware decontamination of segmented spatial transcriptomics](https://www.biorxiv.org/content/10.64898/2026.11.07.765042v3) | Cupaioli, F. et al. |
+| 2026-11-26 | [A Single-Cell Transcriptomic Atlas of Human Heart Organoids across Differentiation Protocols](https://www.biorxiv.org/content/10.64898/2026.11.25.769101v1) | Ouologuem, S. et al. |
+| 2026-11-26 | [GlycoBind: a general toolkit for protein-glycan binding prediction](https://www.biorxiv.org/content/10.64898/2026.11.25.769100v1) | Huang, X. et al. |
+| 2026-11-26 | [scRefine: hierarchical and contrastive learning for biologically faithful single-cell atlas integration and annotation](https://www.biorxiv.org/content/10.64898/2026.11.25.769099v1) | Hauns, S. et al. |
+| 2026-11-26 | [GeneScribe - a tool for fact extraction and gene summarization using Large Language Models (LLMs)](https://www.biorxiv.org/content/10.64898/2026.11.25.769256v1) | Kishore, R. et al. |

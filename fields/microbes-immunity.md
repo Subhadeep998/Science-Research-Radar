@@ -1,21 +1,21 @@
 # 🦠 Microbiology & Immunology
 
-> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-26
+> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-27
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-25 | [EveD, a vesicle-associated rhizobial protein shaping nodulation competitiveness and host genotype responses](https://www.biorxiv.org/content/10.64898/2026.11.12.766089v2) | Garcia-Rodriguez, D. et al. |
-| 2026-11-25 | [Strain-specific early, host-shaped late: the rhizobial transcriptome across symbiosis](https://www.biorxiv.org/content/10.64898/2026.11.11.765592v2) | Acosta-Jurado, S. et al. |
-| 2026-11-25 | [Extracellular tumor-derived IL-33 promotes ST2-dependent tumor control](https://www.biorxiv.org/content/10.64898/2026.11.24.768800v1) | Herbst, A. et al. |
-| 2026-11-25 | [Mitochondrial fatty acid synthesis (mtFAS) fuels iron-sulfur cluster production essential for type I immunity](https://www.biorxiv.org/content/10.64898/2026.11.24.768974v1) | Preston, S. E. J. et al. |
-| 2026-11-25 | [Structural basis of human antibody recognition of linear and conformational epitopes on the peanut allergen Ara h 2](https://www.biorxiv.org/content/10.64898/2026.11.24.768991v1) | Civljak, A. et al. |
-| 2026-11-25 | [Recognition of β-D-glucose by surfactant protein D and structural evidence for an extended carbohydrate binding site](https://www.biorxiv.org/content/10.64898/2026.11.24.768801v1) | Littlejohn, J. R. et al. |
-| 2026-11-25 | [Transient fetal type 2 bovine viral diarrhea virus infection protects beef cattle from postnatal challenge with type 1b bovine viral diarrhea virus and Mannheimia haemolytica](https://www.biorxiv.org/content/10.64898/2026.11.23.768602v1) | Van Campen, H. et al. |
-| 2026-11-25 | [An RNase bacterial toxin family cleaves the anticodon loop across diverse tRNA isotypes](https://www.biorxiv.org/content/10.64898/2026.11.23.768618v1) | Lin, J. E. et al. |
-| 2026-11-25 | [Lateral interactions between antiparallel filaments drive self-assembly of the FtsZ ring in bacterial cell division](https://www.biorxiv.org/content/10.64898/2026.11.24.769015v1) | McAndrew, M. B. L. et al. |
-| 2026-11-25 | [PL25_M23: Salt-enhanced antibacterial activity of a plasmid-encoded SLT-M23 hydrolase from Virgibacillus salarius against Gram-positive bacteria](https://www.biorxiv.org/content/10.64898/2026.11.24.768938v1) | Farran, A. H. et al. |
-| 2026-11-25 | [Acquisition of phthiocerol dimycocerosates enabled extension of fused mycomembranes for cellular cording in Mycobacterium tuberculosis](https://www.biorxiv.org/content/10.64898/2026.11.24.769003v1) | Jungfer, K. et al. |
-| 2026-11-25 | [Phage integrons are vaults of privatized counterdefense genes](https://www.biorxiv.org/content/10.64898/2026.11.24.768926v1) | Ono, R. et al. |
+| 2026-11-26 | [Fibronectin binding and non-canonical transcription factor signature distinguishes lung and bone marrow megakaryocytes](https://www.biorxiv.org/content/10.64898/2026.11.23.767589v1) | Leung, G. A. et al. |
+| 2026-11-26 | [Nsg2 deficiency attenuates intestinal inflammation and colitis-associated tumorigenesis through microbiome-dependent metabolic remodeling](https://www.biorxiv.org/content/10.64898/2026.11.23.767945v1) | Kim, G. et al. |
+| 2026-11-26 | [Single cell mapping reveals phenotypic, immunometabolic and functional heterogeneity among age-associated B cells in systemic lupus erythematosus and aging](https://www.biorxiv.org/content/10.64898/2026.11.23.767014v1) | Stylianakis, E. et al. |
+| 2026-11-26 | [Cholesterol and high concentration serum cooperatively enhance canine CAR T cell transduction and expansion](https://www.biorxiv.org/content/10.64898/2026.11.25.769304v1) | Davis, T. et al. |
+| 2026-11-26 | [The immunogenic 33-mer gliadin peptide attenuates flagellin-induced TLR5/NF-kB signaling](https://www.biorxiv.org/content/10.64898/2026.10.10.758210v2) | Lammers, K. M. et al. |
+| 2026-11-26 | [Intravenous BCG Elicits a Sustained Myeloid IFNG Response Signature Associated with Early TB Control](https://www.biorxiv.org/content/10.64898/2026.11.25.768954v1) | Dahlvang, J. D. et al. |
+| 2026-11-26 | [Alternative splicing links sex to neutrophil inflammatory vulnerability](https://www.biorxiv.org/content/10.64898/2026.11.24.769038v1) | Mori, M. et al. |
+| 2026-11-26 | [Elucidating and Overcoming Lignin-Mediated Growth Suppression in Anaerobic Fungi](https://www.biorxiv.org/content/10.64898/2026.11.26.769390v1) | Jin, S. et al. |
+| 2026-11-26 | [A tricomponent mRNA pertussis vaccine elicits superior protective immunity over licensed acellular pertussis vaccine against emerging antibiotic-resistant variants](https://www.biorxiv.org/content/10.64898/2026.11.26.769370v1) | Zhang, W. et al. |
+| 2026-11-26 | [Global evolutionary and spatiotemporal transmission dynamics of human respiroviruses and orthorubulaviruses](https://www.biorxiv.org/content/10.64898/2026.11.26.769081v1) | Smith, G. J. et al. |
+| 2026-11-26 | [A hydrolysis operon in Lachnospiraceae provides a genetic basis to understand castalagin metabolism by the human microbiome in a clinical study.](https://www.biorxiv.org/content/10.64898/2026.10.05.756759v2) | Giurleo, A. et al. |
+| 2026-11-26 | [Calcium Signaling and Glycerol-3-Phosphate Metabolism Coordinate Extracellular Vesicle Biogenesis in Cryptococcus neoformans](https://www.biorxiv.org/content/10.64898/2026.11.25.769125v1) | Piffer, A. C. et al. |
