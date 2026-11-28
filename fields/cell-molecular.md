@@ -7,6 +7,7 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
+| 2026-11-28 | [First in, first folded: evolution of vectorial substrate folding by metazoan Hsp60/10](https://www.biorxiv.org/content/10.64898/2026.11.23.768786v1) | Kochar, M. et al. |
 | 2026-11-27 | [Emergent particle collection by cyanobacteria through gliding motility and filament buckling](https://www.biorxiv.org/content/10.64898/2026.04.28.721293v4) | Poon, R. et al. |
 | 2026-11-27 | [NAD(P)H-FLIM reveals spatial and temporal epithelial metabolic heterogeneity in live intestinal organoids](https://www.biorxiv.org/content/10.64898/2026.11.25.769250v1) | Zhou, H. et al. |
 | 2026-11-27 | [A long-lived human gastric tissue model defines regulators of lineage maturation](https://www.biorxiv.org/content/10.64898/2026.11.25.769210v1) | Akkerman, N. et al. |
@@ -18,4 +19,3 @@
 | 2026-11-27 | [Cell type specific Rab Munc13-4 coupling defines divergent exosome fusion mechanisms and post-docking fusion pore opening](https://www.biorxiv.org/content/10.64898/2026.11.24.769064v1) | Woo et al. |
 | 2026-11-27 | [Maillard reaction-derived furan aldehydes act as positive allosteric modulators of the calcium-sensing receptor CaSR](https://www.biorxiv.org/content/10.64898/2026.11.25.768246v1) | Koizumi, H. et al. |
 | 2026-11-27 | [Bonds, a neighbourhood field and missing hydrogens: a transferable electron-density model of proteins](https://www.biorxiv.org/content/10.64898/2026.11.26.769548v1) | Shan, Y. et al. |
-| 2026-11-27 | [Brillouin microscopy detects treatment-associated biophysical responses in live triple-negative breast cancer spheroids](https://www.biorxiv.org/content/10.64898/2026.11.26.769573v1) | Khaswal, A. et al. |

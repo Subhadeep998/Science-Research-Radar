@@ -106,64 +106,64 @@
 
 ## 🧬 Genomics & Genetics
 
-- 2026-11-27 · [EpiState-T for representing epigenetic states across time](https://www.biorxiv.org/content/10.64898/2026.11.12.766055v1)
-- 2026-11-27 · [Genome-wide Cell-free DNA Fragmentation Profiling at Transcription Start Sites Detects Cancer Without Cancer-Type-Specific Region Selection](https://www.biorxiv.org/content/10.64898/2026.06.22.733692v2)
-- 2026-11-27 · [Nanoscale spatial-omics via contrastive embedding of single-molecule localisation data](https://www.biorxiv.org/content/10.1101/2025.10.07.679170v2)
-- 2026-11-27 · [Structural Landscape of MHC Complexes through Fold Mining](https://www.biorxiv.org/content/10.64898/2026.11.23.768646v1)
+- 2026-11-28 · [Publicly Available Genomic Evidence for Nipah and Avian Influenza Viruses in Bangladesh: A Scoping Assessment of Metadata Completeness and Surveillance Representativeness at the Human-Animal Interface](https://www.biorxiv.org/content/10.64898/2026.11.23.768755v2)
+- 2026-11-28 · [Efficient 3D Cell Tracking by Integer Programming Guided by Self-Supervised Division Scores](https://www.biorxiv.org/content/10.64898/2026.11.17.767274v1)
+- 2026-11-28 · [Distill-Mol: Learning unified molecular representations via cross-modal fusion and hierarchical geometric distillation](https://www.biorxiv.org/content/10.64898/2026.11.17.767226v1)
+- 2026-11-28 · [A Reproducible, Leakage-Aware Machine Learning Pipeline for Antimicrobial Peptide Activity Prediction](https://www.biorxiv.org/content/10.64898/2026.11.26.769488v1)
 
 [More Genomics & Genetics →](fields/genomics.md)
 
 ## 🧠 Neuroscience
 
-- 2026-11-27 · [Baseline Predictors of Craving Reduction Following Non-Invasive Neuromodulation: A Computational Modeling Approach](https://www.biorxiv.org/content/10.64898/2026.11.18.767490v2)
-- 2026-11-27 · [Enhanced KNa1.1 Channel Underlies Cortical Hyperexcitability and Seizure Susceptibility after Traumatic Brain Injury](https://www.biorxiv.org/content/10.1101/2023.10.14.562359v2)
-- 2026-11-27 · [Understanding robustness and enabling remediation of neuroimaging-based deep neural networks for digital security: Semantic segmentation of brain tumors as illustrative study](https://www.biorxiv.org/content/10.64898/2026.11.10.765546v1)
-- 2026-11-27 · [Dynamic hippocampal and cortical signatures of naturalistic event memory](https://www.biorxiv.org/content/10.64898/2026.09.06.749693v2)
+- 2026-11-28 · [Cognitive functions relate to the decision-dependent component of football skill in youth academy players](https://www.biorxiv.org/content/10.64898/2026.11.24.768799v1)
+- 2026-11-28 · [Chewing-related changes in ankle muscle activity and spectral power are modulated by oral anesthesia during single-leg stance](https://www.biorxiv.org/content/10.64898/2026.11.23.768621v1)
+- 2026-11-28 · [Baseline Predictors of Craving Reduction Following Non-Invasive Neuromodulation: A Computational Modeling Approach](https://www.biorxiv.org/content/10.64898/2026.11.18.767490v1)
+- 2026-11-28 · [Domain-general and domain-specific neural mechanisms underlie metacognition in social and perceptual decisions](https://www.biorxiv.org/content/10.64898/2026.11.27.769730v1)
 
 [More Neuroscience →](fields/neuroscience.md)
 
 ## 🔬 Cell & Molecular Biology
 
+- 2026-11-28 · [First in, first folded: evolution of vectorial substrate folding by metazoan Hsp60/10](https://www.biorxiv.org/content/10.64898/2026.11.23.768786v1)
 - 2026-11-27 · [Emergent particle collection by cyanobacteria through gliding motility and filament buckling](https://www.biorxiv.org/content/10.64898/2026.04.28.721293v4)
 - 2026-11-27 · [NAD(P)H-FLIM reveals spatial and temporal epithelial metabolic heterogeneity in live intestinal organoids](https://www.biorxiv.org/content/10.64898/2026.11.25.769250v1)
 - 2026-11-27 · [A long-lived human gastric tissue model defines regulators of lineage maturation](https://www.biorxiv.org/content/10.64898/2026.11.25.769210v1)
-- 2026-11-27 · [High basal autophagic activity in the brain revealed by systemic quantitative analysis using GFP-LC3-RFP mice](https://www.biorxiv.org/content/10.64898/2026.05.20.726446v3)
 
 [More Cell & Molecular Biology →](fields/cell-molecular.md)
 
 ## 🦠 Microbiology & Immunology
 
+- 2026-11-28 · [HIV-1 VPR TARGETS BCOR FOR DEGRADATION TO COUNTER POLYCOMB-DEPENDENT PROVIRAL SILENCING](https://www.biorxiv.org/content/10.64898/2026.11.26.769605v1)
+- 2026-11-28 · [Defining and Characterizing the Accessory Genome of the Virulent Vibriophage ICP1](https://www.biorxiv.org/content/10.64898/2026.11.26.769439v1)
 - 2026-11-27 · [Fecal virome-enriched fractions are associated with increased biofilm biomass and distinct bacterial responses in biofilm and planktonic communities in an in vitro colon model](https://www.biorxiv.org/content/10.64898/2026.09.20.747267v3)
 - 2026-11-27 · [Giant bacteria in gut microbiomes](https://www.biorxiv.org/content/10.64898/2026.09.30.750856v2)
-- 2026-11-27 · [The IFN-γ Paradox: Mechanistic Modeling Uncouples Cytokine Abundance from Influenza Pathogenesis](https://www.biorxiv.org/content/10.64898/2026.11.23.768736v1)
-- 2026-11-27 · [Modeling natural HIV-1 infection and immunopathogenesis in a lymphoid organ-chip](https://www.biorxiv.org/content/10.64898/2026.11.27.769475v1)
 
 [More Microbiology & Immunology →](fields/microbes-immunity.md)
 
 ## 🎯 Cancer Research
 
-- 2026-11-27 · [Large pan-cancer cell screen coupled to (phospho-)proteomics underscores high-dose vitamin C as a potent anti-cancer agent](https://www.biorxiv.org/content/10.1101/2023.12.19.572293v2)
-- 2026-11-27 · [Multimodal profiling resolves the functional and spatial organization of colorectal cancer liver metastases](https://www.biorxiv.org/content/10.64898/2026.11.18.767576v1)
-- 2026-11-27 · [Single-cell transcriptomics reveals conserved embryonic-like cell populations in different human cancers](https://www.biorxiv.org/content/10.64898/2025.12.11.693590v3)
-- 2026-11-27 · [A BMP-to-GREM1 cancer-associated fibroblast switch at the colorectal cancer invasive front, revealed by histology-anchored spatial transcriptomics](https://www.biorxiv.org/content/10.64898/2026.11.25.769142v1)
+- 2026-11-28 · [p53β, an alternatively spliced isoform of p53, induces tumor-suppressive cellular senescence and suppresses tumor growth in wild-type and mutant R273H TP53 glioblastoma](https://www.biorxiv.org/content/10.64898/2026.11.25.769170v1)
+- 2026-11-28 · [Chemotherapy reprograms the breast cancer pericyte secretome from growth-promoting to pro-inflammatory](https://www.biorxiv.org/content/10.64898/2026.11.25.769223v1)
+- 2026-11-28 · [Lactylation-related genes prognostic model for triple-negative breast cancer and validation of a lactate-PFKP lactylation-glycolysis positive feedback loop that promotes malignant phenotypes](https://www.biorxiv.org/content/10.64898/2026.11.20.768100v1)
+- 2026-11-28 · [Cell-free DNA from ascites is a suitable source for the identification of driver mutations and aligns well with functional chemoresistance testing in late-stage ovarian cancer patients](https://www.biorxiv.org/content/10.64898/2026.11.22.768385v1)
 
 [More Cancer Research →](fields/cancer.md)
 
 ## 🛠️ Synthetic Biology & Bioengineering
 
+- 2026-11-28 · [Microstructural Analysis of Language Pathways Development in Term Neonates](https://www.biorxiv.org/content/10.64898/2026.11.23.767641v1)
+- 2026-11-28 · [Age and Visual Contrast Affect Walking Stability on Winding Paths](https://www.biorxiv.org/content/10.64898/2026.11.17.767409v1)
+- 2026-11-28 · [Evaluation of an Instrumented Helmet for Measurement of Orthosis-Head Interface Forces in Pediatric Craniosynostosis](https://www.biorxiv.org/content/10.64898/2026.11.20.767636v1)
 - 2026-11-27 · [A One-Year In Vivo Study of a Braided Pure Molybdenum Stent: Favorable Biocompatibility and the Critical Challenge of Vascular Biomechanics](https://www.biorxiv.org/content/10.64898/2026.11.22.766907v3)
-- 2026-11-27 · [Scalable direct mapping of signal-transduction dynamics using protein-assembly recorders](https://www.biorxiv.org/content/10.64898/2026.11.25.769157v1)
-- 2026-11-27 · [Transient mRNA-LNP Delivery of the Tardigrade Protein Dsup Protects Airway Epithelium from Bleomycin-Induced Injury](https://www.biorxiv.org/content/10.64898/2026.11.25.769277v1)
-- 2026-11-27 · [The allometry of ground reaction forces in Atta vollenweideri leaf-cutter ants.](https://www.biorxiv.org/content/10.64898/2026.11.25.769366v1)
 
 [More Synthetic Biology & Bioengineering →](fields/synbio-bioeng.md)
 
 ## 🌿 Ecology & Evolution
 
+- 2026-11-28 · [The fate of social dilemmas under randomly fluctuating growth rates](https://www.biorxiv.org/content/10.64898/2026.11.26.769452v1)
 - 2026-11-27 · [Haplotype-resolved genome assemblies and population resequencing reveal no evidence for genetic sex determination in the dioecious conifer Taxus baccata](https://www.biorxiv.org/content/10.64898/2026.02.27.708407v3)
 - 2026-11-27 · [Heatwaves rescue a mosquito host from parasitism across a large geographic gradient](https://www.biorxiv.org/content/10.64898/2026.06.26.734620v2)
 - 2026-11-27 · [Spatiotemporally regulated transcriptional networks control the plasticity of chickpea root exodermis](https://www.biorxiv.org/content/10.1101/2025.01.03.631192v3)
-- 2026-11-27 · [Augmenting chlorophyll fluorescence-based analysis of plant photosynthesis with genetically encoded biosensors](https://www.biorxiv.org/content/10.64898/2026.11.24.768924v2)
 
 [More Ecology & Evolution →](fields/ecology-evolution.md)
 

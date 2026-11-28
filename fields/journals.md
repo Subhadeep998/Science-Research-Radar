@@ -25,10 +25,10 @@
 | 2026-11-26 | [An engineered cohesion system reduces errors in aged mammalian eggs](https://doi.org/10.1126/science.aei5852) | Webster A et al. |
 | 2026-11-26 | [Counter-ion confinement reverses ion selectivity in subnanometer channels](https://doi.org/10.1126/science.aef1323) | Sheng F et al. |
 | 2026-11-26 | [AI-based digital pathology defines spatial border ecosystems in triple-negative breast cancer](https://doi.org/10.1126/science.aei6252) | Zhang H et al. |
+| 2026-11-26 | [A tryptophan cation radical determines radical transfer kinetics and catalytic rate in a ribonucleotide reductase](https://doi.org/10.1126/science.aei8950) | Nagelj N et al. |
 | 2026-11-26 | [The original researchers would like a wordResearch: A Manifesto Peter N. Miller Princeton University Press, 2026. 256 pp](https://doi.org/10.1126/science.aej2312) | Hyde B. |
 | 2026-11-26 | [Priming of AGO2 by type I interferons balances inflammation and antiviral immunity](https://doi.org/10.1126/science.adx9551) | Ren Y et al. |
 | 2026-11-26 | [Mechanisms of nucleosome disruption shape epigenetic inheritance pathway choice](https://doi.org/10.1126/science.aek0813) | Willhoft O et al. |
-| 2026-11-26 | [A tryptophan cation radical determines radical transfer kinetics and catalytic rate in a ribonucleotide reductase](https://doi.org/10.1126/science.aei8950) | Nagelj N et al. |
 
 ## Cell
 
@@ -55,8 +55,8 @@
 | 2026-11-26 | [Treatment selection in mHSPC: lessons from the STOPCAP meta-analysis](https://doi.org/10.1016/s0140-6736(26)01702-2) | McKenzie J et al. |
 | 2026-11-26 | [Identifying which patients with metastatic hormone-sensitive prostate cancer benefit most from androgen receptor pathway inhibitors (STOPCAP): a systematic review and meta-analysis of individual participant data](https://doi.org/10.1016/s0140-6736(26)01483-2) | Fisher DJ et al. |
 | 2026-11-26 | [Envudeucitinib in moderate-to-severe plaque psoriasis (ONWARD1 and ONWARD2): results from two replicate, multicentre, double-blinded, placebo-controlled and active comparator-controlled, phase 3 randomised controlled trials](https://doi.org/10.1016/s0140-6736(26)01649-1) | Blauvelt A et al. |
-| 2026-11-26 | [World AIDS Day 2026: ending preventable deaths from advanced HIV disease](https://doi.org/10.1016/s0140-6736(26)02310-x) | Zumla A et al. |
 | 2026-11-26 | [Oral therapies for psoriasis](https://doi.org/10.1016/s0140-6736(26)02298-1) | Langley RG et al. |
+| 2026-11-26 | [World AIDS Day 2026: ending preventable deaths from advanced HIV disease](https://doi.org/10.1016/s0140-6736(26)02310-x) | Zumla A et al. |
 | 2026-11-25 | [Myocardial injury with non-obstructive coronary arteries: diagnostic pathways and stratified treatment](https://doi.org/10.1016/s0140-6736(26)01640-5) | Montone RA et al. |
 | 2026-11-24 | [Population surveys reveal generational changes in sexual and reproductive health](https://doi.org/10.1016/s0140-6736(26)02340-8) | Carter A et al. |
 | 2026-11-24 | [Sexual wellbeing in Britain: findings from the fourth National Survey of Sexual Attitudes and Lifestyles (Natsal-4)](https://doi.org/10.1016/s0140-6736(26)01713-7) | Mitchell KR et al. |

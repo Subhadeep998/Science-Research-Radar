@@ -7,15 +7,15 @@
 
 | Date | Paper | First author |
 |:--|:--|:--|
-| 2026-11-27 | [EpiState-T for representing epigenetic states across time](https://www.biorxiv.org/content/10.64898/2026.11.12.766055v1) | Choi, J. S. et al. |
-| 2026-11-27 | [Genome-wide Cell-free DNA Fragmentation Profiling at Transcription Start Sites Detects Cancer Without Cancer-Type-Specific Region Selection](https://www.biorxiv.org/content/10.64898/2026.06.22.733692v2) | Pronk, B. et al. |
-| 2026-11-27 | [Nanoscale spatial-omics via contrastive embedding of single-molecule localisation data](https://www.biorxiv.org/content/10.1101/2025.10.07.679170v2) | Shirgill, S. et al. |
-| 2026-11-27 | [Structural Landscape of MHC Complexes through Fold Mining](https://www.biorxiv.org/content/10.64898/2026.11.23.768646v1) | de Lima, G. S. et al. |
-| 2026-11-27 | [ProteoBridge Connects Proteomics Quantification Outputs to Reusable Analysis Workflows](https://www.biorxiv.org/content/10.64898/2026.11.23.768141v1) | Wolski, W. E. et al. |
-| 2026-11-27 | [Stress-responsive enhancer RNAs couple chromatin reprogramming to post-transcriptional control of senescence](https://www.biorxiv.org/content/10.64898/2026.03.20.713302v2) | Kuklinkova, R. et al. |
-| 2026-11-27 | [A sequence context-unbiased approach to enable precise inference of mutational processes in cancer.](https://www.biorxiv.org/content/10.64898/2026.11.25.769148v1) | Bierth, F. A.-L. et al. |
-| 2026-11-27 | [Genomic insertion sequence populations of an ancient chemosynthetic symbiont](https://www.biorxiv.org/content/10.64898/2026.11.25.769167v1) | Mathieson, O. L. et al. |
-| 2026-11-27 | [GinsengMind: An evidence-grounded AI research agent for integrative molecular research in Panax ginseng](https://www.biorxiv.org/content/10.64898/2026.11.22.768453v1) | Tong, Y. et al. |
-| 2026-11-27 | [Measuring and reducing segmentation-driven cell-type labeling errors in imaging spatial transcriptomics](https://www.biorxiv.org/content/10.64898/2026.11.23.768643v1) | Elgart, V. et al. |
-| 2026-11-27 | [Alpha-Interferons and CD40: complementary pathways revealed by mGEDO in distinct transcripto-methylomic profiles of patients with Sjögren's disease](https://www.biorxiv.org/content/10.64898/2026.11.25.768874v3) | Bezier, C. et al. |
-| 2026-11-27 | [Continued genomic surveillance of Vibrio cholerae O1 isolates from cholera cases in Europe, 2023-2024](https://www.biorxiv.org/content/10.64898/2026.09.18.752729v2) | Njamkepo, E. et al. |
+| 2026-11-28 | [Publicly Available Genomic Evidence for Nipah and Avian Influenza Viruses in Bangladesh: A Scoping Assessment of Metadata Completeness and Surveillance Representativeness at the Human-Animal Interface](https://www.biorxiv.org/content/10.64898/2026.11.23.768755v2) | Hossen, M. N. et al. |
+| 2026-11-28 | [Efficient 3D Cell Tracking by Integer Programming Guided by Self-Supervised Division Scores](https://www.biorxiv.org/content/10.64898/2026.11.17.767274v1) | Hu, T. et al. |
+| 2026-11-28 | [Distill-Mol: Learning unified molecular representations via cross-modal fusion and hierarchical geometric distillation](https://www.biorxiv.org/content/10.64898/2026.11.17.767226v1) | Liu, Z. et al. |
+| 2026-11-28 | [A Reproducible, Leakage-Aware Machine Learning Pipeline for Antimicrobial Peptide Activity Prediction](https://www.biorxiv.org/content/10.64898/2026.11.26.769488v1) | Oluwafemi, I. A. et al. |
+| 2026-11-28 | [THREAD: a Bayesian nonparametric framework for resolving polygenic risk into multicellular programs](https://www.biorxiv.org/content/10.64898/2026.11.25.769208v1) | Lou, J. et al. |
+| 2026-11-28 | [High connectivity of an iconic seabird species may buffer genetic consequences of population declines](https://www.biorxiv.org/content/10.64898/2026.11.26.769595v1) | Ockert, L. E. et al. |
+| 2026-11-28 | [A Mediator subunit regulates genome stability via direct and indirect transcriptional targets in Candida albicans](https://www.biorxiv.org/content/10.64898/2026.11.19.767865v1) | Shahina, Z. et al. |
+| 2026-11-28 | [Alternative reproductive morphs and sexes differ in DNA methylation along distinct genomic axes in Poecilia parae](https://www.biorxiv.org/content/10.64898/2026.11.25.769244v1) | Zuluaga-Forero, M. et al. |
+| 2026-11-28 | [Deconvoluting Latent Erythroid-Mitochondrial Transcriptomic Gradients and Technical Sample Structure in Severe Preeclampsia: A Stratified Sensitivity Framework for Public Placental RNA-Seq Datasets](https://www.biorxiv.org/content/10.64898/2026.11.20.768086v1) | Zaman, K. A. et al. |
+| 2026-11-28 | [DASTevolve: Evolving executable protein-design programs with large language models](https://www.biorxiv.org/content/10.64898/2026.11.25.769346v1) | Zhao, Y. et al. |
+| 2026-11-28 | [Identification of HIV-1 infected cells in single-cell multiome datasets using Kraken2](https://www.biorxiv.org/content/10.64898/2026.11.27.767303v1) | Garrido-Sanz, L. et al. |
+| 2026-11-28 | [Recovering Missing Regulations by Multiplex Graph Aggregation of GRN Predictions (Technical Report)](https://www.biorxiv.org/content/10.64898/2026.11.16.767195v1) | Tong, T. P. et al. |
