@@ -1,6 +1,6 @@
 # 🦾 Robotics
 
-> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-27
+> Newest research preprints from **arXiv** · refreshed daily · last update 2026-11-28
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)

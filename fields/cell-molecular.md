@@ -1,6 +1,6 @@
 # 🔬 Cell & Molecular Biology
 
-> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-27
+> Newest research preprints from **bioRxiv** · refreshed daily · last update 2026-11-28
 > Preprints are **not yet peer-reviewed** — treat findings as preliminary.
 
 [← Radar home](../README.md) · [Today's digest](../LATEST.md) · [Peer-reviewed journals](journals.md)
@@ -8,14 +8,14 @@
 | Date | Paper | First author |
 |:--|:--|:--|
 | 2026-11-27 | [Emergent particle collection by cyanobacteria through gliding motility and filament buckling](https://www.biorxiv.org/content/10.64898/2026.04.28.721293v4) | Poon, R. et al. |
-| 2026-11-26 | [Direction of ESCRT-III-dependent membrane bending emerges from bilayer asymmetry](https://www.biorxiv.org/content/10.64898/2026.07.23.740341v2) | Tran, J. et al. |
-| 2026-11-26 | [Dynamic gene-body chromatin accessibility is associated with a stage-dependent transcriptional upregulation during germination of fission yeast spores](https://www.biorxiv.org/content/10.64898/2026.11.24.769058v1) | Shogaki, Y. et al. |
-| 2026-11-26 | [Do single-cell foundation models need 512 dimensions for one number?](https://www.biorxiv.org/content/10.64898/2026.11.24.768376v1) | Zhang, L. et al. |
-| 2026-11-26 | [Phase-separated FRM proteins create signaling subdomains in inter-organelle junctions](https://www.biorxiv.org/content/10.64898/2026.11.24.769035v1) | Deng, H. et al. |
-| 2026-11-26 | [A dynamic proteomic HECT E3 ligase screen reveals substrate exclusivity and redundancies.](https://www.biorxiv.org/content/10.64898/2026.11.24.768805v1) | Parmar, B. S. et al. |
-| 2026-11-26 | [Evaluation of the Biological Effects and Specificity of the Novel Dihydroceramide Desaturase 1 inhibitor PR280 and its analogues](https://www.biorxiv.org/content/10.64898/2026.11.25.768879v1) | Peperno, D. M. et al. |
-| 2026-11-26 | [Nanoscale architecture of malaria sporozoite formation](https://www.biorxiv.org/content/10.64898/2026.11.24.768957v1) | Du, E. W. et al. |
-| 2026-11-26 | [Synaptojanin 2 is required for neuronal mRNA localization, mitochondrial structure and function, and synaptic metabolism](https://www.biorxiv.org/content/10.64898/2026.11.24.768930v1) | Gibbs, W. et al. |
-| 2026-11-26 | [Protocol for generating 3D mesenchymal stromal cell spheroids using serum-free medium and differentiating them into endothelial-like Cells](https://www.biorxiv.org/content/10.64898/2026.11.18.767559v1) | Li, S. et al. |
-| 2026-11-26 | [Pseudomonas aeruginosa lectins LecA and LecB differentially engage and activate the EphA2 receptor](https://www.biorxiv.org/content/10.64898/2026.11.24.768789v1) | Senin, C. et al. |
-| 2026-11-26 | [IMPRESS: AI-coupled HPC workflows for protein design](https://www.biorxiv.org/content/10.64898/2026.11.13.766417v2) | Khare, S. et al. |
+| 2026-11-27 | [NAD(P)H-FLIM reveals spatial and temporal epithelial metabolic heterogeneity in live intestinal organoids](https://www.biorxiv.org/content/10.64898/2026.11.25.769250v1) | Zhou, H. et al. |
+| 2026-11-27 | [A long-lived human gastric tissue model defines regulators of lineage maturation](https://www.biorxiv.org/content/10.64898/2026.11.25.769210v1) | Akkerman, N. et al. |
+| 2026-11-27 | [High basal autophagic activity in the brain revealed by systemic quantitative analysis using GFP-LC3-RFP mice](https://www.biorxiv.org/content/10.64898/2026.05.20.726446v3) | Kanda, Y. et al. |
+| 2026-11-27 | [RNA structure probing with 4-base-recognizing RNA cutters](https://www.biorxiv.org/content/10.64898/2026.11.27.769052v1) | Takahashi, M. et al. |
+| 2026-11-27 | [Requirement for the Sts1 Adaptor in Proteasome Nuclear Import Elucidated in a DNA Origami NPC Mimic](https://www.biorxiv.org/content/10.64898/2026.11.25.768562v1) | Dhembla, C. et al. |
+| 2026-11-27 | [A novel engineered T7 RNA polymerase produces therapeutic mRNA without inflammatory dsRNA byproducts](https://www.biorxiv.org/content/10.64898/2026.11.25.769297v1) | Leylek, R. et al. |
+| 2026-11-27 | [Physiological Culture Modulates the Cargo and Wound-Healing Potential of MSC Extracellular Vesicles](https://www.biorxiv.org/content/10.64898/2026.11.25.769132v1) | Monola, J. K. et al. |
+| 2026-11-27 | [Cell type specific Rab Munc13-4 coupling defines divergent exosome fusion mechanisms and post-docking fusion pore opening](https://www.biorxiv.org/content/10.64898/2026.11.24.769064v1) | Woo et al. |
+| 2026-11-27 | [Maillard reaction-derived furan aldehydes act as positive allosteric modulators of the calcium-sensing receptor CaSR](https://www.biorxiv.org/content/10.64898/2026.11.25.768246v1) | Koizumi, H. et al. |
+| 2026-11-27 | [Bonds, a neighbourhood field and missing hydrogens: a transferable electron-density model of proteins](https://www.biorxiv.org/content/10.64898/2026.11.26.769548v1) | Shan, Y. et al. |
+| 2026-11-27 | [Brillouin microscopy detects treatment-associated biophysical responses in live triple-negative breast cancer spheroids](https://www.biorxiv.org/content/10.64898/2026.11.26.769573v1) | Khaswal, A. et al. |

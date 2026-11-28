@@ -29,10 +29,11 @@
 | Journal | Paper | Published |
 |:--|:--|:--|
 | **Nature** | [Transcription from megabase-scale heterochromatin generates neural barcodes](https://doi.org/10.1038/s41586-026-11311-y) | 2026-11-25 |
+| **Science** | [Advancing undergraduates' skills for communicating science with the public](https://doi.org/10.1126/science.aee9867) | 2026-11-26 |
 | **Cell** | [A shared interbacterial membrane underlies mycobacterial cording](https://doi.org/10.1016/j.cell.2026.11.002) | 2026-11-24 |
 | **The New England Journal of Medicine** | [From Cold War Politics to Hot Domestic Politics - The Epidemic Intelligence Service at 75](https://doi.org/10.1056/nejmp2606018) | 2026-11-21 |
-| **The Lancet** | [Myocardial injury with non-obstructive coronary arteries: diagnostic pathways and stratified treatment](https://doi.org/10.1016/s0140-6736(26)01640-5) | 2026-11-25 |
-| **Nature Medicine** | [Later-born generations have better memory and lose it more slowly](https://doi.org/10.1038/s41591-026-04758-z) | 2026-11-25 |
+| **The Lancet** | [Treatment selection in mHSPC: lessons from the STOPCAP meta-analysis](https://doi.org/10.1016/s0140-6736(26)01702-2) | 2026-11-26 |
+| **Nature Medicine** | [Performance of intracortical microelectrode arrays in people with implanted brain-computer interfaces over a 20-year period](https://doi.org/10.1038/s41591-026-04530-3) | 2026-11-26 |
 | **Nature Biotechnology** | [Modular mRNA-encoded helper proteins enhance DNA delivery](https://doi.org/10.1038/s41587-026-03351-6) | 2026-11-24 |
 | **PNAS** | [A sweeping twist defect as a topological flagellum that enhances colloid translation](https://doi.org/10.1073/pnas.2618414123) | 2026-11-25 |
 

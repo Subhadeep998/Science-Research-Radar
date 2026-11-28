@@ -1,4 +1,4 @@
-# 🛰️ Research digest — 27 November 2026
+# 🛰️ Research digest — 28 November 2026
 
 > The newest research across every field, in one page. Refreshed every morning (IST).
 
@@ -8,13 +8,16 @@
 
 - **Nature** · [Transcription from megabase-scale heterochromatin generates neural barcodes](https://doi.org/10.1038/s41586-026-11311-y) — _Buckley A et al._
 - **Nature** · [Licensing mechanisms during RNA-guided DNA integration by type I-F3 CAST](https://doi.org/10.1038/s41586-026-11287-9) — _Fatma S et al._
+- **Science** · [Advancing undergraduates' skills for communicating science with the public](https://doi.org/10.1126/science.aee9867) — _Rowland-Schaefer EG et al._
+- **Science** · [An engineered cohesion system reduces errors in aged mammalian eggs](https://doi.org/10.1126/science.aei5852) — _Webster A et al._
 - **Cell** · [A shared interbacterial membrane underlies mycobacterial cording](https://doi.org/10.1016/j.cell.2026.11.002) — _Petersen M et al._
-- **Cell** · [Cardiomyocyte-derived circulating extracellular vesicles enable a non-invasive liquid biopsy of human myocardium](https://doi.org/10.1016/j.cell.2026.10.050) — _Gokulnath P et al._
+- **Cell** · [Fate patterns self-organize through the coupling of structures across cell and supracellular levels of organization](https://doi.org/10.1016/j.cell.2026.11.003) — _Ko CS et al._
 - **The New England Journal of Medicine** · [From Cold War Politics to Hot Domestic Politics - The Epidemic Intelligence Service at 75](https://doi.org/10.1056/nejmp2606018) — _Fairchild AL et al._
 - **The New England Journal of Medicine** · [Declining Fertility Rates - The Role of Assisted Reproductive Technology](https://doi.org/10.1056/nejmp2611049) — _Dahdouh EM et al._
-- **The Lancet** · [Myocardial injury with non-obstructive coronary arteries: diagnostic pathways and stratified treatment](https://doi.org/10.1016/s0140-6736(26)01640-5) — _Montone RA et al._
-- **The Lancet** · [Population surveys reveal generational changes in sexual and reproductive health](https://doi.org/10.1016/s0140-6736(26)02340-8) — _Carter A et al._
-- **Nature Medicine** · [Later-born generations have better memory and lose it more slowly](https://doi.org/10.1038/s41591-026-04758-z) — _—_
+- **The Lancet** · [Treatment selection in mHSPC: lessons from the STOPCAP meta-analysis](https://doi.org/10.1016/s0140-6736(26)01702-2) — _McKenzie J et al._
+- **The Lancet** · [Identifying which patients with metastatic hormone-sensitive prostate cancer benefit most from androgen receptor pathway inhibitors (STOPCAP): a systematic review and meta-analysis of individual participant data](https://doi.org/10.1016/s0140-6736(26)01483-2) — _Fisher DJ et al._
+- **Nature Medicine** · [Performance of intracortical microelectrode arrays in people with implanted brain-computer interfaces over a 20-year period](https://doi.org/10.1038/s41591-026-04530-3) — _Hahn NV et al._
+- **Nature Medicine** · [Integrated wastewater and clinical genomic surveillance for high-resolution tracking of measles virus evolution and transmission](https://doi.org/10.1038/s41591-026-04754-3) — _Gwala S et al._
 - **Nature Biotechnology** · [Modular mRNA-encoded helper proteins enhance DNA delivery](https://doi.org/10.1038/s41587-026-03351-6) — _Patel MN et al._
 - **Nature Biotechnology** · [A unified framework for scalable differential testing for spatial omics](https://doi.org/10.1038/s41587-026-03284-0) — _Mason K et al._
 - **PNAS** · [A sweeping twist defect as a topological flagellum that enhances colloid translation](https://doi.org/10.1073/pnas.2618414123) — _Zhang QX et al._
@@ -106,7 +109,7 @@
 - 2026-11-27 · [EpiState-T for representing epigenetic states across time](https://www.biorxiv.org/content/10.64898/2026.11.12.766055v1)
 - 2026-11-27 · [Genome-wide Cell-free DNA Fragmentation Profiling at Transcription Start Sites Detects Cancer Without Cancer-Type-Specific Region Selection](https://www.biorxiv.org/content/10.64898/2026.06.22.733692v2)
 - 2026-11-27 · [Nanoscale spatial-omics via contrastive embedding of single-molecule localisation data](https://www.biorxiv.org/content/10.1101/2025.10.07.679170v2)
-- 2026-11-26 · [Contrasting microhaplotype diversity responses of saproxylic beetles to forest management](https://www.biorxiv.org/content/10.64898/2026.11.25.769104v1)
+- 2026-11-27 · [Structural Landscape of MHC Complexes through Fold Mining](https://www.biorxiv.org/content/10.64898/2026.11.23.768646v1)
 
 [More Genomics & Genetics →](fields/genomics.md)
 
@@ -122,9 +125,9 @@
 ## 🔬 Cell & Molecular Biology
 
 - 2026-11-27 · [Emergent particle collection by cyanobacteria through gliding motility and filament buckling](https://www.biorxiv.org/content/10.64898/2026.04.28.721293v4)
-- 2026-11-26 · [Direction of ESCRT-III-dependent membrane bending emerges from bilayer asymmetry](https://www.biorxiv.org/content/10.64898/2026.07.23.740341v2)
-- 2026-11-26 · [Dynamic gene-body chromatin accessibility is associated with a stage-dependent transcriptional upregulation during germination of fission yeast spores](https://www.biorxiv.org/content/10.64898/2026.11.24.769058v1)
-- 2026-11-26 · [Do single-cell foundation models need 512 dimensions for one number?](https://www.biorxiv.org/content/10.64898/2026.11.24.768376v1)
+- 2026-11-27 · [NAD(P)H-FLIM reveals spatial and temporal epithelial metabolic heterogeneity in live intestinal organoids](https://www.biorxiv.org/content/10.64898/2026.11.25.769250v1)
+- 2026-11-27 · [A long-lived human gastric tissue model defines regulators of lineage maturation](https://www.biorxiv.org/content/10.64898/2026.11.25.769210v1)
+- 2026-11-27 · [High basal autophagic activity in the brain revealed by systemic quantitative analysis using GFP-LC3-RFP mice](https://www.biorxiv.org/content/10.64898/2026.05.20.726446v3)
 
 [More Cell & Molecular Biology →](fields/cell-molecular.md)
 
@@ -132,26 +135,26 @@
 
 - 2026-11-27 · [Fecal virome-enriched fractions are associated with increased biofilm biomass and distinct bacterial responses in biofilm and planktonic communities in an in vitro colon model](https://www.biorxiv.org/content/10.64898/2026.09.20.747267v3)
 - 2026-11-27 · [Giant bacteria in gut microbiomes](https://www.biorxiv.org/content/10.64898/2026.09.30.750856v2)
-- 2026-11-26 · [Fibronectin binding and non-canonical transcription factor signature distinguishes lung and bone marrow megakaryocytes](https://www.biorxiv.org/content/10.64898/2026.11.23.767589v1)
-- 2026-11-26 · [Nsg2 deficiency attenuates intestinal inflammation and colitis-associated tumorigenesis through microbiome-dependent metabolic remodeling](https://www.biorxiv.org/content/10.64898/2026.11.23.767945v1)
+- 2026-11-27 · [The IFN-γ Paradox: Mechanistic Modeling Uncouples Cytokine Abundance from Influenza Pathogenesis](https://www.biorxiv.org/content/10.64898/2026.11.23.768736v1)
+- 2026-11-27 · [Modeling natural HIV-1 infection and immunopathogenesis in a lymphoid organ-chip](https://www.biorxiv.org/content/10.64898/2026.11.27.769475v1)
 
 [More Microbiology & Immunology →](fields/microbes-immunity.md)
 
 ## 🎯 Cancer Research
 
-- 2026-11-26 · [Dissecting the Tumor Microenvironment at Single-Cell Resolution to Prioritize Candidate Tumor Antigens Across Multiple Cancer Types](https://www.biorxiv.org/content/10.64898/2026.11.24.768856v1)
-- 2026-11-26 · [The antitumor peptide CIGB-552 is active in B-cell lymphomas and enhances BTK-targeted therapies](https://www.biorxiv.org/content/10.64898/2026.11.25.769102v1)
-- 2026-11-26 · [Combined BRAF and RAS inhibition overcomes acquired resistance in BRAF-mutated colorectal cancer](https://www.biorxiv.org/content/10.64898/2026.11.24.768533v1)
-- 2026-11-26 · [Tumour-Associated Extracellular Vesicles Carry Extrachromosomal DNA and Influence Recipient Cell Phenotypes](https://www.biorxiv.org/content/10.64898/2026.11.24.769016v1)
+- 2026-11-27 · [Large pan-cancer cell screen coupled to (phospho-)proteomics underscores high-dose vitamin C as a potent anti-cancer agent](https://www.biorxiv.org/content/10.1101/2023.12.19.572293v2)
+- 2026-11-27 · [Multimodal profiling resolves the functional and spatial organization of colorectal cancer liver metastases](https://www.biorxiv.org/content/10.64898/2026.11.18.767576v1)
+- 2026-11-27 · [Single-cell transcriptomics reveals conserved embryonic-like cell populations in different human cancers](https://www.biorxiv.org/content/10.64898/2025.12.11.693590v3)
+- 2026-11-27 · [A BMP-to-GREM1 cancer-associated fibroblast switch at the colorectal cancer invasive front, revealed by histology-anchored spatial transcriptomics](https://www.biorxiv.org/content/10.64898/2026.11.25.769142v1)
 
 [More Cancer Research →](fields/cancer.md)
 
 ## 🛠️ Synthetic Biology & Bioengineering
 
 - 2026-11-27 · [A One-Year In Vivo Study of a Braided Pure Molybdenum Stent: Favorable Biocompatibility and the Critical Challenge of Vascular Biomechanics](https://www.biorxiv.org/content/10.64898/2026.11.22.766907v3)
-- 2026-11-26 · [Breed-Specific Characteristics of Beef Are Partly Retained in Cultivated Meat](https://www.biorxiv.org/content/10.1101/2025.07.24.666483v2)
-- 2026-11-26 · [Computational Gait Retraining from a Single Wearable Sensor: Composite Trajectory Feedback and Multiscale Lower-Limb Adaptation](https://www.biorxiv.org/content/10.64898/2026.09.01.748555v2)
-- 2026-11-26 · [Scalable and Synthesizable DNA Library Design via Reinforcement Learning](https://www.biorxiv.org/content/10.64898/2026.07.07.736931v2)
+- 2026-11-27 · [Scalable direct mapping of signal-transduction dynamics using protein-assembly recorders](https://www.biorxiv.org/content/10.64898/2026.11.25.769157v1)
+- 2026-11-27 · [Transient mRNA-LNP Delivery of the Tardigrade Protein Dsup Protects Airway Epithelium from Bleomycin-Induced Injury](https://www.biorxiv.org/content/10.64898/2026.11.25.769277v1)
+- 2026-11-27 · [The allometry of ground reaction forces in Atta vollenweideri leaf-cutter ants.](https://www.biorxiv.org/content/10.64898/2026.11.25.769366v1)
 
 [More Synthetic Biology & Bioengineering →](fields/synbio-bioeng.md)
 
@@ -159,8 +162,8 @@
 
 - 2026-11-27 · [Haplotype-resolved genome assemblies and population resequencing reveal no evidence for genetic sex determination in the dioecious conifer Taxus baccata](https://www.biorxiv.org/content/10.64898/2026.02.27.708407v3)
 - 2026-11-27 · [Heatwaves rescue a mosquito host from parasitism across a large geographic gradient](https://www.biorxiv.org/content/10.64898/2026.06.26.734620v2)
-- 2026-11-26 · [Nutrient and host availability drive the evolution of viral plasticity](https://www.biorxiv.org/content/10.64898/2026.11.24.768896v1)
-- 2026-11-26 · [Belowground Herbivory Shapes Carbon Release from Tree Roots and Its Retention in Soil](https://www.biorxiv.org/content/10.64898/2026.11.25.768934v1)
+- 2026-11-27 · [Spatiotemporally regulated transcriptional networks control the plasticity of chickpea root exodermis](https://www.biorxiv.org/content/10.1101/2025.01.03.631192v3)
+- 2026-11-27 · [Augmenting chlorophyll fluorescence-based analysis of plant photosynthesis with genetically encoded biosensors](https://www.biorxiv.org/content/10.64898/2026.11.24.768924v2)
 
 [More Ecology & Evolution →](fields/ecology-evolution.md)
 
@@ -169,7 +172,7 @@
 - 2026-11-27 · [Incidence and outcome of intracerebral hemorrhage in a prospective cohort and healthcare data.](https://www.medrxiv.org/content/10.64898/2026.11.24.26368917v1)
 - 2026-11-27 · [Final Days with Advanced Heart Failure: Facility Variation in Home Time and Hospice Enrollment](https://www.medrxiv.org/content/10.64898/2026.11.24.26368915v1)
 - 2026-11-27 · [PBMC transcriptional and plasma chemokine profiles show differential associations with the presence and burden of coronary artery calcification](https://www.medrxiv.org/content/10.64898/2026.11.24.26368918v1)
-- 2026-11-26 · [Circulating protein profiling identifies prognostic biomarkers in amyotrophic lateral Sclerosis](https://www.medrxiv.org/content/10.64898/2026.07.20.26354798v4)
+- 2026-11-27 · [Comparing 5-year survival between surgeons within pathological stage after gastric cancer resection: a single-center cohort study (the SAH framework)](https://www.medrxiv.org/content/10.64898/2026.06.02.26354716v3)
 
 [More Medicine & Public Health →](fields/medicine.md)
 
